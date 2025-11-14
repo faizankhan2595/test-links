@@ -1,1029 +1,1267 @@
 {
   "batch_number": 1,
   "file_number": 1,
-  "record_count": 12,
-  "processing_info": {
-    "total_hadiths_in_source": 15,
-    "processed_hadiths": 12,
-    "skipped_entries": 3,
-    "processing_notes": [
-      "Narrators include complete information from source data",
-      "Narrator IDs are preserved from enriched file",
-      "Chain integrity assessed using rigorous criteria",
-      "Topics classified based on content analysis",
-      "All narrator biographical data included in both Arabic and English"
-    ]
-  },
+  "total_hadiths": 15,
   "hadiths": [
     {
-      "english_translation": "Narrated by Ibn Abbas: The Prophet ﷺ said: \"The intention of a believer is better than his deeds.\"",
+      "hadith_id": 1,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1",
+      "arabic_text": "بَابٌ فِي النِّيَّةِ",
+      "english_translation": "Chapter on Intention",
+      "chains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "is_chapter_heading": true
+    },
+    {
+      "hadith_id": 2,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2",
+      "arabic_text": "حَدَّثَنِي أَبُو عُبَيْدَةَ مُسْلِمُ بْنُ أَبِي كَرِيمَةَ التَّمِيمِيُّ ، عَنْ جَابِرِ بْنِ زَيْدٍ الأَزْدِيِّ ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" نِيَّةُ الْمُؤْمِنِ خَيْرٌ مِنْ عَمَلِهِ \"",
+      "english_translation": "Narrated by Ibn Abbas: The Prophet ﷺ said: 'The intention of the believer is better than his action.'",
       "chains": [
         {
           "type": "marfu'",
           "narrators": [
             {
-              "name": "Abdullah ibn Abbas",
-              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib",
+              "name": "عبد الله بن عباس",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
               "grade": "Companion",
               "generation": "Companion",
-              "transmissionTerm": "قَالَ",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of",
               "reliabilityIssues": [],
-              "notes": "Cousin of the Prophet, 'Hibr al-Umma' (Scholar of the Nation)",
               "narrator_id": 4883,
+              "alternative_names": "",
               "original_id": "4062",
-              "primary_name": "عاصم بن رجاء بن حيوة",
-              "alternative_names": "عاصم بن رجاء الكندي\tعاصم بن رجاء الفلسطيني",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 3
+              "kunya": "أبو العباس",
+              "nisba": "القرشي الهاشمي",
+              "nisba_ar": "القرشي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Companion",
+              "tabaqat": "1",
+              "location": "Makkah/Madinah/Ta'if"
             },
             {
-              "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd al-Azdi al-Basri",
+              "name": "جابر بن زيد",
+              "full_name": "Jabir ibn Zayd ibn al-Azd al-Azdi al-Basri",
               "grade": "Thiqah",
-              "generation": "Second Generation (Tabi'in)",
-              "transmissionTerm": "قَالَ",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of",
               "reliabilityIssues": [],
-              "notes": "Major Tabi'i scholar, student of Ibn Abbas and Aisha",
               "narrator_id": 2063,
+              "alternative_names": "أبو الشعثاء",
               "original_id": "1168",
-              "primary_name": "جراح بن الضحاك بن قيس",
-              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
+              "kunya": "أبو الشعثاء",
+              "nisba": "الأزدي البصري",
+              "nisba_ar": "الأزدي",
+              "death_year": "93",
               "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 2
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Basra"
             },
             {
-              "name": "Abu Ubayda Muslim ibn Abi Karima",
-              "full_name": "Abu Ubayda Muslim ibn Abi Karima al-Tamimi",
-              "grade": "Saduq",
-              "generation": "Fourth Generation",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Student of Jabir ibn Zayd, known narrator from Ibadi tradition",
+              "name": "مسلم بن أبي كريمة",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karimah al-Tamimi",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "transmissionTermMeaning": "He narrated to me",
+              "reliabilityIssues": [
+                "majhul - unknown narrator with insufficient documentation"
+              ],
               "narrator_id": 31544,
+              "alternative_names": "أبو عبيدة التميمي",
               "original_id": "48826",
-              "primary_name": "محمد بن يوسف بن حكام",
-              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
-              "kunya": "",
-              "nisba": "التمار",
+              "kunya": "أبو عبيدة",
+              "nisba": "التميمي",
+              "nisba_ar": "التميمي",
               "death_year": null,
               "birth_year": null,
-              "reliability_grade": "",
+              "reliability_grade": "Unknown",
               "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 1
+              "location": null
             }
           ],
           "chainIssues": [
-            "Majority of transmission terms are ambiguous"
+            "Use of ambiguous transmission term 'عَنْ' between Ibn Abbas and Jabir ibn Zayd, though Jabir is known to have heard directly from Ibn Abbas",
+            "Use of ambiguous transmission term 'عَنْ' between Jabir ibn Zayd and the unknown narrator Muslim ibn Abi Karimah",
+            "Presence of an unknown narrator (Muslim ibn Abi Karimah) who lacks sufficient documentation in classical hadith literature"
           ]
         }
       ],
-      "plainChains": [
-        "Abdullah ibn Abbas → Jabir ibn Zayd → Abu Ubayda Muslim ibn Abi Karima → Prophet Muhammad ﷺ"
-      ],
       "potential_issues": [
-        "Majority of transmission terms are ambiguous"
-      ],
-      "IISGrade": "Weak But Might Be Acceptable",
-      "Topics": [
-        "Intention and Sincerity",
-        "Actions and Deeds"
-      ],
-      "arabicText": "حَدَّثَنِي أَبُو عُبَيْدَةَ مُسْلِمُ بْنُ أَبِي كَرِيمَةَ التَّمِيمِيُّ ، عَنْ جَابِرِ بْنِ زَيْدٍ الأَزْدِيِّ , عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" نِيَّةُ الْمُؤْمِنِ خَيْرٌ مِنْ عَمَلِهِ \" * 2",
-      "collection": "كتاب رقم 1",
-      "collection_english": "Book Number 1",
-      "author_arabic": "مؤلف غير معروف",
-      "author_english": "Unknown Author",
-      "reference_number": 2,
-      "grade": "Da'if"
-    },
-    {
-      "english_translation": "Narrated by Ibn Abbas: The Prophet ﷺ said: \"Actions are only by intentions, and every person will have what they intended.\"",
-      "chains": [
         {
-          "type": "marfu'",
-          "narrators": [],
-          "chainIssues": [
-            "No narrators in chain"
-          ]
+          "issue": "Unknown narrator Muslim ibn Abi Karimah al-Tamimi appears in the chain with insufficient biographical information in classical sources",
+          "impact": "Significantly weakens the chain authenticity as the narrator's reliability cannot be verified"
+        },
+        {
+          "issue": "The use of 'عَنْ' (ambiguous transmission term) appears twice in the chain, which could indicate potential disconnection or tadlis",
+          "impact": "While Jabir ibn Zayd is known to have met Ibn Abbas directly, the ambiguous terms still introduce some uncertainty about the directness of transmission"
+        },
+        {
+          "issue": "This particular wording 'The intention of the believer is better than his action' is not well-attested in major hadith collections and differs from the famous authentic hadith about intentions",
+          "impact": "The unfamiliarity of this specific wording in established collections raises questions about its authenticity"
         }
-      ],
-      "plainChains": [],
-      "potential_issues": [
-        "No narrators in chain"
       ],
       "IISGrade": "Problematic",
       "Topics": [
-        "Intention and Sincerity",
-        "Actions and Deeds"
-      ],
-      "arabicText": "وَبِهَذَا السَّنَدِ فِي رِوَايَةٍ أُخْرَى عَنْهُ عَلَيْهِ السَّلامُ ، قَالَ : \" إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ وَلِكُلِّ امْرِئٍ مَا نَوَى \" *",
-      "collection": "كتاب رقم 1",
-      "collection_english": "Book Number 1",
-      "author_arabic": "مؤلف غير معروف",
-      "author_english": "Unknown Author",
-      "reference_number": 3,
-      "grade": "Very Weak"
+        "Virtue of Intention",
+        "Relationship between Intention and Action"
+      ]
     },
     {
-      "english_translation": "Narrated by Aisha: Al-Harith ibn Hisham asked the Messenger of Allah ﷺ: \"How does revelation come to you, O Messenger of Allah? He said: 'Sometimes it comes to me like the ringing of a bell, and that is the hardest on me, then it departs from me and I have retained what was said. And sometimes the angel appears to me as a man and speaks to me, and I retain what he says.' Aisha said: 'I saw revelation descending upon him on an extremely cold day, and when it departed from him, his forehead was dripping with perspiration.'\"",
+      "hadith_id": 3,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "3",
+      "arabic_text": "وَبِهَذَا السَّنَدِ فِي رِوَايَةٍ أُخْرَى عَنْهُ عَلَيْهِ السَّلامُ ، قَالَ : \" إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ وَلِكُلِّ امْرِئٍ مَا نَوَى \"",
+      "english_translation": "Narrated by Ibn Abbas: And with this same chain, in another narration from him (the Prophet ﷺ), he said: 'Verily, actions are but by intentions, and for every person is what he intended.'",
       "chains": [
         {
           "type": "marfu'",
           "narrators": [
             {
-              "name": "Aisha",
+              "name": "عبد الله بن عباس",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "",
+              "original_id": "4062",
+              "kunya": "أبو العباس",
+              "nisba": "القرشي الهاشمي",
+              "nisba_ar": "القرشي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Companion",
+              "tabaqat": "1",
+              "location": "Makkah/Madinah/Ta'if"
+            },
+            {
+              "name": "جابر بن زيد",
+              "full_name": "Jabir ibn Zayd ibn al-Azd al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "أبو الشعثاء",
+              "original_id": "1168",
+              "kunya": "أبو الشعثاء",
+              "nisba": "الأزدي البصري",
+              "nisba_ar": "الأزدي",
+              "death_year": "93",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Basra"
+            },
+            {
+              "name": "مسلم بن أبي كريمة",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karimah al-Tamimi",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "transmissionTermMeaning": "He narrated to me (implied from previous hadith's chain)",
+              "reliabilityIssues": [
+                "majhul - unknown narrator with insufficient documentation"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "أبو عبيدة التميمي",
+              "original_id": "48826",
+              "kunya": "أبو عبيدة",
+              "nisba": "التميمي",
+              "nisba_ar": "التميمي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Unknown",
+              "tabaqat": null,
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Same chain as hadith 2 - uses ambiguous transmission term 'عَنْ' between Ibn Abbas and Jabir ibn Zayd",
+            "Same chain as hadith 2 - uses ambiguous transmission term 'عَنْ' between Jabir ibn Zayd and the unknown narrator",
+            "Same chain as hadith 2 - contains unknown narrator Muslim ibn Abi Karimah"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Same chain issues as hadith 2 - contains unknown narrator Muslim ibn Abi Karimah al-Tamimi",
+          "impact": "Significantly weakens the chain authenticity"
+        },
+        {
+          "issue": "Ambiguous transmission terms ('عَنْ') appear in the chain",
+          "impact": "Introduces uncertainty about directness of transmission"
+        },
+        {
+          "issue": "The famous hadith 'Actions are by intentions' is more authentically narrated through Umar ibn al-Khattab via the chain through Yahya ibn Sa'id al-Ansari in Sahih Bukhari and Muslim. This narration through Ibn Abbas with an unknown narrator raises concerns",
+          "impact": "This alternative chain through Ibn Abbas with a majhul narrator cannot be considered reliable when the authentic chain through Umar is well-established"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Foundation of Actions and Intentions",
+        "Principle that Intentions Determine the Value of Actions"
+      ]
+    },
+    {
+      "hadith_id": 4,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "4",
+      "arabic_text": "بَابٌ فِي ابْتِدَاءِ الْوَحْيِ",
+      "english_translation": "Chapter on the Beginning of Revelation",
+      "chains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "is_chapter_heading": true
+    },
+    {
+      "hadith_id": 5,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "5",
+      "arabic_text": "حَدَّثَنِي أَبُو عُبَيْدَةَ ، عَنْ جَابِرِ بْنِ زَيْدٍ ، عَنْ عَائِشَةَ ، أُمِّ الْمُؤْمِنِينَ ، رَضِيَ اللَّهُ عَنْهَا ، أَنَّهَا قَالَتْ : سَأَلَ الْحَارِثُ بْنُ هِشَامٍ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : كَيْفَ يَأْتِيكَ الْوَحْيُ يَا رَسُولَ اللَّهِ ؟ ، قَالَ : \" أَحْيَانًا يَأْتِينِي مِثْلَ صَلْصَلَةِ الْجَرَسِ وَهُوَ أَشَدُّهُ عَلَيَّ فَيَفْصِمُ عَنِّي وَقَدْ وَعَيْتُ مَا قَالَ ، وَأَحْيَانًا يَتَمَثَّلُ لِيَ الْمَلَكُ رَجُلا فَيُكَلِّمُنِي فَأَعِي مَا يَقُولُ \" ، قَالَتْ عَائِشَةُ ، رَضِيَ اللَّهُ عَنْهَا ، وَلَقَدْ رَأَيْتُهُ يَنْزِلُ عَلَيْهِ الْوَحْيُ فِي الْيَوْمِ الشَّدِيدِ الْبَرْدِ وَيَفْصِمُ عَنْهُ وَإِنَّ جَبِينَهُ لَيَتَفَصَّدُ عَرَقًا ، قَالَ الرَّبِيعُ : فَيَفْصِمُ عَنْهُ أَيْ : فَيَنْجَلِي",
+      "english_translation": "Narrated by Aisha, Mother of the Believers: Al-Harith ibn Hisham asked the Messenger of Allah ﷺ: 'How does the revelation come to you, O Messenger of Allah?' He said: 'Sometimes it comes to me like the ringing of a bell, and that is the hardest upon me, then it departs from me and I have understood what was said. And sometimes the angel appears to me as a man and speaks to me, and I understand what he says.' Aisha said: 'I saw him when the revelation was descending upon him on an extremely cold day, and when it departed from him, his forehead was dripping with sweat.' Al-Rabi' said: 'It departs from him' means 'it becomes clear.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عائشة",
               "full_name": "Aisha bint Abi Bakr al-Siddiq",
               "grade": "Companion",
               "generation": "Companion",
-              "transmissionTerm": "قَالَ",
+              "transmissionTerm": "أَنَّهَا قَالَتْ",
+              "transmissionTermMeaning": "That she said",
               "reliabilityIssues": [],
-              "notes": "Wife of the Prophet, Mother of the Believers",
               "narrator_id": 4049,
+              "alternative_names": "أم المؤمنين",
               "original_id": "3209",
-              "primary_name": "سبرة بن معبد بن عوسجة بن حرملة بن سبرة بن خديج",
-              "alternative_names": "سبرة بن معبد الجهني\tسبرة بن عوسجة\tأبو ثرية ، أبو ثلجة ، أبو الربيع",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 3
+              "kunya": "أم عبد الله",
+              "nisba": "القرشية التيمية",
+              "nisba_ar": "القرشية",
+              "death_year": "58",
+              "birth_year": "9 BH",
+              "reliability_grade": "Companion",
+              "tabaqat": "1",
+              "location": "Madinah"
             },
             {
-              "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd al-Azdi al-Basri",
+              "name": "جابر بن زيد",
+              "full_name": "Jabir ibn Zayd ibn al-Azd al-Azdi al-Basri",
               "grade": "Thiqah",
-              "generation": "Second Generation (Tabi'in)",
-              "transmissionTerm": "قَالَ",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of",
               "reliabilityIssues": [],
-              "notes": "Major Tabi'i scholar, student of Ibn Abbas and Aisha",
               "narrator_id": 2063,
+              "alternative_names": "أبو الشعثاء",
               "original_id": "1168",
-              "primary_name": "جراح بن الضحاك بن قيس",
-              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
+              "kunya": "أبو الشعثاء",
+              "nisba": "الأزدي البصري",
+              "nisba_ar": "الأزدي",
+              "death_year": "93",
               "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 2
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Basra"
             },
             {
-              "name": "Abu Ubayda Muslim ibn Abi Karima",
-              "full_name": "Abu Ubayda Muslim ibn Abi Karima al-Tamimi",
-              "grade": "Saduq",
-              "generation": "Fourth Generation",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Student of Jabir ibn Zayd, known narrator from Ibadi tradition",
-              "narrator_id": 31544,
-              "original_id": "48826",
-              "primary_name": "محمد بن يوسف بن حكام",
-              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
-              "kunya": "",
-              "nisba": "التمار",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 1
-            }
-          ],
-          "chainIssues": [
-            "Majority of transmission terms are ambiguous"
-          ]
-        }
-      ],
-      "plainChains": [
-        "Aisha → Jabir ibn Zayd → Abu Ubayda Muslim ibn Abi Karima → Prophet Muhammad ﷺ"
-      ],
-      "potential_issues": [
-        "Majority of transmission terms are ambiguous"
-      ],
-      "IISGrade": "Weak But Might Be Acceptable",
-      "Topics": [
-        "Beginning of Revelation",
-        "Prophetic Biography",
-        "Description of Revelation"
-      ],
-      "arabicText": "3 حَدَّثَنِي أَبُو عُبَيْدَةَ ، عَنْ جَابِرِ بْنِ زَيْدٍ ، عَنْ عَائِشَةَ ، أُمِّ الْمُؤْمِنِينَ ، رَضِيَ اللَّهُ عَنْهَا ، أَنَّهَا قَالَتْ : سَأَلَ الْحَارِثُ بْنُ هِشَامٍ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : كَيْفَ يَأْتِيكَ الْوَحْيُ يَا رَسُولَ اللَّهِ ؟ ، قَالَ : \" أَحْيَانًا يَأْتِينِي مِثْلَ صَلْصَلَةِ الْجَرَسِ وَهُوَ أَشَدُّهُ عَلَيَّ فَيَفْصِمُ عَنِّي وَقَدْ وَعَيْتُ مَا قَالَ ، وَأَحْيَانًا يَتَمَثَّلُ لِيَ الْمَلَكُ رَجُلا فَيُكَلِّمُنِي فَأَعِي مَا يَقُولُ \" ، قَالَتْ عَائِشَةُ ، رَضِيَ اللَّهُ عَنْهَا ، وَلَقَدْ رَأَيْتُهُ يَنْزِلُ عَلَيْهِ الْوَحْيُ فِي الْيَوْمِ الشَّدِيدِ الْبَرْدِ وَيَفْصِمُ عَنْهُ وَإِنَّ جَبِينَهُ لَيَتَفَصَّدُ عَرَقًا ، قَالَ الرَّبِيعُ : فَيَفْصِمُ عَنْهُ أَيْ : فَيَنْجَلِي *",
-      "collection": "كتاب رقم 1",
-      "collection_english": "Book Number 1",
-      "author_arabic": "مؤلف غير معروف",
-      "author_english": "Unknown Author",
-      "reference_number": 5,
-      "grade": "Da'if"
-    },
-    {
-      "english_translation": "It reached Jabir ibn Zayd that the Prophet ﷺ said: \"Teach your children the Quran, for it is the first thing that should be learned from the knowledge of Allah.\"",
-      "chains": [
-        {
-          "type": "marfu'",
-          "narrators": [
-            {
-              "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd al-Azdi al-Basri",
-              "grade": "Thiqah",
-              "generation": "Second Generation (Tabi'in)",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Major Tabi'i scholar, student of Ibn Abbas and Aisha",
-              "narrator_id": 2063,
-              "original_id": "1168",
-              "primary_name": "جراح بن الضحاك بن قيس",
-              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 2
-            },
-            {
-              "name": "Abu Ubayda Muslim ibn Abi Karima",
-              "full_name": "Abu Ubayda Muslim ibn Abi Karima al-Tamimi",
-              "grade": "Saduq",
-              "generation": "Fourth Generation",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Student of Jabir ibn Zayd, known narrator from Ibadi tradition",
-              "narrator_id": 31544,
-              "original_id": "48826",
-              "primary_name": "محمد بن يوسف بن حكام",
-              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
-              "kunya": "",
-              "nisba": "التمار",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 1
-            }
-          ],
-          "chainIssues": [
-            "Mursal (disconnected) - Jabir ibn Zayd says 'it reached me' without specifying the source",
-            "Majority of transmission terms are ambiguous"
-          ]
-        }
-      ],
-      "plainChains": [
-        "Jabir ibn Zayd → Abu Ubayda Muslim ibn Abi Karima → Prophet Muhammad ﷺ"
-      ],
-      "potential_issues": [
-        "Mursal (disconnected) - Jabir ibn Zayd says 'it reached me' without specifying the source",
-        "Majority of transmission terms are ambiguous"
-      ],
-      "IISGrade": "Weak But Might Be Acceptable",
-      "Topics": [
-        "Teaching Quran",
-        "Education",
-        "Raising Children"
-      ],
-      "arabicText": "حَدَّثَنِي أَبُو عُبَيْدَةَ ، عَنْ جَابِرِ بْنِ زَيْدٍ ، قَالَ : بَلَغَنِي عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهُ قَالَ : \" عَلِّمُوا أَوْلادَكُمُ الْقُرْآنَ فَإِنَّهُ أَوَّلُ مَا يَنْبَغِي أَنْ يُتَعَلَّمَ مِنْ عِلْمِ اللَّهِ هُوَ \" * 5",
-      "collection": "كتاب رقم 1",
-      "collection_english": "Book Number 1",
-      "author_arabic": "مؤلف غير معروف",
-      "author_english": "Unknown Author",
-      "reference_number": 7,
-      "grade": "Da'if"
-    },
-    {
-      "english_translation": "Narrated by Abu Hurayrah: The Prophet ﷺ said: \"When you recite the Quran, recite it with tarteel (measured recitation), and beautify it with your voices, for Allah loves that the angels hear His remembrance.\"",
-      "chains": [
-        {
-          "type": "marfu'",
-          "narrators": [
-            {
-              "name": "Abu Hurayrah",
-              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
-              "grade": "Companion",
-              "generation": "Companion",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Most prolific narrator of hadith among Companions",
-              "narrator_id": 4396,
-              "original_id": "3565",
-              "primary_name": "سليمان بن أرقم",
-              "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 3
-            },
-            {
-              "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd al-Azdi al-Basri",
-              "grade": "Thiqah",
-              "generation": "Second Generation (Tabi'in)",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Major Tabi'i scholar, student of Ibn Abbas and Aisha",
-              "narrator_id": 2063,
-              "original_id": "1168",
-              "primary_name": "جراح بن الضحاك بن قيس",
-              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 2
-            },
-            {
-              "name": "Abu Ubayda Muslim ibn Abi Karima",
-              "full_name": "Abu Ubayda Muslim ibn Abi Karima al-Tamimi",
-              "grade": "Saduq",
-              "generation": "Fourth Generation",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Student of Jabir ibn Zayd, known narrator from Ibadi tradition",
-              "narrator_id": 31544,
-              "original_id": "48826",
-              "primary_name": "محمد بن يوسف بن حكام",
-              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
-              "kunya": "",
-              "nisba": "التمار",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 1
-            }
-          ],
-          "chainIssues": [
-            "Majority of transmission terms are ambiguous"
-          ]
-        }
-      ],
-      "plainChains": [
-        "Abu Hurayrah → Jabir ibn Zayd → Abu Ubayda Muslim ibn Abi Karima → Prophet Muhammad ﷺ"
-      ],
-      "potential_issues": [
-        "Majority of transmission terms are ambiguous"
-      ],
-      "IISGrade": "Weak But Might Be Acceptable",
-      "Topics": [
-        "Quran Recitation",
-        "Etiquette of Recitation"
-      ],
-      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي هُرَيْرَةَ ، عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" إِذَا قَرَأْتَ الْقُرْآنَ فَرَتِّلْهُ تَرْتِيلا ، وَتَغَنَّوْا بِهِ , فَإِنَّ اللَّهَ يُحِبُّ أَنْ تَسْمَعَ الْمَلائِكَةُ لِذِكْرِهِ \" * 6",
-      "collection": "كتاب رقم 1",
-      "collection_english": "Book Number 1",
-      "author_arabic": "مؤلف غير معروف",
-      "author_english": "Unknown Author",
-      "reference_number": 8,
-      "grade": "Da'if"
-    },
-    {
-      "english_translation": "Narrated by Abu Sa'id al-Khudri: The Prophet ﷺ said: \"The likeness of the companion of the Quran is like the companion of hobbled camels - if he tends to them, he retains them, but if he releases them, they go away.\"",
-      "chains": [
-        {
-          "type": "marfu'",
-          "narrators": [
-            {
-              "name": "Abu Sa'id al-Khudri",
-              "full_name": "Sa'd ibn Malik al-Khudri",
-              "grade": "Companion",
-              "generation": "Companion",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Major Companion narrator",
-              "narrator_id": 3260,
-              "original_id": "2398",
-              "primary_name": "حصين بن عقبة",
-              "alternative_names": "الحصين بن عقبة الفزاري\tحصين بن عقبة الكوفي",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 3
-            },
-            {
-              "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd al-Azdi al-Basri",
-              "grade": "Thiqah",
-              "generation": "Second Generation (Tabi'in)",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Major Tabi'i scholar, student of Ibn Abbas and Aisha",
-              "narrator_id": 2063,
-              "original_id": "1168",
-              "primary_name": "جراح بن الضحاك بن قيس",
-              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 2
-            },
-            {
-              "name": "Abu Ubayda Muslim ibn Abi Karima",
-              "full_name": "Abu Ubayda Muslim ibn Abi Karima al-Tamimi",
-              "grade": "Saduq",
-              "generation": "Fourth Generation",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Student of Jabir ibn Zayd, known narrator from Ibadi tradition",
-              "narrator_id": 31544,
-              "original_id": "48826",
-              "primary_name": "محمد بن يوسف بن حكام",
-              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
-              "kunya": "",
-              "nisba": "التمار",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 1
-            }
-          ],
-          "chainIssues": [
-            "Majority of transmission terms are ambiguous"
-          ]
-        }
-      ],
-      "plainChains": [
-        "Abu Sa'id al-Khudri → Jabir ibn Zayd → Abu Ubayda Muslim ibn Abi Karima → Prophet Muhammad ﷺ"
-      ],
-      "potential_issues": [
-        "Majority of transmission terms are ambiguous"
-      ],
-      "IISGrade": "Weak But Might Be Acceptable",
-      "Topics": [
-        "Quran Memorization",
-        "Maintaining Quranic Knowledge",
-        "Parables and Similitudes"
-      ],
-      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَثَلُ صَاحِبِ الْقُرْآنِ ، كَمَثَلِ صَاحِبِ الإِبِلِ الْمُعَقَّلَةِ ، إِنْ عَاهَدَ عَلَيْهَا أَمْسَكَهَا ، وَإِنْ أَطْلَقَهَا ذَهَبَتْ \" * 7",
-      "collection": "كتاب رقم 1",
-      "collection_english": "Book Number 1",
-      "author_arabic": "مؤلف غير معروف",
-      "author_english": "Unknown Author",
-      "reference_number": 9,
-      "grade": "Da'if"
-    },
-    {
-      "english_translation": "Narrated by Ibn Abbas: The Prophet ﷺ said: \"Whoever learns the Quran then forgets it will be resurrected on the Day of Judgment as one cut off (maimed).\"",
-      "chains": [
-        {
-          "type": "marfu'",
-          "narrators": [
-            {
-              "name": "Abdullah ibn Abbas",
-              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib",
-              "grade": "Companion",
-              "generation": "Companion",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Cousin of the Prophet, 'Hibr al-Umma' (Scholar of the Nation)",
-              "narrator_id": 4883,
-              "original_id": "4062",
-              "primary_name": "عاصم بن رجاء بن حيوة",
-              "alternative_names": "عاصم بن رجاء الكندي\tعاصم بن رجاء الفلسطيني",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 3
-            },
-            {
-              "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd al-Azdi al-Basri",
-              "grade": "Thiqah",
-              "generation": "Second Generation (Tabi'in)",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Major Tabi'i scholar, student of Ibn Abbas and Aisha",
-              "narrator_id": 2063,
-              "original_id": "1168",
-              "primary_name": "جراح بن الضحاك بن قيس",
-              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 2
-            },
-            {
-              "name": "Abu Ubayda Muslim ibn Abi Karima",
-              "full_name": "Abu Ubayda Muslim ibn Abi Karima al-Tamimi",
-              "grade": "Saduq",
-              "generation": "Fourth Generation",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Student of Jabir ibn Zayd, known narrator from Ibadi tradition",
-              "narrator_id": 31544,
-              "original_id": "48826",
-              "primary_name": "محمد بن يوسف بن حكام",
-              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
-              "kunya": "",
-              "nisba": "التمار",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 1
-            }
-          ],
-          "chainIssues": [
-            "Majority of transmission terms are ambiguous"
-          ]
-        }
-      ],
-      "plainChains": [
-        "Abdullah ibn Abbas → Jabir ibn Zayd → Abu Ubayda Muslim ibn Abi Karima → Prophet Muhammad ﷺ"
-      ],
-      "potential_issues": [
-        "Majority of transmission terms are ambiguous"
-      ],
-      "IISGrade": "Weak But Might Be Acceptable",
-      "Topics": [
-        "Quran Memorization",
-        "Warning Against Neglecting Quran",
-        "Day of Judgment"
-      ],
-      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنِ ابْنِ عَبَّاسٍ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ تَعَلَّمَ الْقُرْآنَ ثُمَّ نَسِيَهُ حُشِرَ يَوْمَ الْقِيَامَةِ أَجْذَمَ \" ، قَالَ الرَّبِيعُ : الأَجْذَمُ : الْمَقْطُوعُ الْيَدِ * 8",
-      "collection": "كتاب رقم 1",
-      "collection_english": "Book Number 1",
-      "author_arabic": "مؤلف غير معروف",
-      "author_english": "Unknown Author",
-      "reference_number": 10,
-      "grade": "Da'if"
-    },
-    {
-      "english_translation": "Narrated by Anas ibn Malik: \"No one gathered the Quran during the time of the Messenger of Allah except six people, all of them from the Ansar: Ubayy, Mu'adh, Zayd, Abu Zayd, Abu Ayyub, and Uthman. The rest of the Companions would memorize countable surahs from the Quran, some memorizing one surah and some two surahs.\"",
-      "chains": [
-        {
-          "type": "marfu'",
-          "narrators": [
-            {
-              "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd al-Azdi al-Basri",
-              "grade": "Thiqah",
-              "generation": "Second Generation (Tabi'in)",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Major Tabi'i scholar, student of Ibn Abbas and Aisha",
-              "narrator_id": 2063,
-              "original_id": "1168",
-              "primary_name": "جراح بن الضحاك بن قيس",
-              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 2
-            },
-            {
-              "name": "Abu Ubayda Muslim ibn Abi Karima",
-              "full_name": "Abu Ubayda Muslim ibn Abi Karima al-Tamimi",
-              "grade": "Saduq",
-              "generation": "Fourth Generation",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Student of Jabir ibn Zayd, known narrator from Ibadi tradition",
-              "narrator_id": 31544,
-              "original_id": "48826",
-              "primary_name": "محمد بن يوسف بن حكام",
-              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
-              "kunya": "",
-              "nisba": "التمار",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 1
-            }
-          ],
-          "chainIssues": [
-            "Majority of transmission terms are ambiguous"
-          ]
-        }
-      ],
-      "plainChains": [
-        "Jabir ibn Zayd → Abu Ubayda Muslim ibn Abi Karima → Prophet Muhammad ﷺ"
-      ],
-      "potential_issues": [
-        "Majority of transmission terms are ambiguous"
-      ],
-      "IISGrade": "Weak But Might Be Acceptable",
-      "Topics": [
-        "Quran Compilation",
-        "Companions",
-        "Historical Incident of Quran Preservation"
-      ],
-      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، قَالَ : \" مَا جَمَعَ الْقُرْآنَ عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلا سِتَّةُ نَفَرٍ كُلُّهُمْ مِنَ الأَنْصَارِ : أُبَيٌّ ، وَمُعَاذٌ ، وَزَيْدٌ ، وَأَبُو زَيْدٍ ، وَأَبُو أَيُّوبَ ، وَعُثْمَانُ ، وَالْبَاقِي مِنَ الصَّحَابَةِ ، قَدْ يَحْفَظُ السُّوَرَ الْمَعْدُودَاتِ مِنَ الْقُرْآنِ ، وَمِنْهُمْ مَنْ يَحْفَظُ السُّورَةَ وَالسُّورَتَيْنِ \" * 9",
-      "collection": "كتاب رقم 1",
-      "collection_english": "Book Number 1",
-      "author_arabic": "مؤلف غير معروف",
-      "author_english": "Unknown Author",
-      "reference_number": 11,
-      "grade": "Da'if"
-    },
-    {
-      "english_translation": "Narrated by Abu Sa'id al-Khudri: A man heard another man reciting 'Say: He is Allah, the One. Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent' and repeating it. When morning came, he went to the Messenger of Allah and mentioned that to him, as if the man was belittling it. The Messenger of Allah said: 'By the One in Whose Hand is my soul, it equals a third of the Quran.'",
-      "chains": [
-        {
-          "type": "marfu'",
-          "narrators": [
-            {
-              "name": "Abu Sa'id al-Khudri",
-              "full_name": "Sa'd ibn Malik al-Khudri",
-              "grade": "Companion",
-              "generation": "Companion",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Major Companion narrator",
-              "narrator_id": 3260,
-              "original_id": "2398",
-              "primary_name": "حصين بن عقبة",
-              "alternative_names": "الحصين بن عقبة الفزاري\tحصين بن عقبة الكوفي",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 3
-            },
-            {
-              "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd al-Azdi al-Basri",
-              "grade": "Thiqah",
-              "generation": "Second Generation (Tabi'in)",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Major Tabi'i scholar, student of Ibn Abbas and Aisha",
-              "narrator_id": 2063,
-              "original_id": "1168",
-              "primary_name": "جراح بن الضحاك بن قيس",
-              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 2
-            },
-            {
-              "name": "Abu Ubayda Muslim ibn Abi Karima",
-              "full_name": "Abu Ubayda Muslim ibn Abi Karima al-Tamimi",
-              "grade": "Saduq",
-              "generation": "Fourth Generation",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Student of Jabir ibn Zayd, known narrator from Ibadi tradition",
-              "narrator_id": 31544,
-              "original_id": "48826",
-              "primary_name": "محمد بن يوسف بن حكام",
-              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
-              "kunya": "",
-              "nisba": "التمار",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 1
-            }
-          ],
-          "chainIssues": [
-            "Majority of transmission terms are ambiguous"
-          ]
-        }
-      ],
-      "plainChains": [
-        "Abu Sa'id al-Khudri → Jabir ibn Zayd → Abu Ubayda Muslim ibn Abi Karima → Prophet Muhammad ﷺ"
-      ],
-      "potential_issues": [
-        "Majority of transmission terms are ambiguous"
-      ],
-      "IISGrade": "Weak But Might Be Acceptable",
-      "Topics": [
-        "Virtues of Surah al-Ikhlas",
-        "Quran Recitation",
-        "Historical Incident"
-      ],
-      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ : أَنَّ رَجُلا سَمِعَ رَجُلا يَقْرَأُ : قُلْ هُوَ اللَّهُ أَحَدٌ { 1 } اللَّهُ الصَّمَدُ { 2 } لَمْ يَلِدْ وَلَمْ يُولَدْ { 3 } وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ { 4 } سورة الإخلاص آية 1-4 ، وَيُرَدِّدُهَا ، فَلَمَّا أَصْبَحَ غَدَا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَذَكَرَ ذَلِكَ لَهُ ، فَكَأَنَّ الرَّجُلَ يَتَقَلَّلُهَا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" وَالَّذِي نَفْسِي بِيَدِهِ إِنَّهَا لَتَعْدِلُ ثُلُثَ الْقُرْآنِ \" * 10",
-      "collection": "كتاب رقم 1",
-      "collection_english": "Book Number 1",
-      "author_arabic": "مؤلف غير معروف",
-      "author_english": "Unknown Author",
-      "reference_number": 12,
-      "grade": "Da'if"
-    },
-    {
-      "english_translation": "Narrated by Abdullah ibn Umar: The Prophet ﷺ said: \"None should touch the Quran except one who is pure.\"",
-      "chains": [
-        {
-          "type": "marfu'",
-          "narrators": [
-            {
-              "name": "Abu Hurayrah",
-              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
-              "grade": "Companion",
-              "generation": "Companion",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Most prolific narrator of hadith among Companions",
-              "narrator_id": 4396,
-              "original_id": "3565",
-              "primary_name": "سليمان بن أرقم",
-              "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 3
-            },
-            {
-              "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd al-Azdi al-Basri",
-              "grade": "Thiqah",
-              "generation": "Second Generation (Tabi'in)",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Major Tabi'i scholar, student of Ibn Abbas and Aisha",
-              "narrator_id": 2063,
-              "original_id": "1168",
-              "primary_name": "جراح بن الضحاك بن قيس",
-              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 2
-            },
-            {
-              "name": "Abu Ubayda Muslim ibn Abi Karima",
-              "full_name": "Abu Ubayda Muslim ibn Abi Karima al-Tamimi",
-              "grade": "Saduq",
-              "generation": "Fourth Generation",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Student of Jabir ibn Zayd, known narrator from Ibadi tradition",
-              "narrator_id": 31544,
-              "original_id": "48826",
-              "primary_name": "محمد بن يوسف بن حكام",
-              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
-              "kunya": "",
-              "nisba": "التمار",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 1
-            }
-          ],
-          "chainIssues": [
-            "Majority of transmission terms are ambiguous"
-          ]
-        }
-      ],
-      "plainChains": [
-        "Abu Hurayrah → Jabir ibn Zayd → Abu Ubayda Muslim ibn Abi Karima → Prophet Muhammad ﷺ"
-      ],
-      "potential_issues": [
-        "Majority of transmission terms are ambiguous"
-      ],
-      "IISGrade": "Weak But Might Be Acceptable",
-      "Topics": [
-        "Purity",
-        "Etiquette of Handling Quran",
-        "Ritual Purification"
-      ],
-      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : أَقْبَلْتُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" فَسَمِعَ رَجُلا يَقْرَأُ : قُلْ هُوَ اللَّهُ أَحَدٌ سورة الإخلاص آية 1 ، إِلَى آخِرِهَا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" وَجَبَتْ \" ، فَقُلْتُ : مَاذَا يَا رَسُولَ اللَّهِ ؟ ، فَقَالَ : \" الْجَنَّةُ \" ، قَالَ أَبُو هُرَيْرَةَ : فَأَرَدْتُ أَنْ أَذْهَبَ إِلَى الرَّجُلِ فَأُبَشِّرَهُ ، ثُمَّ خِفْتُ أَنْ يَفُوتَنِي الْغَدَاءُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَآثَرْتُ الْغَدَاءَ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، ثُمَّ ذَهَبْتُ إِلَى الرَّجُلِ فَوَجَدْتُهُ قَدْ ذَهَبَ \" * E3 11",
-      "collection": "كتاب رقم 1",
-      "collection_english": "Book Number 1",
-      "author_arabic": "مؤلف غير معروف",
-      "author_english": "Unknown Author",
-      "reference_number": 13,
-      "grade": "Da'if"
-    },
-    {
-      "english_translation": "Narrated by Umar ibn al-Khattab: The Prophet ﷺ said: \"Allah elevates some people by means of this Book and debases others by it.\"",
-      "chains": [
-        {
-          "type": "marfu'",
-          "narrators": [
-            {
-              "name": "عبد الله بن نافع",
-              "full_name": "عبد الله بن نافع",
-              "grade": "Unknown",
+              "name": "أبو عبيدة",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karimah al-Tamimi",
+              "grade": "Majhul",
               "generation": "Later Narrator",
-              "transmissionTerm": "سَمِعْتُ",
-              "reliabilityIssues": [],
-              "notes": "",
-              "narrator_id": 5913,
-              "original_id": "5121",
-              "primary_name": "عبد الله بن نافع",
-              "alternative_names": "عبد الله بن نافع الهاشمي\tأبو جعفر الكوفي\tأبو جعفر",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 3
-            },
-            {
-              "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd al-Azdi al-Basri",
-              "grade": "Thiqah",
-              "generation": "Second Generation (Tabi'in)",
-              "transmissionTerm": "سَمِعْتُ",
-              "reliabilityIssues": [],
-              "notes": "Major Tabi'i scholar, student of Ibn Abbas and Aisha",
-              "narrator_id": 2063,
-              "original_id": "1168",
-              "primary_name": "جراح بن الضحاك بن قيس",
-              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 2
-            },
-            {
-              "name": "Abu Ubayda Muslim ibn Abi Karima",
-              "full_name": "Abu Ubayda Muslim ibn Abi Karima al-Tamimi",
-              "grade": "Saduq",
-              "generation": "Fourth Generation",
-              "transmissionTerm": "سَمِعْتُ",
-              "reliabilityIssues": [],
-              "notes": "Student of Jabir ibn Zayd, known narrator from Ibadi tradition",
+              "transmissionTerm": "حَدَّثَنِي",
+              "transmissionTermMeaning": "He narrated to me",
+              "reliabilityIssues": [
+                "majhul - unknown narrator with insufficient documentation"
+              ],
               "narrator_id": 31544,
+              "alternative_names": "مسلم بن أبي كريمة التميمي",
               "original_id": "48826",
-              "primary_name": "محمد بن يوسف بن حكام",
-              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
-              "kunya": "",
-              "nisba": "التمار",
+              "kunya": "أبو عبيدة",
+              "nisba": "التميمي",
+              "nisba_ar": "التميمي",
               "death_year": null,
               "birth_year": null,
-              "reliability_grade": "",
+              "reliability_grade": "Unknown",
               "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 1
+              "location": null
             }
           ],
           "chainIssues": [
-            "Contains narrator(s) with unknown status"
+            "Use of ambiguous transmission term 'عَنْ' between Aisha and Jabir ibn Zayd, though Jabir is known to have narrated from Aisha",
+            "Use of ambiguous transmission term 'عَنْ' between Jabir ibn Zayd and the unknown narrator Abu Ubaydah",
+            "Presence of an unknown narrator (Abu Ubaydah Muslim ibn Abi Karimah) who lacks sufficient documentation"
           ]
         }
       ],
-      "plainChains": [
-        "عبد الله بن نافع → Jabir ibn Zayd → Abu Ubayda Muslim ibn Abi Karima → Prophet Muhammad ﷺ"
-      ],
       "potential_issues": [
-        "Contains narrator(s) with unknown status"
+        {
+          "issue": "Unknown narrator Abu Ubaydah Muslim ibn Abi Karimah al-Tamimi appears in the chain with no biographical information in classical sources",
+          "impact": "Significantly weakens the chain authenticity as the narrator's reliability cannot be verified"
+        },
+        {
+          "issue": "Ambiguous transmission terms ('عَنْ') appear twice in the chain",
+          "impact": "Introduces uncertainty about the directness of transmission, though Jabir ibn Zayd is known to have heard from Aisha"
+        },
+        {
+          "issue": "This hadith about how revelation came to the Prophet ﷺ is authentically narrated through other chains (particularly through al-Zuhri from Urwah from Aisha in Sahih Bukhari and Muslim). This alternative chain through Jabir ibn Zayd with an unknown narrator is not well-attested",
+          "impact": "While the content is authentic through other chains, this specific chain cannot be relied upon due to the presence of a majhul narrator"
+        }
       ],
-      "IISGrade": "Questionable But Might Be Acceptable",
+      "IISGrade": "Problematic",
       "Topics": [
-        "Virtues of Quran",
-        "Warning and Promise",
-        "Status and Honor"
-      ],
-      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، قَالَ : بَلَغَنِي ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ ، رَضِيَ اللَّهُ عَنْهُ ، خَرَجَ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي بَعْضِ أَسْفَارِهِ ، فَسَأَلَهُ عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ ، عَنْ شَيْءٍ ، فَلَمْ يُجِبْهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، ثُمَّ سَأَلَهُ ثَلاثًا ، فَلَمْ يُجِبْهُ ، فَقَالَ عُمَرُ عِنْدَ نَفْسِهِ : ثَكِلَتْكَ أُمُّكَ يَا عُمَرُ ، نَزَرْتَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَلاثًا ، وَكُلُّ ذَلِكَ لا يُجِيبُكَ ، قَالَ عُمَرُ : فَحَرَّكْتُ بَعِيرِي حَتَّى تَقَدَّمْتُ أَمَامَ النَّاسِ فَخَشِيتُ أَنْ يَنْزِلَ فِيَّ قُرْآنٌ ، فَمَا مَشَيْتُ إِذْ سَمِعْتُ صَارِخًا يَصْرُخُ فَهَرْوَلْتُ حَتَّى جِئْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ , فَسَلَّمْتُ عَلَيْهِ فَقَالَ : \" لَقَدْ أُنْزِلَتْ عَلَيَّ سُورَةٌ هِيَ أَحَبُّ إِلَيَّ مِمَّا طَلَعَتْ عَلَيْهِ الشَّمْسُ , ثُمَّ قَرَأَ : إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا \" * 12",
-      "collection": "كتاب رقم 1",
-      "collection_english": "Book Number 1",
-      "author_arabic": "مؤلف غير معروف",
-      "author_english": "Unknown Author",
-      "reference_number": 14,
-      "grade": "Da'if"
+        "Description of how Revelation descended upon the Prophet ﷺ",
+        "Incident of al-Harith ibn Hisham asking about Revelation",
+        "Physical effects of Revelation on the Prophet ﷺ"
+      ]
     },
     {
-      "english_translation": "Narrated by Uthman ibn Affan: The Prophet ﷺ said: \"The best of you are those who learn the Quran and teach it.\"",
+      "hadith_id": 6,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "6",
+      "arabic_text": "بَابٌ فِي ذِكْرِ الْقُرْآنِ",
+      "english_translation": "Chapter on the Mention of the Quran",
+      "chains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "is_chapter_heading": true
+    },
+    {
+      "hadith_id": 7,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "7",
+      "arabic_text": "حَدَّثَنِي أَبُو عُبَيْدَةَ ، عَنْ جَابِرِ بْنِ زَيْدٍ ، قَالَ : بَلَغَنِي عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهُ قَالَ : \" عَلِّمُوا أَوْلادَكُمُ الْقُرْآنَ فَإِنَّهُ أَوَّلُ مَا يَنْبَغِي أَنْ يُتَعَلَّمَ مِنْ عِلْمِ اللَّهِ هُوَ \"",
+      "english_translation": "Jabir ibn Zayd said: It reached me from the Messenger of Allah ﷺ that he said: 'Teach your children the Quran, for it is the first thing that should be learned from the knowledge of Allah.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "جابر بن زيد",
+              "full_name": "Jabir ibn Zayd ibn al-Azd al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "بَلَغَنِي",
+              "transmissionTermMeaning": "It reached me (indicating broken chain)",
+              "reliabilityIssues": [
+                "Mursal chain - Jabir does not name his source for this narration from the Prophet ﷺ"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "أبو الشعثاء",
+              "original_id": "1168",
+              "kunya": "أبو الشعثاء",
+              "nisba": "الأزدي البصري",
+              "nisba_ar": "الأزدي",
+              "death_year": "93",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Basra"
+            },
+            {
+              "name": "أبو عبيدة",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karimah al-Tamimi",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "transmissionTermMeaning": "He narrated to me",
+              "reliabilityIssues": [
+                "majhul - unknown narrator with insufficient documentation"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "مسلم بن أبي كريمة التميمي",
+              "original_id": "48826",
+              "kunya": "أبو عبيدة",
+              "nisba": "التميمي",
+              "nisba_ar": "التميمي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Unknown",
+              "tabaqat": null,
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "CRITICAL: Mursal (disconnected) chain - Jabir ibn Zayd uses 'بَلَغَنِي' (it reached me), explicitly indicating he did not hear this directly from a Companion",
+            "The chain is completely broken as Jabir does not name any intermediary between himself and the Prophet ﷺ",
+            "Unknown narrator Abu Ubaydah adds further weakness to an already broken chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "MURSAL CHAIN: Jabir ibn Zayd explicitly states 'بَلَغَنِي' (it reached me), indicating a broken chain where he does not name his source",
+          "impact": "This is a mursal hadith from a Tabi'i (Successor), which is among the weakest categories of hadith. The chain is fundamentally disconnected."
+        },
+        {
+          "issue": "Unknown narrator Abu Ubaydah Muslim ibn Abi Karimah in the chain",
+          "impact": "Even if the mursal issue were overlooked, the presence of an unknown narrator further weakens the chain"
+        },
+        {
+          "issue": "The use of 'بَلَغَنِي' is the weakest form of transmission, indicating indirect and unverified information",
+          "impact": "Cannot be relied upon for attribution to the Prophet ﷺ without supporting evidence from authentic chains"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Teaching Quran to Children",
+        "Priority of Quranic Knowledge"
+      ]
+    },
+    {
+      "hadith_id": 8,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "8",
+      "arabic_text": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي هُرَيْرَةَ ، عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" إِذَا قَرَأْتَ الْقُرْآنَ فَرَتِّلْهُ تَرْتِيلا ، وَتَغَنَّوْا بِهِ , فَإِنَّ اللَّهَ يُحِبُّ أَنْ تَسْمَعَ الْمَلائِكَةُ لِذِكْرِهِ \"",
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'When you recite the Quran, recite it with measured recitation (tartil), and beautify it with your voices, for Allah loves that the angels hear His remembrance.'",
       "chains": [
         {
           "type": "marfu'",
           "narrators": [
             {
-              "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd al-Azdi al-Basri",
-              "grade": "Thiqah",
-              "generation": "Second Generation (Tabi'in)",
-              "transmissionTerm": "قَالَ",
+              "name": "أبو هريرة",
+              "full_name": "Abu Hurayrah Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of",
               "reliabilityIssues": [],
-              "notes": "Major Tabi'i scholar, student of Ibn Abbas and Aisha",
-              "narrator_id": 2063,
-              "original_id": "1168",
-              "primary_name": "جراح بن الضحاك بن قيس",
-              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
-              "kunya": "",
-              "nisba": "",
-              "death_year": null,
-              "birth_year": null,
-              "reliability_grade": "",
-              "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 2
+              "narrator_id": 4396,
+              "alternative_names": "عبد الرحمن بن صخر الدوسي",
+              "original_id": "3565",
+              "kunya": "أبو هريرة",
+              "nisba": "الدوسي",
+              "nisba_ar": "الدوسي",
+              "death_year": "59",
+              "birth_year": "19 BH",
+              "reliability_grade": "Companion",
+              "tabaqat": "1",
+              "location": "Madinah"
             },
             {
-              "name": "Abu Ubayda Muslim ibn Abi Karima",
-              "full_name": "Abu Ubayda Muslim ibn Abi Karima al-Tamimi",
-              "grade": "Saduq",
-              "generation": "Fourth Generation",
-              "transmissionTerm": "قَالَ",
-              "reliabilityIssues": [],
-              "notes": "Student of Jabir ibn Zayd, known narrator from Ibadi tradition",
+              "name": "جابر بن زيد",
+              "full_name": "Jabir ibn Zayd ibn al-Azd al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of",
+              "reliabilityIssues": [
+                "Potential issue: Need to verify if Jabir ibn Zayd heard directly from Abu Hurayrah"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "أبو الشعثاء",
+              "original_id": "1168",
+              "kunya": "أبو الشعثاء",
+              "nisba": "الأزدي البصري",
+              "nisba_ar": "الأزدي",
+              "death_year": "93",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Basra"
+            },
+            {
+              "name": "أبو عبيدة",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karimah al-Tamimi",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of (implied from context)",
+              "reliabilityIssues": [
+                "majhul - unknown narrator with insufficient documentation"
+              ],
               "narrator_id": 31544,
+              "alternative_names": "مسلم بن أبي كريمة التميمي",
               "original_id": "48826",
-              "primary_name": "محمد بن يوسف بن حكام",
-              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
-              "kunya": "",
-              "nisba": "التمار",
+              "kunya": "أبو عبيدة",
+              "nisba": "التميمي",
+              "nisba_ar": "التميمي",
               "death_year": null,
               "birth_year": null,
-              "reliability_grade": "",
+              "reliability_grade": "Unknown",
               "tabaqat": null,
-              "location": null,
-              "position_in_isnad": 1
+              "location": null
             }
           ],
           "chainIssues": [
-            "Majority of transmission terms are ambiguous"
+            "Unknown narrator Abu Ubaydah Muslim ibn Abi Karimah appears in the chain",
+            "Multiple uses of ambiguous transmission term 'عَنْ' throughout the chain",
+            "Uncertain whether Jabir ibn Zayd heard directly from Abu Hurayrah, though it is chronologically possible"
           ]
         }
       ],
-      "plainChains": [
-        "Jabir ibn Zayd → Abu Ubayda Muslim ibn Abi Karima → Prophet Muhammad ﷺ"
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator Abu Ubaydah appears in the chain with no biographical documentation",
+          "impact": "Significantly weakens the chain as the narrator's reliability cannot be verified"
+        },
+        {
+          "issue": "Ambiguous transmission term 'عَنْ' used throughout the chain",
+          "impact": "Introduces uncertainty about the directness of transmission at each level"
+        },
+        {
+          "issue": "While Jabir ibn Zayd was from the generation that could have met Abu Hurayrah (who died 59 AH), there is no clear documentation of direct hearing between them",
+          "impact": "The connection between Abu Hurayrah and Jabir needs verification"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Recitation of Quran with Tartil",
+        "Beautifying Voice for Quran Recitation",
+        "Angels Listening to Dhikr"
+      ]
+    },
+    {
+      "hadith_id": 9,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9",
+      "arabic_text": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَثَلُ صَاحِبِ الْقُرْآنِ ، كَمَثَلِ صَاحِبِ الإِبِلِ الْمُعَقَّلَةِ ، إِنْ عَاهَدَ عَلَيْهَا أَمْسَكَهَا ، وَإِنْ أَطْلَقَهَا ذَهَبَتْ \"",
+      "english_translation": "Narrated by Abu Sa'id al-Khudri: The Messenger of Allah ﷺ said: 'The example of the possessor of the Quran is like the example of the owner of hobbled camels. If he tends to them regularly, he retains them, and if he releases them, they go away.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبو سعيد الخدري",
+              "full_name": "Abu Sa'id al-Khudri Sa'd ibn Malik ibn Sinan al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said",
+              "reliabilityIssues": [],
+              "narrator_id": 3260,
+              "alternative_names": "سعد بن مالك بن سنان الأنصاري",
+              "original_id": "2398",
+              "kunya": "أبو سعيد",
+              "nisba": "الخدري الأنصاري الخزرجي",
+              "nisba_ar": "الخدري",
+              "death_year": "74",
+              "birth_year": "10 BH",
+              "reliability_grade": "Companion",
+              "tabaqat": "1",
+              "location": "Madinah"
+            },
+            {
+              "name": "جابر بن زيد",
+              "full_name": "Jabir ibn Zayd ibn al-Azd al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "أبو الشعثاء",
+              "original_id": "1168",
+              "kunya": "أبو الشعثاء",
+              "nisba": "الأزدي البصري",
+              "nisba_ar": "الأزدي",
+              "death_year": "93",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Basra"
+            },
+            {
+              "name": "أبو عبيدة",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karimah al-Tamimi",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of (implied from context)",
+              "reliabilityIssues": [
+                "majhul - unknown narrator with insufficient documentation"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "مسلم بن أبي كريمة التميمي",
+              "original_id": "48826",
+              "kunya": "أبو عبيدة",
+              "nisba": "التميمي",
+              "nisba_ar": "التميمي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Unknown",
+              "tabaqat": null,
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrator Abu Ubaydah Muslim ibn Abi Karimah appears in the chain",
+            "Multiple uses of ambiguous transmission term 'عَنْ' in the chain",
+            "Need to verify if Jabir ibn Zayd heard directly from Abu Sa'id al-Khudri, though chronologically possible"
+          ]
+        }
       ],
       "potential_issues": [
-        "Majority of transmission terms are ambiguous"
+        {
+          "issue": "Unknown narrator Abu Ubaydah appears in the chain with no biographical documentation",
+          "impact": "Significantly weakens the chain as the narrator's reliability cannot be verified"
+        },
+        {
+          "issue": "Ambiguous transmission terms ('عَنْ') used in the chain",
+          "impact": "Introduces uncertainty about directness of transmission"
+        },
+        {
+          "issue": "This hadith is authentically narrated in Sahih Bukhari and Muslim through other chains. This alternative chain through an unknown narrator cannot be considered reliable",
+          "impact": "While the meaning is authentic through other chains, this specific chain is unreliable due to the majhul narrator"
+        }
       ],
-      "IISGrade": "Weak But Might Be Acceptable",
+      "IISGrade": "Problematic",
       "Topics": [
-        "Virtues of Teaching Quran",
-        "Excellence and Merit",
-        "Learning and Teaching"
+        "Parable of the Quran Memorizer",
+        "Importance of Regular Quran Review",
+        "Maintaining Memorization of Quran"
+      ]
+    },
+    {
+      "hadith_id": 10,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10",
+      "arabic_text": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنِ ابْنِ عَبَّاسٍ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ تَعَلَّمَ الْقُرْآنَ ثُمَّ نَسِيَهُ حُشِرَ يَوْمَ الْقِيَامَةِ أَجْذَمَ \" ، قَالَ الرَّبِيعُ : الأَجْذَمُ : الْمَقْطُوعُ الْيَدِ",
+      "english_translation": "Narrated by Ibn Abbas: The Messenger of Allah ﷺ said: 'Whoever learns the Quran then forgets it will be resurrected on the Day of Judgment afflicted with leprosy.' Al-Rabi' said: 'Ajdham means one with a severed hand.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "ابن عباس",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "عبد الله بن عباس",
+              "original_id": "4062",
+              "kunya": "أبو العباس",
+              "nisba": "القرشي الهاشمي",
+              "nisba_ar": "القرشي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Companion",
+              "tabaqat": "1",
+              "location": "Makkah/Madinah/Ta'if"
+            },
+            {
+              "name": "جابر بن زيد",
+              "full_name": "Jabir ibn Zayd ibn al-Azd al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "أبو الشعثاء",
+              "original_id": "1168",
+              "kunya": "أبو الشعثاء",
+              "nisba": "الأزدي البصري",
+              "nisba_ar": "الأزدي",
+              "death_year": "93",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Basra"
+            },
+            {
+              "name": "أبو عبيدة",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karimah al-Tamimi",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of (implied from context)",
+              "reliabilityIssues": [
+                "majhul - unknown narrator with insufficient documentation"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "مسلم بن أبي كريمة التميمي",
+              "original_id": "48826",
+              "kunya": "أبو عبيدة",
+              "nisba": "التميمي",
+              "nisba_ar": "التميمي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Unknown",
+              "tabaqat": null,
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrator Abu Ubaydah Muslim ibn Abi Karimah appears in the chain",
+            "Multiple uses of ambiguous transmission term 'عَنْ' in the chain",
+            "Though Jabir ibn Zayd is known to have narrated from Ibn Abbas, the ambiguous terms introduce uncertainty"
+          ]
+        }
       ],
-      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرِ بْنِ زَيْدٍ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْجُنُبِ , وَالْحَائِضِ , وَالَّذِينَ لَمْ يَكُونُوا عَلَى طَهَارَةٍ : \" لا يَقْرَءُونَ الْقُرْآنَ ، وَلا يَطْوُونَ مُصْحَفًا بِأَيْدِيهِمْ حَتَّى يَكُونُوا مُتَوَضِّئِينَ \" * 13",
-      "collection": "كتاب رقم 1",
-      "collection_english": "Book Number 1",
-      "author_arabic": "مؤلف غير معروف",
-      "author_english": "Unknown Author",
-      "reference_number": 15,
-      "grade": "Da'if"
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator Abu Ubaydah appears in the chain with no biographical documentation",
+          "impact": "Significantly weakens the chain as the narrator's reliability cannot be verified"
+        },
+        {
+          "issue": "Ambiguous transmission terms ('عَنْ') used in the chain",
+          "impact": "Introduces uncertainty about directness of transmission"
+        },
+        {
+          "issue": "This hadith about forgetting the Quran is debated among scholars regarding its authenticity and meaning, with some considering it weak through various chains",
+          "impact": "The content itself is contested, and this chain with an unknown narrator cannot establish its authenticity"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Warning about Forgetting the Quran after Learning",
+        "Punishment on Day of Judgment"
+      ]
+    },
+    {
+      "hadith_id": 11,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "11",
+      "arabic_text": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، قَالَ : \" مَا جَمَعَ الْقُرْآنَ عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلا سِتَّةُ نَفَرٍ كُلُّهُمْ مِنَ الأَنْصَارِ : أُبَيٌّ ، وَمُعَاذٌ ، وَزَيْدٌ ، وَأَبُو زَيْدٍ ، وَأَبُو أَيُّوبَ ، وَعُثْمَانُ ، وَالْبَاقِي مِنَ الصَّحَابَةِ ، قَدْ يَحْفَظُ السُّوَرَ الْمَعْدُودَاتِ مِنَ الْقُرْآنِ ، وَمِنْهُمْ مَنْ يَحْفَظُ السُّورَةَ وَالسُّورَتَيْنِ \"",
+      "english_translation": "Anas ibn Malik said: 'The Quran was not gathered (completely memorized) during the time of the Messenger of Allah ﷺ except by six individuals, all of them from the Ansar: Ubayy, Mu'adh, Zayd, Abu Zayd, Abu Ayyub, and Uthman. And the rest of the Companions would memorize several numbered surahs from the Quran, and among them were those who would memorize one or two surahs.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "أنس بن مالك",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said",
+              "reliabilityIssues": [],
+              "narrator_id": 720,
+              "alternative_names": "أنس بن مالك الأنصاري",
+              "original_id": "720",
+              "kunya": "أبو حمزة",
+              "nisba": "الأنصاري الخزرجي",
+              "nisba_ar": "الأنصاري",
+              "death_year": "93",
+              "birth_year": "10 BH",
+              "reliability_grade": "Companion",
+              "tabaqat": "1",
+              "location": "Basra/Madinah"
+            },
+            {
+              "name": "جابر بن زيد",
+              "full_name": "Jabir ibn Zayd ibn al-Azd al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "أبو الشعثاء",
+              "original_id": "1168",
+              "kunya": "أبو الشعثاء",
+              "nisba": "الأزدي البصري",
+              "nisba_ar": "الأزدي",
+              "death_year": "93",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Basra"
+            },
+            {
+              "name": "أبو عبيدة",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karimah al-Tamimi",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of (implied from context)",
+              "reliabilityIssues": [
+                "majhul - unknown narrator with insufficient documentation"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "مسلم بن أبي كريمة التميمي",
+              "original_id": "48826",
+              "kunya": "أبو عبيدة",
+              "nisba": "التميمي",
+              "nisba_ar": "التميمي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Unknown",
+              "tabaqat": null,
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrator Abu Ubaydah Muslim ibn Abi Karimah appears in the chain",
+            "Ambiguous transmission term 'عَنْ' used in the chain",
+            "Jabir ibn Zayd was a student of Anas ibn Malik in Basra, so the connection is historically sound despite the ambiguous term"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator Abu Ubaydah appears in the chain",
+          "impact": "Weakens the chain reliability"
+        },
+        {
+          "issue": "CONTENT ISSUE: The narration states 'all of them from the Ansar' but then lists Uthman, who was from Quraysh (Muhajir), not from the Ansar",
+          "impact": "This textual inconsistency suggests a possible error in transmission or recording of the narration"
+        },
+        {
+          "issue": "This is a mawquf narration (statement of Companion Anas), not a marfu' hadith from the Prophet ﷺ",
+          "impact": "While valuable as historical information, it represents Anas's knowledge/opinion about who memorized the Quran, not a prophetic statement"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Historical account of Quran memorization during Prophet's ﷺ lifetime",
+        "Names of Companions who memorized the complete Quran"
+      ]
+    },
+    {
+      "hadith_id": 12,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "12",
+      "arabic_text": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ : أَنَّ رَجُلا سَمِعَ رَجُلا يَقْرَأُ : قُلْ هُوَ اللَّهُ أَحَدٌ اللَّهُ الصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ، وَيُرَدِّدُهَا ، فَلَمَّا أَصْبَحَ غَدَا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَذَكَرَ ذَلِكَ لَهُ ، فَكَأَنَّ الرَّجُلَ يَتَقَلَّلُهَا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" وَالَّذِي نَفْسِي بِيَدِهِ إِنَّهَا لَتَعْدِلُ ثُلُثَ الْقُرْآنِ \"",
+      "english_translation": "Narrated by Abu Sa'id al-Khudri: That a man heard a man reciting 'Say: He is Allah, the One. Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent,' and he was repeating it. When morning came, he went to the Messenger of Allah ﷺ and mentioned that to him, as if the man was considering it insignificant. So the Messenger of Allah ﷺ said: 'By the One in Whose Hand is my soul, it is equivalent to one-third of the Quran.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبو سعيد الخدري",
+              "full_name": "Abu Sa'id al-Khudri Sa'd ibn Malik ibn Sinan al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "transmissionTermMeaning": "That (indicating potential disconnection or indirect transmission)",
+              "reliabilityIssues": [],
+              "narrator_id": 3260,
+              "alternative_names": "سعد بن مالك بن سنان الأنصاري",
+              "original_id": "2398",
+              "kunya": "أبو سعيد",
+              "nisba": "الخدري الأنصاري الخزرجي",
+              "nisba_ar": "الخدري",
+              "death_year": "74",
+              "birth_year": "10 BH",
+              "reliability_grade": "Companion",
+              "tabaqat": "1",
+              "location": "Madinah"
+            },
+            {
+              "name": "جابر بن زيد",
+              "full_name": "Jabir ibn Zayd ibn al-Azd al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "أبو الشعثاء",
+              "original_id": "1168",
+              "kunya": "أبو الشعثاء",
+              "nisba": "الأزدي البصري",
+              "nisba_ar": "الأزدي",
+              "death_year": "93",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Basra"
+            },
+            {
+              "name": "أبو عبيدة",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karimah al-Tamimi",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of (implied from context)",
+              "reliabilityIssues": [
+                "majhul - unknown narrator with insufficient documentation"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "مسلم بن أبي كريمة التميمي",
+              "original_id": "48826",
+              "kunya": "أبو عبيدة",
+              "nisba": "التميمي",
+              "nisba_ar": "التميمي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Unknown",
+              "tabaqat": null,
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrator Abu Ubaydah Muslim ibn Abi Karimah appears in the chain",
+            "Use of ambiguous transmission term 'أَنَّ' from Abu Sa'id, which can indicate indirect transmission",
+            "Use of ambiguous transmission term 'عَنْ' between Jabir and Abu Ubaydah"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator Abu Ubaydah appears in the chain with no biographical documentation",
+          "impact": "Significantly weakens the chain as the narrator's reliability cannot be verified"
+        },
+        {
+          "issue": "Use of 'أَنَّ' (that) in the transmission from Abu Sa'id, which can indicate indirect or ambiguous transmission",
+          "impact": "Introduces uncertainty about whether this was directly heard or transmitted indirectly"
+        },
+        {
+          "issue": "This hadith about Surah al-Ikhlas equaling one-third of the Quran is authentically narrated in Sahih Bukhari and Muslim through other chains. This alternative chain through an unknown narrator is not reliable",
+          "impact": "While the content is authentic through other chains, this specific chain cannot be relied upon due to the majhul narrator"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Virtue of Surah al-Ikhlas",
+        "Incident of man repeatedly reciting Surah al-Ikhlas",
+        "Surah al-Ikhlas equaling one-third of Quran"
+      ]
+    },
+    {
+      "hadith_id": 13,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "13",
+      "arabic_text": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : أَقْبَلْتُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" فَسَمِعَ رَجُلا يَقْرَأُ : قُلْ هُوَ اللَّهُ أَحَدٌ ، إِلَى آخِرِهَا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" وَجَبَتْ \" ، فَقُلْتُ : مَاذَا يَا رَسُولَ اللَّهِ ؟ ، فَقَالَ : \" الْجَنَّةُ \" ، قَالَ أَبُو هُرَيْرَةَ : فَأَرَدْتُ أَنْ أَذْهَبَ إِلَى الرَّجُلِ فَأُبَشِّرَهُ ، ثُمَّ خِفْتُ أَنْ يَفُوتَنِي الْغَدَاءُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَآثَرْتُ الْغَدَاءَ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، ثُمَّ ذَهَبْتُ إِلَى الرَّجُلِ فَوَجَدْتُهُ قَدْ ذَهَبَ",
+      "english_translation": "Narrated by Abu Hurayrah: I came with the Messenger of Allah ﷺ, and he heard a man reciting 'Say: He is Allah, the One' to its end. So the Messenger of Allah ﷺ said: 'It is obligated.' I said: 'What is obligated, O Messenger of Allah?' He said: 'Paradise.' Abu Hurayrah said: 'I wanted to go to the man and give him glad tidings, but I feared that I would miss the meal with the Messenger of Allah ﷺ, so I gave preference to the meal with the Messenger of Allah ﷺ. Then I went to the man and found that he had gone.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبو هريرة",
+              "full_name": "Abu Hurayrah Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said",
+              "reliabilityIssues": [],
+              "narrator_id": 4396,
+              "alternative_names": "عبد الرحمن بن صخر الدوسي",
+              "original_id": "3565",
+              "kunya": "أبو هريرة",
+              "nisba": "الدوسي",
+              "nisba_ar": "الدوسي",
+              "death_year": "59",
+              "birth_year": "19 BH",
+              "reliability_grade": "Companion",
+              "tabaqat": "1",
+              "location": "Madinah"
+            },
+            {
+              "name": "جابر بن زيد",
+              "full_name": "Jabir ibn Zayd ibn al-Azd al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of",
+              "reliabilityIssues": [
+                "Potential issue: Need to verify if Jabir ibn Zayd heard directly from Abu Hurayrah"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "أبو الشعثاء",
+              "original_id": "1168",
+              "kunya": "أبو الشعثاء",
+              "nisba": "الأزدي البصري",
+              "nisba_ar": "الأزدي",
+              "death_year": "93",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Basra"
+            },
+            {
+              "name": "أبو عبيدة",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karimah al-Tamimi",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of (implied from context)",
+              "reliabilityIssues": [
+                "majhul - unknown narrator with insufficient documentation"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "مسلم بن أبي كريمة التميمي",
+              "original_id": "48826",
+              "kunya": "أبو عبيدة",
+              "nisba": "التميمي",
+              "nisba_ar": "التميمي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Unknown",
+              "tabaqat": null,
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrator Abu Ubaydah Muslim ibn Abi Karimah appears in the chain",
+            "Use of ambiguous transmission term 'عَنْ' in the chain",
+            "Need to verify if Jabir ibn Zayd heard directly from Abu Hurayrah, though chronologically possible"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator Abu Ubaydah appears in the chain with no biographical documentation",
+          "impact": "Significantly weakens the chain as the narrator's reliability cannot be verified"
+        },
+        {
+          "issue": "Ambiguous transmission terms ('عَنْ') used in the chain",
+          "impact": "Introduces uncertainty about directness of transmission"
+        },
+        {
+          "issue": "The chain's reliability cannot be established due to the presence of a majhul narrator",
+          "impact": "The narration cannot be relied upon for establishing this incident's authenticity"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Virtue of Surah al-Ikhlas",
+        "Incident of Prophet ﷺ declaring Paradise obligated for a reciter",
+        "Abu Hurayrah's choice between spreading good news and staying with Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 14,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "14",
+      "arabic_text": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، قَالَ : بَلَغَنِي ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ ، رَضِيَ اللَّهُ عَنْهُ ، خَرَجَ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي بَعْضِ أَسْفَارِهِ ، فَسَأَلَهُ عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ ، عَنْ شَيْءٍ ، فَلَمْ يُجِبْهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، ثُمَّ سَأَلَهُ ثَلاثًا ، فَلَمْ يُجِبْهُ ، فَقَالَ عُمَرُ عِنْدَ نَفْسِهِ : ثَكِلَتْكَ أُمُّكَ يَا عُمَرُ ، نَزَرْتَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَلاثًا ، وَكُلُّ ذَلِكَ لا يُجِيبُكَ ، قَالَ عُمَرُ : فَحَرَّكْتُ بَعِيرِي حَتَّى تَقَدَّمْتُ أَمَامَ النَّاسِ فَخَشِيتُ أَنْ يَنْزِلَ فِيَّ قُرْآنٌ ، فَمَا مَشَيْتُ إِذْ سَمِعْتُ صَارِخًا يَصْرُخُ فَهَرْوَلْتُ حَتَّى جِئْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ , فَسَلَّمْتُ عَلَيْهِ فَقَالَ : \" لَقَدْ أُنْزِلَتْ عَلَيَّ سُورَةٌ هِيَ أَحَبُّ إِلَيَّ مِمَّا طَلَعَتْ عَلَيْهِ الشَّمْسُ , ثُمَّ قَرَأَ : إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا \"",
+      "english_translation": "Jabir ibn Zayd said: It reached me that Umar ibn al-Khattab went out with the Messenger of Allah ﷺ on one of his journeys. Umar ibn al-Khattab asked him about something, but the Messenger of Allah ﷺ did not answer him. Then he asked him three times, but he did not answer him. So Umar said to himself: 'May your mother be bereaved of you, O Umar! You have annoyed the Messenger of Allah ﷺ three times, and each time he does not answer you.' Umar said: 'So I urged my camel until I went ahead of the people, and I feared that Quran would be revealed about me. I had not walked far when I heard a caller calling, so I hastened until I came to the Messenger of Allah ﷺ and greeted him. He said: 'Indeed, a surah has been revealed to me that is more beloved to me than anything the sun rises upon.' Then he recited: 'Indeed, We have given you a clear conquest.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "جابر بن زيد",
+              "full_name": "Jabir ibn Zayd ibn al-Azd al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "بَلَغَنِي",
+              "transmissionTermMeaning": "It reached me (indicating broken chain)",
+              "reliabilityIssues": [
+                "Mursal chain - Jabir does not name his source for this narration about Umar"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "أبو الشعثاء",
+              "original_id": "1168",
+              "kunya": "أبو الشعثاء",
+              "nisba": "الأزدي البصري",
+              "nisba_ar": "الأزدي",
+              "death_year": "93",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Basra"
+            },
+            {
+              "name": "أبو عبيدة",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karimah al-Tamimi",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of (implied from context)",
+              "reliabilityIssues": [
+                "majhul - unknown narrator with insufficient documentation"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "مسلم بن أبي كريمة التميمي",
+              "original_id": "48826",
+              "kunya": "أبو عبيدة",
+              "nisba": "التميمي",
+              "nisba_ar": "التميمي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Unknown",
+              "tabaqat": null,
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "CRITICAL: Mursal (disconnected) chain - Jabir ibn Zayd uses 'بَلَغَنِي' (it reached me), explicitly indicating he did not hear this directly from a named Companion",
+            "The chain is completely broken as Jabir does not name any intermediary between himself and the incident involving Umar",
+            "Unknown narrator Abu Ubaydah adds further weakness to an already broken chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "MURSAL CHAIN: Jabir ibn Zayd explicitly states 'بَلَغَنِي' (it reached me), indicating a broken chain where he does not name his source for this incident about Umar ibn al-Khattab",
+          "impact": "This is a mursal hadith from a Tabi'i, which is among the weakest categories of hadith. The chain is fundamentally disconnected."
+        },
+        {
+          "issue": "Unknown narrator Abu Ubaydah in the chain",
+          "impact": "Even if the mursal issue were overlooked, the unknown narrator further weakens the chain"
+        },
+        {
+          "issue": "This famous incident about the revelation of Surah al-Fath is authentically narrated in Sahih Bukhari and Muslim through other chains from Umar himself. This mursal chain cannot be relied upon",
+          "impact": "While the incident is authentic through other chains, this specific chain is unreliable due to being mursal and containing a majhul narrator"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of Umar asking Prophet ﷺ during a journey",
+        "Revelation of Surah al-Fath",
+        "Umar's fear of divine censure",
+        "Virtue of Surah al-Fath"
+      ]
+    },
+    {
+      "hadith_id": 15,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "15",
+      "arabic_text": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرِ بْنِ زَيْدٍ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْجُنُبِ , وَالْحَائِضِ , وَالَّذِينَ لَمْ يَكُونُوا عَلَى طَهَارَةٍ : \" لا يَقْرَءُونَ الْقُرْآنَ ، وَلا يَطْوُونَ مُصْحَفًا بِأَيْدِيهِمْ حَتَّى يَكُونُوا مُتَوَضِّئِينَ \"",
+      "english_translation": "Jabir ibn Zayd said: The Messenger of Allah ﷺ said regarding the one in a state of major ritual impurity (junub), the menstruating woman, and those who were not in a state of purity: 'They should not recite the Quran, nor should they handle a mushaf with their hands until they have performed ablution (wudu).'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "جابر بن زيد",
+              "full_name": "Jabir ibn Zayd ibn al-Azd al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "قَالَ رَسُولُ اللَّهِ",
+              "transmissionTermMeaning": "The Messenger of Allah said (without naming intermediary Companion)",
+              "reliabilityIssues": [
+                "Mursal - Jabir attributes directly to the Prophet ﷺ without naming a Companion intermediary"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "أبو الشعثاء",
+              "original_id": "1168",
+              "kunya": "أبو الشعثاء",
+              "nisba": "الأزدي البصري",
+              "nisba_ar": "الأزدي",
+              "death_year": "93",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Basra"
+            },
+            {
+              "name": "أبو عبيدة",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karimah al-Tamimi",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From/On the authority of (implied from context)",
+              "reliabilityIssues": [
+                "majhul - unknown narrator with insufficient documentation"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "مسلم بن أبي كريمة التميمي",
+              "original_id": "48826",
+              "kunya": "أبو عبيدة",
+              "nisba": "التميمي",
+              "nisba_ar": "التميمي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Unknown",
+              "tabaqat": null,
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "CRITICAL: Mursal chain - Jabir ibn Zayd directly attributes the statement to the Prophet ﷺ without naming any Companion intermediary",
+            "This is a mursal hadith from a Tabi'i, indicating a missing link in the chain of transmission",
+            "Unknown narrator Abu Ubaydah adds further weakness to an already broken chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "MURSAL CHAIN: Jabir ibn Zayd, a Tabi'i (Successor), directly attributes the statement to the Prophet ﷺ without naming which Companion narrated it to him",
+          "impact": "This is a mursal hadith from a Tabi'i, which is among the weakest forms of hadith transmission. The missing Companion link makes the chain fundamentally incomplete."
+        },
+        {
+          "issue": "Unknown narrator Abu Ubaydah in the chain",
+          "impact": "Even if the mursal issue were overlooked, the unknown narrator further weakens the chain"
+        },
+        {
+          "issue": "The content involves ritual purity requirements for Quran recitation and handling, which is a matter of jurisprudence that requires authentic chains for establishing rulings",
+          "impact": "This chain cannot be relied upon for establishing legal rulings about purity requirements for Quran recitation and handling"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Purity requirements for Quran recitation",
+        "Handling of Mushaf by those in ritual impurity",
+        "Conditions for touching and reciting Quran"
+      ]
     }
   ]
 }
