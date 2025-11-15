@@ -1,0 +1,616 @@
+[
+  {
+    "hadith_id": 6271,
+    "book_id": 13,
+    "book_name_ar": "كتاب رقم 13",
+    "book_name_en": "Unknown Collection (Book 13)",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "1300",
+    "english_translation": "Narrated by Abu Saeed al-Khudri: A man placed his hand on the Prophet ﷺ and said: 'By Allah, I cannot place my hand on you due to the severity of your fever.' The Prophet ﷺ said: 'We, the group of Prophets, have our trials multiplied for us just as our rewards are multiplied. Indeed if a Prophet from the Prophets was tested with poverty until the worn-out garment became his clothing, and they were to rejoice in trials as you rejoice in comfort.'",
+    "chains": [
+      {
+        "type": "marfu'",
+        "narrators": [
+          {
+            "name": "Habib ibn Marzuq",
+            "full_name": "Habib ibn Marzuq al-Jarari",
+            "grade": "La Ba'sa Bihi",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 3122,
+            "alternative_names": "Habib ibn Abi Marzuq al-Raqi",
+            "original_id": "2252",
+            "kunya": "Abu Marzuq",
+            "nisba": "al-Jarari",
+            "nisba_ar": "الجزري",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "La Ba'sa Bihi",
+            "tabaqat": "3",
+            "location": "Jariah/Raqqa",
+            "transmissionTermMeaning": "From (could be direct or indirect)"
+          },
+          {
+            "name": "Abu Salamah",
+            "full_name": "Abd al-Rahman ibn Abi Salamah al-Homsi",
+            "grade": "Saduq",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 1131,
+            "alternative_names": "Abu Salamah al-Homsi, Abu Salamah al-Harrani",
+            "original_id": "212",
+            "kunya": "Abu Salamah",
+            "nisba": "al-Homsi",
+            "nisba_ar": "الحمصي",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Saduq",
+            "tabaqat": "2",
+            "location": "Homs",
+            "transmissionTermMeaning": "From (could be direct or indirect)"
+          },
+          {
+            "name": "Husayn ibn Uqbah",
+            "full_name": "Husayn ibn Uqbah al-Fazari al-Kufi",
+            "grade": "Saduq Lahu Awham",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Some weakness in narration"
+            ],
+            "narrator_id": 3260,
+            "alternative_names": "al-Husayn ibn Uqbah al-Fazari",
+            "original_id": "2398",
+            "kunya": "",
+            "nisba": "al-Fazari",
+            "nisba_ar": "الفزاري",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Saduq Lahu Awham",
+            "tabaqat": "2",
+            "location": "Kufa",
+            "transmissionTermMeaning": "From (could be direct or indirect)"
+          },
+          {
+            "name": "Abu Saeed al-Khudri",
+            "full_name": "Sa'd ibn Malik ibn Sinan al-Khudri",
+            "grade": "Thiqah Thabt",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Abu Saeed al-Khudri, Sa'd ibn Malik",
+            "original_id": "0",
+            "kunya": "Abu Saeed",
+            "nisba": "al-Khudri",
+            "nisba_ar": "الخدري",
+            "death_year": "74",
+            "birth_year": "13 AH",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "Companion",
+            "location": "Madinah",
+            "transmissionTermMeaning": "He said"
+          },
+          {
+            "name": "Prophet Muhammad ﷺ",
+            "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+            "grade": "Awthaq al-Nas",
+            "generation": "Prophet",
+            "transmissionTerm": "",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Ahmad, al-Mustafa",
+            "original_id": "0",
+            "kunya": "Abu al-Qasim",
+            "nisba": "al-Qurashi",
+            "nisba_ar": "القرشي",
+            "death_year": "11 AH",
+            "birth_year": "53 BH",
+            "reliability_grade": "Awthaq al-Nas",
+            "tabaqat": "Prophet",
+            "location": "Makkah/Madinah",
+            "transmissionTermMeaning": ""
+          }
+        ],
+        "chainIssues": [
+          "Three ambiguous transmission terms (عَنْ) without clear indication of direct hearing",
+          "The isnad provided in source appears incomplete - had to reconstruct based on text analysis",
+          "Narrator identification uncertain due to discrepancies between text and narrator IDs"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Multiple ambiguous transmission terms (عَنْ) in the chain",
+        "impact": "While all narrators are generally acceptable, the use of 'an' multiple times introduces slight ambiguity about direct transmission. However, none of the narrators are known mudallis with Category 3+ tadlis requiring direct terms."
+      },
+      {
+        "issue": "Data quality: Text mentions different names than narrator IDs",
+        "impact": "The source text (text_ar) contains formatting codes and mentions names that don't match the narrator IDs provided (e.g., text says 'Zayd ibn Aslam' but ID 3122 maps to 'Habib ibn Marzuq'). This suggests OCR errors or data extraction issues. The analysis used the narrator IDs as the primary source."
+      },
+      {
+        "issue": "Chain reconstruction: Original isnad in source showed only 3 narrators without reaching the Prophet",
+        "impact": "The complete chain was reconstructed based on the text content mentioning Abu Saeed al-Khudri. The original source data appeared incomplete."
+      }
+    ],
+    "Classical Grade": [
+      "Hasan"
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Incident of a man touching the Prophet ﷺ due to his fever",
+      "The Prophet ﷺ explaining the multiplication of trials and rewards for Prophets",
+      "Description of prophetic asceticism and trials",
+      "Tests faced by the Prophets as stated by the Prophet ﷺ"
+    ]
+  },
+  {
+    "hadith_id": 6272,
+    "book_id": 13,
+    "book_name_ar": "كتاب رقم 13",
+    "book_name_en": "Unknown Collection (Book 13)",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "1301",
+    "english_translation": "[Chapter heading: Chapter on the Asceticism of the Companions - This is a section marker, not a narrative hadith]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "Editor/Compiler",
+            "full_name": "Unknown Compiler",
+            "grade": "Majhul",
+            "generation": "Later Generation",
+            "transmissionTerm": "",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Unknown",
+            "original_id": "0",
+            "kunya": "",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "",
+            "location": "",
+            "transmissionTermMeaning": ""
+          }
+        ],
+        "chainIssues": [
+          "This is a chapter heading (bab), not a hadith",
+          "No actual chain of transmission"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Not a narrative hadith",
+        "impact": "This is a chapter marker (bab) indicating a section in the collection, not an actual hadith. It contains no narrative content, chain of transmission, or grading basis."
+      }
+    ],
+    "Classical Grade": [
+      "Daif"
+    ],
+    "IISGrade": "Disconnections But All Narrators Are Ok",
+    "Topics": [
+      "Collection organization - Chapter marker"
+    ]
+  },
+  {
+    "hadith_id": 6273,
+    "book_id": 13,
+    "book_name_ar": "كتاب رقم 13",
+    "book_name_en": "Unknown Collection (Book 13)",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "1302",
+    "english_translation": "Narrated by Hisham ibn Urwah from a worker of Adhraat: Umar ibn al-Khattab came to us with a shirt made of coarse linen. He gave it to me and said: 'Wash it and patch it.' I washed and patched it, then I cut for him a fine Egyptian shirt. I came to him with both of them together and said: 'This is your shirt and this is a shirt I cut for it so you may wear it.' He touched it with his hand and found it soft, so he said: 'We have no need for it. This (the original) absorbs the sweat better than this.'",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "Hisham ibn Urwah",
+            "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Hisham ibn Urwah al-Qurashi",
+            "original_id": "0",
+            "kunya": "Abu al-Mundhir",
+            "nisba": "al-Qurashi",
+            "nisba_ar": "القرشي",
+            "death_year": "146",
+            "birth_year": "75 AH",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "2",
+            "location": "Kufa/Basra",
+            "transmissionTermMeaning": "From (direct transmission)"
+          },
+          {
+            "name": "A worker of Adhraat",
+            "full_name": "Unnamed worker from the town of Adhraat",
+            "grade": "Majhul",
+            "generation": "Later Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Unknown narrator - identity not preserved",
+              "Possibly majhul al-'ayn"
+            ],
+            "narrator_id": 0,
+            "alternative_names": "A non-identified servant/worker",
+            "original_id": "0",
+            "kunya": "",
+            "nisba": "al-Adhaa'i",
+            "nisba_ar": "الأذرعاتي",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "Later Generation",
+            "location": "Adhraat (in Syria)",
+            "transmissionTermMeaning": "From (possibly indirect)"
+          },
+          {
+            "name": "Umar ibn al-Khattab",
+            "full_name": "Umar ibn al-Khattab ibn Nufail al-Qurashi",
+            "grade": "Thiqah Thabt",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Amir al-Mu'minin (Commander of the Faithful)",
+            "original_id": "0",
+            "kunya": "Abu Hafs",
+            "nisba": "al-Qurashi",
+            "nisba_ar": "القرشي",
+            "death_year": "23 AH",
+            "birth_year": "40 BH",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "Companion",
+            "location": "Madinah",
+            "transmissionTermMeaning": "He said/narrated"
+          }
+        ],
+        "chainIssues": [
+          "Chain is maqtu' (disconnected) as the unknown worker is between a Tabi'i (Hisham) and a Companion (Umar)",
+          "The unnamed worker from Adhraat is a major reliability issue",
+          "Temporal impossibility: If Hisham narrated from an unnamed worker about Umar, this violates normal chain structure"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Unknown narrator (majhul) in the chain",
+        "impact": "An unnamed 'worker of Adhraat' is the crucial link in the chain. His identity was not preserved, making it majhul al-'ayn (unknown person). This significantly affects the reliability of the hadith as we cannot evaluate his trustworthiness or transmission practices."
+      },
+      {
+        "issue": "Chain structure is problematic (maqtu')",
+        "impact": "The chain appears to be maqtu' (disconnected/cut) - Hisham is from the Tabi'in generation reporting from an unknown person about a Companion. This is unusual and needs verification."
+      },
+      {
+        "issue": "Data extraction issue in source",
+        "impact": "The original isnad information in the enriched data shows only one narrator (Abdullah ibn Nafi' with ID 5913), but the text clearly shows Hisham ibn Urwah. This suggests the narrator extraction was faulty."
+      }
+    ],
+    "Classical Grade": [
+      "Daif"
+    ],
+    "IISGrade": "Weak But Might Be Acceptable",
+    "Topics": [
+      "Incident of Umar's simple clothing and asceticism",
+      "Dialogue between Umar and a worker about clothing preferences",
+      "The Prophet ﷺ and companions' preference for simplicity over luxury"
+    ]
+  },
+  {
+    "hadith_id": 6274,
+    "book_id": 13,
+    "book_name_ar": "كتاب رقم 13",
+    "book_name_en": "Unknown Collection (Book 13)",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "1303",
+    "english_translation": "Narrated from Hisham ibn Urwah from his father: Umar came to Syria and was met by the great leaders of the people and the commanders of the troops. Umar said: 'Where is my brother?' They said: 'Who?' He said: 'Abu Ubaidah.' They said: 'He is coming to you now.' He came on a camel with a rope bridle, and he greeted him and spoke with him. Then he said to the people: 'Leave us alone.' He walked with him until they came to his house. He came down at his house and found nothing in it except his sword, his shield, and his saddle. Umar said to him: 'If you had taken some possessions.' Or he said: 'Something.' Abu Ubaidah said: 'O Commander of the Faithful! This will suffice to take us to the meeting place (with Allah).'",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "Hisham ibn Urwah",
+            "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Hisham ibn Urwah al-Qurashi",
+            "original_id": "0",
+            "kunya": "Abu al-Mundhir",
+            "nisba": "al-Qurashi",
+            "nisba_ar": "القرشي",
+            "death_year": "146",
+            "birth_year": "75 AH",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "2",
+            "location": "Kufa/Basra",
+            "transmissionTermMeaning": "From (direct transmission)"
+          },
+          {
+            "name": "Urwah ibn al-Zubayr",
+            "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Qurashi",
+            "grade": "Thiqah Thabt",
+            "generation": "First Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Urwah al-Qurashi, Urwah ibn al-Zubayr",
+            "original_id": "0",
+            "kunya": "Abu Abdallah",
+            "nisba": "al-Qurashi",
+            "nisba_ar": "القرشي",
+            "death_year": "94 AH",
+            "birth_year": "23 AH",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "1",
+            "location": "Madinah",
+            "transmissionTermMeaning": "From (direct transmission)"
+          }
+        ],
+        "chainIssues": [
+          "Chain ends at Urwah ibn al-Zubayr (a Tabi'i narrator), so the connection from him to the Companions (Umar and Abu Ubaidah) is not shown in the isnad",
+          "This makes it a maqtu' hadith - the chain is disconnected from the Companions",
+          "The narrator data in source shows no narrators extracted, requiring full reconstruction from text"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Maqtu' (disconnected) chain at Companion level",
+        "impact": "The chain stops at Urwah ibn al-Zubayr who is from the First Generation (Tabi'in), but the story is about Umar ibn al-Khattab (Companion). The hadith is maqtu' because the connection from Urwah to the Companions is not explicitly stated in the isnad."
+      },
+      {
+        "issue": "Source data shows no narrators extracted",
+        "impact": "The original enriched data for this hadith shows zero narrators in isnad, but the text clearly mentions narrators. This indicates a data extraction failure."
+      }
+    ],
+    "Classical Grade": [
+      "Daif"
+    ],
+    "IISGrade": "Disconnections But All Narrators Are Ok",
+    "Topics": [
+      "Incident of Umar's visit to Syria to meet Abu Ubaidah",
+      "Dialogue between Umar and Abu Ubaidah about simple living",
+      "Abu Ubaidah's asceticism and minimal possessions",
+      "The noble character and ascetic lifestyle of a companion"
+    ]
+  },
+  {
+    "hadith_id": 6275,
+    "book_id": 13,
+    "book_name_ar": "كتاب رقم 13",
+    "book_name_en": "Unknown Collection (Book 13)",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "1304",
+    "english_translation": "Narrated by Yahya ibn Abi Kathir from a man of the people of Syria: I entered upon Abu Dharr while he was igniting wood beneath a pot that had been rained upon, and his tears were flowing. His wife said to him: 'You had an alternative to this, if you had wished you would have been helped.' Abu Dharr said: 'This is my livelihood, so if you are pleased then well, otherwise under the shelter of Allah.' The narrator said: 'It was as if he had placed a stone in her mouth.' When what was in the pot had cooked, he brought a bowl for himself, broke into it a thick loaf of bread of his, then he brought what was in the pot and poured it over it, then he brought it to his wife, then he said to me: 'Come near.' We ate, then he ordered his slave-girl to give us drink so she gave us a drink of some goat's milk of his. I said: 'O Abu Dharr, if you had taken something for yourself in your house.' He said: 'O slave of Allah! Do you desire for me more reckoning than this? Is there not here a mat that we spread, and a cloak that we spread, and a garment that we wear, and a cooking pot that we cook in, and a bowl that we eat from, and in which we wash our heads, and a cup that we drink from, and a skin in which there is oil or fat, and a flour container in which there is flour? Do you desire more reckoning for me than this?' I said: 'Then where is your salary of four hundred dinars? And you are in honor from the salary, so where does it go?' He said: 'I will not hide it from you. For me in this village there are thirty horses. When my salary comes out I buy fodder for them, and provisions for those who take care of them, and expenses for my family. If anything remains from it I buy with it coins and place it with a Nabatean here. If my family needs the meat of a sheep they take from it, and if they need anything they take from it. Then I ride on them in the way of Allah. This is the path of my salary. There is with Abu Dharr neither a dinar nor a dirham.'",
+    "chains": [
+      {
+        "type": "mursal",
+        "narrators": [
+          {
+            "name": "Yahya ibn Abi Kathir",
+            "full_name": "Yahya ibn Abi Kathir al-Tamimi",
+            "grade": "Thiqah Thabt",
+            "generation": "First Generation of Tabi'in",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Yahya ibn Abi Kathir al-Yamani, Abu Zibyan",
+            "original_id": "0",
+            "kunya": "Abu Zibyan",
+            "nisba": "al-Yamani",
+            "nisba_ar": "اليماني",
+            "death_year": "129 AH",
+            "birth_year": "60 AH",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "1",
+            "location": "Yemen",
+            "transmissionTermMeaning": "From (direct transmission)"
+          },
+          {
+            "name": "Unknown man from the people of Syria",
+            "full_name": "Unnamed narrator from the people of Syria (Ahl al-Sham)",
+            "grade": "Majhul",
+            "generation": "First or Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Identity unknown",
+              "Possibly majhul al-'ayn"
+            ],
+            "narrator_id": 0,
+            "alternative_names": "An unidentified man from Syria",
+            "original_id": "0",
+            "kunya": "",
+            "nisba": "al-Shami",
+            "nisba_ar": "الشامي",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "1 or 2",
+            "location": "Syria",
+            "transmissionTermMeaning": "From (possibly indirect)"
+          },
+          {
+            "name": "Abu Dharr al-Ghifari",
+            "full_name": "Jundub ibn Janada al-Ghifari",
+            "grade": "Thiqah Thabt",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Abu Dharr al-Ghifari, Jundub ibn Janada",
+            "original_id": "0",
+            "kunya": "Abu Dharr",
+            "nisba": "al-Ghifari",
+            "nisba_ar": "الغفاري",
+            "death_year": "32 AH",
+            "birth_year": "60 BH",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "Companion",
+            "location": "Ribat (Rabia)",
+            "transmissionTermMeaning": "He said/narrated"
+          }
+        ],
+        "chainIssues": [
+          "Chain is mursal - goes from Yahya ibn Abi Kathir (a Tabi'i) directly to Abu Dharr (a Companion), skipping intermediate narrators",
+          "The intermediate unnamed Syrian man is not a proper narrative link",
+          "Yahya ibn Abi Kathir was known to have mursal transmissions and did not always mention his sources"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Mursal hadith (disconnected from Companion)",
+        "impact": "The hadith is mursal in that it goes from Yahya ibn Abi Kathir (born 60 AH) to Abu Dharr (died 32 AH). This creates a temporal impossibility - Yahya could not have heard directly from Abu Dharr. The intermediate unknown narrator compounds this."
+      },
+      {
+        "issue": "Unknown narrator (majhul) in the chain",
+        "impact": "An unidentified man from Syria forms a crucial link in the chain. Without knowing his identity, we cannot evaluate his reliability or verify the transmission."
+      },
+      {
+        "issue": "Known mudallis in chain",
+        "impact": "Yahya ibn Abi Kathir is known to engage in mursal transmission and sometimes uses 'an' ambiguously. The combination of mursal transmission with an unknown intermediate narrator weakens the chain significantly."
+      }
+    ],
+    "Classical Grade": [
+      "Daif"
+    ],
+    "IISGrade": "Questionable But Might Be Acceptable",
+    "Topics": [
+      "Incident of visiting Abu Dharr and his ascetic lifestyle",
+      "Dialogue about asceticism and abstinence from worldly possessions",
+      "Abu Dharr's distribution of his salary for charitable purposes",
+      "Simple living and reliance on Allah demonstrated by a Companion",
+      "Maintenance of horses for the path of Allah while living in poverty"
+    ]
+  },
+  {
+    "hadith_id": 6276,
+    "book_id": 13,
+    "book_name_ar": "كتاب رقم 13",
+    "book_name_en": "Unknown Collection (Book 13)",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "1305",
+    "english_translation": "Narrated by al-Zuhri from Hamzah ibn Abdullah ibn Umar: If much food was with Abdullah ibn Umar he would not be satisfied after eating once he found food. It is said that Ibn Mu'ti' visited him while he was ill and saw that his body had wasted away. He said to Safiyyah (Abdullah's wife): 'Why do you not treat him kindly so that perhaps his body will return to him? Prepare food for him.' She said: 'We do that, but he does not leave anyone from his family nor anyone present except he calls upon him (invokes something upon him). You speak to him about this.' Ibn Mu'ti' said to him: 'O Abu Abdillah al-Rahman! If you took food that would return your body to you.' He replied: 'Indeed, eight years have passed over me in which I did not have a single full meal, or he said: I did not have except one meal in them. So now you want me to be satisfied when there remains of my life only the thirst of a donkey.'",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "Muhammad ibn Shihab al-Zuhri",
+            "full_name": "Muhammad ibn Shihab ibn al-Hajjaj al-Zuhri",
+            "grade": "Thiqah Thabt",
+            "generation": "First Generation of Tabi'in",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Known mudallis Category 2 - does not require direct transmission terms"
+            ],
+            "narrator_id": 0,
+            "alternative_names": "al-Zuhri, Muhammad ibn Shihab",
+            "original_id": "0",
+            "kunya": "Abu Bakr",
+            "nisba": "al-Zuhri",
+            "nisba_ar": "الزهري",
+            "death_year": "124 AH",
+            "birth_year": "50 AH",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "1",
+            "location": "Madinah",
+            "transmissionTermMeaning": "From (possibly includes mursal traditions)"
+          },
+          {
+            "name": "Hamzah ibn Abdullah ibn Umar",
+            "full_name": "Hamzah ibn Abdullah ibn Umar ibn al-Khattab",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Hamzah al-Qurashi",
+            "original_id": "0",
+            "kunya": "Abu Abdullahi",
+            "nisba": "al-Qurashi",
+            "nisba_ar": "القرشي",
+            "death_year": "154 AH",
+            "birth_year": "80 AH",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "2",
+            "location": "Madinah",
+            "transmissionTermMeaning": "From (direct transmission)"
+          },
+          {
+            "name": "Abdullah ibn Umar",
+            "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi",
+            "grade": "Thiqah Thabt",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Abdullah ibn Umar, Ibn Umar",
+            "original_id": "0",
+            "kunya": "Abu Abdullahi",
+            "nisba": "al-Qurashi",
+            "nisba_ar": "القرشي",
+            "death_year": "73 AH",
+            "birth_year": "10 AH",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "Companion",
+            "location": "Madinah",
+            "transmissionTermMeaning": "He said/narrated"
+          }
+        ],
+        "chainIssues": [
+          "Data extraction issue: Source text mentions 'al-Zuhri' (Muhammad ibn Shihab) but narrator ID 7272 maps to 'Qays ibn al-Rabi' - a completely different person",
+          "The chain may be maqtu' depending on how al-Zuhri heard this information about Abdullah ibn Umar",
+          "Source provided incomplete narrator information - only listed Qays ibn al-Rabi and Abbad ibn Maysarah, neither of which appear in the text"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Severe data corruption in source - narrator ID mismatch",
+        "impact": "The text mentions 'al-Zuhri' (Muhammad ibn Shihab al-Zuhri) but the narrator ID 7272 maps to 'Qays ibn al-Rabi'' in the source data. This is a critical data quality issue. The analysis used al-Zuhri as identified in the text."
+      },
+      {
+        "issue": "Known mudallis (al-Zuhri) using 'an transmission",
+        "impact": "Al-Zuhri is classified as a Category 2 mudallis by Ibn Hajar. While his 'an' transmissions are generally accepted (not requiring direct terms), this should be noted. However, al-Zuhri is also highly reliable and this does not affect the hadith's grade significantly."
+      },
+      {
+        "issue": "Possible maqtu' connection",
+        "impact": "Al-Zuhri reports from Hamzah about Abdullah ibn Umar. The exact nature of this transmission (whether direct or whether there are gaps) affects the classification."
+      },
+      {
+        "issue": "Major source data extraction failure",
+        "impact": "The enriched source data shows narrator IDs for 'Qays ibn al-Rabi'' and 'Abbad ibn Maysarah', neither of which are mentioned in the text. This suggests a fundamental failure in the data extraction process, where the wrong narrators were extracted."
+      }
+    ],
+    "Classical Grade": [
+      "Hasan"
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Incident of Abdullah ibn Umar's extreme asceticism and fasting",
+      "Dialogue between Ibn Mu'ti' and Abdullah ibn Umar about food and self-discipline",
+      "Explanation of ascetic practice by a Companion during his final years",
+      "The continuity of abstinence from full meals for eight years"
+    ]
+  }
+]
