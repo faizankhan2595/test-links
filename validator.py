@@ -14,7 +14,7 @@ REQUIRED_NARRATOR_GRADES = [
 IIS_GRADES = ["Perfect", "Sound", "Acceptable", "Questionable But Might Be Acceptable",
               "Weak But Might Be Acceptable", "Disconnections But All Narrators Are Ok", "Problematic"]
 
-CLASSICAL_GRADES = ["Sahih", "Hasan", "Daif"]
+CLASSICAL_GRADES = ["Sahih", "Hasan", "Daif", "Mursal", "Mawquf", "Maqtu'"]
 
 def validate_hadith(data: Dict[str, Any]) -> tuple[bool, List[str]]:
     errors = []
