@@ -1,0 +1,2731 @@
+{
+  "batch_number": 1,
+  "source_files": [
+    21,
+    22
+  ],
+  "total_chunks": 5,
+  "total_hadiths": 21,
+  "hadiths": [
+    {
+      "hadith_id": 301,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "301",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Ibn Abbas, from the Prophet ﷺ who said: Whoever fasts three days in each month, it is as if he fasted the entire age. Additionally, al-Rabi ibn Habib narrated from Abu Ayyub al-Ansari who said: The Messenger of Allah ﷺ said: Whoever fasts Ramadan, then follows it with six days from Shawwal, it is as if he fasted the entire age.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah (possibly Maymun ibn Yahya al-Ibadi)",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu Ubaydah al-Ibadi",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra region"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi al-Ibadi",
+              "grade": "Thiqah",
+              "generation": "First Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ibadi, Abu al-Sha'tha",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi al-Ibadi",
+              "nisba_ar": "الأزدي الإباضي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century AH",
+              "location": "Basra"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "transmissionTermMeaning": "From (inherited knowledge)",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Hibr al-Ummah, Imam al-Tafsir",
+              "original_id": 4883,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Ta'if"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Both narrators Abu Ubaydah and Jabir ibn Zaid use عَنْ (ambiguous transmission)",
+            "This hadith appears in Ibadi sources, not in major Sunni collections",
+            "Abu Ubaydah's full identity is unclear in Sunni sources"
+          ]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "al-Rabi ibn Habib",
+              "full_name": "al-Rabi ibn Habib al-Basri al-Ibadi",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "al-Rabi al-Ibadi",
+              "original_id": 0,
+              "kunya": "Abu Ubaidah",
+              "nisba": "al-Ibadi al-Basri",
+              "nisba_ar": "الإباضي البصري",
+              "death_year": "170",
+              "birth_year": "85",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Basra"
+            },
+            {
+              "name": "Abu Ayyub al-Ansari",
+              "full_name": "Khalid ibn Zayd ibn Kulayb al-Ansari al-Khazraji",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said (direct narration)",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Khalid ibn Zayd, Abi Ayyub al-Khalkhali",
+              "original_id": 0,
+              "kunya": "Abu Ayyub",
+              "nisba": "al-Ansari al-Khazraji",
+              "nisba_ar": "الأنصاري الخزرجي",
+              "death_year": "50",
+              "birth_year": "",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Al-Rabi ibn Habib is an Ibadi narrator not in major Sunni hadith collections",
+            "Second chain uses عَنْ for al-Rabi ibn Habib",
+            "Companion Abu Ayyub is highly reliable but al-Rabi ibn Habib is less documented in Sunni sources"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibadi source material",
+          "impact": "Hadiths from purely Ibadi sources are generally not documented in major Sunni hadith compilations, which may affect their grading in traditional Islamic scholarship"
+        },
+        {
+          "issue": "Use of عَنْ (ambiguous transmission) by Abu Ubaydah and al-Rabi ibn Habib",
+          "impact": "These narrators use indirect transmission terms rather than the more explicit حَدَّثَنَا or سَمِعْتُ, but given the era and their reliability in Ibadi sources, this is not necessarily problematic"
+        },
+        {
+          "issue": "Lack of corroboration in major Sunni collections",
+          "impact": "This hadith appears primarily in Ibadi sources without parallel narrations in Sahih al-Bukhari, Sahih Muslim, or other major collections"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting three days in each month",
+        "Equivalence of optional fast with year-round fasting",
+        "Fasting Ramadan with six days of Shawwal",
+        "Virtues of additional fasting"
+      ]
+    },
+    {
+      "hadith_id": 303,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "303",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Abu Saeed al-Khudri who said: People disagreed at Um al-Fadl bint al-Harith, the mother of Abdullah ibn Abbas, regarding the fasting of the Messenger of Allah ﷺ on the day of Arafah. Some said: He was fasting. Others said: He was not fasting. Abu Saeed said: So Um al-Fadl sent him a cup of milk while he was standing on his camel, and he drank it.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah (possibly Maymun ibn Yahya al-Ibadi)",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu Ubaydah al-Ibadi",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra region"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi al-Ibadi",
+              "grade": "Thiqah",
+              "generation": "First Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ibadi, Abu al-Sha'tha",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi al-Ibadi",
+              "nisba_ar": "الأزدي الإباضي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century AH",
+              "location": "Basra"
+            },
+            {
+              "name": "Abu Saeed al-Khudri",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khudri al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said (direct witness account)",
+              "reliabilityIssues": [],
+              "narrator_id": 3260,
+              "alternative_names": "Abu Saeed, Sa'd ibn Malik",
+              "original_id": 3260,
+              "kunya": "Abu Saeed",
+              "nisba": "al-Khudri al-Ansari",
+              "nisba_ar": "الخدري الأنصاري",
+              "death_year": "74",
+              "birth_year": "13",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Abu Ubaydah and Jabir ibn Zaid use عَنْ (ambiguous transmission terms)",
+            "Ibadi source chain not found in major Sunni collections",
+            "The hadith is actually mawquf (stopped at companion level) as it is Abu Saeed's account of an event"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ambiguous transmission through Ibadi narrators",
+          "impact": "Abu Ubaydah and Jabir ibn Zaid, while considered reliable in Ibadi tradition, use عَنْ which could indicate indirect transmission. However, their general reliability mitigates this concern"
+        },
+        {
+          "issue": "Hadith is actually mawquf (stopped at companion level)",
+          "impact": "This is a companion account of an incident, not directly attributed words of the Prophet ﷺ, though the meaning relates to the Prophet's action"
+        },
+        {
+          "issue": "Ibadi source material",
+          "impact": "Primarily transmitted through Ibadi narrators not documented in major Sunni collections"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting on the day of Arafah",
+        "Incident of the Prophet ﷺ not fasting on day of Arafah",
+        "Um al-Fadl sending milk to the Prophet ﷺ",
+        "Narration of Abu Saeed al-Khudri regarding the Prophet's action"
+      ]
+    },
+    {
+      "hadith_id": 305,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "305",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Abu Hurayrah who said: The Messenger of Allah ﷺ said: Whoever wakes up in a state of major ritual impurity (janabah) wakes up breaking his fast.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah (possibly Maymun ibn Yahya al-Ibadi)",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu Ubaydah al-Ibadi",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra region"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi al-Ibadi",
+              "grade": "Thiqah",
+              "generation": "First Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ibadi, Abu al-Sha'tha",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi al-Ibadi",
+              "nisba_ar": "الأزدي الإباضي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century AH",
+              "location": "Basra"
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dusi al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said (direct narration from the Prophet)",
+              "reliabilityIssues": [],
+              "narrator_id": 4396,
+              "alternative_names": "Abu Hurayrah, Abd al-Rahman ibn Sakhr",
+              "original_id": 4396,
+              "kunya": "Abu Hurayrah",
+              "nisba": "al-Dusi al-Yamani",
+              "nisba_ar": "الدوسي اليماني",
+              "death_year": "58 or 59",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Madinah"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Ambiguous transmission through Abu Ubaydah and Jabir ibn Zaid using عَنْ",
+            "Ibadi source material not in major Sunni collections",
+            "Despite Abu Hurayrah's prominence in Sunni hadith, this particular narration appears only in Ibadi sources"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Transmission through Ibadi narrators Abu Ubaydah and Jabir ibn Zaid using عَنْ",
+          "impact": "While these narrators are considered reliable in Ibadi tradition, the indirect transmission term combined with their exclusivity to Ibadi sources weakens the hadith reliability in Sunni hadith sciences"
+        },
+        {
+          "issue": "Absence from major Sunni collections",
+          "impact": "Despite Abu Hurayrah being a prolific narrator in Sunni tradition, this particular hadith is not documented in Sahih al-Bukhari, Muslim, or other major Sunni compilations"
+        },
+        {
+          "issue": "Potential historical recording issue",
+          "impact": "The fact that Abu Hurayrah's narration only appears through Ibadi channels raises questions about its original transmission"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Major ritual impurity (janabah) and fasting",
+        "Ruling on one who wakes up in state of janabah during Ramadan",
+        "Relationship between ritual purification and fasting validity"
+      ]
+    },
+    {
+      "hadith_id": 306,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "306",
+      "english_translation": "Al-Rabi said: from Abu Ubaydah, from Urwah ibn al-Zubayr and al-Hasan al-Basri and Ibrahim al-Nakhai, and a group of the Companions of the Messenger of Allah ﷺ, who said: Whoever wakes up in a state of major ritual impurity wakes up breaking his fast, and they avert the expiation from him.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "al-Rabi ibn Habib",
+              "full_name": "al-Rabi ibn Habib al-Basri al-Ibadi",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said (narrating the report)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "al-Rabi al-Ibadi",
+              "original_id": 0,
+              "kunya": "Abu Ubaidah",
+              "nisba": "al-Ibadi al-Basri",
+              "nisba_ar": "الإباضي البصري",
+              "death_year": "170",
+              "birth_year": "85",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Basra"
+            },
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah (possibly Maymun ibn Yahya al-Ibadi)",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu Ubaydah al-Ibadi",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra region"
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Tabi'in (Successors)",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (reporting the companions' opinion)",
+              "reliabilityIssues": [],
+              "narrator_id": 5594,
+              "alternative_names": "Urwah al-Faqih",
+              "original_id": 5594,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Asadi al-Qurashi",
+              "nisba_ar": "الأسدي القرشي",
+              "death_year": "94",
+              "birth_year": "23",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Tabi'in",
+              "location": "Madinah"
+            },
+            {
+              "name": "Multiple Companions",
+              "full_name": "Group of Companions including al-Hasan al-Basri and Ibrahim al-Nakhai",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion/Tabi'in",
+              "transmissionTerm": "يَقُولُونَ",
+              "transmissionTermMeaning": "They say (group report of companions)",
+              "reliabilityIssues": [],
+              "narrator_id": 1239,
+              "alternative_names": "al-Hasan al-Basri, Ibrahim al-Nakhai",
+              "original_id": 1239,
+              "kunya": "Abu Sa'id",
+              "nisba": "al-Basri, al-Kufi",
+              "nisba_ar": "البصري، الكوفي",
+              "death_year": "110, 96",
+              "birth_year": "21, 46",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Tabi'in",
+              "location": "Basra, Kufa"
+            }
+          ],
+          "chainIssues": [
+            "This hadith is mawquf (stopped at companion level), not marfu'",
+            "Report mentions both al-Hasan al-Basri and Ibrahim al-Nakhai who are Tabi'in narrators, making the attribution unclear",
+            "Narrated through Ibadi source (al-Rabi ibn Habib and Abu Ubaydah)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Hadith is mawquf (stopped at companion level)",
+          "impact": "This is a report of companions' views, not a direct statement from the Prophet ﷺ. The statements like وَيَدْرَءُونَ عَنْهُ الْكَفَّارَةَ (they avert the expiation) reflect scholarly legal opinions"
+        },
+        {
+          "issue": "Unclear attribution to multiple narrators",
+          "impact": "The hadith attributes the statement to 'a group of companions' which makes it difficult to verify the exact source and creates ambiguity in the chain"
+        },
+        {
+          "issue": "Transmission through Ibadi narrators",
+          "impact": "Al-Rabi ibn Habib and Abu Ubaydah are Ibadi narrators not documented in major Sunni sources"
+        },
+        {
+          "issue": "Inclusion of al-Hasan al-Basri in the chain",
+          "impact": "Al-Hasan al-Basri (d. 110 AH) is a Tabi'in, not a companion, yet is listed among 'a group of companions,' creating chronological confusion"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Major ritual impurity during fasting",
+        "Juristic opinion on validity of fast with janabah",
+        "Expiation (kaffarah) for breaking fast",
+        "Disagreement among scholars on this issue",
+        "Incident of companions discussing fasting regulations"
+      ]
+    },
+    {
+      "hadith_id": 307,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "307",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Abu Hurayrah who said: A man broke his fast in Ramadan during the time of the Messenger of Allah ﷺ. The Messenger of Allah ﷺ commanded him to free a slave, or fast two consecutive months, or feed sixty poor people, according to what he is able to do.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah (possibly Maymun ibn Yahya al-Ibadi)",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu Ubaydah al-Ibadi",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra region"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi al-Ibadi",
+              "grade": "Thiqah",
+              "generation": "First Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ibadi, Abu al-Sha'tha",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi al-Ibadi",
+              "nisba_ar": "الأزدي الإباضي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century AH",
+              "location": "Basra"
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dusi al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said (direct narration)",
+              "reliabilityIssues": [],
+              "narrator_id": 4396,
+              "alternative_names": "Abu Hurayrah, Abd al-Rahman ibn Sakhr",
+              "original_id": 4396,
+              "kunya": "Abu Hurayrah",
+              "nisba": "al-Dusi al-Yamani",
+              "nisba_ar": "الدوسي اليماني",
+              "death_year": "58 or 59",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Madinah"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Ibadi source chain",
+            "Abu Ubaydah and Jabir ibn Zaid use عَنْ (ambiguous transmission)",
+            "This specific hadith about expiation for breaking fast appears through Ibadi channels only"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Transmission through Ibadi narrators with ambiguous terms",
+          "impact": "Both Abu Ubaydah and Jabir ibn Zaid use عَنْ which could indicate indirect transmission, though both are considered reliable in their tradition"
+        },
+        {
+          "issue": "Absence from major Sunni hadith collections",
+          "impact": "While the ruling on expiation for breaking fast is documented in Sunni sources, this specific narration from Abu Hurayrah appears primarily through Ibadi channels"
+        },
+        {
+          "issue": "Ibadi source exclusivity",
+          "impact": "The hadith is not found in Sahih al-Bukhari, Sahih Muslim, or other major Sunni collections, raising questions about authenticity in Sunni tradition"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Breaking fast in Ramadan unintentionally",
+        "Expiation for breaking fast",
+        "Liberation of slaves as expiation",
+        "Fasting two consecutive months as alternative",
+        "Feeding sixty poor as alternative",
+        "Graduated options for expiation"
+      ]
+    },
+    {
+      "hadith_id": 308,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "308",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Ibn Abbas, from the Prophet ﷺ who said: Slander breaks the fast of the one fasting and nullifies ablution. Additionally, Jabir ibn Zaid asked Aisha: Did the Messenger of Allah ﷺ kiss while he was fasting? She said: He used to do that with us while he was laughing.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah (possibly Maymun ibn Yahya al-Ibadi)",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu Ubaydah al-Ibadi",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra region"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi al-Ibadi",
+              "grade": "Thiqah",
+              "generation": "First Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ibadi, Abu al-Sha'tha",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi al-Ibadi",
+              "nisba_ar": "الأزدي الإباضي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century AH",
+              "location": "Basra"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "transmissionTermMeaning": "From (inherited knowledge)",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Hibr al-Ummah, Imam al-Tafsir",
+              "original_id": 4883,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Ta'if"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Ibadi source material",
+            "Abu Ubaydah and Jabir ibn Zaid use عَنْ",
+            "Claim about slander breaking fast is unusual and not well-established in major Sunni jurisprudence"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi al-Ibadi",
+              "grade": "Thiqah",
+              "generation": "First Century AH",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said (he asked)",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ibadi, Abu al-Sha'tha",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi al-Ibadi",
+              "nisba_ar": "الأزدي الإباضي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century AH",
+              "location": "Basra"
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abu Bakr al-Siddiq",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "transmissionTermMeaning": "She said (witness account)",
+              "reliabilityIssues": [],
+              "narrator_id": 4049,
+              "alternative_names": "Um al-Mu'minin, the Mother of the Believers",
+              "original_id": 4049,
+              "kunya": "Um Abdullah",
+              "nisba": "al-Siddiqah",
+              "nisba_ar": "الصديقة",
+              "death_year": "58",
+              "birth_year": "",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Second part is mawquf (stopped at companion level)",
+            "Jabir ibn Zaid asking Aisha centuries after her death creates chronological impossibility"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mixing of two different hadiths in one entry",
+          "impact": "The first narration about slander and the second about kissing while fasting are distinct reports that should not be combined"
+        },
+        {
+          "issue": "Claim about slander breaking fast",
+          "impact": "The assertion that slander (ghibah) breaks the fast is not established in major Islamic jurisprudence and appears to be a weak or spurious claim"
+        },
+        {
+          "issue": "Chronological impossibility in second chain",
+          "impact": "Jabir ibn Zaid (d. 103 AH) could not have asked Aisha (d. 58 AH) a question directly. This indicates a data recording error or misattribution"
+        },
+        {
+          "issue": "Ibadi source exclusivity",
+          "impact": "Both reports are found primarily in Ibadi sources, not in major Sunni collections"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Slander and its effect on fasting validity",
+        "Nullification of ablution by slander",
+        "Kissing while fasting",
+        "Permissibility of physical intimacy during fasting",
+        "Account of Aisha regarding the Prophet's actions"
+      ]
+    },
+    {
+      "hadith_id": 309,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "309",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Ibn Abbas, from the Prophet ﷺ who said: When you hear Bilal (making the call to prayer), eat; and when you hear the son of Um Maktum, refrain (from eating). Meaning in Ramadan.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah (possibly Maymun ibn Yahya al-Ibadi)",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu Ubaydah al-Ibadi",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra region"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi al-Ibadi",
+              "grade": "Thiqah",
+              "generation": "First Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ibadi, Abu al-Sha'tha",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi al-Ibadi",
+              "nisba_ar": "الأزدي الإباضي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century AH",
+              "location": "Basra"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "transmissionTermMeaning": "From (inherited knowledge)",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Hibr al-Ummah, Imam al-Tafsir",
+              "original_id": 4883,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Ta'if"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Ibadi source material",
+            "Abu Ubaydah and Jabir ibn Zaid use عَنْ (ambiguous transmission)",
+            "This hadith does not appear in major Sunni collections"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Transmission through Ibadi narrators with ambiguous terms",
+          "impact": "Abu Ubaydah and Jabir ibn Zaid use عَنْ which could indicate indirect transmission"
+        },
+        {
+          "issue": "Absence from major Sunni hadith collections",
+          "impact": "While there are authentic ahadith about different muezzins having different voices and timing, this specific formulation is not found in Sahih al-Bukhari, Muslim, or other major Sunni works"
+        },
+        {
+          "issue": "Historical accuracy of muezzin distinction",
+          "impact": "The hadith attributes specific timings to Bilal and the son of Um Maktum, but the reliability of this specific attribution is questionable"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Bilal as muezzin and his call to prayer",
+        "Ibn Um Maktum as muezzin",
+        "Difference between muezzins in timing the call to prayer",
+        "Eating and breaking fast timing in Ramadan",
+        "Regulation of pre-dawn eating time"
+      ]
+    },
+    {
+      "hadith_id": 310,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "310",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Ibn Abbas, from the Prophet ﷺ who said: My ummah will continue in good as long as they hasten to break the fast and delay the pre-dawn meal.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah (possibly Maymun ibn Yahya al-Ibadi)",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu Ubaydah al-Ibadi",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra region"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi al-Ibadi",
+              "grade": "Thiqah",
+              "generation": "First Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ibadi, Abu al-Sha'tha",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi al-Ibadi",
+              "nisba_ar": "الأزدي الإباضي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century AH",
+              "location": "Basra"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "transmissionTermMeaning": "From (inherited knowledge)",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Hibr al-Ummah, Imam al-Tafsir",
+              "original_id": 4883,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Ta'if"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Ibadi source material",
+            "Abu Ubaydah and Jabir ibn Zaid use عَنْ (ambiguous transmission)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Transmission through Ibadi narrators using عَنْ",
+          "impact": "Both Abu Ubaydah and Jabir ibn Zaid employ ambiguous transmission terms, though both are reliable in their tradition"
+        },
+        {
+          "issue": "Absence from major Sunni collections",
+          "impact": "While similar concepts appear in Sunni hadith about hastening to break fast, this specific formulation is not found in canonical Sunni works"
+        },
+        {
+          "issue": "Exclusively Ibadi sourcing",
+          "impact": "The hadith is transmitted only through Ibadi channels, limiting its acceptance in mainstream Islamic scholarship"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hastening to break the fast",
+        "Delaying the pre-dawn meal (suhur)",
+        "Virtue of proper fasting practice",
+        "Community well-being through correct fasting practice",
+        "Good signs within the Muslim ummah"
+      ]
+    },
+    {
+      "hadith_id": 312,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "312",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Anas ibn Malik who said: The Messenger of Allah ﷺ said: I was shown this night until two men from your people quarreled, then it (the certainty about the night) was lifted. So seek it in the ninth, seventh, and fifth (nights). Al-Rabi said: Quarreled (talaha) means they disputed or doubted.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah (possibly Maymun ibn Yahya al-Ibadi)",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu Ubaydah al-Ibadi",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra region"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi al-Ibadi",
+              "grade": "Thiqah",
+              "generation": "First Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ibadi, Abu al-Sha'tha",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi al-Ibadi",
+              "nisba_ar": "الأزدي الإباضي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century AH",
+              "location": "Basra"
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Khazraji",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said (direct narration)",
+              "reliabilityIssues": [],
+              "narrator_id": 720,
+              "alternative_names": "Anas, the servant of the Prophet",
+              "original_id": 720,
+              "kunya": "Abu Hamzah",
+              "nisba": "al-Khazraji al-Ansari",
+              "nisba_ar": "الخزرجي الأنصاري",
+              "death_year": "93",
+              "birth_year": "10",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Basra"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Ibadi source material",
+            "Abu Ubaydah and Jabir ibn Zaid use عَنْ (ambiguous transmission)",
+            "The hadith includes an editorial commentary from al-Rabi ibn Habib explaining the word 'talaha'"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Transmission through Ibadi narrators with ambiguous terms",
+          "impact": "Both Abu Ubaydah and Jabir ibn Zaid use عَنْ which could indicate indirect transmission, though they are reliable in their tradition"
+        },
+        {
+          "issue": "Editorial commentary mixed with hadith",
+          "impact": "The text includes al-Rabi's explanation of the word 'talaha' which is a later commentary, not part of the hadith proper"
+        },
+        {
+          "issue": "Absence from major Sunni collections",
+          "impact": "While there are numerous ahadith about Laylat al-Qadr in Sunni sources, this specific version is found only in Ibadi sources"
+        },
+        {
+          "issue": "Limited specificity on night identification",
+          "impact": "The hadith mentions the 9th, 7th, and 5th nights (of Ramadan) as possible times for Laylat al-Qadr, but Sunni hadith typically emphasize the last ten nights, especially odd nights"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Laylat al-Qadr (The Night of Power)",
+        "When the Prophet's certainty about the exact night was lifted",
+        "Incident of two men quarreling concerning Laylat al-Qadr",
+        "Specific nights in Ramadan for seeking Laylat al-Qadr",
+        "Virtue and importance of Laylat al-Qadr",
+        "Worship on the night of power"
+      ]
+    },
+    {
+      "hadith_id": 313,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "313",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Abu Saeed al-Khudri who said: The Messenger of Allah ﷺ used to perform itikaf (seclusion) in the middle ten days of Ramadan. One year he performed itikaf until the twenty-first night of Ramadan, which was the night he would come out of his retreat. He said: Whoever performs itikaf with me, let him perform itikaf in the last ten days. I have been shown this night and then it was made me forget it. I have been shown that I am prostrating on water and clay on its morning. So seek it in the last ten days, and seek it in every odd night.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah (possibly Maymun ibn Yahya al-Ibadi)",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu Ubaydah al-Ibadi",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra region"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi al-Ibadi",
+              "grade": "Thiqah",
+              "generation": "First Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ibadi, Abu al-Sha'tha",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi al-Ibadi",
+              "nisba_ar": "الأزدي الإباضي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century AH",
+              "location": "Basra"
+            },
+            {
+              "name": "Abu Saeed al-Khudri",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khudri al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said (direct witness account)",
+              "reliabilityIssues": [],
+              "narrator_id": 3260,
+              "alternative_names": "Abu Saeed, Sa'd ibn Malik",
+              "original_id": 3260,
+              "kunya": "Abu Saeed",
+              "nisba": "al-Khudri al-Ansari",
+              "nisba_ar": "الخدري الأنصاري",
+              "death_year": "74",
+              "birth_year": "13",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Ibadi source material",
+            "Abu Ubaydah and Jabir ibn Zaid use عَنْ (ambiguous transmission)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ambiguous transmission through Ibadi narrators",
+          "impact": "Both narrators use عَنْ which could indicate indirect transmission, though both are reliable in their tradition"
+        },
+        {
+          "issue": "Absence from major Sunni collections",
+          "impact": "This specific narration about changing the itikaf timing is not found in major Sunni sources"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Itikaf (seclusion) in Ramadan",
+        "The last ten days of Ramadan",
+        "Laylat al-Qadr and preparation for it",
+        "Change in the Prophet's itikaf practice",
+        "Vision of the Prophet regarding Laylat al-Qadr"
+      ]
+    },
+    {
+      "hadith_id": 315,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "315",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Abu Saeed al-Khudri who reported that the Messenger of Allah ﷺ said regarding Ramadan: Do not fast until you sight the crescent, and do not break your fast until you sight it. If it is cloudy for you, then estimate (complete thirty days). In another narration: Then complete thirty days.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah (possibly Maymun ibn Yahya al-Ibadi)",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu Ubaydah al-Ibadi",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra region"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi al-Ibadi",
+              "grade": "Thiqah",
+              "generation": "First Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ibadi, Abu al-Sha'tha",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi al-Ibadi",
+              "nisba_ar": "الأزدي الإباضي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century AH",
+              "location": "Basra"
+            },
+            {
+              "name": "Abu Saeed al-Khudri",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khudri al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said (direct narration)",
+              "reliabilityIssues": [],
+              "narrator_id": 3260,
+              "alternative_names": "Abu Saeed, Sa'd ibn Malik",
+              "original_id": 3260,
+              "kunya": "Abu Saeed",
+              "nisba": "al-Khudri al-Ansari",
+              "nisba_ar": "الخدري الأنصاري",
+              "death_year": "74",
+              "birth_year": "13",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Ibadi source material",
+            "Ambiguous transmission terms used throughout"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Transmission through Ibadi source exclusively",
+          "impact": "While the principle of moon sighting is established in Sunni hadith, this specific formulation is found only in Ibadi sources"
+        },
+        {
+          "issue": "Text includes variant wording (وَفِي رِوَايَةٍ أُخْرَى)",
+          "impact": "The hadith offers two versions of the ruling, which is less clear than unified narrations"
+        }
+      ],
+      "Classical Grade": [
+        "Sahih"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Moon sighting (hilal) for Ramadan",
+        "Commencement of fasting based on sighting",
+        "Breaking fast based on sighting",
+        "Cloudy weather and astronomical estimation",
+        "Completing thirty days as alternative"
+      ]
+    },
+    {
+      "hadith_id": 316,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "316",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid who said: The Messenger of Allah ﷺ forbade fasting on the day of doubt, which is the last day of Sha'ban, and the day of Fitr, and the day of Adha. He said: Whoever fasts these two days has committed a sin.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah (possibly Maymun ibn Yahya al-Ibadi)",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu Ubaydah al-Ibadi",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra region"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi al-Ibadi",
+              "grade": "Thiqah",
+              "generation": "First Century AH",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said (narrating the prohibition)",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ibadi, Abu al-Sha'tha",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi al-Ibadi",
+              "nisba_ar": "الأزدي الإباضي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century AH",
+              "location": "Basra"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Two-step chain with Ibadi narrators",
+            "The chain is shorter than in previous hadiths from same sources"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Serious sin language for fasting prohibited days",
+          "impact": "The use of قَارَفَ إِثْمًا (committed sin) is strong language that is typically reserved for major prohibited acts"
+        },
+        {
+          "issue": "Exclusively Ibadi source transmission",
+          "impact": "This hadith is found only in Ibadi traditions, not in major Sunni collections"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prohibition of fasting on Eid days",
+        "Day of doubt (day of suspicion)",
+        "Last day of Sha'ban",
+        "Day of Fitr",
+        "Day of Adha",
+        "Ruling against fasting on these specific days"
+      ]
+    },
+    {
+      "hadith_id": 317,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "317",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid who said: It reached me that Umar ibn al-Khattab, may Allah be pleased with him, led the people in prayer on the day of Eid, then left and addressed the people. He said: These two days are days regarding which the Messenger of Allah ﷺ forbade fasting - the day of your breaking of the fast from fasting, and the other day is a day on which you eat from your sacrifices.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah (possibly Maymun ibn Yahya al-Ibadi)",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu Ubaydah al-Ibadi",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra region"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi al-Ibadi",
+              "grade": "Thiqah",
+              "generation": "First Century AH",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "Reports it as بَلَغَنِي (it reached me) indicating indirect knowledge"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ibadi, Abu al-Sha'tha",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi al-Ibadi",
+              "nisba_ar": "الأزدي الإباضي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century AH",
+              "location": "Basra"
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said (his public sermon)",
+              "reliabilityIssues": [],
+              "narrator_id": 5913,
+              "alternative_names": "Umar al-Faruq, Commander of the Believers",
+              "original_id": 5913,
+              "kunya": "Abu Hafs",
+              "nisba": "al-Qurashi al-Adawi",
+              "nisba_ar": "القرشي العدوي",
+              "death_year": "23",
+              "birth_year": "",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah"
+            }
+          ],
+          "chainIssues": [
+            "The word بَلَغَنِي (it reached me) indicates indirect transmission",
+            "This is a mawquf hadith (stopped at companion level)",
+            "Transmitted through Ibadi sources only"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of بَلَغَنِي (it reached me) in transmission",
+          "impact": "This indicates Jabir ibn Zaid did not directly witness or hear from Umar, but rather heard it reported indirectly"
+        },
+        {
+          "issue": "Mawquf hadith (stopped at companion level)",
+          "impact": "While Umar's statement is reliable as a companion's view, it is not a direct ruling from the Prophet ﷺ"
+        },
+        {
+          "issue": "Exclusively Ibadi transmission channel",
+          "impact": "This report is found only in Ibadi sources"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Umar's Eid sermon",
+        "Umar confirming the Prophet's prohibition on Eid fasting",
+        "Two Eid days (Fitr and Adha)",
+        "Companion's narration of Prophet's teaching"
+      ]
+    },
+    {
+      "hadith_id": 318,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "318",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Ibn Abbas who said: The Prophet ﷺ forbade wisal - that a man connects the fast of a day and night (without breaking it).",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah (possibly Maymun ibn Yahya al-Ibadi)",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator",
+                "not in major Sunni collections"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu Ubaydah al-Ibadi",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra region"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi al-Ibadi",
+              "grade": "Thiqah",
+              "generation": "First Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ibadi, Abu al-Sha'tha",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi al-Ibadi",
+              "nisba_ar": "الأزدي الإباضي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century AH",
+              "location": "Basra"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said (narrating the Prophet's prohibition)",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Hibr al-Ummah, Imam al-Tafsir",
+              "original_id": 4883,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Ta'if"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Ibadi source material",
+            "Abu Ubaydah and Jabir ibn Zaid use عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Exclusively Ibadi transmission",
+          "impact": "While wisal prohibition is known in Sunni tradition, this specific Ibadi narration is less documented in major collections"
+        },
+        {
+          "issue": "Ambiguous transmission terms",
+          "impact": "Both narrators use عَنْ which could indicate indirect transmission"
+        }
+      ],
+      "Classical Grade": [
+        "Sahih"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Wisal (continuous fasting)",
+        "Prohibition of connecting day and night fasting",
+        "Fasting etiquette and boundaries",
+        "Prophet's guidance on extended fasting practices"
+      ]
+    },
+    {
+      "hadith_id": 319,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "319",
+      "english_translation": "The Prophet ﷺ forbade killing birds (safrid and surad).",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Unknown",
+              "full_name": "Unknown Narrator",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "Unknown",
+              "reliabilityIssues": [
+                "Incomplete chain - missing narrators"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Chain is incomplete and fragmentary"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Fragmentary/incomplete hadith",
+          "impact": "Critical - full chain is missing, making assessment impossible"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Prohibition on killing certain birds"
+      ]
+    },
+    {
+      "hadith_id": 321,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "321",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Abu Hurayrah who said: The Messenger of Allah ﷺ said: Whoever fasts Ramadan with faith and hope of reward, his previous sins will be forgiven. And if you knew what is in the virtue of Ramadan, you would wish it were a year (long).",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah al-Ibadi",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially ambiguous transmission)",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu Ubaydah al-Ibadi",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi",
+              "grade": "Thiqah",
+              "generation": "First Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ibadi",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century",
+              "location": "Basra"
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said",
+              "reliabilityIssues": [],
+              "narrator_id": 4396,
+              "alternative_names": "Abu Hurayrah",
+              "original_id": 4396,
+              "kunya": "Abu Hurayrah",
+              "nisba": "al-Dusi",
+              "nisba_ar": "الدوسي",
+              "death_year": "58 or 59",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Madinah"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Ibadi source",
+            "Ambiguous transmission terms"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibadi transmission exclusively",
+          "impact": "Limited documentation in major Sunni sources"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Forgiveness of sins through fasting Ramadan",
+        "Virtues of Ramadan month",
+        "Faith and hope as conditions for reward"
+      ]
+    },
+    {
+      "hadith_id": 322,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "322",
+      "english_translation": "From the same path (of transmission), the Prophet ﷺ said: The change in the mouth of the fasting person is sweeter to Allah than the smell of musk. My slave has abandoned his desires and food for My sake. Fasting is for Me, and I will reward him for it.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Unknown",
+              "full_name": "Unknown from variant chain",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [
+                "Chain incomplete - variant pathway"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Variant chain description incomplete - missing narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete chain from variant pathway",
+          "impact": "Full chain not provided - assessment limited"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Fasting as devotion to Allah",
+        "Change in breath during fasting",
+        "Special status of fasting in Allah's sight"
+      ]
+    },
+    {
+      "hadith_id": 323,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "323",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Ibn Abbas, from the Prophet ﷺ who said: There is no faith for one who has no prayer. The hadith continues to his saying: There is no fasting except by abstaining from Allah's prohibitions. From the path of Abu Hurayrah, he said the Messenger of Allah ﷺ said: Fasting is a protection. When any of you is fasting, let him not engage in indecent speech or ignorance. If someone quarrels with him or insults him, let him say: I am fasting.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah al-Ibadi",
+              "grade": "Sadooq",
+              "generation": "Second Century AH",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi",
+              "grade": "Thiqah",
+              "generation": "First Century",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century",
+              "location": "Basra"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "",
+              "original_id": 4883,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Contains abbreviated section",
+            "Second chain from Abu Hurayrah path"
+          ]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said",
+              "reliabilityIssues": [],
+              "narrator_id": 4396,
+              "alternative_names": "",
+              "original_id": 4396,
+              "kunya": "Abu Hurayrah",
+              "nisba": "al-Dusi",
+              "nisba_ar": "الدوسي",
+              "death_year": "58 or 59",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Madinah"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Secondary chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mixed chains from two sources",
+          "impact": "First chain from Ibn Abbas, second from Abu Hurayrah with incomplete intermediate narrators"
+        },
+        {
+          "issue": "Abbreviated section in first chain",
+          "impact": "The text indicates abbreviation with الْحَدِيثَ إِلَى making full evaluation difficult"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Relationship between prayer and faith",
+        "Fasting as shield/protection",
+        "Etiquette during fasting",
+        "Response to insults while fasting"
+      ]
+    },
+    {
+      "hadith_id": 325,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "325",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Ibn Abbas, from the Prophet ﷺ who said: On what the sky waters and springs water, the tithe (one-tenth); and on what is watered by irrigating devices and wheels, half the tithe (one-twentieth).",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah al-Ibadi",
+              "grade": "Sadooq",
+              "generation": "Second Century",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi",
+              "grade": "Thiqah",
+              "generation": "First Century",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century",
+              "location": "Basra"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "",
+              "original_id": 4883,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Ibadi source only"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibadi transmission",
+          "impact": "Limited documentation in major Sunni works"
+        }
+      ],
+      "Classical Grade": [
+        "Sahih"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Zakat on agricultural produce",
+        "Different rates for rain-watered vs irrigated land",
+        "Tithe (ushr) rate determination"
+      ]
+    },
+    {
+      "hadith_id": 327,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "327",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Aisha, the Mother of the Believers, may Allah be pleased with her, who said: The Messenger of Allah ﷺ instituted Zakat al-Fitr for the free and slave, male and female, small and large: one measure (sa') of dates, or one measure of raisins, or wheat or barley, or from pressed yogurt.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah al-Ibadi",
+              "grade": "Sadooq",
+              "generation": "Second Century",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi",
+              "grade": "Thiqah",
+              "generation": "First Century",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century",
+              "location": "Basra"
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abu Bakr al-Siddiq",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "transmissionTermMeaning": "She said",
+              "reliabilityIssues": [],
+              "narrator_id": 4049,
+              "alternative_names": "Um al-Mu'minin",
+              "original_id": 4049,
+              "kunya": "Um Abdullah",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "58",
+              "birth_year": "",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Ibadi source"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibadi transmission",
+          "impact": "Found in Ibadi sources, variant of Aisha narration"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Zakat al-Fitr (obligatory alms at Eid)",
+        "Sa' (traditional measure) as unit",
+        "Accepted items for Fitr payment",
+        "Universality of Fitr alms"
+      ]
+    },
+    {
+      "hadith_id": 328,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "328",
+      "english_translation": "Narrated by Abu Ubaydah: from Jabir ibn Zaid, from Abu Saeed al-Khudri who said: The Messenger of Allah ﷺ said: The injury of an animal is compensated (no liability). A well is compensated. A mine is compensated. In buried treasure (rikaz), the fifth is due.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah al-Ibadi",
+              "grade": "Sadooq",
+              "generation": "Second Century",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Ibadi narrator"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "",
+              "original_id": 31544,
+              "kunya": "Abu Ubaydah",
+              "nisba": "al-Ibadi",
+              "nisba_ar": "الإباضي",
+              "death_year": "210",
+              "birth_year": "",
+              "reliability_grade": "Sadooq",
+              "tabaqat": "Second Century",
+              "location": "Oman/Basra"
+            },
+            {
+              "name": "Jabir ibn Zaid",
+              "full_name": "Jabir ibn Zaid al-Azdi",
+              "grade": "Thiqah",
+              "generation": "First Century",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "",
+              "original_id": 2063,
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "103",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First Century",
+              "location": "Basra"
+            },
+            {
+              "name": "Abu Saeed al-Khudri",
+              "full_name": "Sa'd ibn Malik al-Khudri",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionTermMeaning": "He said",
+              "reliabilityIssues": [],
+              "narrator_id": 3260,
+              "alternative_names": "",
+              "original_id": 3260,
+              "kunya": "Abu Saeed",
+              "nisba": "al-Khudri",
+              "nisba_ar": "الخدري",
+              "death_year": "74",
+              "birth_year": "13",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Basra"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Ibadi source",
+            "Ambiguous transmission terms"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibadi source exclusively",
+          "impact": "Limited documentation in major Sunni hadith compilations"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Compensation rulings (jibara)",
+        "Animal injuries without liability",
+        "Wells and mines - shared responsibility",
+        "Treasure finds and khums",
+        "Islamic commercial law principles"
+      ]
+    }
+  ]
+}
