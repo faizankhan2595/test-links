@@ -1,0 +1,1115 @@
+{
+  "batch_number": 1,
+  "chunk_number": 2,
+  "record_count": 6,
+  "hadiths": [
+    {
+      "hadith_id": 3637,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "531",
+      "arabic_text": "عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُمْ، قَالَ: \"الْبَيِّنَةُ عَلَى الْمُدَّعِي وَالْيَمِينُ عَلَى الْمُنْكِرِ\"، سَأَلْتُ زَيْدَ بْنَ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ عَنْ شَاهِدٍ وَيَمِينٍ، قَالَ: لَا، إِلَّا بِشَاهِدَيْنِ كَمَا قَالَ اللَّهُ تَعَالَى: فَإِنْ لَمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَامْرَأَتَانِ",
+      "english_translation": "From his father, from his grandfather, from Ali (may Allah be pleased with them), he said: 'The burden of proof is upon the claimant, and the oath is upon the one who denies.' I asked Zayd ibn Ali (may Allah be pleased with him) about one witness and an oath, he said: 'No, except with two witnesses as Allah the Exalted said: If there are not two men, then one man and two women.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd al-Laithi",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Junda' ibn Layth ibn Bakr ibn Abd Manah",
+              "grade": "Saduq Yahim",
+              "generation": "Third Generation (Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Considered Saduq (truthful) but with some errors by Ibn Hajar",
+                "Some scholars weakened him slightly",
+                "Known to have committed mistakes in narration"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki, Abu Hashim",
+              "original_id": "4929",
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "117",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yahim",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "His Father (Unknown)",
+              "full_name": "Ubayd ibn Umayr (uncertain identification)",
+              "grade": "Majhul",
+              "generation": "Second Generation (Senior Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Not explicitly named in the chain - severe weakness",
+                "Unknown narrator - Majhul (unknown status)",
+                "Cannot be properly authenticated"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Unknown",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "2",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "His Grandfather (Unknown)",
+              "full_name": "Umayr ibn Qatadah (uncertain identification)",
+              "grade": "Majhul",
+              "generation": "First Generation (Senior Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Not explicitly named in the chain - severe weakness",
+                "Unknown narrator - Majhul (unknown status)",
+                "Cannot be properly authenticated",
+                "No established connection to Ali verified"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Unknown",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "1",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abu al-Hasan, Abu al-Husayn, Amir al-Mu'minin",
+              "original_id": "5722",
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "40",
+              "birth_year": "23 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            {
+              "issue": "Mu'dal Chain - Broken Chain with Missing Links",
+              "severity": "Critical",
+              "explanation": "The chain contains 'from his father, from his grandfather' without naming these narrators. This is a major defect in the isnad."
+            },
+            {
+              "issue": "Majhul Narrators - Unknown Transmitters",
+              "severity": "Critical",
+              "explanation": "The father and grandfather are not identified by name, making them Majhul (unknown). Their reliability cannot be assessed."
+            },
+            {
+              "issue": "An'anah with Weak Narrator",
+              "severity": "Moderate",
+              "explanation": "Abdullah ibn Ubayd al-Laithi uses 'an (عَنْ) which is ambiguous. Combined with his Saduq Yahim status, this weakens the chain."
+            },
+            {
+              "issue": "Multiple An'anah Links",
+              "severity": "Moderate",
+              "explanation": "All transmission terms are 'an (عَنْ), creating multiple points of potential discontinuity in the chain."
+            }
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Severely Broken Chain (Mu'dal)",
+          "impact": "This hadith cannot be authenticated due to the unnamed narrators in the chain. The presence of 'his father' and 'his grandfather' without identification makes this chain critically weak. This is classified as Mu'dal or possibly Mursal in classical hadith terminology."
+        },
+        {
+          "issue": "Unknown Narrators (Majhul)",
+          "impact": "Two narrators in the chain are completely unknown. Their trustworthiness, memory, and even their existence cannot be verified. This alone makes the hadith Da'if Jiddan (very weak)."
+        },
+        {
+          "issue": "Weak Primary Narrator",
+          "impact": "Abdullah ibn Ubayd al-Laithi is classified as Saduq Yahim (truthful but makes mistakes). While not severely weak, this adds to the overall weakness."
+        },
+        {
+          "issue": "Matn Confusion with Zayd ibn Ali",
+          "impact": "The text suddenly shifts to a question asked to Zayd ibn Ali about witness testimony. This appears to be a mixing of two separate narrations or editorial commentary, further complicating the hadith's structure."
+        }
+      ],
+      "Classical Grade": ["Da'if Jiddan (Very Weak)", "Munkar"],
+      "IISGrade": "Rejected",
+      "Topics": [
+        "Islamic jurisprudence (Fiqh)",
+        "Court proceedings and judicial evidence",
+        "Burden of proof in Islamic law",
+        "Role of oaths in dispute resolution",
+        "Witness testimony requirements",
+        "Legal principles in Islam",
+        "Comparison between one witness with oath vs. two witnesses",
+        "Quranic verse on witness requirements (Surah al-Baqarah 2:282)"
+      ],
+      "detailed_analysis": {
+        "isnad_type": "Mu'dal (severely broken chain)",
+        "ruling": "This narration is Da'if Jiddan (very weak) to Munkar (rejected) due to the severely broken chain with unnamed, unknown narrators. While the content (burden of proof on claimant, oath on denier) is a well-known authentic principle in Islam narrated through other sound chains, this particular chain cannot be accepted.",
+        "supporting_evidence": "The principle 'al-bayyinah 'ala al-mudda'i wa al-yamin 'ala man ankara' is authentically narrated in Sunan Ibn Majah, Sunan al-Bayhaqi, and other collections through sound chains. This weak version should not be relied upon when authentic versions exist.",
+        "final_verdict": "REJECTED - Use authentic versions of this narration from reliable sources instead."
+      }
+    },
+    {
+      "hadith_id": 3638,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "532",
+      "arabic_text": "عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُمْ، قَالَ: \"أَوَّلُ الْقَضَاءِ مَا فِي كِتَابِ اللَّهِ عَزَّ وَجَلَّ، ثُمَّ مَا قَالَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ثُمَّ مَا أَجْمَعَ عَلَيْهِ الصَّالِحُونَ، فَإِنْ لَمْ يُوجَدْ ذَلِكَ فِي كِتَابِ اللَّهِ تَعَالَى، وَلَا فِي السُّنَّةِ، وَلَا فِيمَا أَجْمَعَ عَلَيْهِ الصَّالِحُونَ اجْتَهَدَ الْإِمَامُ فِي ذَلِكَ لَا يَأْلُو احْتِيَاطًا، وَاعْتَبَرَ، وَقَاسَ الْأُمُورَ بَعْضَهَا بِبَعْضٍ، فَإِذَا تَبَيَّنَ لَهُ الْحَقُّ أَمْضَاهُ وَلِقَاضِي الْمُسْلِمِينَ مِنْ ذَلِكَ مَا لِإِمَامِهِمْ\"",
+      "english_translation": "From his father, from his grandfather, from Ali (may Allah be pleased with them), he said: 'The first source of judgment is what is in the Book of Allah (Mighty and Majestic), then what the Messenger of Allah ﷺ said, then what the righteous have agreed upon. If it is not found in the Book of Allah, nor in the Sunnah, nor in what the righteous have agreed upon, then the Imam exercises ijtihad in that matter with utmost care and consideration, and he analogizes matters with one another. When the truth becomes clear to him, he implements it. The judge of the Muslims has the same authority in this as their Imam.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd al-Laithi",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Junda' ibn Layth ibn Bakr ibn Abd Manah",
+              "grade": "Saduq Yahim",
+              "generation": "Third Generation (Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Considered Saduq (truthful) but with some errors by Ibn Hajar",
+                "Some scholars weakened him slightly",
+                "Known to have committed mistakes in narration"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki, Abu Hashim",
+              "original_id": "4929",
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "117",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yahim",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "His Father (Unknown)",
+              "full_name": "Ubayd ibn Umayr (uncertain identification)",
+              "grade": "Majhul",
+              "generation": "Second Generation (Senior Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Not explicitly named in the chain - severe weakness",
+                "Unknown narrator - Majhul (unknown status)",
+                "Cannot be properly authenticated"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Unknown",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "2",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "His Grandfather (Unknown)",
+              "full_name": "Umayr ibn Qatadah (uncertain identification)",
+              "grade": "Majhul",
+              "generation": "First Generation (Senior Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Not explicitly named in the chain - severe weakness",
+                "Unknown narrator - Majhul (unknown status)",
+                "Cannot be properly authenticated",
+                "No established connection to Ali verified"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Unknown",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "1",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abu al-Hasan, Abu al-Husayn, Amir al-Mu'minin",
+              "original_id": "5722",
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "40",
+              "birth_year": "23 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            {
+              "issue": "Mu'dal Chain - Broken Chain with Missing Links",
+              "severity": "Critical",
+              "explanation": "The chain contains 'from his father, from his grandfather' without naming these narrators. This is a major defect in the isnad."
+            },
+            {
+              "issue": "Majhul Narrators - Unknown Transmitters",
+              "severity": "Critical",
+              "explanation": "The father and grandfather are not identified by name, making them Majhul (unknown). Their reliability cannot be assessed."
+            },
+            {
+              "issue": "An'anah with Weak Narrator",
+              "severity": "Moderate",
+              "explanation": "Abdullah ibn Ubayd al-Laithi uses 'an (عَنْ) which is ambiguous. Combined with his Saduq Yahim status, this weakens the chain."
+            },
+            {
+              "issue": "Multiple An'anah Links",
+              "severity": "Moderate",
+              "explanation": "All transmission terms are 'an (عَنْ), creating multiple points of potential discontinuity in the chain."
+            }
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Severely Broken Chain (Mu'dal)",
+          "impact": "This hadith cannot be authenticated due to the unnamed narrators in the chain. The presence of 'his father' and 'his grandfather' without identification makes this chain critically weak."
+        },
+        {
+          "issue": "Unknown Narrators (Majhul)",
+          "impact": "Two narrators in the chain are completely unknown. Their trustworthiness, memory, and even their existence cannot be verified. This alone makes the hadith Da'if Jiddan (very weak)."
+        },
+        {
+          "issue": "Content May Be Fabricated",
+          "impact": "The systematic presentation of sources of Islamic law (Quran, Sunnah, Ijma, Qiyas/Ijtihad) appears too formulaic for early Companion statements. This legal framework was more formally articulated by later jurists (usul al-fiqh scholars), raising suspicions about authenticity."
+        },
+        {
+          "issue": "Anachronistic Language",
+          "impact": "The structured methodology described sounds more like later usul al-fiqh (principles of jurisprudence) terminology rather than early Companion-era discourse."
+        }
+      ],
+      "Classical Grade": ["Da'if Jiddan (Very Weak)", "Munkar", "Possibly Mawdu' (Fabricated)"],
+      "IISGrade": "Rejected",
+      "Topics": [
+        "Sources of Islamic law (Usul al-Fiqh)",
+        "Hierarchy of legal sources in Islam",
+        "Quran as primary source",
+        "Sunnah as second source",
+        "Ijma' (Consensus of righteous scholars)",
+        "Ijtihad (Independent reasoning)",
+        "Qiyas (Analogical reasoning)",
+        "Role of judges in Islamic law",
+        "Methodology of Islamic jurisprudence",
+        "Authority of judges vs. rulers in legal matters"
+      ],
+      "detailed_analysis": {
+        "isnad_type": "Mu'dal (severely broken chain)",
+        "ruling": "This narration is Da'if Jiddan (very weak) to possibly Mawdu' (fabricated). The broken chain with unknown narrators is a critical defect. Additionally, the content's systematic presentation of legal sources suggests later formulation rather than authentic Companion-era statement.",
+        "supporting_evidence": "While the hierarchy of sources (Quran → Sunnah → Ijma' → Ijtihad) is correct in Islamic jurisprudence, this particular formulation appears too structured for an early narration. The famous letter of Umar ibn al-Khattab to Abu Musa al-Ash'ari contains similar guidance but with different wording and through authenticated chains.",
+        "final_verdict": "REJECTED - This narration cannot be relied upon. The principles described are valid in Islamic law but should be referenced through authentic sources, not this weak chain."
+      }
+    },
+    {
+      "hadith_id": 3639,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "533",
+      "arabic_text": "عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُمْ، قَالَ: بَعَثَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى الْيَمَنِ، فَقُلْتُ: يَا رَسُولَ اللَّهِ، تَبْعَثُنِي وَأَنَا شَابٌّ لَا عِلْمَ لِي بِالْقَضَاءِ، قَالَ: فَضَرَبَ يَدَهُ فِي صَدْرِي وَدَعَا لِيَ، فَقَالَ: \"اللَّهُمَّ اهْدِ قَلْبَهُ وَثَبِّتْ لِسَانَهُ وَلَقِّنْهُ الصَّوَابَ، وَثَبِّتْهُ بِالْقَوْلِ الثَّابِتِ\"، ثُمَّ قَالَ: يَا عَلِيُّ \"إِذَا جَلَسَ بَيْنَ يَدَيْكَ الْخَصْمَانِ فَلَا تَعْجَلْ بِالْقَضَاءِ بَيْنَهُمَا حَتَّى تَسْمَعَ مَا يَقُولُ الْآخَرُ، يَا عَلِيُّ: لَا تَقْضِ بَيْنَ اثْنَيْنِ وَأَنْتَ غَضْبَانُ وَلَا تَقْبَلَ هَدِيَّةَ مُخَاصِمٍ، وَلَا تُضَيِّفْهُ دُونَ خَصْمِهِ، فَإِنَّ اللَّهَ عَزَّ وَجَلَّ سَيَهْدِي قَلْبَكَ وَيُثَبِّتُ لِسَانَكَ\"، قَالَ: فَقَالَ رَضِيَ اللَّهُ عَنْهُ: فَوَالَّذِي فَلَقَ الْحَبَّةَ وَبَرَأَ النَّسْمَةَ مَا شَكَكْتُ فِي قَضَاءٍ بَعْدُ",
+      "english_translation": "From his father, from his grandfather, from Ali (may Allah be pleased with them), he said: The Messenger of Allah ﷺ sent me to Yemen. I said: 'O Messenger of Allah, you send me while I am young and have no knowledge of judging.' He struck his hand on my chest and supplicated for me, saying: 'O Allah, guide his heart, make his tongue firm, teach him what is correct, and make him firm with the firm statement.' Then he said: 'O Ali, when two disputants sit before you, do not hasten to judge between them until you hear what the other says. O Ali, do not judge between two people while you are angry, do not accept a gift from a litigant, and do not host him without his opponent, for verily Allah will guide your heart and make your tongue firm.' He (Ali) said: 'By the One Who split the grain and created the soul, I have never doubted in a judgment thereafter.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman al-Khurasani",
+              "full_name": "Abdullah ibn Uthman ibn Ata ibn Abi Muslim",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Completely unknown narrator - Majhul al-Hal",
+                "No authentication found in classical rijal works",
+                "No known biography or reliability assessment"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abu Muhammad al-Ramli",
+              "original_id": "4946",
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khurasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Khurasan/Ramlah",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr al-Naysaburi",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - Majhul al-Hal",
+                "No authentication found in classical rijal works",
+                "No known biography or reliability assessment"
+              ],
+              "narrator_id": 1336,
+              "alternative_names": "Abu al-Fadl al-Naysaburi",
+              "original_id": "425",
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Naysaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Naysabur",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Abdullah ibn Ubayd al-Laithi",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Junda' ibn Layth ibn Bakr ibn Abd Manah",
+              "grade": "Saduq Yahim",
+              "generation": "Third Generation (Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Considered Saduq (truthful) but with some errors by Ibn Hajar",
+                "Some scholars weakened him slightly",
+                "Known to have committed mistakes in narration"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki, Abu Hashim",
+              "original_id": "4929",
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "117",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yahim",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "His Father (Unknown)",
+              "full_name": "Ubayd ibn Umayr (uncertain identification)",
+              "grade": "Majhul",
+              "generation": "Second Generation (Senior Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Not explicitly named in the chain - severe weakness",
+                "Unknown narrator - Majhul (unknown status)",
+                "Cannot be properly authenticated"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Unknown",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "2",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "His Grandfather (Unknown)",
+              "full_name": "Umayr ibn Qatadah (uncertain identification)",
+              "grade": "Majhul",
+              "generation": "First Generation (Senior Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Not explicitly named in the chain - severe weakness",
+                "Unknown narrator - Majhul (unknown status)",
+                "Cannot be properly authenticated",
+                "No established connection to Ali verified"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Unknown",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "1",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abu al-Hasan, Abu al-Husayn, Amir al-Mu'minin",
+              "original_id": "5722",
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "40",
+              "birth_year": "23 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            {
+              "issue": "Multiple Majhul (Unknown) Narrators",
+              "severity": "Critical",
+              "explanation": "The chain contains at least 4 unknown narrators: Abdullah ibn Uthman, Ahmad ibn al-Nadr, the father, and the grandfather. This makes the chain completely unreliable."
+            },
+            {
+              "issue": "Mu'dal Chain - Broken Chain with Missing Links",
+              "severity": "Critical",
+              "explanation": "The chain contains 'from his father, from his grandfather' without naming these narrators. This is a major defect in the isnad."
+            },
+            {
+              "issue": "Weak Known Narrator",
+              "severity": "Moderate",
+              "explanation": "Abdullah ibn Ubayd al-Laithi is Saduq Yahim (makes errors), adding to the weakness."
+            },
+            {
+              "issue": "Complete An'anah Chain",
+              "severity": "Moderate",
+              "explanation": "Every link uses 'an (عَنْ), creating maximum ambiguity throughout the chain."
+            }
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain with Multiple Unknown Narrators",
+          "impact": "This chain contains at least 4 unknown narrators (Majhul), making it impossible to authenticate. Even one unknown narrator is sufficient to severely weaken a chain; four makes it completely unreliable."
+        },
+        {
+          "issue": "Severely Broken Chain (Mu'dal)",
+          "impact": "The presence of unnamed father and grandfather creates a broken chain that cannot be verified or authenticated."
+        },
+        {
+          "issue": "Possible Fabrication",
+          "impact": "The detailed nature of the advice and the comprehensive judicial instructions, combined with the extremely weak chain, raises suspicions that this may be a later fabrication designed to provide authority for judicial practices."
+        },
+        {
+          "issue": "Content Appears in Other Chains",
+          "impact": "Similar narrations about Ali being sent to Yemen exist in more authentic collections (Abu Dawud, Tirmidhi, Ahmad) but with different chains and slightly different wording. This version may be a corrupted or fabricated variant."
+        }
+      ],
+      "Classical Grade": ["Mawdu' (Fabricated)", "Da'if Jiddan (Very Weak)"],
+      "IISGrade": "Rejected",
+      "Topics": [
+        "Ali ibn Abi Talib sent to Yemen as judge",
+        "Prophet's supplication for Ali",
+        "Judicial ethics in Islam",
+        "Impartiality in judging",
+        "Hearing both parties before judgment",
+        "Prohibition of judging while angry",
+        "Prohibition of accepting gifts from litigants",
+        "Equal treatment of disputants",
+        "Divine guidance for judges",
+        "Judicial competence and confidence"
+      ],
+      "detailed_analysis": {
+        "isnad_type": "Mu'dal with multiple Majhul narrators",
+        "ruling": "This narration is most likely Mawdu' (fabricated) or at minimum Da'if Jiddan (very weak). The chain contains multiple unknown narrators and is severely broken. While similar authentic narrations exist about Ali being sent to Yemen, this particular version cannot be accepted.",
+        "supporting_evidence": "Abu Dawud (3592), Tirmidhi (1331), and Ahmad narrate similar accounts of Ali being sent to Yemen through more reliable chains. The authentic versions contain similar judicial advice but with variations in wording. This weak version appears to be an elaboration or corruption of those authentic narrations.",
+        "final_verdict": "REJECTED - Use the authentic versions from Abu Dawud, Tirmidhi, and Musnad Ahmad instead. This chain is completely unreliable."
+      }
+    },
+    {
+      "hadith_id": 3640,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "534",
+      "arabic_text": "عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُمْ، قَالَ: \"الْقَضَاءُ ثَلَاثَةٌ: قَاضِيَانِ فِي النَّارِ، وَقَاضٍ فِي الْجَنَّةِ، قَاضٍ قَضَى فَتَرَكَ الْحَقَّ وَهُوَ يَعْلَمُ، وَقَاضٍ قَضَى بِغَيْرِ الْحَقِّ وَهُوَ لَا يَعْلَمُ، فَهَذَانِ فِي النَّارِ، وَقَاضٍ قَضَى بِالْحَقِّ، وَهُوَ يَعْلَمُهُ فَهُوَ فِي الْجَنَّةِ\"",
+      "english_translation": "From his father, from his grandfather, from Ali (may Allah be pleased with them), he said: 'Judges are three types: two judges in the Fire, and one judge in Paradise. A judge who judged and abandoned the truth while knowing it, and a judge who judged without the truth while not knowing - these two are in the Fire. And a judge who judged with the truth while knowing it - he is in Paradise.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd al-Laithi",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Junda' ibn Layth ibn Bakr ibn Abd Manah",
+              "grade": "Saduq Yahim",
+              "generation": "Third Generation (Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Considered Saduq (truthful) but with some errors by Ibn Hajar",
+                "Some scholars weakened him slightly",
+                "Known to have committed mistakes in narration"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki, Abu Hashim",
+              "original_id": "4929",
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "117",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yahim",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "His Father (Unknown)",
+              "full_name": "Ubayd ibn Umayr (uncertain identification)",
+              "grade": "Majhul",
+              "generation": "Second Generation (Senior Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Not explicitly named in the chain - severe weakness",
+                "Unknown narrator - Majhul (unknown status)",
+                "Cannot be properly authenticated"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Unknown",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "2",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "His Grandfather (Unknown)",
+              "full_name": "Umayr ibn Qatadah (uncertain identification)",
+              "grade": "Majhul",
+              "generation": "First Generation (Senior Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Not explicitly named in the chain - severe weakness",
+                "Unknown narrator - Majhul (unknown status)",
+                "Cannot be properly authenticated",
+                "No established connection to Ali verified"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Unknown",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "1",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abu al-Hasan, Abu al-Husayn, Amir al-Mu'minin",
+              "original_id": "5722",
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "40",
+              "birth_year": "23 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            {
+              "issue": "Mu'dal Chain - Broken Chain with Missing Links",
+              "severity": "Critical",
+              "explanation": "The chain contains 'from his father, from his grandfather' without naming these narrators. This is a major defect in the isnad."
+            },
+            {
+              "issue": "Majhul Narrators - Unknown Transmitters",
+              "severity": "Critical",
+              "explanation": "The father and grandfather are not identified by name, making them Majhul (unknown). Their reliability cannot be assessed."
+            },
+            {
+              "issue": "An'anah with Weak Narrator",
+              "severity": "Moderate",
+              "explanation": "Abdullah ibn Ubayd al-Laithi uses 'an (عَنْ) which is ambiguous. Combined with his Saduq Yahim status, this weakens the chain."
+            },
+            {
+              "issue": "Multiple An'anah Links",
+              "severity": "Moderate",
+              "explanation": "All transmission terms are 'an (عَنْ), creating multiple points of potential discontinuity in the chain."
+            },
+            {
+              "issue": "Content Exists in Marfu' Form",
+              "severity": "Minor",
+              "explanation": "This saying is narrated as marfu' (attributed to the Prophet) in authentic collections. This mawquf version (attributed to Ali) may be a corruption or variant."
+            }
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Severely Broken Chain (Mu'dal)",
+          "impact": "This hadith cannot be authenticated due to the unnamed narrators in the chain. The presence of 'his father' and 'his grandfather' without identification makes this chain critically weak."
+        },
+        {
+          "issue": "Unknown Narrators (Majhul)",
+          "impact": "Two narrators in the chain are completely unknown. Their trustworthiness cannot be verified, making the hadith Da'if Jiddan (very weak)."
+        },
+        {
+          "issue": "Content Confusion - Marfu' vs. Mawquf",
+          "impact": "This narration appears as a statement of Ali (mawquf), but nearly identical wording is found in marfu' narrations (attributed to the Prophet) in Abu Dawud, Tirmidhi, and Ibn Majah. This suggests either: (1) this version is a corruption where the attribution was changed, or (2) Ali was quoting the Prophet. The authentic marfu' versions should be used instead."
+        },
+        {
+          "issue": "Problematic Content - Second Judge",
+          "impact": "The statement that a judge who judges without knowledge is in Hellfire is harsh and contradicts some authentic hadiths that show mercy for those who try their best but err unintentionally. The authentic marfu' versions from Abu Dawud clarify this better."
+        }
+      ],
+      "Classical Grade": ["Da'if Jiddan (Very Weak)", "Munkar"],
+      "IISGrade": "Rejected",
+      "Topics": [
+        "Three types of judges",
+        "Judges in Paradise and Hellfire",
+        "Judging with knowledge vs. ignorance",
+        "Intentionally abandoning truth in judgment",
+        "Responsibility of judges",
+        "Consequences of judicial decisions",
+        "Islamic eschatology related to judges",
+        "Warning against judicial corruption",
+        "Warning against judging without knowledge"
+      ],
+      "detailed_analysis": {
+        "isnad_type": "Mu'dal (severely broken chain) - Mawquf narration",
+        "ruling": "This narration is Da'if Jiddan (very weak) due to the broken chain with unknown narrators. The content exists in more authentic marfu' (Prophetic) versions, which should be relied upon instead.",
+        "supporting_evidence": "Abu Dawud (3573), Tirmidhi (1322), and Ibn Majah (2315) narrate similar content as marfu' (from the Prophet) with the wording: 'Judges are three: one in Paradise and two in the Fire...' These versions have stronger chains and should be referenced instead of this weak mawquf version.",
+        "authentic_version_difference": "The authentic marfu' versions provide more nuanced understanding: the judge who judges without knowledge is condemned, but the authentic hadiths emphasize the importance of seeking knowledge before judging. Some versions add that the ignorant judge who judges anyway is culpable.",
+        "final_verdict": "REJECTED - Use the authentic marfu' versions from Abu Dawud, Tirmidhi, and Ibn Majah instead. This chain is unreliable."
+      }
+    },
+    {
+      "hadith_id": 3641,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "535",
+      "arabic_text": "عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُمْ، قَالَ: \"إِذَا قَضَى الْقَاضِي وَأَخْطَأَ ثُمَّ عَلِمَ رُدَّ قَضَاؤُهُ\"",
+      "english_translation": "From his father, from his grandfather, from Ali (may Allah be pleased with them), he said: 'If a judge makes a judgment and errs, then comes to know of it, his judgment is reversed.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd al-Laithi",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Junda' ibn Layth ibn Bakr ibn Abd Manah",
+              "grade": "Saduq Yahim",
+              "generation": "Third Generation (Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Considered Saduq (truthful) but with some errors by Ibn Hajar",
+                "Some scholars weakened him slightly",
+                "Known to have committed mistakes in narration"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki, Abu Hashim",
+              "original_id": "4929",
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "117",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yahim",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "His Father (Unknown)",
+              "full_name": "Ubayd ibn Umayr (uncertain identification)",
+              "grade": "Majhul",
+              "generation": "Second Generation (Senior Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Not explicitly named in the chain - severe weakness",
+                "Unknown narrator - Majhul (unknown status)",
+                "Cannot be properly authenticated"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Unknown",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "2",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "His Grandfather (Unknown)",
+              "full_name": "Umayr ibn Qatadah (uncertain identification)",
+              "grade": "Majhul",
+              "generation": "First Generation (Senior Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Not explicitly named in the chain - severe weakness",
+                "Unknown narrator - Majhul (unknown status)",
+                "Cannot be properly authenticated",
+                "No established connection to Ali verified"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Unknown",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "1",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abu al-Hasan, Abu al-Husayn, Amir al-Mu'minin",
+              "original_id": "5722",
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "40",
+              "birth_year": "23 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            {
+              "issue": "Mu'dal Chain - Broken Chain with Missing Links",
+              "severity": "Critical",
+              "explanation": "The chain contains 'from his father, from his grandfather' without naming these narrators. This is a major defect in the isnad."
+            },
+            {
+              "issue": "Majhul Narrators - Unknown Transmitters",
+              "severity": "Critical",
+              "explanation": "The father and grandfather are not identified by name, making them Majhul (unknown). Their reliability cannot be assessed."
+            },
+            {
+              "issue": "An'anah with Weak Narrator",
+              "severity": "Moderate",
+              "explanation": "Abdullah ibn Ubayd al-Laithi uses 'an (عَنْ) which is ambiguous. Combined with his Saduq Yahim status, this weakens the chain."
+            },
+            {
+              "issue": "Multiple An'anah Links",
+              "severity": "Moderate",
+              "explanation": "All transmission terms are 'an (عَنْ), creating multiple points of potential discontinuity in the chain."
+            }
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Severely Broken Chain (Mu'dal)",
+          "impact": "This hadith cannot be authenticated due to the unnamed narrators in the chain. The presence of 'his father' and 'his grandfather' without identification makes this chain critically weak."
+        },
+        {
+          "issue": "Unknown Narrators (Majhul)",
+          "impact": "Two narrators in the chain are completely unknown. Their trustworthiness cannot be verified, making the hadith Da'if Jiddan (very weak)."
+        },
+        {
+          "issue": "Overly Simplistic Legal Ruling",
+          "impact": "The statement is overly simplistic. In Islamic jurisprudence, whether a judge's erroneous ruling is reversed depends on multiple factors: (1) whether the error was in ijtihad or clear law, (2) whether rights were already executed, (3) the nature of the case. This narration's simplistic formulation suggests possible fabrication or corruption."
+        },
+        {
+          "issue": "Lack of Nuance in Fiqh Statement",
+          "impact": "Classical fiqh works provide detailed discussions on when erroneous judgments can be reversed (naqd al-qada'). This narration lacks the nuance expected from a statement by Ali, who was known for his deep judicial wisdom."
+        }
+      ],
+      "Classical Grade": ["Da'if Jiddan (Very Weak)", "Munkar"],
+      "IISGrade": "Rejected",
+      "Topics": [
+        "Reversing judicial judgments",
+        "Judicial error correction",
+        "Mistakes in legal rulings",
+        "Responsibility of judges to correct errors",
+        "Islamic procedural law",
+        "Naqd al-qada' (overturning judgments)",
+        "Judicial accountability"
+      ],
+      "detailed_analysis": {
+        "isnad_type": "Mu'dal (severely broken chain) - Mawquf narration",
+        "ruling": "This narration is Da'if Jiddan (very weak) to Munkar (rejected) due to the broken chain with unknown narrators. The principle mentioned is discussed in fiqh literature but requires proper authentication and nuanced understanding.",
+        "supporting_evidence": "The issue of reversing erroneous judicial decisions is discussed extensively in classical fiqh works based on the practice of the Companions and established legal principles, not on this weak narration. Scholars like Imam al-Mawardi and Ibn Qudamah discuss conditions for reversing judgments in their respective works.",
+        "fiqh_note": "In reality, whether an erroneous judgment is reversed depends on: (1) Type of error - errors in clear texts (nusus) vs. ijtihad matters; (2) Execution status - whether the judgment has been implemented; (3) Nature of rights - property, personal status, criminal matters. The simplistic statement in this narration doesn't capture these complexities.",
+        "final_verdict": "REJECTED - This chain is unreliable. For guidance on reversing judicial errors, consult classical fiqh texts and principles derived from authentic sources."
+      }
+    },
+    {
+      "hadith_id": 3642,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "536",
+      "arabic_text": "عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُمْ، قَالَ: \"إِذَا حَبَسَ الْقَاضِي رَجُلًا فِي دَيْنٍ، ثُمَّ تَبَيَّنَ لَهُ إِفْلَاسُهُ، وَحَاجَتُهُ أَخْرَجَهُ حَتَّى يَسْتَفِيدَ مَالًا، ثُمَّ يَقُولُ: إِذَا اسْتَفَدْتَ مَالًا فَاقْسِمْهُ بَيْنَ غُرَمَائِكَ\"",
+      "english_translation": "From his father, from his grandfather, from Ali (may Allah be pleased with them), he said: 'If a judge imprisons a man for a debt, then it becomes clear to him that he is bankrupt and in need, he releases him until he acquires wealth, then he tells him: When you acquire wealth, distribute it among your creditors.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd al-Laithi",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Junda' ibn Layth ibn Bakr ibn Abd Manah",
+              "grade": "Saduq Yahim",
+              "generation": "Third Generation (Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Considered Saduq (truthful) but with some errors by Ibn Hajar",
+                "Some scholars weakened him slightly",
+                "Known to have committed mistakes in narration"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki, Abu Hashim",
+              "original_id": "4929",
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "117",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yahim",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "His Father (Unknown)",
+              "full_name": "Ubayd ibn Umayr (uncertain identification)",
+              "grade": "Majhul",
+              "generation": "Second Generation (Senior Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Not explicitly named in the chain - severe weakness",
+                "Unknown narrator - Majhul (unknown status)",
+                "Cannot be properly authenticated"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Unknown",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "2",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "His Grandfather (Unknown)",
+              "full_name": "Umayr ibn Qatadah (uncertain identification)",
+              "grade": "Majhul",
+              "generation": "First Generation (Senior Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Not explicitly named in the chain - severe weakness",
+                "Unknown narrator - Majhul (unknown status)",
+                "Cannot be properly authenticated",
+                "No established connection to Ali verified"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Unknown",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "1",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abu al-Hasan, Abu al-Husayn, Amir al-Mu'minin",
+              "original_id": "5722",
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "40",
+              "birth_year": "23 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            {
+              "issue": "Mu'dal Chain - Broken Chain with Missing Links",
+              "severity": "Critical",
+              "explanation": "The chain contains 'from his father, from his grandfather' without naming these narrators. This is a major defect in the isnad."
+            },
+            {
+              "issue": "Majhul Narrators - Unknown Transmitters",
+              "severity": "Critical",
+              "explanation": "The father and grandfather are not identified by name, making them Majhul (unknown). Their reliability cannot be assessed."
+            },
+            {
+              "issue": "An'anah with Weak Narrator",
+              "severity": "Moderate",
+              "explanation": "Abdullah ibn Ubayd al-Laithi uses 'an (عَنْ) which is ambiguous. Combined with his Saduq Yahim status, this weakens the chain."
+            },
+            {
+              "issue": "Multiple An'anah Links",
+              "severity": "Moderate",
+              "explanation": "All transmission terms are 'an (عَنْ), creating multiple points of potential discontinuity in the chain."
+            }
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Severely Broken Chain (Mu'dal)",
+          "impact": "This hadith cannot be authenticated due to the unnamed narrators in the chain. The presence of 'his father' and 'his grandfather' without identification makes this chain critically weak."
+        },
+        {
+          "issue": "Unknown Narrators (Majhul)",
+          "impact": "Two narrators in the chain are completely unknown. Their trustworthiness cannot be verified, making the hadith Da'if Jiddan (very weak)."
+        },
+        {
+          "issue": "Content Alignment with Quranic Principle",
+          "impact": "Interestingly, this ruling aligns with the Quranic verse: 'And if someone is in hardship, then [let there be] postponement until [a time of] ease' (Quran 2:280). While the principle is sound and Quranic, this specific chain attributing it to Ali cannot be authenticated."
+        },
+        {
+          "issue": "Possible Attribution of Known Ruling",
+          "impact": "This appears to be a practical application of the Quranic principle about debtors in hardship. The narration may be someone attributing this known Islamic principle to Ali without authentic transmission."
+        }
+      ],
+      "Classical Grade": ["Da'if Jiddan (Very Weak)", "Munkar"],
+      "IISGrade": "Rejected",
+      "Topics": [
+        "Imprisonment for debt in Islamic law",
+        "Treatment of bankrupt debtors",
+        "Mercy toward those in financial hardship",
+        "Release of imprisoned debtors",
+        "Distribution of assets among creditors",
+        "Islamic bankruptcy law",
+        "Quranic principle of giving respite to debtors (2:280)",
+        "Judicial mercy and compassion",
+        "Rights of creditors vs. debtor's circumstances"
+      ],
+      "detailed_analysis": {
+        "isnad_type": "Mu'dal (severely broken chain) - Mawquf narration",
+        "ruling": "This narration is Da'if Jiddan (very weak) to Munkar (rejected) due to the broken chain with unknown narrators. However, the principle it espouses is authentically established in the Quran (2:280) and Islamic jurisprudence.",
+        "supporting_evidence": "The Quran clearly states: 'And if someone is in hardship, then [let there be] postponement until [a time of] ease. But if you give [from your right as] charity, then it is better for you, if you only knew' (Al-Baqarah 2:280). This principle is also supported by authentic Prophetic hadiths about giving respite to debtors in hardship.",
+        "fiqh_note": "Classical Islamic jurisprudence developed detailed bankruptcy laws (al-muflis) based on Quranic verses and authentic hadiths. The practice described in this narration aligns with Islamic legal principles, even though this specific chain is weak. Scholars should reference the Quranic verse and authentic sources instead.",
+        "final_verdict": "REJECTED as a hadith - This chain is unreliable. However, the principle is CORRECT and established through the Quran (2:280) and other authentic sources. Use those sources instead."
+      }
+    }
+  ],
+  "overall_assessment": {
+    "collection_name": "Unknown Book 4 - Judicial Rulings Collection",
+    "common_issues": [
+      "All 6 hadiths share the same critical defect: Mu'dal chains with unnamed narrators ('his father, his grandfather')",
+      "All contain Majhul (unknown) narrators whose reliability cannot be assessed",
+      "All rely on Abdullah ibn Ubayd al-Laithi, who is Saduq Yahim (makes mistakes)",
+      "All use complete An'anah chains (عَنْ throughout), creating maximum ambiguity",
+      "The collection appears to be a later compilation attempting to attribute judicial principles to Ali ibn Abi Talib without authentic chains"
+    ],
+    "pattern_analysis": "The identical chain structure across all 6 hadiths ('from his father, from his grandfather, from Ali') suggests these may come from a single source document or compilation that lacked proper isnad documentation. This is characteristic of later works that attempted to attribute legal principles to early authorities without authentic transmission.",
+    "reliability_verdict": "The entire chunk should be considered UNRELIABLE for hadith authentication. While some principles mentioned (like giving respite to bankrupt debtors, burden of proof on claimant) are authentically established in Islam through other sources, these specific narrations cannot be used as evidence.",
+    "recommendation": "Researchers should cross-reference any content from this collection with authentic hadith collections (Sahih al-Bukhari, Sahih Muslim, Sunan works, Musnad Ahmad) before citing. The legal principles may be sound but require authentic attribution."
+  }
+}
