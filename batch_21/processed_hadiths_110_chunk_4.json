@@ -1,0 +1,129 @@
+[
+  {
+    "hadith_id": 181641,
+    "book_id": 140,
+    "book_name_ar": "كتاب رقم 140",
+    "book_name_en": "Book #140",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "2873",
+    "english_translation": "Narrated from al-Hasan (al-Basri): That he commanded washing for the two Eids.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "Nuh ibn Qays",
+            "full_name": "Nuh ibn Qays al-Khuzai'i",
+            "grade": "La Ba'sa Bihi",
+            "generation": "Eighth Generation",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Nuh ibn Qays, Abu Qays",
+            "original_id": 0,
+            "kunya": "Abu Qays",
+            "nisba": "al-Khuzai'i",
+            "nisba_ar": "الخزاعي",
+            "death_year": "169",
+            "birth_year": null,
+            "reliability_grade": "La Ba'sa Bihi",
+            "tabaqat": "8",
+            "location": "Basra",
+            "transmissionTermMeaning": "He said"
+          },
+          {
+            "name": "Hawshab ibn Muslim",
+            "full_name": "Hawshab ibn Muslim al-Thaqafi",
+            "grade": "La Ba'sa Bihi",
+            "generation": "Seventh Generation",
+            "transmissionTerm": "حَدَّثَنَا",
+            "reliabilityIssues": ["freed slave (mawla) of al-Hajjaj"],
+            "narrator_id": 0,
+            "alternative_names": "Hawshab ibn Muslim, Abu Habib",
+            "original_id": 0,
+            "kunya": "Abu Habib",
+            "nisba": "al-Thaqafi",
+            "nisba_ar": "الثقفي",
+            "death_year": "138",
+            "birth_year": null,
+            "reliability_grade": "La Ba'sa Bihi",
+            "tabaqat": "7",
+            "location": "Basra",
+            "transmissionTermMeaning": "He narrated to us (direct transmission)"
+          },
+          {
+            "name": "al-Hasan al-Basri",
+            "full_name": "al-Hasan ibn Abi al-Hasan Yasar al-Basri",
+            "grade": "Thiqah Thabt",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["some scholars questioned direct hearing from all companions he claimed to have heard from"],
+            "narrator_id": 0,
+            "alternative_names": "al-Hasan al-Basri, Abu Sa'id",
+            "original_id": 0,
+            "kunya": "Abu Sa'id",
+            "nisba": "al-Basri",
+            "nisba_ar": "البصري",
+            "death_year": "110",
+            "birth_year": "21",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "2",
+            "location": "Basra",
+            "transmissionTermMeaning": "From (in athar context, referring to al-Hasan)"
+          },
+          {
+            "name": "al-Zubayr ibn al-Awwam",
+            "full_name": "al-Zubayr ibn al-Awwam al-Hashimi",
+            "grade": "Thiqah Thabt",
+            "generation": "Companion",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "al-Zubayr, al-Hawari (the disciple)",
+            "original_id": 0,
+            "kunya": "Abu Abdullah",
+            "nisba": "al-Hashimi",
+            "nisba_ar": "الهاشمي",
+            "death_year": "36",
+            "birth_year": null,
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "Companion",
+            "location": "Medina/Basra",
+            "transmissionTermMeaning": "From (companion)"
+          }
+        ],
+        "chainIssues": [
+          "This is a mawquf athar (statement from al-Hasan al-Basri), not a marfu' hadith",
+          "The chain mentions al-Zubayr but the actual content is al-Hasan's ruling about washing for the Eids, not al-Zubayr's statement",
+          "The connection between al-Hasan and al-Zubayr in this context requires careful interpretation - it may indicate al-Hasan's understanding is based on al-Zubayr's practice"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Mawquf status - not attributed to the Prophet ﷺ",
+        "impact": "This is a statement from al-Hasan al-Basri (a Tabi'i), not directly from the Prophet ﷺ. While al-Hasan is generally reliable, this represents his understanding of Islamic law rather than a direct prophetic statement."
+      },
+      {
+        "issue": "Concerns about al-Hasan's direct hearing from companions",
+        "impact": "Some scholars have questioned whether al-Hasan actually directly heard from all the companions he claimed to have narrated from. This is a known scholarly concern regarding al-Hasan's transmissions."
+      },
+      {
+        "issue": "Use of indirect transmission term 'عَنْ'",
+        "impact": "The use of 'an' (عَنْ) from Hawshab ibn Muslim to al-Hasan, and from al-Hasan to al-Zubayr, could indicate indirect transmission, though these narrators are not documented mudallis."
+      },
+      {
+        "issue": "Textual clarity on the actual ruling",
+        "impact": "The text states 'أمر بغسل العيدين' (he commanded washing for the two Eids), which is al-Hasan's ruling. The mention of al-Zubayr is somewhat unclear in how it relates to this specific ruling."
+      }
+    ],
+    "Classical Grade": ["Hasan"],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Ruling on washing before Eid prayer",
+      "Al-Hasan al-Basri's juristic opinion on Eid preparations",
+      "Incident of al-Zubayr and washing practice"
+    ]
+  }
+]
