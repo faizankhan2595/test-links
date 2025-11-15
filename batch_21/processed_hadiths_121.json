@@ -1,0 +1,492 @@
+{
+  "batch_number": 21,
+  "file_number": 121,
+  "hadith_count": 3,
+  "hadiths": [
+    {
+      "hadith_id": 181805,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "3037",
+      "english_translation": "Narrated by Ali: The Prophet ﷺ said: 'Do not torture with Allah's punishment.' Then he burned a man.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Mu'alla ibn Asad",
+              "full_name": "Mu'alla ibn Asad ibn Qurrah al-'Ammi",
+              "grade": "Saduq",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Abu al-Ashhal",
+              "original_id": null,
+              "kunya": "Abu al-Ashhal",
+              "nisba": "al-'Ammi",
+              "nisba_ar": "العمي",
+              "death_year": "220",
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He said (narrated)"
+            },
+            {
+              "name": "Muhammad ibn Humran",
+              "full_name": "Muhammad ibn Humran ibn Aban al-Makki",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "indirect transmission"
+              ],
+              "narrator_id": null,
+              "alternative_names": null,
+              "original_id": null,
+              "kunya": "Abu Ja'far",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "200",
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Asim ibn al-Nu'man al-Laythi",
+              "full_name": "Asim ibn al-Nu'man ibn Bash al-Laythi",
+              "grade": "Da'if",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak narrator",
+                "sparse reporting"
+              ],
+              "narrator_id": null,
+              "alternative_names": null,
+              "original_id": null,
+              "kunya": null,
+              "nisba": "al-Laythi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "6",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (ambiguous)"
+            },
+            {
+              "name": "Al-Hadathan",
+              "full_name": "Al-Hadathan (exact full name unclear)",
+              "grade": "Majhul",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown narrator",
+                "identity uncertain"
+              ],
+              "narrator_id": null,
+              "alternative_names": null,
+              "original_id": null,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": "5",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (ambiguous)"
+            },
+            {
+              "name": "Ali",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Commander of the Faithful, Amir al-Mu'minin",
+              "original_id": null,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "40",
+              "birth_year": "23 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Kufah/Madinah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Madinah/Makkah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Al-Hadathan is an unknown narrator (Majhul al-'Ayn or Majhul al-Hal) - no sufficient biographical data found",
+            "Asim ibn al-Nu'man al-Laythi is classified as weak (Da'if) - only known from limited sources",
+            "Multiple ambiguous transmission terms (عَنْ) from Muhammad ibn Humran onwards create potential disconnection",
+            "The chain contains a note that it is 'lā yutāba'u 'alayhi' (not followed upon/unsupported), indicating scholar consensus of its weakness"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Majhul narrator in chain",
+          "impact": "Al-Hadathan (fifth narrator) is unknown with no reliable biographical information. This significantly weakens the chain's authenticity."
+        },
+        {
+          "issue": "Weak narrator present",
+          "impact": "Asim ibn al-Nu'man al-Laythi is classified as weak (Da'if) by majority of hadith scholars. His presence in the chain introduces reliability concerns."
+        },
+        {
+          "issue": "Ambiguous transmission terms throughout middle chain",
+          "impact": "Muhammad ibn Humran, Asim ibn al-Nu'man, and al-Hadathan all use عَنْ (from), which could indicate either direct transmission or indirect transmission, creating potential gaps."
+        },
+        {
+          "issue": "Explicit scholarly rejection noted in source",
+          "impact": "The source text explicitly states 'lā yutāba'u 'alayhi' - it is not followed upon. This indicates that scholars in the tradition explicitly rejected this hadith as unreliable or contradicted by other evidence."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Prohibition of using Allah's punishment as a method of torture",
+        "Incident of the Prophet ﷺ burning a man",
+        "Divine punishment and human authority in Islamic law"
+      ]
+    },
+    {
+      "hadith_id": 181808,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "3040",
+      "english_translation": "Narrated from Yahya ibn Ubaid from his father: Umar allowed the testimony of four women regarding divorce.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ahmad ibn Hanbal",
+              "full_name": "Ahmad ibn Muhammad ibn Hanbal ash-Shaybani",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Imam Ahmad",
+              "original_id": null,
+              "kunya": "Abu Abdillah",
+              "nisba": "ash-Shaybani",
+              "nisba_ar": "الشيباني",
+              "death_year": "241",
+              "birth_year": "164",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "9",
+              "location": "Baghdad",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Abd al-Samad",
+              "full_name": "Abd al-Samad ibn Abd al-Warith ibn Abd al-Aziz",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Abu al-Ahwal",
+              "original_id": null,
+              "kunya": "Abu al-Ahwal",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "226",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Harash ibn Malik al-Maraghi",
+              "full_name": "Harash ibn Malik al-Maraghi al-Juhdami",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": null,
+              "original_id": null,
+              "kunya": null,
+              "nisba": "al-Maraghi al-Juhdami",
+              "nisba_ar": "المراغي الجهضمي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Egypt",
+              "transmissionTermMeaning": "He narrated to me"
+            },
+            {
+              "name": "Yahya ibn Ubaid",
+              "full_name": "Yahya ibn Ubaid ibn Abd al-Rahman",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": null,
+              "original_id": null,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Yahya's father",
+              "full_name": "Ubaid ibn Abd al-Rahman",
+              "grade": "Thiqah",
+              "generation": "Successor Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": null,
+              "original_id": null,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Successor",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufail al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": null,
+              "kunya": "Abu Hafs",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "23 AH",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "This is a mawquf (attributed to companion only, not Prophet ﷺ)",
+            "Ambiguous transmission term (عَنْ) used from Yahya ibn Ubaid to his father - could indicate potential indirect transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf chain - stops at companion level",
+          "impact": "This report is attributed only to Umar ibn al-Khattab (Companion), not to the Prophet ﷺ. It represents Umar's legal opinion, not a prophetic statement."
+        },
+        {
+          "issue": "Ambiguous transmission term in later part of chain",
+          "impact": "The use of عَنْ (from) from Yahya ibn Ubaid onwards creates slight ambiguity about directness of transmission, though narrators are reliable."
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Testimony of women in divorce cases",
+        "Legal ruling of Umar ibn al-Khattab on witnesses",
+        "Women's role in Islamic legal proceedings"
+      ]
+    },
+    {
+      "hadith_id": 181820,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "3052",
+      "english_translation": "Narrated by al-Hatam ibn Abdullah: He saw Umar performing wudu and water splashed.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Bishr",
+              "full_name": "Bishr ibn al-Mufaddal al-Raqqi",
+              "grade": "Saduq",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": null,
+              "original_id": null,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Raqqi",
+              "nisba_ar": "الرقي",
+              "death_year": "218",
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "9",
+              "location": "al-Riqqa",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Muhammad ibn Fudhayl",
+              "full_name": "Muhammad ibn Fudhayl ibn Ghazwan al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Abu Salamah",
+              "original_id": null,
+              "kunya": "Abu Salamah",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "195",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufah",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Husayn",
+              "full_name": "Husayn ibn al-Hasan al-Basri",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": null,
+              "original_id": null,
+              "kunya": null,
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "194",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "He heard"
+            },
+            {
+              "name": "Al-Hatam ibn Abdullah",
+              "full_name": "Al-Hatam ibn Abdullah ibn Uyaynah",
+              "grade": "Majhul",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "identity uncertain"
+              ],
+              "narrator_id": null,
+              "alternative_names": null,
+              "original_id": null,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": "6",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufail al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": null,
+              "kunya": "Abu Hafs",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "23 AH",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Al-Hatam ibn Abdullah is an unknown narrator (Majhul) - insufficient biographical data",
+            "This is a mawquf report - attributed to the Companion Umar, not to the Prophet ﷺ",
+            "Ambiguous transmission term (عَنْ) used between al-Hatam and the observation"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator in chain",
+          "impact": "Al-Hatam ibn Abdullah's reliability is undocumented. His position as the direct observer weakens the chain's reliability significantly."
+        },
+        {
+          "issue": "Mawquf - stops at Companion level",
+          "impact": "This is a personal observation attributed to Umar ibn al-Khattab, not a prophetic statement. It has reduced authority compared to marfu' hadiths."
+        },
+        {
+          "issue": "Ambiguous transmission term",
+          "impact": "The use of عَنْ (from) from al-Hatam creates potential directness questions, though this is of lesser concern given other issues."
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Water splashing during wudu",
+        "Incident of Umar performing ritual ablution",
+        "Ritual purification practices observed"
+      ]
+    }
+  ]
+}
