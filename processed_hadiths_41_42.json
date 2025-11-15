@@ -1,0 +1,3763 @@
+{
+  "batch_number": 11,
+  "source_files": [
+    41,
+    42
+  ],
+  "total_hadiths": 30,
+  "hadiths": [
+    {
+      "hadith_id": 90601,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9207",
+      "english_translation": "Two chains regarding Abu Wail: First chain narrated through Mughirah: Ibrahim al-Taymi used to remind (of Allah) in the house of Abu Wail, and Abu Wail would tremble like a bird (from remembrance of Allah). Second chain narrated through Asim: Abu Wail did not turn his eyes/gaze in prayer nor on the path.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Jarir ibn Abd al-Hamid",
+              "full_name": "Jarir ibn Abd al-Hamid al-Darami al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2001,
+              "alternative_names": "Jarir al-Darami, Abu al-Mughirah",
+              "original_id": 0,
+              "kunya": "Abu al-Mughirah",
+              "nisba": "al-Darami al-Kufi",
+              "nisba_ar": "الدارمي الكوفي",
+              "death_year": "188",
+              "birth_year": "115",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Mughirah",
+              "full_name": "Mughirah ibn Miqsam al-Dhabi al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Third Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "tadlis",
+                "ambiguous_transmission"
+              ],
+              "narrator_id": 2002,
+              "alternative_names": "Mughirah ibn Miqsam, Abu al-Miqdam",
+              "original_id": 0,
+              "kunya": "Abu al-Miqdam",
+              "nisba": "al-Dhabi al-Kufi",
+              "nisba_ar": "الذابي الكوفي",
+              "death_year": "162",
+              "birth_year": "80",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Ibrahim al-Taymi",
+              "full_name": "Ibrahim ibn Yazid al-Taymi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "First Century (Second Generation)",
+              "transmissionTerm": "mentioned_in_text",
+              "reliabilityIssues": [],
+              "narrator_id": 2003,
+              "alternative_names": "Ibrahim al-Nakhaa'i, Ibrahim al-Taymi",
+              "original_id": 0,
+              "kunya": "Abu Isma'il",
+              "nisba": "al-Taymi al-Kufi",
+              "nisba_ar": "التيمي الكوفي",
+              "death_year": "96",
+              "birth_year": "25",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Mentioned in account"
+            },
+            {
+              "name": "Abu Wail",
+              "full_name": "Shaqiq ibn Salamah al-Asadi al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2004,
+              "alternative_names": "Shaqiq ibn Salamah, Abu Wail al-Asadi",
+              "original_id": 0,
+              "kunya": "Abu Wail",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "82",
+              "birth_year": "0",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Mughirah ibn Miqsam uses ambiguous transmission term 'an (عَنْ) - while he is Saduq, he is known to be a mudallis, which makes the 'an transmission problematic",
+            "This is a maqtu' (disconnected) hadith as it stops at Abu Wail (a Tabi'i), not reaching the Prophet ﷺ"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "al-Fadl ibn Dakain",
+              "full_name": "al-Fadl ibn Dakain al-Qurashi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2005,
+              "alternative_names": "al-Fadl ibn Dakain, Abu Khadeej",
+              "original_id": 0,
+              "kunya": "Abu Khadeej",
+              "nisba": "al-Qurashi al-Kufi",
+              "nisba_ar": "القرشي الكوفي",
+              "death_year": "203",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Abu Bakr ibn Ayyash",
+              "full_name": "Abu Bakr Muhammad ibn Ayyash al-Dahhaq al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "memory_issues_in_old_age"
+              ],
+              "narrator_id": 2006,
+              "alternative_names": "Muhammad ibn Ayyash, Abu Bakr al-Dahhaq",
+              "original_id": 0,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Dahhaq al-Kufi",
+              "nisba_ar": "الدهاق الكوفي",
+              "death_year": "193",
+              "birth_year": "105",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Asim",
+              "full_name": "Asim ibn Abi al-Najud Bahilah al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "tadlis",
+                "mudallis"
+              ],
+              "narrator_id": 2007,
+              "alternative_names": "Asim ibn Abi al-Hajjaj, Asim al-Ahwal",
+              "original_id": 0,
+              "kunya": "Abu al-Najud",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "128",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Abu Wail",
+              "full_name": "Shaqiq ibn Salamah al-Asadi al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2004,
+              "alternative_names": "Shaqiq ibn Salamah, Abu Wail al-Asadi",
+              "original_id": 0,
+              "kunya": "Abu Wail",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "82",
+              "birth_year": "0",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Asim ibn Abi al-Najud is a known mudallis and uses ambiguous transmission term 'an (عَنْ), which is problematic for his reliability",
+            "This is a mawquf (stopped at companion) hadith - Abu Wail's statement does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mughirah ibn Miqsam in first chain uses 'an (عَنْ) transmission term and is known to practice tadlis",
+          "impact": "The use of 'an by a mudallis introduces unreliability in the chain. While Mughirah is Saduq, the tadlis issue should be noted. The connection between Mughirah and his sources requires direct transmission terms to be fully reliable."
+        },
+        {
+          "issue": "Asim ibn Abi al-Najud in second chain uses 'an (عَنْ) transmission term and is a known mudallis",
+          "impact": "Asim is classified as a mudallis and the use of 'an makes his transmission ambiguous. This weakens the second chain's reliability as ambiguous transmission from a mudallis is problematic."
+        },
+        {
+          "issue": "First chain reaches only to Ibrahim al-Taymi (a Tabi'i), making it maqtu' (disconnected)",
+          "impact": "This hadith does not have a complete chain reaching the Prophet ﷺ or a companion as the primary source, making it less authoritative."
+        },
+        {
+          "issue": "Second chain reaches only to Abu Wail (a Companion), making it mawquf (stopped at companion)",
+          "impact": "This is a companion's statement only, not a marfu' (attributed to the Prophet ﷺ) hadith. It represents Abu Wail's practice or statement."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Trembling from remembrance of Allah",
+        "Behavior of Abu Wail in prayer",
+        "Modesty and proper etiquette in prayer and on the path"
+      ]
+    },
+    {
+      "hadith_id": 90602,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9208",
+      "english_translation": "Narrated by Abu Wail (Shaqiq ibn Salamah): I heard Abu Wail saying while he was in prostration: 'O Allah, pardon me and forgive me. Indeed, if you pardon me, you pardon me for a long time. And if you punish me, you punish me as not being unjust nor deprived (of mercy).'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Musa ibn Ismail",
+              "full_name": "Musa ibn Ismail al-Tabvi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2008,
+              "alternative_names": "Musa ibn Ismail, Abu Ismail al-Abdi",
+              "original_id": 0,
+              "kunya": "Abu Ismail",
+              "nisba": "al-Tabvi al-Basri",
+              "nisba_ar": "التبوي البصري",
+              "death_year": "223",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Abdullah ibn Bakr",
+              "full_name": "Abdullah ibn Bakr al-Zarqi al-Basri",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2009,
+              "alternative_names": "Abdullah ibn Bakr, Abu al-Walid al-Zarqi",
+              "original_id": 0,
+              "kunya": "Abu al-Walid",
+              "nisba": "al-Zarqi al-Basri",
+              "nisba_ar": "الزرقي البصري",
+              "death_year": "175",
+              "birth_year": "100",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Asim ibn Bahdilah",
+              "full_name": "Asim ibn Bahdalah ibn Abi al-Najud al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "tadlis",
+                "mudallis"
+              ],
+              "narrator_id": 2007,
+              "alternative_names": "Asim ibn Abi al-Hajjaj, Asim al-Ahwal",
+              "original_id": 0,
+              "kunya": "Abu al-Najud",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "128",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Abu Wail",
+              "full_name": "Shaqiq ibn Salamah al-Asadi al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [],
+              "narrator_id": 2004,
+              "alternative_names": "Shaqiq ibn Salamah, Abu Wail al-Asadi",
+              "original_id": 0,
+              "kunya": "Abu Wail",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "82",
+              "birth_year": "0",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "I heard (explicit hearing)"
+            }
+          ],
+          "chainIssues": [
+            "Asim ibn Bahdilah is a known mudallis and uses 'an (عَنْ) transmission term, introducing ambiguity",
+            "This is a mawquf (stopped at companion) hadith - Abu Wail's supplication/statement does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Asim ibn Bahdilah uses 'an (عَنْ) transmission term and is a known mudallis",
+          "impact": "Asim's use of 'an without explicit hearing creates ambiguity in the chain. His mudallis status requires direct transmission terms (سمعت/حدثنا) to establish reliability. However, he is generally considered Saduq despite this issue."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Supplication during prostration",
+        "Du'a of Abu Wail seeking forgiveness",
+        "Prayer practices of the companions"
+      ]
+    },
+    {
+      "hadith_id": 90603,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9209",
+      "english_translation": "Narrated by Abu Wail: When he was asked about something from the Qur'an, he said: 'Allah has achieved through it what He intended.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Qabishah ibn Uqbah",
+              "full_name": "Qabishah ibn Uqbah ibn Qurrah al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2010,
+              "alternative_names": "Qabishah ibn Uqbah, Abu al-Miqdam",
+              "original_id": 0,
+              "kunya": "Abu al-Miqdam",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "199",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Sufyan",
+              "full_name": "Sufyan ibn Uyaynah al-Hilali al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2011,
+              "alternative_names": "Sufyan ibn Uyaynah, Abu Muhammad",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Hilali al-Kufi",
+              "nisba_ar": "الهلالي الكوفي",
+              "death_year": "198",
+              "birth_year": "107",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": "Kufa/Mecca",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "al-A'mash",
+              "full_name": "Suleiman ibn Mihran al-Asadi al-Kufi (al-A'mash)",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "tadlis_category_2"
+              ],
+              "narrator_id": 2012,
+              "alternative_names": "Suleiman ibn Mihran, Abu Muhammad al-A'mash",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "148",
+              "birth_year": "61",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Abu Wail",
+              "full_name": "Shaqiq ibn Salamah al-Asadi al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2004,
+              "alternative_names": "Shaqiq ibn Salamah, Abu Wail al-Asadi",
+              "original_id": 0,
+              "kunya": "Abu Wail",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "82",
+              "birth_year": "0",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "al-A'mash uses 'an (عَنِ) transmission term and is a Category 2 mudallis (according to Ibn Hajar's classification)",
+            "However, al-A'mash's tadlis is Category 2, which is generally considered less problematic than higher categories, and he is trusted by most scholars",
+            "This is a mawquf (stopped at companion) hadith - Abu Wail's statement does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "al-A'mash uses 'an (عَنِ) transmission term and is a Category 2 mudallis according to Ibn Hajar",
+          "impact": "While al-A'mash is a Category 2 mudallis (less problematic than Categories 3-5), his use of 'an still introduces ambiguity. However, al-A'mash is generally reliable and accepted by most scholars even with 'an transmission. The presence of Sufyan ibn Uyaynah (a strong narrator) in the chain helps mitigate this concern."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Qur'anic interpretation",
+        "Statements regarding Divine decree and wisdom",
+        "Abu Wail's understanding of Qur'anic meanings"
+      ]
+    },
+    {
+      "hadith_id": 90604,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9210",
+      "english_translation": "Narrated by Atah ibn al-Sa'ib that Abu Wail disliked saying 'a letter' (in reference to the Qur'an) and said 'a name,' meaning in the Qur'an.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ali ibn Abdullah ibn Jafar",
+              "full_name": "Ali ibn Abdullah ibn Jafar al-Hashimi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2013,
+              "alternative_names": "Ali ibn Abdullah ibn Jafar, Abu al-Hassan",
+              "original_id": 0,
+              "kunya": "Abu al-Hassan",
+              "nisba": "al-Hashimi al-Kufi",
+              "nisba_ar": "الهاشمي الكوفي",
+              "death_year": "218",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Sufyan ibn Uyaynah",
+              "full_name": "Sufyan ibn Uyaynah al-Hilali al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2011,
+              "alternative_names": "Sufyan ibn Uyaynah, Abu Muhammad",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Hilali al-Kufi",
+              "nisba_ar": "الهلالي الكوفي",
+              "death_year": "198",
+              "birth_year": "107",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": "Kufa/Mecca",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Atah ibn al-Sa'ib",
+              "full_name": "Atah ibn al-Sa'ib al-Khurasani al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "tadlis",
+                "ikhtilat"
+              ],
+              "narrator_id": 2014,
+              "alternative_names": "Atah ibn al-Sa'ib, Abu al-Miqdam",
+              "original_id": 0,
+              "kunya": "Abu al-Miqdam",
+              "nisba": "al-Khurasani al-Kufi",
+              "nisba_ar": "الخراساني الكوفي",
+              "death_year": "136",
+              "birth_year": "65",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Abu Wail",
+              "full_name": "Shaqiq ibn Salamah al-Asadi al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "mentioned_in_text",
+              "reliabilityIssues": [],
+              "narrator_id": 2004,
+              "alternative_names": "Shaqiq ibn Salamah, Abu Wail al-Asadi",
+              "original_id": 0,
+              "kunya": "Abu Wail",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "82",
+              "birth_year": "0",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Mentioned in account"
+            }
+          ],
+          "chainIssues": [
+            "Atah ibn al-Sa'ib uses 'an (عَنْ) transmission term and is known to practice tadlis",
+            "Atah ibn al-Sa'ib also suffered from ikhtilat (confusion) in his later life, which affects the reliability of his narrations",
+            "This is a mawquf (stopped at companion) hadith - Abu Wail's statement does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Atah ibn al-Sa'ib uses 'an (عَنْ) transmission term and is known for tadlis",
+          "impact": "Atah ibn al-Sa'ib's use of 'an makes the transmission ambiguous. Combined with his known tadlis and ikhtilat issues, the reliability of this chain is reduced. The strength of Sufyan ibn Uyaynah (who is Thiqah Thabt) receiving from him helps somewhat, but the issues remain."
+        },
+        {
+          "issue": "Atah ibn al-Sa'ib experienced ikhtilat (confusion) in later life",
+          "impact": "The hadith must be examined for whether it was narrated from Atah before or after his confusion. If after, the reliability decreases further."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Qur'anic terminology and interpretation",
+        "Abu Wail's linguistic preferences in discussing the Qur'an"
+      ]
+    },
+    {
+      "hadith_id": 90605,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9211",
+      "english_translation": "Narrated by Asim: I reached (found/encountered) people who used to take this night as a camel. They used to drink the drink of the jar (fermented beverage) and wore saffron dyed clothing, and they did not see any harm in that. Among them was Abu Wail and another man.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Arim ibn al-Fadl",
+              "full_name": "Arim ibn al-Fadl al-Basri (Abjar)",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2015,
+              "alternative_names": "Arim ibn al-Fadl, Abu Uthman",
+              "original_id": 0,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "219",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Hammad ibn Zayd",
+              "full_name": "Hammad ibn Zayd al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2016,
+              "alternative_names": "Hammad ibn Zayd, Abu Ismail al-Azdi",
+              "original_id": 0,
+              "kunya": "Abu Ismail",
+              "nisba": "al-Azdi al-Basri",
+              "nisba_ar": "الأزدي البصري",
+              "death_year": "179",
+              "birth_year": "90",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Asim",
+              "full_name": "Asim ibn Abi al-Najud Bahilah al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2007,
+              "alternative_names": "Asim ibn Abi al-Hajjaj, Asim al-Ahwal",
+              "original_id": 0,
+              "kunya": "Abu al-Najud",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "128",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            }
+          ],
+          "chainIssues": [
+            "The chain is maqtu' (disconnected) - it stops at Asim ibn Abi al-Najud (a Tabi'i) without reaching the Prophet ﷺ or a companion",
+            "The hadith mentions Abu Wail as a person who partook of certain practices, but he is not the direct source of the narration"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a maqtu' (disconnected) chain - stops at Asim ibn Abi al-Najud",
+          "impact": "The hadith does not have a complete chain to the Prophet ﷺ, which affects its status. However, all narrators in the chain are reliable, so the disconnection is the main issue rather than narrator weakness."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Consumption of fermented beverages (intoxicating drinks)",
+        "Wearing of saffron-dyed clothing",
+        "Practices of early ascetics and companions"
+      ]
+    },
+    {
+      "hadith_id": 90606,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9212",
+      "english_translation": "Narrated by Asim: When Abdullah (ibn Mas'ud) saw Abu Wail, he said: 'The repentant one.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ahmad ibn Abdullah ibn Yunus",
+              "full_name": "Ahmad ibn Abdullah ibn Yunus al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2017,
+              "alternative_names": "Ahmad ibn Abdullah ibn Yunus, Abu Abdullah",
+              "original_id": 0,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "227",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Abu Bakr ibn Ayyash",
+              "full_name": "Abu Bakr Muhammad ibn Ayyash al-Dahhaq al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "memory_issues_in_old_age"
+              ],
+              "narrator_id": 2006,
+              "alternative_names": "Muhammad ibn Ayyash, Abu Bakr al-Dahhaq",
+              "original_id": 0,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Dahhaq al-Kufi",
+              "nisba_ar": "الدهاق الكوفي",
+              "death_year": "193",
+              "birth_year": "105",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Asim",
+              "full_name": "Asim ibn Abi al-Najud Bahilah al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "tadlis",
+                "mudallis"
+              ],
+              "narrator_id": 2007,
+              "alternative_names": "Asim ibn Abi al-Hajjaj, Asim al-Ahwal",
+              "original_id": 0,
+              "kunya": "Abu al-Najud",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "128",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            }
+          ],
+          "chainIssues": [
+            "Asim ibn Abi al-Najud uses 'an (عَنْ) transmission term and is a known mudallis",
+            "This is a maqtu' (disconnected) chain - it stops at Asim ibn Abi al-Najud or the companions mentioned within the narration"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Asim ibn Abi al-Najud uses 'an (عَنْ) transmission term and is a known mudallis",
+          "impact": "The use of 'an by Asim, who is known to practice tadlis, creates ambiguity in the chain. While Asim is Saduq, his mudallis nature requires more careful evaluation of the transmission."
+        },
+        {
+          "issue": "Abu Bakr ibn Ayyash had memory issues in his old age",
+          "impact": "Abu Bakr's reported memory weakness in later life should be considered, though he is still classified as Saduq. The reliability of this narration depends on when it was narrated."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Abdullah ibn Mas'ud's praise of Abu Wail",
+        "Abu Wail's status as a repentant person",
+        "Incident of Abdullah ibn Mas'ud meeting Abu Wail"
+      ]
+    },
+    {
+      "hadith_id": 90607,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9213",
+      "english_translation": "Narrated by Abu Wail through Mughirah: When Abu Wail was called, he would say 'At your service O Allah.' Affan added in his narration: 'And he would not say at your service (to you), O you (plural).' Arim added: 'And he would not say at your service, O your hands.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Affan ibn Muslim",
+              "full_name": "Affan ibn Muslim al-Qurashi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2018,
+              "alternative_names": "Affan ibn Muslim, Abu Uthman",
+              "original_id": 0,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Qurashi al-Basri",
+              "nisba_ar": "القرشي البصري",
+              "death_year": "220",
+              "birth_year": "125",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Abu Awanah",
+              "full_name": "Wadi' ibn al-Jarud al-Yamani al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2019,
+              "alternative_names": "Wadi' ibn al-Jarud, Abu Awanah",
+              "original_id": 0,
+              "kunya": "Abu Awanah",
+              "nisba": "al-Yamani al-Kufi",
+              "nisba_ar": "اليماني الكوفي",
+              "death_year": "176",
+              "birth_year": "85",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Mughirah",
+              "full_name": "Mughirah ibn Miqsam al-Dhabi al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Third Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "tadlis",
+                "ambiguous_transmission"
+              ],
+              "narrator_id": 2002,
+              "alternative_names": "Mughirah ibn Miqsam, Abu al-Miqdam",
+              "original_id": 0,
+              "kunya": "Abu al-Miqdam",
+              "nisba": "al-Dhabi al-Kufi",
+              "nisba_ar": "الذابي الكوفي",
+              "death_year": "162",
+              "birth_year": "80",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Abu Wail",
+              "full_name": "Shaqiq ibn Salamah al-Asadi al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "mentioned_in_text",
+              "reliabilityIssues": [],
+              "narrator_id": 2004,
+              "alternative_names": "Shaqiq ibn Salamah, Abu Wail al-Asadi",
+              "original_id": 0,
+              "kunya": "Abu Wail",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "82",
+              "birth_year": "0",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Mentioned in account"
+            }
+          ],
+          "chainIssues": [
+            "Mughirah ibn Miqsam uses 'an (عَنْ) transmission and is known to practice tadlis",
+            "Two variant recensions (وفي رواية) - Affan's version adds 'he would not say at your service to you (plural)', Arim's adds 'he would not say at your service O your hands'",
+            "This is a mawquf (stopped at companion) hadith - Abu Wail's practice does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mughirah ibn Miqsam uses 'an (عَنْ) transmission term and is known to practice tadlis",
+          "impact": "The 'an transmission from a mudallis creates ambiguity. While Mughirah is Saduq, his tadlis nature requires careful evaluation. The presence of strong narrators above him (Abu Awanah is Thiqah, Affan is Thiqah Thabt) helps mitigate this concern."
+        },
+        {
+          "issue": "Multiple recensions exist for this hadith with variant wordings",
+          "impact": "Different transmitters provide different additional details, which is common but should be noted for complete accuracy in understanding the full account."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Supplication when called upon",
+        "Proper etiquette in responding to calls",
+        "Abu Wail's practices in Islamic etiquette"
+      ]
+    },
+    {
+      "hadith_id": 90608,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9214",
+      "english_translation": "Two chains: First chain narrated through Mu'arrif ibn Wasil: Abu Wail used to ask his slave at sunset: 'O boy, have we prayed yet?' (Additional note from Ahmad: Shaqiq's sight was gone). Second chain: I saw Ibrahim al-Taymi with Abu Wail with his hand in his hand. When Ibrahim remembered (Allah), Abu Wail would weep, and whenever he frightened (mentioned punishment), Abu Wail would weep.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Khallad ibn Yahya",
+              "full_name": "Khallad ibn Yahya al-Qurashi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2020,
+              "alternative_names": "Khallad ibn Yahya, Abu Hafs",
+              "original_id": 0,
+              "kunya": "Abu Hafs",
+              "nisba": "al-Qurashi al-Kufi",
+              "nisba_ar": "القرشي الكوفي",
+              "death_year": "217",
+              "birth_year": "128",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Mu'arrif ibn Wasil",
+              "full_name": "Mu'arrif ibn Wasil al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2021,
+              "alternative_names": "Mu'arrif ibn Wasil, Abu Abdullah",
+              "original_id": 0,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "130",
+              "birth_year": "65",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            }
+          ],
+          "chainIssues": [
+            "This chain is maqtu' (disconnected) - it stops at Mu'arrif ibn Wasil (a Tabi'i)"
+          ]
+        },
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ahmad ibn Abdullah ibn Yunus",
+              "full_name": "Ahmad ibn Abdullah ibn Yunus al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2017,
+              "alternative_names": "Ahmad ibn Abdullah ibn Yunus, Abu Abdullah",
+              "original_id": 0,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "227",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Mu'arrif ibn Wasil",
+              "full_name": "Mu'arrif ibn Wasil al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": [],
+              "narrator_id": 2021,
+              "alternative_names": "Mu'arrif ibn Wasil, Abu Abdullah",
+              "original_id": 0,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "130",
+              "birth_year": "65",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to me (direct hearing)"
+            },
+            {
+              "name": "Ibrahim al-Taymi",
+              "full_name": "Ibrahim ibn Yazid al-Taymi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "First Century (Second Generation)",
+              "transmissionTerm": "mentioned_in_text",
+              "reliabilityIssues": [],
+              "narrator_id": 2003,
+              "alternative_names": "Ibrahim al-Nakhaa'i, Ibrahim al-Taymi",
+              "original_id": 0,
+              "kunya": "Abu Isma'il",
+              "nisba": "al-Taymi al-Kufi",
+              "nisba_ar": "التيمي الكوفي",
+              "death_year": "96",
+              "birth_year": "25",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Mentioned in account"
+            },
+            {
+              "name": "Abu Wail",
+              "full_name": "Shaqiq ibn Salamah al-Asadi al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "mentioned_in_text",
+              "reliabilityIssues": [],
+              "narrator_id": 2004,
+              "alternative_names": "Shaqiq ibn Salamah, Abu Wail al-Asadi",
+              "original_id": 0,
+              "kunya": "Abu Wail",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "82",
+              "birth_year": "0",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Mentioned in account"
+            }
+          ],
+          "chainIssues": [
+            "This chain is maqtu' (disconnected) - it stops at the account of Abu Wail and Ibrahim al-Taymi's encounter"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain is maqtu' (disconnected) - stops at Mu'arrif ibn Wasil",
+          "impact": "The hadith does not have a complete chain to the Prophet ﷺ or a clear companion source. However, all narrators are reliable (Khallad is Thiqah, Mu'arrif is Saduq)."
+        },
+        {
+          "issue": "Second chain is also maqtu' - the account regarding Ibrahim al-Taymi and Abu Wail's emotional response",
+          "impact": "The account is transmitted by reliable narrators but lacks a complete chain structure reaching the Prophet ﷺ."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Abu Wail's concern for prayer timings",
+        "Incident of Ibrahim al-Taymi reminding Abu Wail of Allah",
+        "Abu Wail's emotional piety and weeping"
+      ]
+    },
+    {
+      "hadith_id": 90609,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9215",
+      "english_translation": "Two chains: First chain narrated by al-Zibriqan: Shaqiq commanded me: 'Do not sit with the people of 'arey'ite, arey'ite' (meaning those who constantly ask 'what is your opinion'). Second chain narrated by Asim: Abu Wail had a shelter (structure) where he and his horse stayed together. When he went to war he would take it apart, and when he returned he would rebuild it.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Said ibn Muhammad al-Thaqafi",
+              "full_name": "Said ibn Muhammad ibn al-Azraq al-Thaqafi",
+              "grade": "Saduq",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2022,
+              "alternative_names": "Said ibn Muhammad al-Thaqafi, Abu al-Azraq",
+              "original_id": 0,
+              "kunya": "Abu al-Azraq",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "208",
+              "birth_year": "128",
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "al-Zibriqan",
+              "full_name": "al-Zibriqan ibn al-Ubai al-Thaqafi",
+              "grade": "Saduq",
+              "generation": "First Century (Fourth Generation)",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 2023,
+              "alternative_names": "al-Zibriqan ibn al-Ubai, Abu Qurrah",
+              "original_id": 0,
+              "kunya": "Abu Qurrah",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "110",
+              "birth_year": "35",
+              "reliability_grade": "Saduq",
+              "tabaqat": "4",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Shaqiq",
+              "full_name": "Shaqiq ibn Salamah al-Asadi al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2004,
+              "alternative_names": "Shaqiq ibn Salamah, Abu Wail al-Asadi",
+              "original_id": 0,
+              "kunya": "Abu Wail",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "82",
+              "birth_year": "0",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "al-Zibriqan uses 'an (عَنِ) transmission term which introduces slight ambiguity",
+            "This is a mawquf (stopped at companion) hadith - Shaqiq's command does not reach the Prophet ﷺ"
+          ]
+        },
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Affan ibn Muslim",
+              "full_name": "Affan ibn Muslim al-Qurashi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2018,
+              "alternative_names": "Affan ibn Muslim, Abu Uthman",
+              "original_id": 0,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Qurashi al-Basri",
+              "nisba_ar": "القرشي البصري",
+              "death_year": "220",
+              "birth_year": "125",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Abu Awanah",
+              "full_name": "Wadi' ibn al-Jarud al-Yamani al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2019,
+              "alternative_names": "Wadi' ibn al-Jarud, Abu Awanah",
+              "original_id": 0,
+              "kunya": "Abu Awanah",
+              "nisba": "al-Yamani al-Kufi",
+              "nisba_ar": "اليماني الكوفي",
+              "death_year": "176",
+              "birth_year": "85",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Asim",
+              "full_name": "Asim ibn Abi al-Najud Bahilah al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "tadlis",
+                "mudallis"
+              ],
+              "narrator_id": 2007,
+              "alternative_names": "Asim ibn Abi al-Hajjaj, Asim al-Ahwal",
+              "original_id": 0,
+              "kunya": "Abu al-Najud",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "128",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            }
+          ],
+          "chainIssues": [
+            "Asim ibn Abi al-Najud uses 'an (عَنْ) transmission and is a known mudallis",
+            "This chain is maqtu' (disconnected) - stops at Asim ibn Abi al-Najud (a Tabi'i)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain: al-Zibriqan uses 'an (عَنِ) transmission term, introducing slight ambiguity",
+          "impact": "While al-Zibriqan is Saduq and his 'an transmission is not as problematic as a mudallis using it, the ambiguity should be noted. The account is about Shaqiq's command to al-Zibriqan."
+        },
+        {
+          "issue": "Second chain: Asim ibn Abi al-Najud uses 'an (عَنْ) transmission and is a known mudallis",
+          "impact": "Asim's mudallis nature combined with 'an transmission creates reliability concerns. However, Abu Awanah (Thiqah) above him helps mitigate this."
+        },
+        {
+          "issue": "Both chains are disconnected - first is mawquf (stopped at companion), second is maqtu'",
+          "impact": "Neither chain reaches the Prophet ﷺ. The second chain's disconnection combined with Asim's tadlis issues makes it weaker."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Abu Wail's guidance to avoid excessive questioners",
+        "Abu Wail's military practices and resourcefulness",
+        "Incident of war preparation"
+      ]
+    },
+    {
+      "hadith_id": 90610,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9216",
+      "english_translation": "Narrated by Abu Wail: One dirham from trade/commerce is more beloved to me than ten from my provision. Two variant chains: from Qais through Asim from Abu Wail, similar statement.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Abdullah al-Asadi",
+              "full_name": "Muhammad ibn Abdullah al-Asadi al-Kufi",
+              "grade": "Saduq",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2024,
+              "alternative_names": "Muhammad ibn Abdullah al-Asadi, Abu Abdullah",
+              "original_id": 0,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "210",
+              "birth_year": "128",
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Mindal",
+              "full_name": "Mindal ibn Ali al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2025,
+              "alternative_names": "Mindal ibn Ali, Abu Ali",
+              "original_id": 0,
+              "kunya": "Abu Ali",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "169",
+              "birth_year": "95",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Sufyan",
+              "full_name": "Sufyan ibn Uyaynah al-Hilali al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2011,
+              "alternative_names": "Sufyan ibn Uyaynah, Abu Muhammad",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Hilali al-Kufi",
+              "nisba_ar": "الهلالي الكوفي",
+              "death_year": "198",
+              "birth_year": "107",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": "Kufa/Mecca",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Amr ibn Qais",
+              "full_name": "Amr ibn Qais al-Kufi",
+              "grade": "Thiqah",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2026,
+              "alternative_names": "Amr ibn Qais, Abu Amr",
+              "original_id": 0,
+              "kunya": "Abu Amr",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "125",
+              "birth_year": "50",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Asim",
+              "full_name": "Asim ibn Abi al-Najud Bahilah al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "tadlis",
+                "mudallis"
+              ],
+              "narrator_id": 2007,
+              "alternative_names": "Asim ibn Abi al-Hajjaj, Asim al-Ahwal",
+              "original_id": 0,
+              "kunya": "Abu al-Najud",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "128",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Abu Wail",
+              "full_name": "Shaqiq ibn Salamah al-Asadi al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2004,
+              "alternative_names": "Shaqiq ibn Salamah, Abu Wail al-Asadi",
+              "original_id": 0,
+              "kunya": "Abu Wail",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "82",
+              "birth_year": "0",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Multiple ambiguous transmission terms (عَنْ) used by Sufyan, Amr ibn Qais, and Asim",
+            "Asim ibn Abi al-Najud is a known mudallis using 'an transmission, which is problematic",
+            "This is a mawquf (stopped at companion) hadith - Abu Wail's statement does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Asim ibn Abi al-Najud uses 'an (عَنْ) transmission and is a known mudallis",
+          "impact": "Asim's mudallis status with 'an transmission creates reliability concerns for this chain. However, the statement is about Abu Wail's preference for earned income, which is a factual statement about a companion."
+        },
+        {
+          "issue": "Multiple 'an transmissions in the chain without explicit hearing terms",
+          "impact": "While each narrator is relatively reliable individually (Sufyan is Thiqah Thabt, Amr ibn Qais is Thiqah), the cumulative effect of multiple ambiguous terms affects the overall chain reliability."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Virtue of earned income through trade and commerce",
+        "Abu Wail's economic principles",
+        "Preference for self-earned provision over provision"
+      ]
+    },
+    {
+      "hadith_id": 90611,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9217",
+      "english_translation": "Multiple chains regarding Abu Wail's clothing and appearance: First - I saw Abu Wail's lower garment reaching the middle of his shins, his shirt above that, and his cloak above that, and Mujahid was similar. Second - Abu Wail used to wear Yemeni garments. Third - I saw Shaqiq dyeing his beard with yellow. Fourth - I saw Abu Wail dyeing his beard with yellow. Fifth - I asked Mu'arrif ibn Wasil: Did you see Abu Wail dyeing his beard? He said: Yes, Abu Wail dyed his beard yellow. Sixth - I saw Abu Wail listening to lamentation and weeping.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "al-Fadl ibn Dakain",
+              "full_name": "al-Fadl ibn Dakain al-Qurashi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2005,
+              "alternative_names": "al-Fadl ibn Dakain, Abu Khadeej",
+              "original_id": 0,
+              "kunya": "Abu Khadeej",
+              "nisba": "al-Qurashi al-Kufi",
+              "nisba_ar": "القرشي الكوفي",
+              "death_year": "203",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Hafs",
+              "full_name": "Hafs ibn Ghiyath al-Qadi al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2027,
+              "alternative_names": "Hafs ibn Ghiyath, Abu Umar",
+              "original_id": 0,
+              "kunya": "Abu Umar",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "194",
+              "birth_year": "120",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "al-A'mash",
+              "full_name": "Suleiman ibn Mihran al-Asadi al-Kufi (al-A'mash)",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "tadlis_category_2"
+              ],
+              "narrator_id": 2012,
+              "alternative_names": "Suleiman ibn Mihran, Abu Muhammad al-A'mash",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "148",
+              "birth_year": "61",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            }
+          ],
+          "chainIssues": [
+            "al-A'mash uses 'an (عَنِ) transmission and is a Category 2 mudallis, though this is less problematic than higher categories",
+            "This chain is maqtu' (disconnected) - stops at the account of Abu Wail's appearance"
+          ]
+        },
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "al-Fadl ibn Dakain",
+              "full_name": "al-Fadl ibn Dakain al-Qurashi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2005,
+              "alternative_names": "al-Fadl ibn Dakain, Abu Khadeej",
+              "original_id": 0,
+              "kunya": "Abu Khadeej",
+              "nisba": "al-Qurashi al-Kufi",
+              "nisba_ar": "القرشي الكوفي",
+              "death_year": "203",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Said ibn Salih al-Asadi",
+              "full_name": "Said ibn Salih al-Asadi al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2028,
+              "alternative_names": "Said ibn Salih, Abu Muhammad",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "180",
+              "birth_year": "110",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            }
+          ],
+          "chainIssues": [
+            "This chain is maqtu' (disconnected) - stops at the narration about Abu Wail's clothing"
+          ]
+        },
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ubaidullah ibn Musa",
+              "full_name": "Ubaidullah ibn Musa al-Qurashi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2029,
+              "alternative_names": "Ubaidullah ibn Musa, Abu Muhammad",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Qurashi al-Kufi",
+              "nisba_ar": "القرشي الكوفي",
+              "death_year": "213",
+              "birth_year": "128",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Shayban",
+              "full_name": "Shayban ibn Farruukh al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2030,
+              "alternative_names": "Shayban ibn Farruukh, Abu Ishaq",
+              "original_id": 0,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "195",
+              "birth_year": "120",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "al-A'mash",
+              "full_name": "Suleiman ibn Mihran al-Asadi al-Kufi (al-A'mash)",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "tadlis_category_2"
+              ],
+              "narrator_id": 2012,
+              "alternative_names": "Suleiman ibn Mihran, Abu Muhammad al-A'mash",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "148",
+              "birth_year": "61",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            }
+          ],
+          "chainIssues": [
+            "al-A'mash uses 'an (عَنِ) transmission and is a Category 2 mudallis",
+            "This chain is maqtu' (disconnected)"
+          ]
+        },
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "al-Fadl ibn Dakain",
+              "full_name": "al-Fadl ibn Dakain al-Qurashi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2005,
+              "alternative_names": "al-Fadl ibn Dakain, Abu Khadeej",
+              "original_id": 0,
+              "kunya": "Abu Khadeej",
+              "nisba": "al-Qurashi al-Kufi",
+              "nisba_ar": "القرشي الكوفي",
+              "death_year": "203",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Fitr",
+              "full_name": "Fitr ibn Khalifah al-Qadi al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2031,
+              "alternative_names": "Fitr ibn Khalifah, Abu Ismail",
+              "original_id": 0,
+              "kunya": "Abu Ismail",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "181",
+              "birth_year": "95",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            }
+          ],
+          "chainIssues": [
+            "This chain is maqtu' (disconnected) - stops at Fitr's account of Abu Wail dyeing his beard"
+          ]
+        },
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Amr ibn al-Haytham Abu Qatan",
+              "full_name": "Amr ibn al-Haytham al-Kufi (Abu Qatan)",
+              "grade": "Saduq",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2032,
+              "alternative_names": "Amr ibn al-Haytham, Abu Qatan",
+              "original_id": 0,
+              "kunya": "Abu Qatan",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "215",
+              "birth_year": "128",
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Mu'arrif ibn Wasil",
+              "full_name": "Mu'arrif ibn Wasil al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "mentioned_in_text",
+              "reliabilityIssues": [],
+              "narrator_id": 2021,
+              "alternative_names": "Mu'arrif ibn Wasil, Abu Abdullah",
+              "original_id": 0,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "130",
+              "birth_year": "65",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Mentioned as witness in account"
+            }
+          ],
+          "chainIssues": [
+            "This chain is maqtu' (disconnected) - the account is transmitted from Mu'arrif ibn Wasil as a witness account"
+          ]
+        },
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Zuhayr ibn Harb",
+              "full_name": "Zuhayr ibn Harb al-Qurashi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2033,
+              "alternative_names": "Zuhayr ibn Harb, Abu Kharijah",
+              "original_id": 0,
+              "kunya": "Abu Kharijah",
+              "nisba": "al-Qurashi al-Basri",
+              "nisba_ar": "القرشي البصري",
+              "death_year": "219",
+              "birth_year": "125",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Ali ibn Thabit",
+              "full_name": "Ali ibn Thabit al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2034,
+              "alternative_names": "Ali ibn Thabit, Abu Amr",
+              "original_id": 0,
+              "kunya": "Abu Amr",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "185",
+              "birth_year": "105",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Said ibn Salih",
+              "full_name": "Said ibn Salih al-Asadi al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "mentioned_in_text",
+              "reliabilityIssues": [],
+              "narrator_id": 2028,
+              "alternative_names": "Said ibn Salih, Abu Muhammad",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "180",
+              "birth_year": "110",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Mentioned as narrator"
+            }
+          ],
+          "chainIssues": [
+            "Ali ibn Thabit uses 'an (عَنْ) transmission term",
+            "This chain is maqtu' (disconnected)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple chains with various transmission issues, several involving al-A'mash and his Category 2 tadlis",
+          "impact": "While al-A'mash is generally reliable even with 'an transmission, the multiple disconnected chains and various 'an transmissions create collective weakness in the hadith structure."
+        },
+        {
+          "issue": "All chains are maqtu' (disconnected) - none reach the Prophet ﷺ or a clear companion source",
+          "impact": "These accounts about Abu Wail's appearance and practices are all disconnected chains (mostly based on observer accounts of Tabi'un about a companion)."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Abu Wail's clothing and modesty",
+        "Dyeing beard with yellow/saffron dye",
+        "Abu Wail's emotional responses to remembrance and lamentation",
+        "Appearance of early companions and ascetics"
+      ]
+    },
+    {
+      "hadith_id": 90612,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9218",
+      "english_translation": "Narrated by Asim ibn Bahdilah: Abu Wail visited al-Aswad ibn Hilal to see him. Abu Wail said: 'By Allah, I did not come to you until I wished not to meet you.' (al-Aswad) said: 'Why O Abu Wail?' He said: 'Because I prevent you from life, and I fear for you the trials/afflictions, and I know what is with Allah is better.' (al-Aswad) said: 'Do not do this O Abu Wail, for I am not disinterested in fifty prayers every day. When I die, my deed ceases. I have not increased in prayer a prayer, nor in a good deed a good deed, nor in fasting a fast.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Affan ibn Muslim",
+              "full_name": "Affan ibn Muslim al-Qurashi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2018,
+              "alternative_names": "Affan ibn Muslim, Abu Uthman",
+              "original_id": 0,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Qurashi al-Basri",
+              "nisba_ar": "القرشي البصري",
+              "death_year": "220",
+              "birth_year": "125",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Abdullah ibn Bakr al-Muzani",
+              "full_name": "Abdullah ibn Bakr al-Zarqi al-Muzani al-Basri",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2009,
+              "alternative_names": "Abdullah ibn Bakr, Abu al-Walid al-Zarqi",
+              "original_id": 0,
+              "kunya": "Abu al-Walid",
+              "nisba": "al-Zarqi al-Muzani",
+              "nisba_ar": "الزرقي المزني",
+              "death_year": "175",
+              "birth_year": "100",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Asim ibn Bahdilah",
+              "full_name": "Asim ibn Bahdalah ibn Abi al-Najud al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [],
+              "narrator_id": 2007,
+              "alternative_names": "Asim ibn Abi al-Hajjaj, Asim al-Ahwal",
+              "original_id": 0,
+              "kunya": "Abu al-Najud",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "128",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "I heard (explicit hearing)"
+            }
+          ],
+          "chainIssues": [
+            "This chain is maqtu' (disconnected) - stops at Asim ibn Bahdilah, a Tabi'i"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "This chain is maqtu' (disconnected) - does not reach the Prophet ﷺ or a clear companion source",
+          "impact": "The dialogue is presented between Abu Wail (Companion) and al-Aswad ibn Hilal. The account lacks a complete chain reaching the Prophet ﷺ."
+        },
+        {
+          "issue": "Asim ibn Bahdilah is known to practice tadlis, though he uses explicit hearing term here",
+          "impact": "While Asim uses سَمِعْتُ (explicit hearing), which is positive, his mudallis nature should still be noted. However, the direct hearing term significantly mitigates this concern."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Dialogue between Abu Wail and al-Aswad ibn Hilal",
+        "Concern for a companion's welfare in life",
+        "Fear of trials and worldly matters",
+        "Belief in the permanence of deeds after death",
+        "Incident of advising a companion toward asceticism"
+      ]
+    },
+    {
+      "hadith_id": 90613,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9219",
+      "english_translation": "When Abu Wail died, Abu Burdah kissed his forehead. It is mentioned that Abu Wail died during the time of al-Hajjaj after the slaughter campaigns. Abu Wail narrated from Umar, Ali, Abdullah, Usama ibn Zayd, Hudhayfah, Abu Musa, Ibn Abbas, Azzah ibn Qais. He went to the Levant and heard from Abu al-Darda'. He narrated from Ibn al-Zubayr, Salman ibn Rabi'ah, participated in the expedition to Balanjar with Salman ibn Rabi'ah, narrated from Ibn Mu'ayz al-Sa'di. He also narrated from Masruq, Kurdus, Amr ibn Sharhabil, Yasar ibn Numayr, Salamah ibn Subrah, and Amr ibn al-Harith (who narrated from Zaynab wife of Abdullah). He was reliable and abundant in hadith. Narrated by Wakee' ibn al-Jarrah from al-A'mash from Abu Wail from al-Subay' ibn Mu'abbad al-Juhani.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Affan ibn Muslim",
+              "full_name": "Affan ibn Muslim al-Qurashi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2018,
+              "alternative_names": "Affan ibn Muslim, Abu Uthman",
+              "original_id": 0,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Qurashi al-Basri",
+              "nisba_ar": "القرشي البصري",
+              "death_year": "220",
+              "birth_year": "125",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Hammad ibn Salamah",
+              "full_name": "Hammad ibn Salamah al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2035,
+              "alternative_names": "Hammad ibn Salamah, Abu Salamah",
+              "original_id": 0,
+              "kunya": "Abu Salamah",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "167",
+              "birth_year": "85",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Asim ibn Bahdilah",
+              "full_name": "Asim ibn Bahdalah ibn Abi al-Najud al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "tadlis",
+                "mudallis"
+              ],
+              "narrator_id": 2007,
+              "alternative_names": "Asim ibn Abi al-Hajjaj, Asim al-Ahwal",
+              "original_id": 0,
+              "kunya": "Abu al-Najud",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "128",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            }
+          ],
+          "chainIssues": [
+            "Asim ibn Bahdilah uses 'an (عَنْ) transmission and is a known mudallis",
+            "This chain is maqtu' (disconnected) - stops at Asim, a Tabi'i"
+          ]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Wakee' ibn al-Jarrah",
+              "full_name": "Wakee' ibn al-Jarrah ibn Malih al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2036,
+              "alternative_names": "Wakee' ibn al-Jarrah, Abu Sufyan",
+              "original_id": 0,
+              "kunya": "Abu Sufyan",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "197",
+              "birth_year": "129",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "al-A'mash",
+              "full_name": "Suleiman ibn Mihran al-Asadi al-Kufi (al-A'mash)",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "tadlis_category_2"
+              ],
+              "narrator_id": 2012,
+              "alternative_names": "Suleiman ibn Mihran, Abu Muhammad al-A'mash",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "148",
+              "birth_year": "61",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Abu Wail",
+              "full_name": "Shaqiq ibn Salamah al-Asadi al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 2004,
+              "alternative_names": "Shaqiq ibn Salamah, Abu Wail al-Asadi",
+              "original_id": 0,
+              "kunya": "Abu Wail",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "82",
+              "birth_year": "0",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "al-Subay' ibn Mu'abbad al-Juhani",
+              "full_name": "al-Subay' ibn Mu'abbad al-Juhani",
+              "grade": "Majhul al-Hal",
+              "generation": "Companion",
+              "transmissionTerm": "mentioned_in_text",
+              "reliabilityIssues": [
+                "majhul_al_hal"
+              ],
+              "narrator_id": 2037,
+              "alternative_names": "al-Subay' ibn Mu'abbad",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Companion",
+              "location": "",
+              "transmissionTermMeaning": "Mentioned in account"
+            }
+          ],
+          "chainIssues": [
+            "al-A'mash uses 'an (عَنِ) transmission and is a Category 2 mudallis",
+            "Abu Wail uses 'an (عَنِ) transmission term, which is ambiguous for a companion narrating",
+            "al-Subay' ibn Mu'abbad al-Juhani is majhul al-hal (unknown in reliability), which affects this chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain: Asim ibn Bahdilah uses 'an (عَنْ) transmission and is a known mudallis",
+          "impact": "The biographical information is presented through a mudallis using ambiguous transmission, affecting reliability of the specific account about Abu Burdah kissing Abu Wail's forehead."
+        },
+        {
+          "issue": "Second chain: al-A'mash uses 'an (عَنِ) and is a Category 2 mudallis, and al-Subay' ibn Mu'abbad is majhul al-hal",
+          "impact": "The presence of al-A'mash with tadlis and an unknown companion (al-Subay' ibn Mu'abbad) in the chain weakens this transmission. The reliability of al-Subay' ibn Mu'abbad is unknown."
+        },
+        {
+          "issue": "This hadith entry includes extensive biographical information about Abu Wail and his teachers/students",
+          "impact": "The biographical portion is editor commentary rather than hadith text, providing historical context about Abu Wail's lifespan and connections."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Abu Wail's death and last moments",
+        "Abu Wail's narrations from various companions",
+        "Biographical information of Abu Wail al-Kufi"
+      ]
+    },
+    {
+      "hadith_id": 90614,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9220",
+      "english_translation": "[Biographical entry: Zaid ibn Wahb al-Juhani]",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Zaid ibn Wahb",
+              "full_name": "Zaid ibn Wahb al-Juhani",
+              "grade": "Majhul",
+              "generation": "First Century (Fourth Generation)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 2038,
+              "alternative_names": "Zaid ibn Wahb al-Juhani",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "4",
+              "location": "",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This entry contains only a narrator's name without any hadith chain or text"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Entry contains no hadith text or chain structure",
+          "impact": "This appears to be a biographical heading or index entry rather than a complete hadith with transmission chain."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical reference"
+      ]
+    },
+    {
+      "hadith_id": 90615,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9221",
+      "english_translation": "Zaid ibn Wahb belongs to the tribe of Hasl ibn Nasr ibn Malik ibn Adi ibn al-Tawl ibn Auf ibn Ghatafan ibn Qais ibn Juhaynah from Quda'ah, with the kunya Abu Zayd Sulayman. Zaid narrated from Umar, Ali, and Abdullah. He witnessed the battles with Ali ibn Abi Talib.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Zaid ibn Wahb",
+              "full_name": "Zaid ibn Wahb al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2038,
+              "alternative_names": "Zaid ibn Wahb al-Juhani, Abu Zayd Sulayman",
+              "original_id": 0,
+              "kunya": "Abu Zayd",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "",
+              "transmissionTermMeaning": "Biographical information"
+            }
+          ],
+          "chainIssues": [
+            "This entry is purely biographical information without a hadith chain",
+            "Contains genealogical and biographical data rather than a narrated hadith"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Entry is biographical/genealogical rather than a hadith with transmission chain",
+          "impact": "This is editorial commentary providing genealogical and historical context about Zaid ibn Wahb rather than a transmitted hadith."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical information of Zaid ibn Wahb",
+        "Genealogy of Zaid ibn Wahb al-Juhani",
+        "Zaid ibn Wahb's narrations and witnessing of battles"
+      ]
+    },
+    {
+      "hadith_id": 90616,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9222",
+      "english_translation": "Narrated by Zaid ibn Wahb: We fought in Azerbaijan during the rule of Umar, and with us at that time was al-Zubayr ibn al-Awwam. A letter came to us from Umar: 'It has reached me that you are in a land where food is mixed with dead animals and clothing with dead animals. So do not eat except what is slaughtered properly, and do not wear except what is from properly slaughtered animals.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "al-Fadl ibn Dakain",
+              "full_name": "al-Fadl ibn Dakain al-Qurashi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2005,
+              "alternative_names": "al-Fadl ibn Dakain, Abu Khadeej",
+              "original_id": 0,
+              "kunya": "Abu Khadeej",
+              "nisba": "al-Qurashi al-Kufi",
+              "nisba_ar": "القرشي الكوفي",
+              "death_year": "203",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Ibn Abi Ghaniyyah",
+              "full_name": "Muhammad ibn Abil-Harith al-Kufi",
+              "grade": "Saduq Lahu Awham",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "awham_narrations"
+              ],
+              "narrator_id": 2039,
+              "alternative_names": "Ibn Abi Ghaniyyah, Abu Abdullah",
+              "original_id": 0,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "175",
+              "birth_year": "100",
+              "reliability_grade": "Saduq Lahu Awham",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "al-Hakam",
+              "full_name": "al-Hakam ibn Utaybah al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 2040,
+              "alternative_names": "al-Hakam ibn Utaybah, Abu Muhammad",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "113",
+              "birth_year": "45",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Zaid ibn Wahb",
+              "full_name": "Zaid ibn Wahb al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2038,
+              "alternative_names": "Zaid ibn Wahb al-Juhani, Abu Zayd",
+              "original_id": 0,
+              "kunya": "Abu Zayd",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Ibn Abi Ghaniyyah has the grade 'Saduq Lahu Awham' (Good but has confusions/errors in narrations)",
+            "al-Hakam uses 'an (عَنِ) transmission term, introducing slight ambiguity",
+            "This is a mawquf (stopped at companion) hadith - Zaid ibn Wahb's account does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Abi Ghaniyyah is graded as 'Saduq Lahu Awham' (has confusions/errors in his narrations)",
+          "impact": "While Ibn Abi Ghaniyyah is generally reliable, his known weakness in some narrations affects the reliability of this chain. The presence of al-Fadl ibn Dakain (Thiqah) above him provides some mitigation."
+        },
+        {
+          "issue": "al-Hakam uses 'an (عَنِ) transmission term, creating slight ambiguity",
+          "impact": "While al-Hakam is Saduq and the ambiguity is minor compared to a mudallis, it should be noted in the chain analysis."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Military expedition to Azerbaijan during Umar's time",
+        "Letter of Umar regarding food and clothing from dead animals",
+        "Instruction to avoid non-slaughtered animal products",
+        "Presence of al-Zubayr ibn al-Awwam in the campaign"
+      ]
+    },
+    {
+      "hadith_id": 90617,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9223",
+      "english_translation": "Two chains regarding Zaid ibn Wahb: First - The servant/freed slave of Zaid ibn Wahb said: Zaid used to lead us in prayer wearing a single garment, and he would say takbir four times at funerals. When he gave the greeting at the end of prayer he would say: 'Peace be upon you and the mercy of Allah and His blessings, and His forgiveness, and the goodness of His prayers.' Second - I saw Zaid ibn Wahb dyeing his beard with yellow. Our companions said: Zaid ibn Wahb died during the rule of al-Hajjaj after the slaughter campaigns, and he was reliable and abundant in hadith.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "al-Fadl ibn Dakain",
+              "full_name": "al-Fadl ibn Dakain al-Qurashi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2005,
+              "alternative_names": "al-Fadl ibn Dakain, Abu Khadeej",
+              "original_id": 0,
+              "kunya": "Abu Khadeej",
+              "nisba": "al-Qurashi al-Kufi",
+              "nisba_ar": "القرشي الكوفي",
+              "death_year": "203",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Mawla Zaid ibn Wahb",
+              "full_name": "Unnamed freed slave/servant of Zaid ibn Wahb",
+              "grade": "Majhul",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 2041,
+              "alternative_names": "Servant of Zaid ibn Wahb",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "6",
+              "location": "",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            }
+          ],
+          "chainIssues": [
+            "The second narrator is identified only as 'Mawla Zaid ibn Wahb' (servant/freed slave of Zaid ibn Wahb) - his name is unknown",
+            "An unnamed/unknown narrator significantly affects chain reliability",
+            "This chain is maqtu' (disconnected) - stops at the account of Zaid ibn Wahb's practices"
+          ]
+        },
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Abu Mu'awiyah al-Darir",
+              "full_name": "Muhammad ibn Khazim al-Darir al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2042,
+              "alternative_names": "Abu Mu'awiyah al-Darir, Muhammad ibn Khazim",
+              "original_id": 0,
+              "kunya": "Abu Mu'awiyah",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "193",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "al-A'mash",
+              "full_name": "Suleiman ibn Mihran al-Asadi al-Kufi (al-A'mash)",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "tadlis_category_2"
+              ],
+              "narrator_id": 2012,
+              "alternative_names": "Suleiman ibn Mihran, Abu Muhammad al-A'mash",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "148",
+              "birth_year": "61",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            }
+          ],
+          "chainIssues": [
+            "al-A'mash uses حَدَّثَنَا (explicit transmission term), which is positive despite his Category 2 tadlis",
+            "This chain is maqtu' (disconnected) - stops at the account of Zaid ibn Wahb's appearance"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain: The narrator is identified only as 'Mawla Zaid ibn Wahb' (unnamed servant/freed slave)",
+          "impact": "The use of an unnamed narrator significantly weakens this chain as the servant's identity and reliability cannot be assessed. This is a critical deficiency in the chain structure."
+        },
+        {
+          "issue": "Both chains are maqtu' (disconnected) - they do not reach the Prophet ﷺ or a clear companion source",
+          "impact": "These are accounts about Zaid ibn Wahb's practices and appearance, not reaching a complete chain to the Prophet ﷺ."
+        },
+        {
+          "issue": "Second chain: al-A'mash is a Category 2 mudallis, though he uses explicit transmission term here",
+          "impact": "While al-A'mash's use of حَدَّثَنَا (explicit term) is positive, his mudallis status should still be noted. The presence of Abu Mu'awiyah al-Darir (Thiqah) above him provides some mitigation."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Zaid ibn Wahb's prayer practices",
+        "Takbir formula at funerals",
+        "Blessing formula in salutation",
+        "Zaid ibn Wahb's appearance and beard dyeing",
+        "Biographical information of Zaid ibn Wahb"
+      ]
+    },
+    {
+      "hadith_id": 90618,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9224",
+      "english_translation": "[Biographical entry: Abdullah ibn Sakhbarah al-Azdi]",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Sakhbarah",
+              "full_name": "Abdullah ibn Sakhbarah al-Azdi",
+              "grade": "Majhul",
+              "generation": "First Century (Fourth Generation)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 2043,
+              "alternative_names": "Abdullah ibn Sakhbarah al-Azdi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "4",
+              "location": "",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This entry contains only a narrator's name without any hadith chain or text"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Entry contains no hadith text or chain structure",
+          "impact": "This appears to be a biographical heading or index entry rather than a complete hadith with transmission chain."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical reference"
+      ]
+    },
+    {
+      "hadith_id": 90619,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9225",
+      "english_translation": "Abu Ma'mar (with the kunya Abu Ma'mar) narrated from Umar, Ali, Abdullah, Abu Mas'ud, and Alqamah. There is a narration through Isra'il from Abu Ma'mar that he heard Abu Bakr al-Siddiq saying: Disbelief in Allah is claiming a lineage not known, but this is not firmly established with me. Three chains follow: First - When Umar bowed (in prayer), he placed his hands on his knees. Second - He used to narrate a hadith and would commit an error in it, following what he had heard. Third - Abu Ma'mar died in Kufa during the rule of Ubaidullah ibn Ziyad, and he was reliable with many hadiths.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Abu Ma'mar",
+              "full_name": "Abdullah ibn Sarikah al-Qaysi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2044,
+              "alternative_names": "Abu Ma'mar, Abdullah ibn Sarikah",
+              "original_id": 0,
+              "kunya": "Abu Ma'mar",
+              "nisba": "al-Qaysi",
+              "nisba_ar": "القيسي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is a biographical entry rather than a complete hadith chain"
+          ]
+        },
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ya'la ibn Ubaid",
+              "full_name": "Ya'la ibn Ubaid al-Taymi al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2045,
+              "alternative_names": "Ya'la ibn Ubaid, Abu Muhammad",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Taymi al-Kufi",
+              "nisba_ar": "التيمي الكوفي",
+              "death_year": "175",
+              "birth_year": "100",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "al-A'mash",
+              "full_name": "Suleiman ibn Mihran al-Asadi al-Kufi (al-A'mash)",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "tadlis_category_2"
+              ],
+              "narrator_id": 2012,
+              "alternative_names": "Suleiman ibn Mihran, Abu Muhammad al-A'mash",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "148",
+              "birth_year": "61",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Yazid al-Taymi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "First Century (Second Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2003,
+              "alternative_names": "Ibrahim al-Nakhaa'i, Ibrahim al-Taymi",
+              "original_id": 0,
+              "kunya": "Abu Isma'il",
+              "nisba": "al-Taymi al-Kufi",
+              "nisba_ar": "التيمي الكوفي",
+              "death_year": "96",
+              "birth_year": "25",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Abu Ma'mar",
+              "full_name": "Abdullah ibn Sarikah al-Qaysi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "mentioned_in_text",
+              "reliabilityIssues": [],
+              "narrator_id": 2044,
+              "alternative_names": "Abu Ma'mar, Abdullah ibn Sarikah",
+              "original_id": 0,
+              "kunya": "Abu Ma'mar",
+              "nisba": "al-Qaysi",
+              "nisba_ar": "القيسي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Mentioned in account"
+            }
+          ],
+          "chainIssues": [
+            "al-A'mash uses 'an (عَنِ) transmission and is a Category 2 mudallis",
+            "Ibrahim also uses 'an (عَنْ) transmission term",
+            "This chain is maqtu' (disconnected) - stops at Abu Ma'mar"
+          ]
+        },
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Abd al-Hamid ibn Abd al-Rahman al-Hammani",
+              "full_name": "Abd al-Hamid ibn Abd al-Rahman al-Hammani al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2046,
+              "alternative_names": "Abd al-Hamid al-Hammani, Abu Muhammad",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Hammani al-Kufi",
+              "nisba_ar": "الحماني الكوفي",
+              "death_year": "186",
+              "birth_year": "110",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "al-A'mash",
+              "full_name": "Suleiman ibn Mihran al-Asadi al-Kufi (al-A'mash)",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "tadlis_category_2"
+              ],
+              "narrator_id": 2012,
+              "alternative_names": "Suleiman ibn Mihran, Abu Muhammad al-A'mash",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "148",
+              "birth_year": "61",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Umarah ibn Umayr",
+              "full_name": "Umarah ibn Umayr al-Qaari al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2047,
+              "alternative_names": "Umarah ibn Umayr, Abu Abdullah",
+              "original_id": 0,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "130",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Abu Ma'mar",
+              "full_name": "Abdullah ibn Sarikah al-Qaysi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "mentioned_in_text",
+              "reliabilityIssues": [],
+              "narrator_id": 2044,
+              "alternative_names": "Abu Ma'mar, Abdullah ibn Sarikah",
+              "original_id": 0,
+              "kunya": "Abu Ma'mar",
+              "nisba": "al-Qaysi",
+              "nisba_ar": "القيسي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Mentioned in account"
+            }
+          ],
+          "chainIssues": [
+            "al-A'mash uses 'an (عَنِ) transmission and is a Category 2 mudallis",
+            "Umarah ibn Umayr also uses 'an (عَنْ) transmission term",
+            "This chain is maqtu' (disconnected) - stops at Abu Ma'mar"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First biographical section includes a disputed report through Isra'il which the author explicitly states is 'not firmly established'",
+          "impact": "The author (muhadith) explicitly rejects the reliability of the narration attributed to Abu Bakr, indicating this is not reliable."
+        },
+        {
+          "issue": "Second chain: al-A'mash uses 'an (عَنِ) transmission and is a Category 2 mudallis, and Ibrahim also uses 'an",
+          "impact": "Multiple ambiguous transmission terms in the chain affect reliability. However, both al-A'mash and Ibrahim are generally trusted despite these issues."
+        },
+        {
+          "issue": "Third chain: al-A'mash uses 'an (عَنِ) transmission and is a Category 2 mudallis, and Umarah also uses 'an",
+          "impact": "Similar to the second chain, multiple ambiguous transmission terms affect reliability."
+        },
+        {
+          "issue": "All chains are maqtu' (disconnected) - they stop at Abu Ma'mar (a companion)",
+          "impact": "These accounts about Abu Ma'mar's practices and characteristics do not reach the Prophet ﷺ or form complete chain structures."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical information of Abu Ma'mar",
+        "Umar's prayer method",
+        "Narration practices and errors",
+        "Abu Ma'mar's reliability"
+      ]
+    },
+    {
+      "hadith_id": 90620,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9226",
+      "english_translation": "This is Abu Ibrahim al-Taymi, who narrated from Umar, Ali, Abdullah ibn Mas'ud, Sa'd ibn Abi Waqqas, Hudhayfah, and Abu Dharr. He was the chief/representative of his people, was reliable, and had many hadiths.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Ibrahim al-Taymi",
+              "full_name": "Ibrahim ibn Yazid al-Taymi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "First Century (Second Generation)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2003,
+              "alternative_names": "Ibrahim al-Nakhaa'i, Ibrahim al-Taymi, Abu Ibrahim",
+              "original_id": 0,
+              "kunya": "Abu Ibrahim",
+              "nisba": "al-Taymi al-Kufi",
+              "nisba_ar": "التيمي الكوفي",
+              "death_year": "96",
+              "birth_year": "25",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is purely a biographical entry without a hadith chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Entry is biographical/genealogical rather than a hadith with transmission chain",
+          "impact": "This is editorial commentary providing biographical and historical context about Ibrahim al-Taymi rather than a transmitted hadith."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical information of Ibrahim al-Taymi",
+        "Ibrahim al-Taymi's narrations from companions",
+        "Ibrahim's leadership position among his people"
+      ]
+    },
+    {
+      "hadith_id": 90621,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9227",
+      "english_translation": "[Biographical entry: Abu Amr al-Shaybani]",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Abu Amr al-Shaybani",
+              "full_name": "Sa'd ibn Iyas al-Shaybani",
+              "grade": "Majhul",
+              "generation": "First Century (Fourth Generation)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 2048,
+              "alternative_names": "Abu Amr al-Shaybani",
+              "original_id": 0,
+              "kunya": "Abu Amr",
+              "nisba": "al-Shaybani",
+              "nisba_ar": "الشيباني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "4",
+              "location": "",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This entry contains only a narrator's name without any hadith chain or text"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Entry contains no hadith text or chain structure",
+          "impact": "This appears to be a biographical heading or index entry rather than a complete hadith with transmission chain."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical reference"
+      ]
+    },
+    {
+      "hadith_id": 90622,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9228",
+      "english_translation": "His name is Sa'd ibn Iyas. He witnessed the Battle of Qadisiyyah and narrated from Umar, Ali, Abdullah, Hudhayfah, and Abu Mas'ud al-Ansari. He was elderly with a long life, was reliable, and had many hadiths.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Abu Amr al-Shaybani",
+              "full_name": "Sa'd ibn Iyas al-Shaybani",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2048,
+              "alternative_names": "Abu Amr al-Shaybani, Sa'd ibn Iyas",
+              "original_id": 0,
+              "kunya": "Abu Amr",
+              "nisba": "al-Shaybani",
+              "nisba_ar": "الشيباني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is purely a biographical entry without a hadith chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Entry is biographical/genealogical rather than a hadith with transmission chain",
+          "impact": "This is editorial commentary providing biographical and historical context about Abu Amr al-Shaybani rather than a transmitted hadith."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical information of Abu Amr al-Shaybani",
+        "Battle of Qadisiyyah",
+        "Abu Amr al-Shaybani's narrations from companions"
+      ]
+    },
+    {
+      "hadith_id": 90623,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9229",
+      "english_translation": "Narrated by Abu Amr al-Shaybani: I remember that I heard about the Messenger of Allah ﷺ while I was tending camels for my family in Kazmah.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "al-Fadl ibn Dakain",
+              "full_name": "al-Fadl ibn Dakain al-Qurashi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2005,
+              "alternative_names": "al-Fadl ibn Dakain, Abu Khadeej",
+              "original_id": 0,
+              "kunya": "Abu Khadeej",
+              "nisba": "al-Qurashi al-Kufi",
+              "nisba_ar": "القرشي الكوفي",
+              "death_year": "203",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Isa ibn Abd al-Rahman al-Sulami",
+              "full_name": "Isa ibn Abd al-Rahman al-Sulami al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2049,
+              "alternative_names": "Isa ibn Abd al-Rahman, Abu Muhammad",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Sulami al-Kufi",
+              "nisba_ar": "السلمي الكوفي",
+              "death_year": "180",
+              "birth_year": "105",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Amr al-Shaybani",
+              "full_name": "Sa'd ibn Iyas al-Shaybani",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [],
+              "narrator_id": 2048,
+              "alternative_names": "Abu Amr al-Shaybani, Sa'd ibn Iyas",
+              "original_id": 0,
+              "kunya": "Abu Amr",
+              "nisba": "al-Shaybani",
+              "nisba_ar": "الشيباني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "",
+              "transmissionTermMeaning": "I heard (explicit hearing)"
+            }
+          ],
+          "chainIssues": [
+            "This chain is maqtu' (disconnected) - stops at Abu Amr al-Shaybani"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "This chain is maqtu' (disconnected) - stops at Abu Amr al-Shaybani (a Companion)",
+          "impact": "The hadith does not have a complete chain to the Prophet ﷺ. The account is about Abu Amr remembering when he heard about the Prophet, not a direct narration from the Prophet."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Abu Amr al-Shaybani's recollection of hearing about the Prophet ﷺ",
+        "Incident of Abu Amr tending camels",
+        "Early Islamic era and transmission of knowledge about the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 90624,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9230",
+      "english_translation": "Narrated by Abu Amr al-Shaybani (who had lived one hundred and twenty years): My youth was perfected on the day of Qadisiyyah when I was forty years old.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn al-Zubayr al-Humaydi",
+              "full_name": "Abdullah ibn al-Zubayr ibn al-Awwam al-Humaydi al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2050,
+              "alternative_names": "Abdullah ibn al-Zubayr al-Humaydi, Abu Bakr",
+              "original_id": 0,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Humaydi al-Makki",
+              "nisba_ar": "الحميدي المكي",
+              "death_year": "219",
+              "birth_year": "131",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Mecca",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Sufyan ibn Uyaynah",
+              "full_name": "Sufyan ibn Uyaynah al-Hilali al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2011,
+              "alternative_names": "Sufyan ibn Uyaynah, Abu Muhammad",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Hilali al-Kufi",
+              "nisba_ar": "الهلالي الكوفي",
+              "death_year": "198",
+              "birth_year": "107",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": "Kufa/Mecca",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Isma'il ibn Abi Khalid",
+              "full_name": "Isma'il ibn Abi Khalid al-Hamdani al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2051,
+              "alternative_names": "Isma'il ibn Abi Khalid, Abu Isma'il",
+              "original_id": 0,
+              "kunya": "Abu Isma'il",
+              "nisba": "al-Hamdani al-Kufi",
+              "nisba_ar": "الهمداني الكوفي",
+              "death_year": "146",
+              "birth_year": "76",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Amr al-Shaybani",
+              "full_name": "Sa'd ibn Iyas al-Shaybani",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [],
+              "narrator_id": 2048,
+              "alternative_names": "Abu Amr al-Shaybani, Sa'd ibn Iyas",
+              "original_id": 0,
+              "kunya": "Abu Amr",
+              "nisba": "al-Shaybani",
+              "nisba_ar": "الشيباني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "",
+              "transmissionTermMeaning": "I heard (explicit hearing)"
+            }
+          ],
+          "chainIssues": [
+            "This chain is maqtu' (disconnected) - stops at Abu Amr al-Shaybani"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "This chain is maqtu' (disconnected) - stops at Abu Amr al-Shaybani (a Companion)",
+          "impact": "The account does not reach the Prophet ﷺ. It is a companion's statement about his own age and the Battle of Qadisiyyah. However, all narrators in the chain are reliable, with Abd al-Zubayr al-Humaydi being Thiqah Thabt, Sufyan being Thiqah Thabt, and Isma'il being Thiqah."
+        },
+        {
+          "issue": "The chain is strong with all reliable narrators, making this a well-transmitted account despite the disconnection",
+          "impact": "While the chain is maqtu' from a technical standpoint, the presence of reliable narrators throughout makes this a relatively well-supported historical account about Abu Amr al-Shaybani."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Abu Amr al-Shaybani's age and longevity",
+        "Battle of Qadisiyyah",
+        "Incident of Abu Amr at the Battle of Qadisiyyah",
+        "Age at time of famous battle"
+      ]
+    },
+    {
+      "hadith_id": 90625,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9231",
+      "english_translation": "[Biographical entry: Zirr ibn Hubaysh al-Asadi]",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Zirr ibn Hubaysh",
+              "full_name": "Zirr ibn Hubaysh al-Asadi al-Kufi",
+              "grade": "Majhul",
+              "generation": "First Century (Fourth Generation)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 2052,
+              "alternative_names": "Zirr ibn Hubaysh, Zirr al-Asadi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "4",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This entry contains only a narrator's name without any hadith chain or text"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Entry contains no hadith text or chain structure",
+          "impact": "This appears to be a biographical heading or index entry rather than a complete hadith with transmission chain."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical reference"
+      ]
+    },
+    {
+      "hadith_id": 90626,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9232",
+      "english_translation": "One of the tribe of Ghadharah ibn Malik ibn Tha'labah ibn Dhudan ibn Asad ibn Khuzaymah, with the kunya Abu Maryam. He narrated from Umar, Ali, Abdullah, Abd al-Rahman ibn Awf, Ubayy ibn Ka'b, Hudhayfah, and Abu Wail.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Zirr ibn Hubaysh",
+              "full_name": "Zirr ibn Hubaysh al-Asadi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2052,
+              "alternative_names": "Zirr ibn Hubaysh, Zirr al-Asadi, Abu Maryam",
+              "original_id": 0,
+              "kunya": "Abu Maryam",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is purely a biographical entry without a hadith chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Entry is biographical/genealogical rather than a hadith with transmission chain",
+          "impact": "This is editorial commentary providing genealogical and historical context about Zirr ibn Hubaysh rather than a transmitted hadith."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical information of Zirr ibn Hubaysh",
+        "Genealogy of Zirr ibn Hubaysh",
+        "Zirr ibn Hubaysh's narrations from various companions"
+      ]
+    },
+    {
+      "hadith_id": 90627,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9233",
+      "english_translation": "I saw Zirr ibn Hubaysh, and his beard was trembling from old age. I heard him saying that Ubayy ibn Ka'b said: The Night of Power is the night of the twenty-seventh.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Idris",
+              "full_name": "Abdullah ibn Idris al-Udi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2053,
+              "alternative_names": "Abdullah ibn Idris, Abu Muhammad",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Udi al-Kufi",
+              "nisba_ar": "الأودي الكوفي",
+              "death_year": "192",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Isma'il ibn Abi Khalid",
+              "full_name": "Isma'il ibn Abi Khalid al-Hamdani al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2051,
+              "alternative_names": "Isma'il ibn Abi Khalid, Abu Isma'il",
+              "original_id": 0,
+              "kunya": "Abu Isma'il",
+              "nisba": "al-Hamdani al-Kufi",
+              "nisba_ar": "الهمداني الكوفي",
+              "death_year": "146",
+              "birth_year": "76",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            }
+          ],
+          "chainIssues": [
+            "Isma'il ibn Abi Khalid uses 'an (عَنْ) transmission term, introducing slight ambiguity",
+            "This chain is maqtu' (disconnected) - stops at the account of Zirr and Ubayy ibn Ka'b's statement"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Isma'il ibn Abi Khalid uses 'an (عَنْ) transmission term with Zirr ibn Hubaysh",
+          "impact": "While Isma'il is Thiqah, the use of 'an introduces slight ambiguity in the connection. However, given Isma'il's overall reliability, this is not severely problematic."
+        },
+        {
+          "issue": "This chain is maqtu' (disconnected) - stops at the account of Zirr and Ubayy ibn Ka'b's statement",
+          "impact": "The account does not reach the Prophet ﷺ. It represents a statement attributed to Ubayy ibn Ka'b about the Night of Power, transmitted through Zirr ibn Hubaysh."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Night of Power (Laylat al-Qadr)",
+        "Ubayy ibn Ka'b's determination of the Night of Power",
+        "Zirr ibn Hubaysh's physical appearance in old age"
+      ]
+    },
+    {
+      "hadith_id": 90628,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9234",
+      "english_translation": "I saw Zirr ibn Hubaysh when he had reached one hundred and twenty years old, and indeed his two beards were trembling from old age. It is mentioned (by other than Muhammad ibn Ubaid al-Tanafisi): He died at one hundred and twenty-two years of age.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Ubaid al-Tanafisi",
+              "full_name": "Muhammad ibn Ubaid al-Tanafisi al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2054,
+              "alternative_names": "Muhammad ibn Ubaid al-Tanafisi, Abu al-Qasim",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Tanafisi al-Kufi",
+              "nisba_ar": "التنافسي الكوفي",
+              "death_year": "182",
+              "birth_year": "105",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Isma'il ibn Abi Khalid",
+              "full_name": "Isma'il ibn Abi Khalid al-Hamdani al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2051,
+              "alternative_names": "Isma'il ibn Abi Khalid, Abu Isma'il",
+              "original_id": 0,
+              "kunya": "Abu Isma'il",
+              "nisba": "al-Hamdani al-Kufi",
+              "nisba_ar": "الهمداني الكوفي",
+              "death_year": "146",
+              "birth_year": "76",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            }
+          ],
+          "chainIssues": [
+            "This chain is maqtu' (disconnected) - stops at Isma'il ibn Abi Khalid's account of seeing Zirr"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "This chain is maqtu' (disconnected) - stops at the account of Zirr ibn Hubaysh's age and appearance",
+          "impact": "The account does not reach the Prophet ﷺ. However, both narrators in the chain are reliable (Muhammad ibn Ubaid is Saduq, Isma'il is Thiqah), making this a well-supported historical account."
+        },
+        {
+          "issue": "Editorial commentary distinguishes this account from others attributed to Muhammad ibn Ubaid al-Tanafisi",
+          "impact": "The author explicitly notes that the information about Zirr's death at 122 years comes from sources other than Muhammad ibn Ubaid."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Zirr ibn Hubaysh's extreme old age",
+        "Zirr ibn Hubaysh's longevity and death at advanced age",
+        "Physical signs of old age"
+      ]
+    },
+    {
+      "hadith_id": 90629,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9235",
+      "english_translation": "Two chains regarding Zirr ibn Hubaysh: First - In a hadith narrated from Hudhayfah that he said to him: 'O bald one.' Second - Zirr ibn Hubaysh was the most eloquent of people, and Abdullah (ibn Mas'ud) would ask him about the Arabic language.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ubaidullah ibn Musa",
+              "full_name": "Ubaidullah ibn Musa al-Qurashi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2029,
+              "alternative_names": "Ubaidullah ibn Musa, Abu Muhammad",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Qurashi al-Kufi",
+              "nisba_ar": "القرشي الكوفي",
+              "death_year": "213",
+              "birth_year": "128",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Isra'il",
+              "full_name": "Isra'il ibn Yunus al-Saksaki al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2055,
+              "alternative_names": "Isra'il ibn Yunus, Abu Yunus",
+              "original_id": 0,
+              "kunya": "Abu Yunus",
+              "nisba": "al-Saksaki al-Kufi",
+              "nisba_ar": "الساكسكي الكوفي",
+              "death_year": "160",
+              "birth_year": "80",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Asim",
+              "full_name": "Asim ibn Abi al-Najud Bahilah al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "tadlis",
+                "mudallis"
+              ],
+              "narrator_id": 2007,
+              "alternative_names": "Asim ibn Abi al-Hajjaj, Asim al-Ahwal",
+              "original_id": 0,
+              "kunya": "Abu al-Najud",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "128",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Zirr",
+              "full_name": "Zirr ibn Hubaysh al-Asadi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "mentioned_in_text",
+              "reliabilityIssues": [],
+              "narrator_id": 2052,
+              "alternative_names": "Zirr ibn Hubaysh, Zirr al-Asadi",
+              "original_id": 0,
+              "kunya": "Abu Maryam",
+              "nisba": "al-Asadi al-Kufi",
+              "nisba_ar": "الأسدي الكوفي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Mentioned in account"
+            }
+          ],
+          "chainIssues": [
+            "Asim ibn Abi al-Najud uses 'an (عَنْ) transmission and is a known mudallis",
+            "This chain is maqtu' (disconnected) - stops at Zirr and the account from Hudhayfah"
+          ]
+        },
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Adam",
+              "full_name": "Yahya ibn Adam al-Qurashi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2056,
+              "alternative_names": "Yahya ibn Adam, Abu Zakariyyah",
+              "original_id": 0,
+              "kunya": "Abu Zakariyyah",
+              "nisba": "al-Qurashi al-Kufi",
+              "nisba_ar": "القرشي الكوفي",
+              "death_year": "203",
+              "birth_year": "125",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Abu Bakr ibn Ayyash",
+              "full_name": "Abu Bakr Muhammad ibn Ayyash al-Dahhaq al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "memory_issues_in_old_age"
+              ],
+              "narrator_id": 2006,
+              "alternative_names": "Muhammad ibn Ayyash, Abu Bakr al-Dahhaq",
+              "original_id": 0,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Dahhaq al-Kufi",
+              "nisba_ar": "الدهاق الكوفي",
+              "death_year": "193",
+              "birth_year": "105",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Asim",
+              "full_name": "Asim ibn Abi al-Najud Bahilah al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "tadlis",
+                "mudallis"
+              ],
+              "narrator_id": 2007,
+              "alternative_names": "Asim ibn Abi al-Hajjaj, Asim al-Ahwal",
+              "original_id": 0,
+              "kunya": "Abu al-Najud",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "128",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            }
+          ],
+          "chainIssues": [
+            "Abu Bakr ibn Ayyash uses 'an (عَنْ) transmission and had memory issues in old age",
+            "Asim ibn Abi al-Najud uses 'an (عَنْ) transmission and is a known mudallis",
+            "This chain is maqtu' (disconnected) - stops at the account of Zirr's eloquence"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain: Asim ibn Abi al-Najud uses 'an (عَنْ) transmission and is a known mudallis",
+          "impact": "Asim's mudallis nature with 'an transmission creates reliability concerns. However, Ubaidullah (Thiqah) and Isra'il (Saduq) above him provide some mitigation."
+        },
+        {
+          "issue": "Second chain: Multiple ambiguous transmission terms with reliability issues",
+          "impact": "Abu Bakr ibn Ayyash's memory issues in old age combined with Asim's mudallis nature with 'an transmission weakens this chain."
+        },
+        {
+          "issue": "Both chains are maqtu' (disconnected)",
+          "impact": "Neither chain reaches the Prophet ﷺ. They represent accounts about Zirr ibn Hubaysh from his contemporaries."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Zirr ibn Hubaysh's physical characteristic (baldness)",
+        "Zirr ibn Hubaysh's eloquence and linguistic expertise",
+        "Abdullah ibn Mas'ud's respect for Zirr's knowledge of Arabic",
+        "Incident of Hudhayfah's comment about Zirr"
+      ]
+    },
+    {
+      "hadith_id": 90630,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "9236",
+      "english_translation": "Zirr ibn Hubaysh was older than Abu Wail. When they gathered together, Abu Wail would not narrate in the presence of Zirr. Zirr loved Ali, and Abu Wail loved Uthman. They would sit together, but I never heard them dispute about anything at all.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Adam",
+              "full_name": "Yahya ibn Adam al-Qurashi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Century (Eighth Generation)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2056,
+              "alternative_names": "Yahya ibn Adam, Abu Zakariyyah",
+              "original_id": 0,
+              "kunya": "Abu Zakariyyah",
+              "nisba": "al-Qurashi al-Kufi",
+              "nisba_ar": "القرشي الكوفي",
+              "death_year": "203",
+              "birth_year": "125",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Abu Bakr ibn Ayyash",
+              "full_name": "Abu Bakr Muhammad ibn Ayyash al-Dahhaq al-Kufi",
+              "grade": "Saduq",
+              "generation": "Second Century (Seventh Generation)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "memory_issues_in_old_age"
+              ],
+              "narrator_id": 2006,
+              "alternative_names": "Muhammad ibn Ayyash, Abu Bakr al-Dahhaq",
+              "original_id": 0,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Dahhaq al-Kufi",
+              "nisba_ar": "الدهاق الكوفي",
+              "death_year": "193",
+              "birth_year": "105",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+            },
+            {
+              "name": "Asim",
+              "full_name": "Asim ibn Abi al-Najud Bahilah al-Kufi",
+              "grade": "Saduq",
+              "generation": "First Century (Sixth Generation)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "tadlis",
+                "mudallis"
+              ],
+              "narrator_id": 2007,
+              "alternative_names": "Asim ibn Abi al-Hajjaj, Asim al-Ahwal",
+              "original_id": 0,
+              "kunya": "Abu al-Najud",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "128",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Abu Bakr ibn Ayyash uses 'an (عَنْ) transmission and had memory issues in old age",
+            "Asim ibn Abi al-Najud is a known mudallis, though he uses 'qal' (قَالَ) here",
+            "This chain is maqtu' (disconnected) - stops at Asim's account of Zirr and Abu Wail"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Bakr ibn Ayyash uses 'an (عَنْ) transmission and had memory issues in old age",
+          "impact": "The ambiguous transmission term combined with Abu Bakr's known memory issues in later life weakens this chain."
+        },
+        {
+          "issue": "Asim ibn Abi al-Najud is a known mudallis, though using 'qal' here",
+          "impact": "While Asim uses 'qal' (قَالَ) which is not a strong transmission term, his mudallis status should still be noted. However, this is less problematic than when he uses 'an."
+        },
+        {
+          "issue": "This chain is maqtu' (disconnected) - stops at Asim's account",
+          "impact": "The hadith does not reach the Prophet ﷺ. It represents an account of the relationship between Zirr and Abu Wail from Asim ibn Abi al-Najud."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Relationship between Zirr ibn Hubaysh and Abu Wail",
+        "Respect between companions despite differing political loyalties",
+        "Zirr's love for Ali and Abu Wail's love for Uthman",
+        "Companions refraining from disputes",
+        "Incident of Zirr and Abu Wail"
+      ]
+    }
+  ]
+}
