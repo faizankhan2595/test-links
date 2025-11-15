@@ -1,0 +1,604 @@
+{
+  "batch_number": 1,
+  "file_numbers": [
+    487,
+    488
+  ],
+  "chunk_number": 1,
+  "record_count": 6,
+  "hadiths": [
+    {
+      "hadith_id": 7291,
+      "book_id": 16,
+      "book_name_ar": "كتاب رقم 16",
+      "book_name_en": "Unknown Tafsir Work (Book 16)",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "454",
+      "english_translation": "Narrated by Ibn Abbas: Concerning His saying (Exalted is He): 'And glorify the praise of your Lord before the sunrise and before the sunset' (Qur'an 20:130), he said: This refers to the obligatory prayers.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Surayj ibn al-Nu'man",
+              "full_name": "Surayj ibn al-Nu'man ibn Marwan al-Jawhari al-Lu'lu'i",
+              "grade": "Majhul",
+              "generation": "Later Generations",
+              "transmissionTerm": "direct",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 4059,
+              "alternative_names": "Abu al-Husain al-Baghdadi, Abu al-Husain al-Jawhari",
+              "original_id": 3219,
+              "kunya": "Abu al-Husain",
+              "nisba": "al-Jawhari, al-Lu'lu'i",
+              "nisba_ar": "الجوهري، اللؤلؤي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Baghdad",
+              "transmissionTermMeaning": "Direct transmission"
+            },
+            {
+              "name": "Qays ibn Malik",
+              "full_name": "Qays ibn Malik ibn Anas al-Mazini al-Ansari",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Third Generation (Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 7441,
+              "alternative_names": "Abu Surmah, Malik ibn Abi Qays al-Mazini",
+              "original_id": 6688,
+              "kunya": "Abu Surmah",
+              "nisba": "al-Mazini",
+              "nisba_ar": "المازني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "3",
+              "location": "Medina",
+              "transmissionTermMeaning": "From (عَنْ) - potentially indirect transmission"
+            },
+            {
+              "name": "Asim ibn Rajaa",
+              "full_name": "Asim ibn Rajaa ibn Haywah al-Ataki",
+              "grade": "Saduq",
+              "generation": "Second Generation (Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Asim al-Ahwal, Abu Muhammad al-Ataki",
+              "original_id": 4062,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Ataki",
+              "nisba_ar": "العتكي",
+              "death_year": "138 AH",
+              "birth_year": "60 AH",
+              "reliability_grade": "Saduq",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (عَنْ) - potentially indirect transmission"
+            },
+            {
+              "name": "Abu Ruzan",
+              "full_name": "Abu Ruzan (name incomplete in source)",
+              "grade": "Majhul al-Hal",
+              "generation": "Companion or Early Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "Abu Ruzan",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Companion or Early",
+              "location": "",
+              "transmissionTermMeaning": "From (عَنْ)"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib ibn Hashim al-Hashimi al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Hibr al-Ummah, The Learned Man of the Ummah",
+              "original_id": null,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "68 AH",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Ta'if",
+              "transmissionTermMeaning": "Endpoint of mawquf hadith"
+            }
+          ],
+          "chainIssues": [
+            "Surayj ibn al-Nu'man is majhul (unknown) - no biographical data in reliable sources",
+            "Use of عَنْ (an) by Qays ibn Malik creates potential indirectness",
+            "Use of عَنْ (an) by Asim ibn Rajaa creates potential indirectness",
+            "Abu Ruzan is majhul al-hal with no clear identification",
+            "Discrepancy between chain names and text content - text mentions Asim ibn Bahdala and Abu Ruzan but chain order differs"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Surayj ibn al-Nu'man at beginning of chain is majhul (unknown narrator)",
+          "impact": "This critically damages the chain's reliability. An unknown narrator at the start breaks the entire transmission link."
+        },
+        {
+          "issue": "Abu Ruzan (mentioned in text) is majhul al-hal - cannot be clearly identified",
+          "impact": "Unknown reliability affects the chain between Asim ibn Rajaa and Ibn Abbas"
+        },
+        {
+          "issue": "Multiple uses of عَنْ (an) transmission term instead of stronger حَدَّثَنَا",
+          "impact": "Creates potential for omission or indirectness in the transmission chain"
+        },
+        {
+          "issue": "This is a mawquf (stopped at companion) not marfu' (going to Prophet)",
+          "impact": "The statement ends at Ibn Abbas (companion) not going to Prophet Muhammad ﷺ"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Tafsir of Surah Ta-Ha verse 130",
+        "Interpretation of obligatory prayers times",
+        "Explanation of glorification of God"
+      ]
+    },
+    {
+      "hadith_id": 7292,
+      "book_id": 16,
+      "book_name_ar": "كتاب رقم 16",
+      "book_name_en": "Unknown Tafsir Work (Book 16)",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "455",
+      "english_translation": "From the chapter of Qaf (Qur'an 50)",
+      "chains": [
+        {
+          "type": "section_header",
+          "narrators": [],
+          "chainIssues": [
+            "This is a section header/chapter marker, not a complete hadith"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "No chain of transmission - this is only a section header",
+          "impact": "Cannot evaluate authenticity as no actual transmission is recorded"
+        }
+      ],
+      "Classical Grade": [
+        "Not Applicable"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Section marker in Tafsir compilation"
+      ]
+    },
+    {
+      "hadith_id": 7293,
+      "book_id": 16,
+      "book_name_ar": "كتاب رقم 16",
+      "book_name_en": "Unknown Tafsir Work (Book 16)",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "456",
+      "english_translation": "Concerning His saying (Exalted is He): 'Ask the people of knowledge if you do not know' (Qur'an 16:43), he said: This refers to the people of the Torah and the Evangel and those who have knowledge.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": [
+            "No documented isnad is provided for this interpretation"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "No chain of transmission provided - only interpretation without source",
+          "impact": "Cannot determine from whom or through which chain this interpretation comes"
+        }
+      ],
+      "Classical Grade": [
+        "Not Applicable"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Tafsir of Surah An-Nahl verse 43",
+        "Explanation of seeking knowledge from the learned"
+      ]
+    },
+    {
+      "hadith_id": 7294,
+      "book_id": 16,
+      "book_name_ar": "كتاب رقم 16",
+      "book_name_en": "Unknown Tafsir Work (Book 16)",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "457",
+      "english_translation": "From Mujahid: Concerning the verse 'We did not create bodies for them' (Qur'an 21:8), he said: They have no soul. And concerning 'nor do they eat' (Qur'an 21:43), he said: they are prevented. And concerning 'We have sent down to you a Book in which there is mention of you' (Qur'an 21:10), he said: your honor; and 'It is surely an honor for you and for your people' (Qur'an 43:44), he said: honor for you and your people.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Umar ibn Rabi'ah",
+              "full_name": "Umar ibn Rabi'ah al-Iyadi",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Third Generation (Tabi'un al-Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu Rabi'ah al-Iyadi, Umar ibn Rabi'ah",
+              "original_id": 5946,
+              "kunya": "Abu Rabi'ah",
+              "nisba": "al-Iyadi",
+              "nisba_ar": "الإيادي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "3",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (عَنْ)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'in)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [
+                "mudallis - Category 3"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": null,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104 AH",
+              "birth_year": "21 AH",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "Endpoint - tafsir interpretation of Mujahid"
+            }
+          ],
+          "chainIssues": [
+            "Only one narrator (Umar ibn Rabi'ah) recorded in the chain",
+            "Mujahid is a famous tabi'i known for tafsir but is also classified as mudallis (Category 3)",
+            "No direct transmission indicator between Umar and Mujahid - text just shows عَنْ",
+            "This appears to be Mujahid's tafsir interpretation, not a hadith to the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mujahid is classified as mudallis (Category 3) and uses عَنْ in transmission",
+          "impact": "This requires very careful evaluation - Mujahid was generally reliable but as a Category 3 mudallis, his use of عَنْ creates potential for omitted or unclear connections. However, his tafsir interpretations are generally accepted."
+        },
+        {
+          "issue": "Incomplete chain - only records up to Mujahid",
+          "impact": "This is a mawquf (opinion of Mujahid), not a marfu' hadith going to the Prophet ﷺ"
+        },
+        {
+          "issue": "Umar ibn Rabi'ah's reliability and meeting with Mujahid not clearly documented",
+          "impact": "Cannot verify that Umar actually heard directly from Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Athar/Mawquf"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Mujahid's tafsir of Surah Al-Anbiya verses 8, 10, and 43",
+        "Interpretation of angels and their characteristics",
+        "Quranic exegesis on honor and spiritual beings"
+      ]
+    },
+    {
+      "hadith_id": 7295,
+      "book_id": 16,
+      "book_name_ar": "كتاب رقم 16",
+      "book_name_en": "Unknown Tafsir Work (Book 16)",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "458",
+      "english_translation": "From a man, from Mujahid: Concerning the verse 'They glorify the night and the day, they do not cease' (Qur'an 21:20), he said: Their glorification is their breath. And concerning 'And whosoever of them says: I am a god besides Him' (Qur'an 21:29), he said: This refers to Iblis.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Salamah",
+              "full_name": "Abu Salamah (name incomplete in source)",
+              "grade": "Majhul",
+              "generation": "Third Generation",
+              "transmissionTerm": "direct",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 1131,
+              "alternative_names": "",
+              "original_id": 212,
+              "kunya": "Abu Salamah",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "",
+              "transmissionTermMeaning": "Direct transmission"
+            },
+            {
+              "name": "Umar ibn Rabi'ah",
+              "full_name": "Umar ibn Rabi'ah al-Iyadi",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Third Generation (Tabi'un al-Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu Rabi'ah al-Iyadi",
+              "original_id": 5946,
+              "kunya": "Abu Rabi'ah",
+              "nisba": "al-Iyadi",
+              "nisba_ar": "الإيادي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "3",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (عَنْ)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'in)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [
+                "mudallis - Category 3"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": null,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104 AH",
+              "birth_year": "21 AH",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "Endpoint - tafsir interpretation"
+            }
+          ],
+          "chainIssues": [
+            "Abu Salamah is majhul (unknown) - cannot be clearly identified",
+            "Text says 'عَنْ رَجُلٍ' (from a man - unnamed)",
+            "Mujahid is mudallis (Category 3) which creates reliability concerns",
+            "Multiple عَنْ terms indicate potential indirectness"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Salamah is majhul (unknown) - critically affects chain reliability",
+          "impact": "An unknown narrator in the chain breaks the transmission reliability"
+        },
+        {
+          "issue": "Mujahid is mudallis (Category 3) using عَنْ transmission term",
+          "impact": "Though Mujahid was generally reliable and his tafsir is accepted, as a mudallis his عَنْ transmissions require cautious evaluation"
+        },
+        {
+          "issue": "This is mawquf (opinion of Mujahid), not a hadith to Prophet ﷺ",
+          "impact": "Limited to Mujahid's tafsir interpretation authority"
+        }
+      ],
+      "Classical Grade": [
+        "Daif Athar"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Mujahid's tafsir of Surah Al-Anbiya verses 20 and 29",
+        "Interpretation of angels' glorification",
+        "Explanation of Iblis in the Quran"
+      ]
+    },
+    {
+      "hadith_id": 7296,
+      "book_id": 16,
+      "book_name_ar": "كتاب رقم 16",
+      "book_name_en": "Unknown Tafsir Work (Book 16)",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "459",
+      "english_translation": "From Said ibn Masruq, from Ikrimah: Ibn Abbas was asked: Which came first, the night or the day? He recited: 'Have not those who disbelieve seen that the heavens and the earth were joined together as one unified mass, then We parted them' (Qur'an 21:30), then he said: Was there anything between them except darkness? That is so that they may know that the night came before the day.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Hamid ibn Ziyad",
+              "full_name": "Hamid ibn Ziyad",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "direct",
+              "reliabilityIssues": [],
+              "narrator_id": 3397,
+              "alternative_names": "",
+              "original_id": 2539,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Unknown",
+              "transmissionTermMeaning": "Direct transmission"
+            },
+            {
+              "name": "Abdullah ibn Abd al-Samad",
+              "full_name": "Abdullah ibn Abd al-Samad ibn Ali",
+              "grade": "Saduq Yahim",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "prone to errors"
+              ],
+              "narrator_id": 5703,
+              "alternative_names": "Abdullah ibn Abd al-Samad",
+              "original_id": 4909,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yahim",
+              "tabaqat": "3",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (عَنْ)"
+            },
+            {
+              "name": "Asim ibn Rajaa",
+              "full_name": "Asim ibn Rajaa ibn Haywah al-Ataki",
+              "grade": "Saduq",
+              "generation": "Second Generation (Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Asim al-Ahwal, Abu Muhammad al-Ataki",
+              "original_id": 4062,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Ataki",
+              "nisba_ar": "العتكي",
+              "death_year": "138 AH",
+              "birth_year": "60 AH",
+              "reliability_grade": "Saduq",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (عَنْ)"
+            },
+            {
+              "name": "Said ibn Masruq",
+              "full_name": "Said ibn Masruq al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'in)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Said ibn Masruq",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "127 AH",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (عَنْ)"
+            },
+            {
+              "name": "Ikrimah",
+              "full_name": "Ikrimah, mawla of Ibn Abbas",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Mawla of Companion)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - but reliable for Ibn Abbas"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Abu Abdillah Ikrimah al-Barbari",
+              "original_id": null,
+              "kunya": "Abu Abdillah",
+              "nisba": "al-Barbari",
+              "nisba_ar": "البربري",
+              "death_year": "105 AH",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (عَنْ)"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Hibr al-Ummah, Abu al-Abbas",
+              "original_id": null,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "68 AH",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Ta'if",
+              "transmissionTermMeaning": "Endpoint - companion's answer"
+            }
+          ],
+          "chainIssues": [
+            "Multiple عَنْ terms create potential for indirectness",
+            "Abdullah ibn Abd al-Samad is classified as Saduq Yahim (prone to errors)",
+            "Said ibn Masruq and Ikrimah are both generally reliable but using عَنْ",
+            "Ikrimah is noted as mudallis but generally reliable when reporting from his master Ibn Abbas"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Abd al-Samad ibn Ali is Saduq Yahim (prone to errors)",
+          "impact": "The chain contains a narrator with documented errors, which affects overall reliability"
+        },
+        {
+          "issue": "Ikrimah (mawla of Ibn Abbas) is mudallis but reliable for Ibn Abbas narrations",
+          "impact": "While generally reliable for Ibn Abbas, his use of عَنْ still requires careful evaluation"
+        },
+        {
+          "issue": "Multiple عَنْ transmissions in the chain instead of stronger حَدَّثَنَا",
+          "impact": "Creates cumulative potential for indirectness or omission in the chain"
+        },
+        {
+          "issue": "This is mawquf - stopped at Ibn Abbas' answer, not marfu' to Prophet ﷺ",
+          "impact": "Limited to Ibn Abbas' interpretation of the Quranic verse"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan Athar"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Ibn Abbas' answer about night and day creation order",
+        "Tafsir of Surah Al-Anbiya verse 30",
+        "Discussion of cosmic creation order",
+        "Dialogue and inquiry about Quranic interpretation"
+      ]
+    }
+  ]
+}
