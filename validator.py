@@ -4,7 +4,7 @@ import sys
 
 REQUIRED_NARRATOR_GRADES = [
     "Awthaq al-Nas", "Thabt Hujjah", "Thabt Hafiz", "Thiqah Thabt", "Thiqah",
-    "Thiqah Yukhti'", "La Ba'sa Bihi", "Saduq/Sadooq", "Saduq Yahim",
+    "Thiqah Yukhti'", "La Ba'sa Bihi", "Saduq", "Sadooq", "Saduq/Sadooq", "Saduq Yahim",
     "Saduq Lahu Awham", "Saduq Sayyi' al-Hifz", "Saduq Yugrib", "Saduq Yukhtī",
     "Maqbul", "Layyin al-Hadith", "Majhul", "Majhul al-Hal", "Da'if",
     "Da'if Jiddan", "Munkar al-Hadith", "Matruk", "Matruk al-Hadith",
@@ -12,7 +12,7 @@ REQUIRED_NARRATOR_GRADES = [
 ]
 
 IIS_GRADES = ["Perfect", "Sound", "Acceptable", "Questionable But Might Be Acceptable",
-              "Weak But Might Be Acceptable", "Problematic"]
+              "Weak But Might Be Acceptable", "Disconnections But All Narrators Are Ok", "Problematic"]
 
 CLASSICAL_GRADES = ["Sahih", "Hasan", "Daif"]
 
