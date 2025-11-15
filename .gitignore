@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Temporary files from data processing
+file1.json
+file2.json
+file3.json
+file*.json
+
+# Processing scripts (temporary)
+process_chunk*.py
+
+# Temporary directories
+split_hadiths/
+/tmp/
+*.tmp
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
