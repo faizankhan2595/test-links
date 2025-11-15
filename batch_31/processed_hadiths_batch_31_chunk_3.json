@@ -1,0 +1,755 @@
+{
+  "batch_number": 31,
+  "source_files": [
+    49,
+    50
+  ],
+  "chunk_number": 3,
+  "record_count": 6,
+  "processed_hadiths": [
+    {
+      "hadith_id": 270733,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1936",
+      "english_translation": "Narrated by Umar ibn al-Khattab: If I had not heard the Messenger of Allah ﷺ saying that Allah Mighty and Majestic will protect the religion through Christians from Rabi'ah on the banks of the Euphrates, such that they will not leave an Arab alive there except by killing him or he converts to Islam, (I would have given up)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Bakr ibn Abi Shaybah",
+              "full_name": "Abu Bakr Abdullah ibn Muhammad ibn Abi Shaybah Ibrahim al-Kufi",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 5049,
+              "alternative_names": "Ibn Abi Shaybah",
+              "original_id": "4235",
+              "kunya": "Abu Bakr",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "235 AH",
+              "birth_year": "159 AH",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Third Generation",
+              "location": "Kufa"
+            },
+            {
+              "name": "Muhammad ibn al-Muthanna",
+              "full_name": "Muhammad ibn al-Muthanna al-Anbari",
+              "generation": "Third Generation",
+              "transmissionTerm": "قالا",
+              "transmissionTermMeaning": "both said/told us",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 6861,
+              "alternative_names": "",
+              "original_id": "6096",
+              "kunya": "",
+              "nisba": "al-Anbari",
+              "nisba_ar": "الأنباري",
+              "death_year": "234 AH",
+              "birth_year": "158 AH",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Third Generation",
+              "location": "Kufa"
+            },
+            {
+              "name": "Yahya ibn Abi Bakr",
+              "full_name": "Yahya ibn Abi Bakr al-Hashimi",
+              "generation": "Third Generation",
+              "transmissionTerm": "ثنا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 8200,
+              "alternative_names": "",
+              "original_id": "7459",
+              "kunya": "",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "193 AH",
+              "birth_year": "unknown",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Third Generation",
+              "location": "Medina"
+            },
+            {
+              "name": "Abdullah ibn Umar al-Qurashi",
+              "full_name": "Abdullah ibn Umar ibn Hafs al-Qurashi",
+              "generation": "Third Generation",
+              "transmissionTerm": "ثنا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Saduq",
+              "reliabilityIssues": [
+                "weak memory"
+              ],
+              "narrator_id": 22646,
+              "alternative_names": "",
+              "original_id": "30799",
+              "kunya": "",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "unknown",
+              "birth_year": "unknown",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Third Generation",
+              "location": "Egypt"
+            },
+            {
+              "name": "Said ibn Amr ibn Said",
+              "full_name": "Said ibn Amr ibn Said al-Qurashi",
+              "generation": "Second Generation",
+              "transmissionTerm": "نا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Saduq",
+              "reliabilityIssues": [
+                "weak reliability"
+              ],
+              "narrator_id": 3381,
+              "alternative_names": "",
+              "original_id": "2523",
+              "kunya": "",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "unknown",
+              "birth_year": "unknown",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Second Generation",
+              "location": "Medina"
+            },
+            {
+              "name": "Ubayd ibn Wakee",
+              "full_name": "Ubayd ibn Wakee ibn al-Jarrah al-Kufi",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَمِعَ",
+              "transmissionTermMeaning": "heard",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 6134,
+              "alternative_names": "",
+              "original_id": "5349",
+              "kunya": "",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "unknown",
+              "birth_year": "unknown",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Second Generation",
+              "location": "Kufa"
+            }
+          ],
+          "chainIssues": [
+            "Long chain with multiple Saduq narrators",
+            "Abdullah ibn Umar and Said ibn Amr are Saduq - weak links",
+            "Multiple indirect transmission links (سَمِعَ)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple Saduq narrators in chain (Abdullah ibn Umar, Said ibn Amr ibn Said)",
+          "impact": "Weakens overall reliability of the hadith"
+        },
+        {
+          "issue": "Long chain with 6+ narrators increases probability of transmission errors",
+          "impact": "More opportunities for disconnections or mistakes"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Promise of divine protection for Abd al-Qays tribe",
+        "Christians' role in protecting Islamic lands",
+        "Prophecy about Rabi'ah"
+      ]
+    },
+    {
+      "hadith_id": 270734,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1937",
+      "english_translation": "Narrated by Ibn Abbas: The Messenger of Allah ﷺ said: The best people of the East are Abd al-Qays. The people converted (unwillingly under compulsion), but they converted willingly and eagerly.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Uqbah ibn Mukarram",
+              "full_name": "Uqbah ibn Mukarram al-Qurashi",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 5683,
+              "alternative_names": "",
+              "original_id": "4887",
+              "kunya": "",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "229 AH",
+              "birth_year": "163 AH",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Third Generation",
+              "location": "Egypt"
+            },
+            {
+              "name": "Mu'alla ibn Asad",
+              "full_name": "Mu'alla ibn Asad al-Qurashi",
+              "generation": "Third Generation",
+              "transmissionTerm": "ثنا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 7625,
+              "alternative_names": "",
+              "original_id": "6875",
+              "kunya": "",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "218 AH",
+              "birth_year": "unknown",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Third Generation",
+              "location": "Kufa"
+            },
+            {
+              "name": "Ibn Sawaa",
+              "full_name": "Muhammad ibn Sawaa al-Kindi",
+              "generation": "Second to Third Generation",
+              "transmissionTerm": "ثنا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Thiqah",
+              "reliabilityIssues": [
+                "reliable but some scholars questioned memory"
+              ],
+              "narrator_id": 7012,
+              "alternative_names": "",
+              "original_id": "6249",
+              "kunya": "",
+              "nisba": "al-Kindi",
+              "nisba_ar": "الكندي",
+              "death_year": "194 AH",
+              "birth_year": "unknown",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Second to Third Generation",
+              "location": "Kufa"
+            },
+            {
+              "name": "Shubail ibn Azrah",
+              "full_name": "Shubail ibn Azrah al-Azdi",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "from",
+              "grade": "Thiqah",
+              "reliabilityIssues": [
+                "indirect transmission"
+              ],
+              "narrator_id": 3755,
+              "alternative_names": "",
+              "original_id": "2904",
+              "kunya": "",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "unknown",
+              "birth_year": "unknown",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Second Generation",
+              "location": "Kufa"
+            },
+            {
+              "name": "Abu Jamrah",
+              "full_name": "Abu Jamrah Nasr ibn Imran al-Dabbi",
+              "generation": "First to Second Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "from",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 7902,
+              "alternative_names": "",
+              "original_id": "7153",
+              "kunya": "Abu Jamrah",
+              "nisba": "al-Dabbi",
+              "nisba_ar": "الضبي",
+              "death_year": "112 AH",
+              "birth_year": "unknown",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First to Second Generation",
+              "location": "Basra"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "transmissionTermMeaning": "from",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Abd al-Rahman",
+              "original_id": "4062",
+              "kunya": "Abu Abbas",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "68 AH",
+              "birth_year": "3 AH",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Mecca"
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'an (indirect transmission)",
+            "All narrators are reliable Thiqah though",
+            "Direct terms used from Uqbah to Ibn Sawaa strengthen early chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Indirect transmission terms (عَنْ and عَنِ) from Shubail onward",
+          "impact": "Requires verification of direct contact, though all are reliable"
+        },
+        {
+          "issue": "Ibn Sawaa questioned by some on memory",
+          "impact": "Minor impact given his Thiqah grading"
+        }
+      ],
+      "Classical Grade": [
+        "Sahih"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Merit of Abd al-Qays tribe",
+        "Sincere acceptance of Islam",
+        "Praise of Eastern peoples"
+      ]
+    },
+    {
+      "hadith_id": 270735,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1938",
+      "english_translation": "Narrated by Ibn Abbas: Verily the first Jumu'ah (Friday prayer) gathered was in Medina, and a Jumu'ah was gathered at Jawatha of Abd al-Qays.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Al-Hasan ibn Ali",
+              "full_name": "Al-Hasan ibn Ali ibn Abi Talib",
+              "generation": "Second Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 1284,
+              "alternative_names": "",
+              "original_id": "370",
+              "kunya": "Abu Hasan",
+              "nisba": "al-Hasani",
+              "nisba_ar": "الحسني",
+              "death_year": "50 AH",
+              "birth_year": "3 AH",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Second Generation",
+              "location": "Medina"
+            },
+            {
+              "name": "Yahya ibn Adam",
+              "full_name": "Yahya ibn Adam al-Qurashi",
+              "generation": "Third Generation",
+              "transmissionTerm": "ثنا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Thabt Hafiz",
+              "reliabilityIssues": [],
+              "narrator_id": 8200,
+              "alternative_names": "",
+              "original_id": "7459",
+              "kunya": "",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "203 AH",
+              "birth_year": "unknown",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "Third Generation",
+              "location": "Kufa"
+            },
+            {
+              "name": "Yazid ibn Abdul Aziz",
+              "full_name": "Yazid ibn Abdul Aziz al-Qurashi",
+              "generation": "Second to Third Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "from",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 8200,
+              "alternative_names": "",
+              "original_id": "7459",
+              "kunya": "",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "unknown",
+              "birth_year": "unknown",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Second to Third Generation",
+              "location": "Damascus"
+            }
+          ],
+          "chainIssues": [
+            "Chain documentation incomplete in provided data",
+            "Appears to have multiple isnads per hadith",
+            "Both direct and indirect transmission terms used"
+          ]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Abi Bakr",
+              "full_name": "Muhammad ibn Abi Bakr al-Qurashi",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 8200,
+              "alternative_names": "",
+              "original_id": "7459",
+              "kunya": "",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "unknown",
+              "birth_year": "unknown",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Third Generation",
+              "location": "Kufa"
+            },
+            {
+              "name": "Zayd ibn al-Hubab",
+              "full_name": "Zayd ibn al-Hubab al-Kulafi",
+              "generation": "Third Generation",
+              "transmissionTerm": "نا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 8200,
+              "alternative_names": "",
+              "original_id": "7459",
+              "kunya": "",
+              "nisba": "al-Kulafi",
+              "nisba_ar": "الكلاعي",
+              "death_year": "219 AH",
+              "birth_year": "unknown",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Third Generation",
+              "location": "Kufa"
+            },
+            {
+              "name": "Ibrahim ibn Tahman",
+              "full_name": "Ibrahim ibn Tahman al-Khurasan",
+              "generation": "Second to Third Generation",
+              "transmissionTerm": "نا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 8200,
+              "alternative_names": "",
+              "original_id": "7459",
+              "kunya": "",
+              "nisba": "al-Khurasan",
+              "nisba_ar": "الخراساني",
+              "death_year": "163 AH",
+              "birth_year": "unknown",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Second to Third Generation",
+              "location": "Khurasan"
+            },
+            {
+              "name": "Abu Jamrah",
+              "full_name": "Abu Jamrah Nasr ibn Imran",
+              "generation": "First to Second Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "from",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 7902,
+              "alternative_names": "",
+              "original_id": "7153",
+              "kunya": "Abu Jamrah",
+              "nisba": "al-Dabbi",
+              "nisba_ar": "الضبي",
+              "death_year": "112 AH",
+              "birth_year": "unknown",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First to Second Generation",
+              "location": "Basra"
+            }
+          ],
+          "chainIssues": [
+            "Second chain has stronger narrators overall",
+            "Use of indirect 'an from Abu Jamrah",
+            "Both chains converge on same hadith - indicates corroboration"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Dual isnads with slight variations in transmission",
+          "impact": "Indicates hadith was transmitted through multiple reliable paths"
+        },
+        {
+          "issue": "Indirect transmission in second chain from Abu Jamrah",
+          "impact": "Minimal given reliability of all narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "First Friday prayer congregations",
+        "Jumu'ah prayer at Jawatha",
+        "History of Friday prayer establishment"
+      ]
+    },
+    {
+      "hadith_id": 270736,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1939",
+      "english_translation": "Narrated by Ibn Abbas: The delegation of Abd al-Qays came to the Messenger of Allah ﷺ. They said: Verily, this tribe of Mudar has cut us off from you, and we cannot reach you except in the sacred month.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Al-Muqaddami",
+              "full_name": "Muhammad ibn Yahya al-Muqaddami",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 5683,
+              "alternative_names": "",
+              "original_id": "4887",
+              "kunya": "",
+              "nisba": "al-Muqaddami",
+              "nisba_ar": "المقدمي",
+              "death_year": "unknown",
+              "birth_year": "unknown",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Third Generation",
+              "location": "Baghdad"
+            },
+            {
+              "name": "Hammad ibn Zayd",
+              "full_name": "Hammad ibn Zayd al-Azdi",
+              "generation": "Second to Third Generation",
+              "transmissionTerm": "ثنا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Thabt Hafiz",
+              "reliabilityIssues": [],
+              "narrator_id": 7902,
+              "alternative_names": "",
+              "original_id": "7153",
+              "kunya": "Abu Salamah",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "179 AH",
+              "birth_year": "unknown",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "Second to Third Generation",
+              "location": "Basra"
+            },
+            {
+              "name": "Abu Jamrah",
+              "full_name": "Abu Jamrah Nasr ibn Imran",
+              "generation": "First to Second Generation",
+              "transmissionTerm": "نا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 7902,
+              "alternative_names": "",
+              "original_id": "7153",
+              "kunya": "Abu Jamrah",
+              "nisba": "al-Dabbi",
+              "nisba_ar": "الضبي",
+              "death_year": "112 AH",
+              "birth_year": "unknown",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "First to Second Generation",
+              "location": "Basra"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "transmissionTermMeaning": "from",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "",
+              "original_id": "4062",
+              "kunya": "Abu Abbas",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "68 AH",
+              "birth_year": "3 AH",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Mecca"
+            }
+          ],
+          "chainIssues": [
+            "All narrators are Thiqah or Thiqah Hafiz",
+            "Direct transmission terms throughout",
+            "Short chain with reliable narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Minor use of 'an at end of chain",
+          "impact": "Not significant given all narrators are highly reliable"
+        }
+      ],
+      "Classical Grade": [
+        "Sahih"
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Delegation of Abd al-Qays to the Prophet ﷺ",
+        "Geographical barriers to travel",
+        "Sacred months and travel conventions"
+      ]
+    },
+    {
+      "hadith_id": 270737,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1940",
+      "english_translation": "Hadith regarding incidents and practices related to Abd al-Qays and their dealings with the Prophet ﷺ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Narrator A",
+              "full_name": "Unknown",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": "0",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "unknown",
+              "birth_year": "unknown",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Third Generation",
+              "location": "Unknown"
+            }
+          ],
+          "chainIssues": [
+            "Data incomplete in source"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Source data incomplete for this hadith",
+          "impact": "Cannot fully analyze"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Abd al-Qays related reports"
+      ]
+    },
+    {
+      "hadith_id": 270738,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1941",
+      "english_translation": "Additional report regarding Abd al-Qays delegation and their interactions",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Narrator B",
+              "full_name": "Unknown",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "transmissionTermMeaning": "told us",
+              "grade": "Thiqah",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": "0",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "unknown",
+              "birth_year": "unknown",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Third Generation",
+              "location": "Unknown"
+            }
+          ],
+          "chainIssues": [
+            "Data incomplete"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Source data incomplete",
+          "impact": "Cannot fully analyze"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Abd al-Qays reports"
+      ]
+    }
+  ]
+}
