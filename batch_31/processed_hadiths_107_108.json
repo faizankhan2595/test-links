@@ -1,0 +1,4009 @@
+{
+  "batch_number": 31,
+  "source_files": [
+    107,
+    108
+  ],
+  "total_records": 30,
+  "processed_hadiths": [
+    {
+      "hadith_id": 271591,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2794",
+      "english_translation": "This is a chapter heading discussing the saying of the Prophet ﷺ: 'Faith is Yemeni'",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "No isnad chain provided - chapter heading only",
+          "impact": "Cannot assess chain integrity as this is merely a chapter title indicating the subject matter of the following hadiths"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Faith and its location",
+        "Faith being characteristic of Yemen"
+      ]
+    },
+    {
+      "hadith_id": 271592,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2795",
+      "english_translation": "Narrated by Ubadah ibn al-Samit: The Messenger of Allah ﷺ said: 'Faith is Yemeni'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman ibn Ibrahim",
+              "full_name": "Abd al-Rahman ibn Ibrahim ad-Dumairi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ad-Dumairi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "ad-Dumairi",
+              "nisba_ar": "الدميري",
+              "death_year": "198",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Baghdad",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "'Amr ibn Abi Salamah",
+              "full_name": "'Amr ibn Salamah ar-Razi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Salamah al-Razi",
+              "original_id": 0,
+              "kunya": "Abu Salamah",
+              "nisba": "ar-Razi",
+              "nisba_ar": "الرازي",
+              "death_year": "180",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Ray",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Sa'id ibn Bashir",
+              "full_name": "Sa'id ibn Bashir al-Bakri",
+              "grade": "Da'if",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weakness in memory",
+                "questionable reliability"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Saeed ibn Bashir",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Bakri",
+              "nisba_ar": "البكري",
+              "death_year": "164",
+              "birth_year": "95",
+              "reliability_grade": "Da'if",
+              "tabaqat": "6",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Category 3 mudallis - requires direct transmission terms"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Abu al-Khattab al-Basri",
+              "original_id": 0,
+              "kunya": "Abu al-Khattab",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "118",
+              "birth_year": "61",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Umayr ibn Haniy",
+              "full_name": "Umayr ibn Haniy al-Awdi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Umayr al-Awdi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Awdi",
+              "nisba_ar": "الأودي",
+              "death_year": "145",
+              "birth_year": "80",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "4",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Junadah ibn Abi Umayyah",
+              "full_name": "Junadah ibn Abi Umayyah al-Azdi",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited narrations",
+                "modest reliability"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Junadah al-Azdi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "100",
+              "birth_year": "35",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ubadah ibn al-Samit",
+              "full_name": "Ubadah ibn as-Samit al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Walid al-Ansari",
+              "original_id": 0,
+              "kunya": "Abu Walid",
+              "nisba": "al-Ansari",
+              "nisba_ar": "الأنصاري",
+              "death_year": "34",
+              "birth_year": "",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Medina",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, ar-Rasul",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Sa'id ibn Bashir is considered weak (Da'if) by majority of scholars, which significantly weakens the entire chain",
+            "Qatadah is Category 3 mudallis but uses 'an (عَنْ) term which requires scrutiny",
+            "Multiple 'an (عَنْ) transmission terms create ambiguity in the chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Sa'id ibn Bashir is weak narrator",
+          "impact": "This is the primary weakness in the chain. Sa'id ibn Bashir is known to have weak memory and his narrations are often questioned. His inclusion makes the entire chain questionable"
+        },
+        {
+          "issue": "Qatadah uses indirect transmission term 'an (عَنْ)",
+          "impact": "Qatadah is a known Category 3 mudallis. When he uses 'an, there's potential for tadlis. However, his overall reliability mitigates this concern to some extent"
+        },
+        {
+          "issue": "Multiple consecutive 'an (عَنْ) terms",
+          "impact": "The chain contains several consecutive 'an terms which can indicate less direct connections in the transmission"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Faith being characteristic of Yemen",
+        "The virtue of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271593,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2796",
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'Faith is Yemeni'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Bakr ibn Abi Shaybah",
+              "full_name": "Abdullah ibn Muhammad ibn Uthman ibn Abi Shaybah",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abdullah ibn Muhammad, Imam al-Hadith",
+              "original_id": 0,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "235",
+              "birth_year": "159",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "9",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Mu'awiyah",
+              "full_name": "Muhammad ibn Khazim ad-Dari",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Mu'awiyah al-Kufi",
+              "original_id": 0,
+              "kunya": "Abu Mu'awiyah",
+              "nisba": "ad-Dari",
+              "nisba_ar": "الداري",
+              "death_year": "197",
+              "birth_year": "105",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Al-A'mash",
+              "full_name": "Sulayman ibn Mihran al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "Category 2 mudallis - generally acceptable even with indirect terms"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Abu Muhammad al-Kufi",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "148",
+              "birth_year": "61",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Salih",
+              "full_name": "Baraka ibn Abi Baraka al-Hamdani",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Dhakwan Abu Salih",
+              "original_id": 0,
+              "kunya": "Abu Salih",
+              "nisba": "al-Hamdani",
+              "nisba_ar": "الهمداني",
+              "death_year": "101",
+              "birth_year": "40",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Medina/Syria",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abdurahman ibn Sakhr ad-Dawsi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abd al-Rahman al-Dawsi, Sahib al-Hadith",
+              "original_id": 0,
+              "kunya": "Abu Hurayrah",
+              "nisba": "ad-Dawsi",
+              "nisba_ar": "الدوسي",
+              "death_year": "58",
+              "birth_year": "0",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Medina",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Al-A'mash is a Category 2 mudallis but his reliability is well-established, so his tadlis does not significantly affect the chain",
+            "Abu Salih and Abu Hurayrah both use 'an (عَنْ) transmission term, creating some ambiguity",
+            "Overall, the narrators are reliable and the chain is reasonably strong"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-A'mash is known to practice tadlis (Category 2)",
+          "impact": "Al-A'mash is a reliable narrator despite his tadlis classification. His Category 2 status means his tadlis is not severely problematic. The chain remains acceptable despite this"
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) transmission terms",
+          "impact": "Both Abu Salih and Abu Hurayrah use 'an, but given their high reliability and the direct terms used by earlier narrators, this does not significantly weaken the chain"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Faith being characteristic of Yemen",
+        "The virtue of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271594,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2797",
+      "english_translation": "Narrated by Uthman ibn Affan: The Messenger of Allah ﷺ said: 'Faith is Yemeni'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Mahfuz ibn Abi Tawbah",
+              "full_name": "Muhammad ibn Mahfuz ibn Abi Tawbah as-Sadafi",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "generally considered weak",
+                "reliability questioned by scholars"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Mahfuz as-Sadafi",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "as-Sadafi",
+              "nisba_ar": "الصدفي",
+              "death_year": "240",
+              "birth_year": "165",
+              "reliability_grade": "Da'if",
+              "tabaqat": "9",
+              "location": "Baghdad",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Yazid ibn Mawhab",
+              "full_name": "Yazid ibn Mawhab al-Kurashi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Yazid al-Kurashi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Kurashi",
+              "nisba_ar": "الكرشي",
+              "death_year": "170",
+              "birth_year": "92",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Isa ibn Yunus",
+              "full_name": "Isa ibn Yunus as-Sukuti",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu al-Ash'ath as-Sukuti",
+              "original_id": 0,
+              "kunya": "Abu al-Ash'ath",
+              "nisba": "as-Sukuti",
+              "nisba_ar": "السكوتي",
+              "death_year": "187",
+              "birth_year": "113",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Syria",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Mujalid",
+              "full_name": "Mujalid ibn Sa'id al-Kufi",
+              "grade": "Thiqah Yukhti'",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "known to make errors in transmission",
+                "mistakes in attribution"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Mujallid al-Kufi",
+              "original_id": 0,
+              "kunya": "Abu Hisham",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "144",
+              "birth_year": "70",
+              "reliability_grade": "Thiqah Yukhti'",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Al-Sha'bi",
+              "full_name": "'Amir ibn Sharahil as-Sha'bi",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Amr as-Sha'bi",
+              "original_id": 0,
+              "kunya": "Abu Amr",
+              "nisba": "as-Sha'bi",
+              "nisba_ar": "الشعبي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Khiraf ibn Aradah",
+              "full_name": "Khiraf ibn Aradah as-Sadai",
+              "grade": "Majhul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown narrator",
+                "only one narrator from him"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Khiraf al-Sadai",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "as-Sadai",
+              "nisba_ar": "الصدي",
+              "death_year": "unknown",
+              "birth_year": "unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "4",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Uthman ibn Affan",
+              "full_name": "Uthman ibn Affan ibn Abi al-As",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Uthman al-Qurashi, Dhu an-Nurayn",
+              "original_id": 0,
+              "kunya": "Abu Abdillah",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "35",
+              "birth_year": "",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Medina",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Mahfuz ibn Abi Tawbah is considered Da'if (weak), which is a significant problem at the beginning of the chain",
+            "Khiraf ibn Aradah is Majhul (unknown), appearing to be only from al-Sha'bi with no other narrators confirming his narrations",
+            "Multiple 'an (عَنْ) transmission terms in the chain",
+            "Mujalid has known issues with making errors, further weakening reliability"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mahfuz ibn Abi Tawbah is a weak narrator (Da'if)",
+          "impact": "This is the primary weakness. As the first narrator in the chain and a known weak transmitter, this significantly undermines the entire chain's reliability"
+        },
+        {
+          "issue": "Khiraf ibn Aradah has Majhul status",
+          "impact": "This narrator appears to be unknown, with limited attestation. This creates a significant gap in the chain"
+        },
+        {
+          "issue": "Mujalid is known to make errors in transmission",
+          "impact": "Mujalid is classified as Thiqah Yukhti' (trustworthy but makes mistakes), which affects the reliability of the narrations through him"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Faith being characteristic of Yemen",
+        "The virtue of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271595,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2798",
+      "english_translation": "Narrated by Anas ibn Malik: The Messenger of Allah ﷺ said: 'Faith is Yemeni'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ya'qub ibn Hamid",
+              "full_name": "Ya'qub ibn Hamid al-Qadi",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Yusuf al-Qadi",
+              "original_id": 0,
+              "kunya": "Abu Yusuf",
+              "nisba": "al-Qadi",
+              "nisba_ar": "القاضي",
+              "death_year": "226",
+              "birth_year": "150",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Baghdad",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ma'n ibn Isa",
+              "full_name": "Ma'n ibn Isa al-Qattan",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Ma'n al-Qattan",
+              "original_id": 0,
+              "kunya": "Abu Ma'n",
+              "nisba": "al-Qattan",
+              "nisba_ar": "القطان",
+              "death_year": "218",
+              "birth_year": "128",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Baghdad",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abdullah ibn Rashid",
+              "full_name": "Abdullah ibn Rashid ad-Danshuri",
+              "grade": "Da'if",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "weak narrator according to many scholars"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Abdullah ad-Danshuri",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "ad-Danshuri",
+              "nisba_ar": "الدنشوري",
+              "death_year": "180",
+              "birth_year": "105",
+              "reliability_grade": "Da'if",
+              "tabaqat": "7",
+              "location": "Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Urwah ibn Ruwaym",
+              "full_name": "Urwah ibn Ruwaym al-'Ata'i",
+              "grade": "Da'if",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weakness in hadith",
+                "questionable reliability"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Urwah al-'Ata'i",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-'Ata'i",
+              "nisba_ar": "العتائي",
+              "death_year": "149",
+              "birth_year": "75",
+              "reliability_grade": "Da'if",
+              "tabaqat": "6",
+              "location": "Medina",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Hamzah al-Ansari",
+              "original_id": 0,
+              "kunya": "Abu Hamzah",
+              "nisba": "al-Ansari",
+              "nisba_ar": "الأنصاري",
+              "death_year": "92",
+              "birth_year": "10",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Medina/Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Abdullah ibn Rashid is Da'if (weak), which significantly impacts the chain quality",
+            "Urwah ibn Ruwaym is also Da'if (weak), further weakening the chain",
+            "Both weak narrators appearing in sequence compromises the entire chain's reliability"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Rashid and Urwah ibn Ruwaym are both weak (Da'if) narrators",
+          "impact": "The presence of two consecutive weak narrators in the chain is a critical problem that makes the hadith unreliable"
+        },
+        {
+          "issue": "Consecutive weak narrators in transmission",
+          "impact": "When weak narrators appear sequentially, it multiplies the reliability problems rather than providing mutual support"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Faith being characteristic of Yemen",
+        "The virtue of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271596,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2799",
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'Faith is Yemeni'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Wahban ibn Baqiyyah",
+              "full_name": "Wahban ibn Baqiyyah al-Wasiti",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Muhammad al-Wasiti",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Wasiti",
+              "nisba_ar": "الواسطي",
+              "death_year": "230",
+              "birth_year": "145",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Wasit",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Khalid",
+              "full_name": "Khalid ibn Ilyas ar-Razi",
+              "grade": "Da'if",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "known to be weak in hadith",
+                "reliability questions"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Khalid ar-Razi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "ar-Razi",
+              "nisba_ar": "الرازي",
+              "death_year": "172",
+              "birth_year": "95",
+              "reliability_grade": "Da'if",
+              "tabaqat": "8",
+              "location": "Ray",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Al-Jurayri",
+              "full_name": "Sa'id ibn Abi al-Jurayri as-Sadafi",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "modest reliability",
+                "limited attestation"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Abu Muhammad al-Jurayri",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "as-Sadafi",
+              "nisba_ar": "الصدفي",
+              "death_year": "154",
+              "birth_year": "80",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Mus'ab",
+              "full_name": "Mus'ab ibn Abi al-Miqdam",
+              "grade": "Da'if",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weakness in transmission",
+                "reliability concerns"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Abu al-Miqdam",
+              "original_id": 0,
+              "kunya": "Abu al-Miqdam",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "141",
+              "birth_year": "65",
+              "reliability_grade": "Da'if",
+              "tabaqat": "6",
+              "location": "Medina",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abdurahman ibn Sakhr ad-Dawsi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abd al-Rahman al-Dawsi",
+              "original_id": 0,
+              "kunya": "Abu Hurayrah",
+              "nisba": "ad-Dawsi",
+              "nisba_ar": "الدوسي",
+              "death_year": "58",
+              "birth_year": "0",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Medina",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Khalid ibn Ilyas is Da'if (weak) - significant problem early in the chain",
+            "Mus'ab is also Da'if (weak) - compounds the reliability issues",
+            "Multiple 'an (عَنْ) transmission terms create ambiguity",
+            "The presence of multiple weak narrators severely undermines chain integrity"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Khalid ibn Ilyas is a weak narrator (Da'if) appearing early in the chain",
+          "impact": "This early weakness in the chain is critical, as Khalid's reliability directly impacts everything that follows"
+        },
+        {
+          "issue": "Mus'ab is also a weak narrator (Da'if) appearing later in the chain",
+          "impact": "The presence of two weak narrators in the same chain significantly reduces reliability"
+        },
+        {
+          "issue": "Al-Jurayri has limited reliability",
+          "impact": "While not entirely weak, Al-Jurayri's modest grade (Saduq) further weakens the overall chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Faith being characteristic of Yemen",
+        "The virtue of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271597,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2800",
+      "english_translation": "Narrated by Abu Hurayrah: I heard Abu Hurayrah narrating from the Prophet ﷺ who said: 'Faith is Yemeni'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Musaffa",
+              "full_name": "Muhammad ibn Maslamah al-Basri",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ibn Musaffa al-Basri",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "199",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Baqiyyah",
+              "full_name": "Baqiyyah ibn al-Walid al-Kinani",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "known to practice tadlis - Category 2 mudallis"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Abu Muhammad al-Kinani",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Kinani",
+              "nisba_ar": "الكناني",
+              "death_year": "197",
+              "birth_year": "118",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Homs/Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Hariz",
+              "full_name": "Hariz ibn Uthman al-Hani'",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Muhammad al-Hani'",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Hani'",
+              "nisba_ar": "الهنائي",
+              "death_year": "143",
+              "birth_year": "70",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Shabeeb ibn Nu'aym",
+              "full_name": "Shabeeb ibn Nu'aym Abu Rawh al-Qurashi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "moderate reliability",
+                "some criticisms from scholars"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Abu Rawh al-Qurashi",
+              "original_id": 0,
+              "kunya": "Abu Rawh",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "143",
+              "birth_year": "75",
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abdurahman ibn Sakhr ad-Dawsi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abd al-Rahman al-Dawsi",
+              "original_id": 0,
+              "kunya": "Abu Hurayrah",
+              "nisba": "ad-Dawsi",
+              "nisba_ar": "الدوسي",
+              "death_year": "58",
+              "birth_year": "0",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Medina",
+              "transmissionTermMeaning": "I heard (explicit hearing)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Baqiyyah is a known Category 2 mudallis but his reliability is well-established, so his tadlis is generally not considered problematic",
+            "Use of ثنا instead of حَدَّثَنَا slightly reduces explicitness but still acceptable",
+            "Shabeeb ibn Nu'aym has modest reliability as Saduq, but overall chain is acceptable"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Baqiyyah is a known mudallis (Category 2)",
+          "impact": "While Baqiyyah is generally reliable despite his tadlis, his practice of concealing sources (tadlis) is known. However, his overall trustworthiness mitigates this concern significantly"
+        },
+        {
+          "issue": "Shabeeb ibn Nu'aym has Saduq grade (modest reliability)",
+          "impact": "His grade as Saduq rather than Thiqah introduces some uncertainty, though his narrations are generally accepted"
+        },
+        {
+          "issue": "Strong transmission terms offset by mudallis status",
+          "impact": "The use of direct hearing (سَمِعْتُ) from Abu Hurayrah and direct narration terms from other narrators strengthens the chain despite Baqiyyah's tadlis"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Faith being characteristic of Yemen",
+        "The virtue of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271598,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2801",
+      "english_translation": "Narrated by Rawh ibn Zinbac: The Messenger of Allah ﷺ said: 'Faith is Yemeni'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ya'qub",
+              "full_name": "Ya'qub ibn Ibrahim ad-Dihni",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Yusuf ad-Dihni",
+              "original_id": 0,
+              "kunya": "Abu Yusuf",
+              "nisba": "ad-Dihni",
+              "nisba_ar": "الدهني",
+              "death_year": "201",
+              "birth_year": "125",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Egypt",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Muhammad al-Misri",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Misri",
+              "nisba_ar": "المصري",
+              "death_year": "197",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Egypt",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "'Amr ibn al-Harith",
+              "full_name": "'Amr ibn al-Harith al-Misri",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu al-Hasan al-Misri",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Misri",
+              "nisba_ar": "المصري",
+              "death_year": "155",
+              "birth_year": "76",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Egypt",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Bakr ibn Sawadah",
+              "full_name": "Bakr ibn Sawadah as-Sadai",
+              "grade": "Da'if",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak narrator",
+                "reliability questioned"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Bakr as-Sadai",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "as-Sadai",
+              "nisba_ar": "الصدي",
+              "death_year": "145",
+              "birth_year": "70",
+              "reliability_grade": "Da'if",
+              "tabaqat": "6",
+              "location": "Syria",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "'Ubaidah ibn Sufyan",
+              "full_name": "'Ubaidah ibn Sufyan as-Sulami",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "moderate reliability"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "'Ubaidah as-Sulami",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "as-Sulami",
+              "nisba_ar": "السلمي",
+              "death_year": "135",
+              "birth_year": "65",
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Syria",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Rawh ibn Zinbac",
+              "full_name": "Rawh ibn Zinbac al-Azdi",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "limited information available"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Rawh al-Azdi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "unknown",
+              "birth_year": "unknown",
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Companion",
+              "location": "Syria",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Bakr ibn Sawadah is Da'if (weak), which is a critical problem in the chain",
+            "Two 'an (عَنْ) transmission terms from Bakr and 'Ubaidah create ambiguity",
+            "Despite strong narrators at the beginning, the presence of Bakr ibn Sawadah significantly weakens the overall chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Bakr ibn Sawadah is a weak narrator (Da'if)",
+          "impact": "This is the primary weakness. Bakr's inclusion in the chain compromises the hadith's reliability despite the strength of other narrators"
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) transmission terms",
+          "impact": "Both Bakr and 'Ubaidah use 'an, which introduces ambiguity in the transmission"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Faith being characteristic of Yemen",
+        "The virtue of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271599,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2802",
+      "english_translation": "Narrated by Abu al-Muhajir: The Prophet ﷺ said: 'Faith is Yemeni'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Al-Hawti",
+              "full_name": "Khalid ibn Khalid al-Hawtiyyun",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Khalid al-Hawti",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Hawti",
+              "nisba_ar": "الحوطي",
+              "death_year": "240",
+              "birth_year": "155",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu al-Mughirah",
+              "full_name": "Mughirah ibn Mislim ash-Shami",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Mughirah ash-Shami",
+              "original_id": 0,
+              "kunya": "Abu al-Mughirah",
+              "nisba": "ash-Shami",
+              "nisba_ar": "الشامي",
+              "death_year": "188",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Safwan",
+              "full_name": "Safwan ibn Muhammad as-Suluhi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Safwan as-Suluhi",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "as-Suluhi",
+              "nisba_ar": "السلوحي",
+              "death_year": "166",
+              "birth_year": "90",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Syria",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Abu al-Muhajir",
+              "full_name": "Musa ibn Abi al-Muhajir ad-Dili'",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Musa ad-Dili'",
+              "original_id": 0,
+              "kunya": "Abu al-Muhajir",
+              "nisba": "ad-Dili'",
+              "nisba_ar": "الديلمي",
+              "death_year": "153",
+              "birth_year": "80",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Syria",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Mahran",
+              "full_name": "Mahran ibn Musa al-Azdi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Mahran al-Azdi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "135",
+              "birth_year": "65",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "4",
+              "location": "Syria",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "All narrators are Thiqah (trustworthy), which is a strength",
+            "Multiple 'an (عَنْ) transmission terms but from reliable narrators",
+            "Overall chain integrity is maintained despite the indirect transmission terms"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple 'an (عَنْ) transmission terms",
+          "impact": "While all narrators are reliable, the use of 'an creates some ambiguity in the chain, but this is mitigated by the overall reliability of the narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Faith being characteristic of Yemen",
+        "The virtue of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271600,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2803",
+      "english_translation": "Narrated by Yahya ibn Abi Khadijah: The Prophet ﷺ said: 'Faith is Yemeni'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Duhayem",
+              "full_name": "Duhayem ibn Abdullah al-Busri",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Duhayem al-Busri",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Busri",
+              "nisba_ar": "البصري",
+              "death_year": "236",
+              "birth_year": "150",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abdullah ibn Yusuf",
+              "full_name": "Abdullah ibn Yusuf at-Tinisi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abdullah at-Tinisi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "at-Tinisi",
+              "nisba_ar": "التنيسي",
+              "death_year": "220",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Egypt",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Yahya ibn Abi Khadijah",
+              "full_name": "Yahya ibn Abi Khadijah al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Yahya al-Qurashi",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "183",
+              "birth_year": "105",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Egypt",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Isa ibn Maryam",
+              "full_name": "Isa ibn Maryam al-Misri",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "moderate reliability",
+                "some mistakes in transmission"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Isa al-Misri",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Misri",
+              "nisba_ar": "المصري",
+              "death_year": "158",
+              "birth_year": "80",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Yahya ibn Abi Khadijah",
+              "full_name": "Yahya ibn Abi Khadijah al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Yahya al-Qurashi",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "183",
+              "birth_year": "105",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Isa ibn Maryam has Saduq grade (modest reliability) which weakens the chain",
+            "Multiple 'an (عَنْ) transmission terms indicate less direct connections",
+            "Repetition of Yahya ibn Abi Khadijah appears unusual in the chain structure"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Isa ibn Maryam has Saduq grade (modest reliability)",
+          "impact": "His inclusion introduces moderate weakness to the chain, as Saduq narrators have acceptable but not strong reliability"
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) transmission terms",
+          "impact": "Two consecutive 'an terms create ambiguity in the transmission chain"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Faith being characteristic of Yemen",
+        "The virtue of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271601,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2804",
+      "english_translation": "Narrated by Ummah: The Messenger of Allah ﷺ said: 'Faith is Yemeni'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Bakr ibn Abi Shaybah",
+              "full_name": "Abdullah ibn Muhammad ibn Uthman ibn Abi Shaybah",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abdullah ibn Muhammad",
+              "original_id": 0,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "235",
+              "birth_year": "159",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "9",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Usamah",
+              "full_name": "Hafs ibn Ghiyath an-Nakhawi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Hafs an-Nakhawi",
+              "original_id": 0,
+              "kunya": "Abu Usamah",
+              "nisba": "an-Nakhawi",
+              "nisba_ar": "النخعي",
+              "death_year": "193",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Az-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Shihab az-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "known to practice tadlis - Category 1-2 mudallis, but generally reliable"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Ibn Shihab az-Zuhri",
+              "original_id": 0,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Madani",
+              "nisba_ar": "المدني",
+              "death_year": "124",
+              "birth_year": "50",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "6",
+              "location": "Medina",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Salim ibn Abdullah",
+              "full_name": "Salim ibn Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Salim ibn Abdullah",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Madani",
+              "nisba_ar": "المدني",
+              "death_year": "126",
+              "birth_year": "53",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "5",
+              "location": "Medina",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Az-Zuhri is a known mudallis (Category 1-2) but his reliability is well-established, making him acceptable despite his tadlis",
+            "Use of 'an (عَنْ) from both Az-Zuhri and Salim creates some ambiguity, but both are highly reliable narrators",
+            "Overall chain is strong despite the indirect transmission terms"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Az-Zuhri is known to practice tadlis (Category 1-2 mudallis)",
+          "impact": "While Az-Zuhri is one of the most reliable narrators despite his tadlis, his use of 'an indicates indirect transmission. However, his exceptional reliability and the reliability of other narrators make this acceptable"
+        }
+      ],
+      "Classical Grade": [
+        "Sahih"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Faith being characteristic of Yemen",
+        "The virtue of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271602,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2805",
+      "english_translation": "This is a chapter heading discussing the saying of the Prophet ﷺ: 'Wisdom is Yemeni and jurisprudence is Yemeni'",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "No isnad chain provided - chapter heading only",
+          "impact": "Cannot assess chain integrity as this is merely a chapter title indicating the subject matter of subsequent hadiths"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Wisdom being characteristic of Yemen",
+        "Jurisprudence being characteristic of Yemen"
+      ]
+    },
+    {
+      "hadith_id": 271603,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2806",
+      "english_translation": "Narrated by Anas ibn Malik: The Prophet ﷺ said: 'Faith is Yemeni'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu al-Rabi'",
+              "full_name": "Abdullah ibn Idris al-Qurashi as-Sulamani",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu al-Rabi' as-Sulamani",
+              "original_id": 0,
+              "kunya": "Abu al-Rabi'",
+              "nisba": "as-Sulamani",
+              "nisba_ar": "السلماني",
+              "death_year": "236",
+              "birth_year": "150",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "9",
+              "location": "Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Hammad ibn Zayd",
+              "full_name": "Hammad ibn Zayd al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Hammad al-Basri",
+              "original_id": 0,
+              "kunya": "Abu Isma'il",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "179",
+              "birth_year": "103",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ayyub",
+              "full_name": "Ayyub ibn Abi Tamimah as-Sakhtiyani",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Muhammad as-Sakhtiyani",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "as-Sakhtiyani",
+              "nisba_ar": "السختياني",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Hamzah al-Ansari",
+              "original_id": 0,
+              "kunya": "Abu Hamzah",
+              "nisba": "al-Ansari",
+              "nisba_ar": "الأنصاري",
+              "death_year": "92",
+              "birth_year": "10",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Medina/Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "All narrators are Thiqah Thabt (reliable and precise), which is a significant strength",
+            "Use of direct transmission terms (حَدَّثَنَا, نا) from early narrators",
+            "Only Anas uses 'an (عَنْ), but his reliability is beyond question"
+          ]
+        }
+      ],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Sahih"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Faith being characteristic of Yemen",
+        "The virtue of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271604,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2807",
+      "english_translation": "Narrated by Ibn Awwam: The Prophet ﷺ said: 'Faith is Yemeni'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Muthanna",
+              "full_name": "Muhammad ibn al-Muthanna al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Musa al-Kufi",
+              "original_id": 0,
+              "kunya": "Abu Musa",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "252",
+              "birth_year": "162",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "9",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Muhammad ibn Abi Adi",
+              "full_name": "Muhammad ibn Abi Adi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Muhammad al-Kufi",
+              "original_id": 0,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "198",
+              "birth_year": "115",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Awwam",
+              "full_name": "Muhammad ibn Abdullah ibn Awwam al-Hamdani",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Muhammad al-Hamdani",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Hamdani",
+              "nisba_ar": "الهمداني",
+              "death_year": "153",
+              "birth_year": "75",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Khalid",
+              "full_name": "Khalid ibn Thabit al-Hajjaj",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "moderate reliability",
+                "some questions about precision"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Khalid al-Hajjaj",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Hajjaj",
+              "nisba_ar": "الحجاج",
+              "death_year": "135",
+              "birth_year": "65",
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Khalid has Saduq grade (modest reliability) which weakens the chain",
+            "Two 'an (عَنِ/عَنْ) transmission terms create ambiguity",
+            "Early narrators are strong but the presence of Saduq narrator affects overall reliability"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Khalid ibn Thabit has Saduq grade (modest reliability)",
+          "impact": "His inclusion introduces moderate weakness to the chain"
+        },
+        {
+          "issue": "Multiple 'an (عَنِ/عَنْ) transmission terms",
+          "impact": "Two consecutive 'an terms create ambiguity in the transmission"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Faith being characteristic of Yemen",
+        "The virtue of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271605,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2808",
+      "english_translation": "Narrated by Awf: The Prophet ﷺ said: 'Faith is Yemeni'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Habib ibn Adi",
+              "full_name": "Yahya ibn Habib ibn Adi al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Yahya al-Qurashi",
+              "original_id": 0,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "250",
+              "birth_year": "160",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Baghdad",
+              "transmissionTermMeaning": "He narrated to me (direct hearing)"
+            },
+            {
+              "name": "Rawh ibn Ubadah",
+              "full_name": "Rawh ibn Ubadah al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Rawh al-Qurashi",
+              "original_id": 0,
+              "kunya": "Abu Ali",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "205",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Awf",
+              "full_name": "Awf ibn Abi Jamilah al-A'raji",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Awf al-A'raji",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-A'raji",
+              "nisba_ar": "الأعرجي",
+              "death_year": "147",
+              "birth_year": "70",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Nafi",
+              "full_name": "Nafi' al-'Umarawi",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Nafi' al-Mubassir",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-'Umarawi",
+              "nisba_ar": "العمري",
+              "death_year": "169",
+              "birth_year": "100",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Medina",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "All early narrators are Thiqah or Thiqah Thabt (reliable)",
+            "Only Nafi' uses 'an (عَنْ), which is acceptable given his high reliability",
+            "Overall chain is strong despite the single indirect transmission term"
+          ]
+        }
+      ],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Sahih"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Faith being characteristic of Yemen",
+        "The virtue of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271606,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2809",
+      "english_translation": "Narrated by Muhammad ibn Mahajir: The Prophet ﷺ said: 'Faith is Yemeni'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Idris",
+              "full_name": "Muhammad ibn Idris as-Shafi'i",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Imam as-Shafi'i",
+              "original_id": 0,
+              "kunya": "Abu Abdullah",
+              "nisba": "ash-Shafi'i",
+              "nisba_ar": "الشافعي",
+              "death_year": "204",
+              "birth_year": "150",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "9",
+              "location": "Egypt",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Tawbah",
+              "full_name": "Sahl ibn Muhammad al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Sahl al-Ansari",
+              "original_id": 0,
+              "kunya": "Abu Tawbah",
+              "nisba": "al-Ansari",
+              "nisba_ar": "الأنصاري",
+              "death_year": "201",
+              "birth_year": "115",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Muhammad ibn Muhajir",
+              "full_name": "Muhammad ibn Muhajir ad-Dari",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Muhammad ad-Dari",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "ad-Dari",
+              "nisba_ar": "الداري",
+              "death_year": "147",
+              "birth_year": "72",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ata ibn Abi Rabah",
+              "full_name": "Ata ibn Abi Rabah al-Makhzumi",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "known to have ikhtilat (confusion) in later life, but this narration appears early"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Ata al-Makkawi",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Makhzumi",
+              "nisba_ar": "المخزومي",
+              "death_year": "114",
+              "birth_year": "27",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "All narrators are Thiqah or Thiqah Thabt (reliable)",
+            "Only Ata' uses 'an (عَنْ), but his reliability is strong and this appears to be an early narration",
+            "Overall chain strength is maintained"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ata' ibn Abi Rabah has known ikhtilat (confusion) in later life",
+          "impact": "However, this appears to be an early narration, and Ata's overall reliability is well-established, so this does not significantly impact the chain"
+        }
+      ],
+      "Classical Grade": [
+        "Sahih"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Faith being characteristic of Yemen",
+        "The virtue of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271607,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2810",
+      "english_translation": "Narrated by Shabeeb ibn Nu'aym: I heard Abu Hurayrah narrating from the Prophet ﷺ who said: 'Faith is Yemeni'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Musaffa",
+              "full_name": "Muhammad ibn Maslamah al-Basri",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ibn Musaffa al-Basri",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "199",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Baqiyyah",
+              "full_name": "Baqiyyah ibn al-Walid al-Kinani",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "known to practice tadlis - Category 2 mudallis"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Abu Muhammad al-Kinani",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Kinani",
+              "nisba_ar": "الكناني",
+              "death_year": "197",
+              "birth_year": "118",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Homs/Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Hariz",
+              "full_name": "Hariz ibn Uthman al-Hani'",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Muhammad al-Hani'",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Hani'",
+              "nisba_ar": "الهنائي",
+              "death_year": "143",
+              "birth_year": "70",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Shabeeb ibn Nu'aym",
+              "full_name": "Shabeeb ibn Nu'aym Abu Rawh al-Qurashi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "moderate reliability"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Abu Rawh al-Qurashi",
+              "original_id": 0,
+              "kunya": "Abu Rawh",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "143",
+              "birth_year": "75",
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abdurahman ibn Sakhr ad-Dawsi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abd al-Rahman al-Dawsi",
+              "original_id": 0,
+              "kunya": "Abu Hurayrah",
+              "nisba": "ad-Dawsi",
+              "nisba_ar": "الدوسي",
+              "death_year": "58",
+              "birth_year": "0",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Medina",
+              "transmissionTermMeaning": "I heard (explicit hearing)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Baqiyyah is a known Category 2 mudallis but his reliability is well-established",
+            "Shabeeb ibn Nu'aym has Saduq grade which moderately weakens the chain",
+            "Strong transmission terms (نا) from most narrators, with explicit hearing (سَمِعْتُ) from Abu Hurayrah"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Baqiyyah is a known mudallis (Category 2)",
+          "impact": "While his reliability is established, his tadlis practice is noted, but does not significantly affect this chain given his trustworthiness"
+        },
+        {
+          "issue": "Shabeeb ibn Nu'aym has Saduq grade",
+          "impact": "His modest reliability introduces some weakness, though it is balanced by other strong narrators in the chain"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Faith being characteristic of Yemen",
+        "The virtue of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271608,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2811",
+      "english_translation": "This is a chapter heading discussing the saying of the Prophet ﷺ: 'The people of Yemen have more tender hearts and gentler temperaments'",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "No isnad chain provided - chapter heading only",
+          "impact": "Cannot assess chain integrity as this is merely a chapter title indicating the subject matter of subsequent hadiths"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Tender hearts of Yemeni people",
+        "Gentleness of temperament of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271609,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2812",
+      "english_translation": "Narrated by Anas ibn Malik: The people of Yemen have the softest hearts and the most tender affection",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu al-Rabi'",
+              "full_name": "Abdullah ibn Idris al-Qurashi as-Sulamani",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu al-Rabi' as-Sulamani",
+              "original_id": 0,
+              "kunya": "Abu al-Rabi'",
+              "nisba": "as-Sulamani",
+              "nisba_ar": "السلماني",
+              "death_year": "236",
+              "birth_year": "150",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "9",
+              "location": "Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Hammad ibn Zayd",
+              "full_name": "Hammad ibn Zayd al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Hammad al-Basri",
+              "original_id": 0,
+              "kunya": "Abu Isma'il",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "179",
+              "birth_year": "103",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ayyub",
+              "full_name": "Ayyub ibn Abi Tamimah as-Sakhtiyani",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Muhammad as-Sakhtiyani",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "as-Sakhtiyani",
+              "nisba_ar": "السختياني",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Hamzah al-Ansari",
+              "original_id": 0,
+              "kunya": "Abu Hamzah",
+              "nisba": "al-Ansari",
+              "nisba_ar": "الأنصاري",
+              "death_year": "92",
+              "birth_year": "10",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Medina/Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "All narrators are Thiqah Thabt, which is a significant strength",
+            "Two 'an (عَنْ) transmission terms but from highly reliable narrators",
+            "Overall chain is very strong"
+          ]
+        }
+      ],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Sahih"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Tender hearts of Yemeni people",
+        "Gentleness of temperament of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271610,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2813",
+      "english_translation": "Narrated by Abu Wa'il: The Prophet ﷺ mentioned the people of Yemen and praised them",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Muthanna",
+              "full_name": "Muhammad ibn al-Muthanna al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Musa al-Kufi",
+              "original_id": 0,
+              "kunya": "Abu Musa",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "252",
+              "birth_year": "162",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "9",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Muhammad ibn Abi Adi",
+              "full_name": "Muhammad ibn Abi Adi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Muhammad al-Kufi",
+              "original_id": 0,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "198",
+              "birth_year": "115",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Shareek",
+              "full_name": "Shareek ibn Uthman an-Nakha'i",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Shareek al-Kufi",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "an-Nakha'i",
+              "nisba_ar": "النخعي",
+              "death_year": "177",
+              "birth_year": "90",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ash'ath ibn Abi ash-Sha'tha'",
+              "full_name": "Ash'ath ibn Abi ash-Sha'tha' al-Ijli",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ash'ath al-Ijli",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Ijli",
+              "nisba_ar": "الأجلي",
+              "death_year": "144",
+              "birth_year": "65",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Abu Wa'il",
+              "full_name": "Shaqiq ibn Salama al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Tabi'i/Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Shaqiq as-Sadafi",
+              "original_id": 0,
+              "kunya": "Abu Wa'il",
+              "nisba": "al-Asadi",
+              "nisba_ar": "الأسدي",
+              "death_year": "107",
+              "birth_year": "30",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "4",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "All narrators are Thiqah (trustworthy)",
+            "Multiple 'an (عَنِ/عَنْ) transmission terms but all from reliable narrators",
+            "Overall chain integrity is maintained"
+          ]
+        }
+      ],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Sahih"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "The Prophet's praise of the Yemeni people",
+        "Characteristics of the Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271611,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2814",
+      "english_translation": "Narrated by Abu al-Muhajir: The Prophet ﷺ said regarding the Yemeni people: They have the most tender hearts and gentlest temperaments",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Al-Hawti",
+              "full_name": "Khalid ibn Khalid al-Hawtiyyun",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Khalid al-Hawti",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Hawti",
+              "nisba_ar": "الحوطي",
+              "death_year": "240",
+              "birth_year": "155",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Hisham ibn Ammar",
+              "full_name": "Hisham ibn Ammar as-Salamani",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Hisham as-Salamani",
+              "original_id": 0,
+              "kunya": "Abu Walid",
+              "nisba": "as-Salamani",
+              "nisba_ar": "السلاماني",
+              "death_year": "245",
+              "birth_year": "156",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Baqiyyah",
+              "full_name": "Baqiyyah ibn al-Walid al-Kinani",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "known to practice tadlis - Category 2 mudallis"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Abu Muhammad al-Kinani",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Kinani",
+              "nisba_ar": "الكناني",
+              "death_year": "197",
+              "birth_year": "118",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Homs/Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Khalid",
+              "full_name": "Khalid ibn Ilyas al-Razi",
+              "grade": "Da'if",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "weak narrator"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Khalid ar-Razi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "ar-Razi",
+              "nisba_ar": "الرازي",
+              "death_year": "172",
+              "birth_year": "95",
+              "reliability_grade": "Da'if",
+              "tabaqat": "6",
+              "location": "Ray",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Safwan",
+              "full_name": "Safwan ibn Muhammad as-Suluhi",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Safwan as-Suluhi",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "as-Suluhi",
+              "nisba_ar": "السلوحي",
+              "death_year": "166",
+              "birth_year": "90",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Khalid ibn Ilyas is Da'if (weak), which significantly weakens the chain",
+            "Baqiyyah is a known mudallis but his reliability is established",
+            "The presence of a weak narrator (Khalid) is a critical issue"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Khalid ibn Ilyas is a weak narrator (Da'if)",
+          "impact": "This is a critical weakness in the chain that significantly affects its reliability"
+        },
+        {
+          "issue": "Baqiyyah is a known mudallis (Category 2)",
+          "impact": "While generally reliable, his tadlis should be noted, though it does not severely impact this chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Tender hearts of Yemeni people",
+        "Gentleness of temperament of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271612,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2815",
+      "english_translation": "Narrated by Nafi': The Yemeni people have tender hearts and gentle temperaments",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Habib ibn Adi",
+              "full_name": "Yahya ibn Habib ibn Adi al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Yahya al-Qurashi",
+              "original_id": 0,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "250",
+              "birth_year": "160",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Baghdad",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Rawh ibn Ubadah",
+              "full_name": "Rawh ibn Ubadah al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Rawh al-Qurashi",
+              "original_id": 0,
+              "kunya": "Abu Ali",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "205",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Awf",
+              "full_name": "Awf ibn Abi Jamilah al-A'raji",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Awf al-A'raji",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-A'raji",
+              "nisba_ar": "الأعرجي",
+              "death_year": "147",
+              "birth_year": "70",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' al-'Umarawi",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Nafi' al-Mubassir",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-'Umarawi",
+              "nisba_ar": "العمري",
+              "death_year": "169",
+              "birth_year": "100",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Medina",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "All narrators are Thiqah or Thiqah Thabt",
+            "Only Nafi' uses 'an (عَنْ) but his reliability is high",
+            "Overall chain is strong"
+          ]
+        }
+      ],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Sahih"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Tender hearts of Yemeni people",
+        "Gentleness of temperament of Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271613,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2816",
+      "english_translation": "Narrated by Abu al-Muhajir: The Messenger of Allah ﷺ said: Wisdom is Yemeni and tender hearts belong to the Yemeni people",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Al-Hawti",
+              "full_name": "Khalid ibn Khalid al-Hawtiyyun",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Khalid al-Hawti",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Hawti",
+              "nisba_ar": "الحوطي",
+              "death_year": "240",
+              "birth_year": "155",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu al-Mughirah",
+              "full_name": "Mughirah ibn Mislim ash-Shami",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Mughirah ash-Shami",
+              "original_id": 0,
+              "kunya": "Abu al-Mughirah",
+              "nisba": "ash-Shami",
+              "nisba_ar": "الشامي",
+              "death_year": "188",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Safwan",
+              "full_name": "Safwan ibn Muhammad as-Suluhi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Safwan as-Suluhi",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "as-Suluhi",
+              "nisba_ar": "السلوحي",
+              "death_year": "166",
+              "birth_year": "90",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Syria",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Abu al-Muhajir",
+              "full_name": "Musa ibn Abi al-Muhajir ad-Dili'",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Musa ad-Dili'",
+              "original_id": 0,
+              "kunya": "Abu al-Muhajir",
+              "nisba": "ad-Dili'",
+              "nisba_ar": "الديلمي",
+              "death_year": "153",
+              "birth_year": "80",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Syria",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "All narrators are Thiqah (trustworthy)",
+            "Two 'an (عَنْ) transmission terms but from reliable narrators",
+            "Overall chain is sound"
+          ]
+        }
+      ],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Wisdom being characteristic of Yemen",
+        "Tender hearts of the Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271614,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2817",
+      "english_translation": "Narrated by Abd al-Malik ibn Umar: The Yemeni people are the best of people",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Nasr ibn Ali",
+              "full_name": "Nasr ibn Ali al-Jahdhami",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Nasr al-Jahdhami",
+              "original_id": 0,
+              "kunya": "Abu Ahmad",
+              "nisba": "al-Jahdhami",
+              "nisba_ar": "الجهضمي",
+              "death_year": "242",
+              "birth_year": "159",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "9",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Nuh ibn Qays",
+              "full_name": "Nuh ibn Qays al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Nuh al-Asadi",
+              "original_id": 0,
+              "kunya": "Abu Hafs",
+              "nisba": "al-Asadi",
+              "nisba_ar": "الأسدي",
+              "death_year": "189",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abd al-Malik",
+              "full_name": "Abd al-Malik ibn Umar al-Qurashi",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "moderate reliability"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Abd al-Malik al-Qurashi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "145",
+              "birth_year": "70",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Medina",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Abd al-Malik has Saduq grade which introduces moderate weakness",
+            "Single 'an (عَنْ) transmission term from Saduq narrator",
+            "Overall chain is relatively short with limited intermediate narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abd al-Malik ibn Umar has Saduq grade (modest reliability)",
+          "impact": "His modest reliability weakens the chain somewhat, but the strength of other narrators provides some support"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "The virtue of the Yemeni people",
+        "The excellence of the people of Yemen"
+      ]
+    },
+    {
+      "hadith_id": 271615,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2818",
+      "english_translation": "Narrated by Hisham: The Prophet ﷺ said: The Yemeni people are the best of all people",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Said Duhayem",
+              "full_name": "Ahmad ibn Muhammad ad-Dahabari",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Said ad-Dahabari",
+              "original_id": 0,
+              "kunya": "Abu Said",
+              "nisba": "ad-Dahabari",
+              "nisba_ar": "الذهبري",
+              "death_year": "244",
+              "birth_year": "160",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Damascus",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Fudayk",
+              "full_name": "Muhammad ibn Isma'il ibn Ibrahim al-Madani",
+              "grade": "Saduq",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "moderate reliability",
+                "some mistakes noted"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Muhammad al-Madani",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Madani",
+              "nisba_ar": "المدني",
+              "death_year": "200",
+              "birth_year": "120",
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Hisham",
+              "full_name": "Hisham ibn Urwah al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "had ikhtilat (confusion) in later life"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Hisham al-Qurashi",
+              "original_id": 0,
+              "kunya": "Abu al-Walid",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "146",
+              "birth_year": "68",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Urwah",
+              "full_name": "Urwah ibn al-Zubayr al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Urwah al-Qurashi",
+              "original_id": 0,
+              "kunya": "Abu al-Walid",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "94",
+              "birth_year": "23",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "6",
+              "location": "Medina",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Ibn Abi Fudayk has Saduq grade (modest reliability)",
+            "Hisham had ikhtilat (confusion) in later life",
+            "Single 'an (عَنْ) transmission term from reliable narrator"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Abi Fudayk has Saduq grade (modest reliability)",
+          "impact": "His modest reliability introduces some weakness to the chain"
+        },
+        {
+          "issue": "Hisham ibn Urwah had ikhtilat (confusion) in later life",
+          "impact": "However, this appears to be an early narration, and Hisham's overall reliability is well-established"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "The virtue of the Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271616,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2819",
+      "english_translation": "Narrated by Mus'ab ibn Sa'id: The Prophet ﷺ said: The Yemeni people are the best of all people",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ya'qub ibn Sufyan",
+              "full_name": "Ya'qub ibn Sufyan al-Fasawi",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ya'qub al-Fasawi",
+              "original_id": 0,
+              "kunya": "Abu Yusuf",
+              "nisba": "al-Fasawi",
+              "nisba_ar": "الفسوي",
+              "death_year": "277",
+              "birth_year": "194",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Wasit",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu al-Aswad",
+              "full_name": "Yazid ibn Abdullah ad-Dosaysi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Yazid ad-Dosaysi",
+              "original_id": 0,
+              "kunya": "Abu al-Aswad",
+              "nisba": "ad-Dosaysi",
+              "nisba_ar": "الدوسيسي",
+              "death_year": "183",
+              "birth_year": "100",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Awwam",
+              "full_name": "Muhammad ibn Abdullah ibn Awwam al-Hamdani",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Muhammad al-Hamdani",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Hamdani",
+              "nisba_ar": "الهمداني",
+              "death_year": "153",
+              "birth_year": "75",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Khalid",
+              "full_name": "Khalid ibn Thabit al-Hajjaj",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "moderate reliability"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Khalid al-Hajjaj",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Hajjaj",
+              "nisba_ar": "الحجاج",
+              "death_year": "135",
+              "birth_year": "65",
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Khalid has Saduq grade which introduces moderate weakness",
+            "Single 'an (عَنْ) transmission term from Saduq narrator",
+            "Early narrators are reliable"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Khalid ibn Thabit has Saduq grade (modest reliability)",
+          "impact": "His inclusion weakens the chain moderately"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "The virtue of the Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271617,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2820",
+      "english_translation": "Narrated by Abu Salamah: The Prophet ﷺ said: The people of Yemen have tender hearts and gentle souls",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Bakr ibn Abi Shaybah",
+              "full_name": "Abdullah ibn Muhammad ibn Uthman ibn Abi Shaybah",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abdullah ibn Muhammad",
+              "original_id": 0,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "235",
+              "birth_year": "159",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "9",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Yazid ibn Harun",
+              "full_name": "Yazid ibn Harun al-Azdi as-Sulami",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Yazid al-Sulami",
+              "original_id": 0,
+              "kunya": "Abu Khaled",
+              "nisba": "as-Sulami",
+              "nisba_ar": "السلمي",
+              "death_year": "206",
+              "birth_year": "118",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Wasit",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Hammad",
+              "full_name": "Hammad ibn Salamah al-Basri",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Hammad al-Basri",
+              "original_id": 0,
+              "kunya": "Abu Salamah",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "167",
+              "birth_year": "88",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "All narrators are Thiqah or Thiqah Thabt",
+            "Single 'an (عَنْ) from reliable narrator",
+            "Overall chain is strong"
+          ]
+        }
+      ],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Sahih"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Tender hearts of the Yemeni people",
+        "Gentleness of the Yemeni people"
+      ]
+    },
+    {
+      "hadith_id": 271618,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2821",
+      "english_translation": "This is a chapter heading discussing Ibn Sayyad and what was mentioned from the Prophet ﷺ about him",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "No isnad chain provided - chapter heading only",
+          "impact": "Cannot assess chain integrity as this is merely a chapter title"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Incident of Ibn Sayyad"
+      ]
+    },
+    {
+      "hadith_id": 271619,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2822",
+      "english_translation": "Narrated by al-Awza'i: The Prophet ﷺ mentioned something",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Amr ibn Uthman",
+              "full_name": "Amr ibn Uthman al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amr al-Qurashi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "240",
+              "birth_year": "155",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Al-Walid ibn Muslim",
+              "full_name": "Al-Walid ibn Muslim ad-Dimashqi",
+              "grade": "Saduq",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "Category 3 mudallis",
+                "requires careful evaluation"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Al-Walid ad-Dimashqi",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "ad-Dimashqi",
+              "nisba_ar": "الدمشقي",
+              "death_year": "194",
+              "birth_year": "110",
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Damascus",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Al-Awza'i",
+              "full_name": "Abd al-Rahman ibn Amr al-Awza'i",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Al-Awza'i ash-Shami",
+              "original_id": 0,
+              "kunya": "Abu Amr",
+              "nisba": "al-Awza'i",
+              "nisba_ar": "الأوزاعي",
+              "death_year": "157",
+              "birth_year": "88",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": "Syria",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Al-Walid is a Category 3 mudallis and has Saduq grade (modest reliability)",
+            "Single 'an (عَنْ) transmission term",
+            "Chain is relatively short with limited narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Walid ibn Muslim is a Category 3 mudallis with Saduq grade",
+          "impact": "His tadlis practice and modest reliability weaken the chain. As a Category 3 mudallis, his practice of tadlis is more problematic and requires careful evaluation"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Narration from al-Awza'i"
+      ]
+    },
+    {
+      "hadith_id": 271620,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book No. 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2823",
+      "english_translation": "Narrated by al-Jurayri: The Prophet ﷺ mentioned something about the Yemeni people",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Hudbah",
+              "full_name": "Hudbah ibn Khalifah al-Azdi",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Hudbah al-Azdi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "241",
+              "birth_year": "156",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Hammad ibn Salamah",
+              "full_name": "Hammad ibn Salamah al-Basri",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Hammad al-Basri",
+              "original_id": 0,
+              "kunya": "Abu Salamah",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "167",
+              "birth_year": "88",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Al-Jurayri",
+              "full_name": "Sa'id ibn Abi al-Jurayri as-Sadafi",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "modest reliability"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Abu Muhammad al-Jurayri",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "as-Sadafi",
+              "nisba_ar": "الصدفي",
+              "death_year": "154",
+              "birth_year": "80",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Al-Jurayri has Saduq grade (modest reliability)",
+            "Single 'an (عَنِ) transmission term",
+            "Early narrators are reliable"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Jurayri has Saduq grade (modest reliability)",
+          "impact": "His modest reliability introduces some weakness to the chain, though other narrators are reliable"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "The Yemeni people"
+      ]
+    }
+  ]
+}
