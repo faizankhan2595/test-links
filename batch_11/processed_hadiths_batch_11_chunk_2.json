@@ -1,0 +1,396 @@
+[
+  {
+    "hadith_id": 92257,
+    "book_id": 82,
+    "book_name_ar": "كتاب رقم 82",
+    "book_name_en": "Unknown Book 82",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "10863",
+    "english_translation": "Muhammad ibn al-Sa'ib al-Kalbi is called Abu al-Nadhr. His grandfather was Bishr ibn Amr, and his sons were al-Sa'ib, Ubayd, and Abd al-Rahman, who witnessed the Battle of the Camel with Ali ibn Abi Talib (may peace be upon him). Al-Sa'ib ibn Bishr was killed with Mus'ab ibn al-Zubayr. About them, Ibn Warqa al-Nakh'i said: [poetry follows]. Muhammad ibn al-Sa'ib witnessed the Battle of the Skulls with Abd al-Rahman ibn Muhammad ibn al-Ash'ath. Muhammad ibn al-Sa'ib was knowledgeable in Quranic exegesis, Arab genealogies, and their hadith traditions. He died in Kufa in the year 146 AH during the caliphate of Abu Ja'far. Muhammad ibn Sa'd said: His son Hisham ibn Muhammad ibn al-Sa'ib informed me of all this. He was knowledgeable in genealogy and the hadith traditions and history of the Arabs, but the scholars say about him: He is not reliable; in his narration he is very weak.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "Muhammad ibn Sa'd",
+            "full_name": "Muhammad ibn Sa'd ibn Maniah al-Hajjaji al-Basri",
+            "grade": "Thiqah",
+            "generation": "Ninth Generation",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Abu Abdullah al-Basri, al-Zuhri",
+            "original_id": 0,
+            "kunya": "Abu Abdullah",
+            "nisba": "al-Basri",
+            "nisba_ar": "البصري",
+            "death_year": "230",
+            "birth_year": "168",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "Ninth Generation",
+            "location": "Basra",
+            "transmissionTermMeaning": "He said (reporting from Hisham)"
+          },
+          {
+            "name": "Hisham ibn Muhammad ibn al-Sa'ib",
+            "full_name": "Hisham ibn Muhammad ibn al-Sa'ib al-Kalbi",
+            "grade": "Layyin al-Hadith",
+            "generation": "Eighth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["Known to be weak in hadith", "His reliability is questioned despite genealogical knowledge"],
+            "narrator_id": 0,
+            "alternative_names": "Hisham al-Kalbi, Abu al-Nadhr's son",
+            "original_id": 0,
+            "kunya": "Abu Muhammad",
+            "nisba": "al-Kalbi",
+            "nisba_ar": "الكلبي",
+            "death_year": "204",
+            "birth_year": "140",
+            "reliability_grade": "Layyin al-Hadith",
+            "tabaqat": "Eighth Generation",
+            "location": "Kufa",
+            "transmissionTermMeaning": "From (indirect transmission)"
+          },
+          {
+            "name": "Muhammad ibn al-Sa'ib al-Kalbi",
+            "full_name": "Muhammad ibn al-Sa'ib al-Kalbi ibn Bishr ibn Amr",
+            "grade": "Da'if Jiddan",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "",
+            "reliabilityIssues": ["Scholars explicitly state he is not reliable", "Very weak in hadith transmission (ضعيف جدا)", "Known for errors in genealogies and traditions"],
+            "narrator_id": 0,
+            "alternative_names": "Abu al-Nadhr al-Kalbi, Muhammad ibn al-Sa'ib",
+            "original_id": 0,
+            "kunya": "Abu al-Nadhr",
+            "nisba": "al-Kalbi",
+            "nisba_ar": "الكلبي",
+            "death_year": "146",
+            "birth_year": "61",
+            "reliability_grade": "Da'if Jiddan",
+            "tabaqat": "Fifth Generation",
+            "location": "Kufa",
+            "transmissionTermMeaning": "Subject of biographical entry"
+          }
+        ],
+        "chainIssues": ["The chain contains Hisham using عَنْ (an) when transmitting from his father al-Kalbi", "Both Hisham and his father al-Kalbi are weak in hadith", "The report terminating at al-Kalbi who is very weak (Da'if Jiddan)", "Scholars explicitly rejected al-Kalbi's reliability with statement: 'وليس بذاك، في روايته ضعيف جدا' (He is not reliable; his narration is very weak)"]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Subject al-Kalbi is very weak narrator (Da'if Jiddan)",
+        "impact": "The entire chain depends on Muhammad ibn al-Sa'ib al-Kalbi, who is explicitly assessed as very weak (Da'if Jiddan) in hadith by classical scholars"
+      },
+      {
+        "issue": "Hisham ibn al-Kalbi also weak in hadith (Layyin al-Hadith)",
+        "impact": "The intermediate narrator Hisham is also known to be weak in hadith, further compromising the chain's reliability"
+      },
+      {
+        "issue": "Indirect transmission term (عَنْ) used by weak narrator",
+        "impact": "Hisham's use of 'an (from) when transmitting from his father, combined with his weakness, raises concerns about the authenticity of the transmission"
+      },
+      {
+        "issue": "Classical scholarly rejection explicitly stated",
+        "impact": "The source directly quotes scholars saying al-Kalbi is 'not reliable' (وليس بذاك) with very weak narration, making this biographical information itself questionable"
+      },
+      {
+        "issue": "Biographical entry with literary/historical content",
+        "impact": "This entry is primarily historical and genealogical rather than religious hadith content"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Problematic",
+    "Topics": ["Biographical Entry of al-Kalbi", "Battle of the Camel Participants", "Battle of the Skulls", "Genealogy of Kalb Tribe", "Arabic Poetry and History"]
+  },
+  {
+    "hadith_id": 92258,
+    "book_id": 82,
+    "book_name_ar": "كتاب رقم 82",
+    "book_name_en": "Unknown Book 82",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "10864",
+    "english_translation": "Al-Hajjaj ibn Artah ibn Thur ibn Hubayr ibn Sharahil ibn Ka'b ibn Salaman ibn Amir ibn Harithah ibn Sa'd ibn Malik ibn al-Nakh'",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "Al-Hajjaj ibn Artah",
+            "full_name": "Al-Hajjaj ibn Artah ibn Thur ibn Hubayr ibn Sharahil ibn Ka'b ibn Salaman ibn Amir ibn Harithah ibn Sa'd ibn Malik ibn al-Nakh'",
+            "grade": "Da'if",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "",
+            "reliabilityIssues": ["Known for weakness in hadith transmission", "Famous for contradictions in his reports"],
+            "narrator_id": 0,
+            "alternative_names": "Abu Artah al-Nahdi, al-Hajjaj ibn Artah",
+            "original_id": 0,
+            "kunya": "Abu Artah",
+            "nisba": "al-Nahdi",
+            "nisba_ar": "النهدي",
+            "death_year": "145",
+            "birth_year": "80",
+            "reliability_grade": "Da'if",
+            "tabaqat": "Fifth Generation",
+            "location": "Kufa",
+            "transmissionTermMeaning": "Subject of biographical genealogy"
+          }
+        ],
+        "chainIssues": ["This is a genealogical entry only, not a hadith transmission", "No transmission chain or hadith content present"]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Subject is a weak narrator",
+        "impact": "Al-Hajjaj ibn Artah is known to be weak in hadith transmission (Da'if)"
+      },
+      {
+        "issue": "Genealogical entry only",
+        "impact": "This entry contains only genealogical identification with no hadith content to analyze"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Disconnections But All Narrators Are Ok",
+    "Topics": ["Genealogy of al-Hajjaj ibn Artah", "Biographical Entry", "Tribal Genealogies"]
+  },
+  {
+    "hadith_id": 92259,
+    "book_id": 82,
+    "book_name_ar": "كتاب رقم 82",
+    "book_name_en": "Unknown Book 82",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "10865",
+    "english_translation": "From Mudhaj, al-Hajjaj is called Abu Artah. He was noble and generous. He was in the company of Abu Ja'far (the Caliph), and he (al-Mahdi) included him (with him), so he remained with him until he died in Rayy (Ray), and al-Mahdi was there at that time during the caliphate of Abu Ja'far. He was weak in hadith.",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "Al-Hajjaj ibn Artah",
+            "full_name": "Al-Hajjaj ibn Artah ibn Thur ibn Hubayr al-Nakhci",
+            "grade": "Da'if",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "",
+            "reliabilityIssues": ["Explicitly stated to be weak in hadith (ضعيفا في الحديث)"],
+            "narrator_id": 0,
+            "alternative_names": "Abu Artah al-Nakhci, al-Hajjaj",
+            "original_id": 0,
+            "kunya": "Abu Artah",
+            "nisba": "al-Nakhci",
+            "nisba_ar": "النخعي",
+            "death_year": "145",
+            "birth_year": "80",
+            "reliability_grade": "Da'if",
+            "tabaqat": "Fifth Generation",
+            "location": "Ray/Kufa",
+            "transmissionTermMeaning": "Subject of biographical notice"
+          }
+        ],
+        "chainIssues": ["Biographical entry only, not a hadith transmission", "No transmission chain provided"]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Explicitly graded as weak in hadith",
+        "impact": "The source explicitly states al-Hajjaj was 'weak in hadith' (كان ضعيفا في الحديث), indicating unreliability in transmission"
+      },
+      {
+        "issue": "Biographical/historical content",
+        "impact": "This entry focuses on historical and political information (court service, death location) rather than religious hadith content"
+      },
+      {
+        "issue": "No transmission chain",
+        "impact": "This is purely biographical information with no hadith chain to evaluate"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Problematic",
+    "Topics": ["Biographical Entry of al-Hajjaj ibn Artah", "Court Service in Early Abbasid Period", "Death in Ray/Rayy"]
+  },
+  {
+    "hadith_id": 92260,
+    "book_id": 82,
+    "book_name_ar": "كتاب رقم 82",
+    "book_name_en": "Unknown Book 82",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "10866",
+    "english_translation": "His name is Yahya ibn Abi Hiyyah. He was weak in hadith and died in the year 147 AH in Kufa during the caliphate of Abu Ja'far.",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "Yahya ibn Abi Hiyyah",
+            "full_name": "Yahya ibn Abi Hiyyah (name not fully preserved)",
+            "grade": "Da'if",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "",
+            "reliabilityIssues": ["Explicitly stated as weak in hadith"],
+            "narrator_id": 0,
+            "alternative_names": "Yahya al-Kufi",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "al-Kufi",
+            "nisba_ar": "الكوفي",
+            "death_year": "147",
+            "birth_year": "unknown",
+            "reliability_grade": "Da'if",
+            "tabaqat": "Fourth Generation",
+            "location": "Kufa",
+            "transmissionTermMeaning": "Subject of biographical entry"
+          }
+        ],
+        "chainIssues": ["Biographical entry only, no transmission chain", "Name is incomplete - only 'Yahya ibn Abi Hiyyah' (father's name incomplete)"]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Explicitly graded as weak in hadith",
+        "impact": "The narrator is explicitly stated to be weak in hadith transmission (ضعيفا في الحديث)"
+      },
+      {
+        "issue": "Incomplete biographical information",
+        "impact": "The entry provides minimal information - only a name variant and death date with explicit weakness assessment"
+      },
+      {
+        "issue": "No transmission chain or hadith content",
+        "impact": "This is purely biographical with no hadith transmission to analyze"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Problematic",
+    "Topics": ["Biographical Entry of Weak Narrator", "Fourth Generation Transmitter"]
+  },
+  {
+    "hadith_id": 92261,
+    "book_id": 82,
+    "book_name_ar": "كتاب رقم 82",
+    "book_name_en": "Unknown Book 82",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "10867",
+    "english_translation": "He died in Kufa during the caliphate of Abu Ja'far when Isa ibn Musa was the governor of Kufa. He was trustworthy, and Shu'bah narrated from him.",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "Unknown narrator (subject of entry)",
+            "full_name": "Unknown narrator (graded as trustworthy)",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Unknown",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "During caliphate of Abu Ja'far (~132-158 AH)",
+            "birth_year": "unknown",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "Fourth Generation",
+            "location": "Kufa",
+            "transmissionTermMeaning": "Subject of biographical entry"
+          },
+          {
+            "name": "Shu'bah",
+            "full_name": "Shu'bah ibn al-Hajjaj ibn al-Ward al-Ataki",
+            "grade": "Thiqah Thabt",
+            "generation": "Seventh Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Abu Bistam al-Ataki",
+            "original_id": 0,
+            "kunya": "Abu Bistam",
+            "nisba": "al-Ataki",
+            "nisba_ar": "العتكي",
+            "death_year": "160",
+            "birth_year": "83",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "Seventh Generation",
+            "location": "Basra",
+            "transmissionTermMeaning": "From (indicating he narrated from the subject)"
+          }
+        ],
+        "chainIssues": ["Unknown narrator - identification is unclear from the source", "This appears to be a fragment continuing from a previous entry"]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Unknown narrator identity",
+        "impact": "The narrator is not identified by name in this excerpt, making it impossible to fully verify reliability claims"
+      },
+      {
+        "issue": "Fragment from larger text",
+        "impact": "This entry appears to be a continuation of a previous biographical entry, and the subject is unclear from the isolated text"
+      },
+      {
+        "issue": "No hadith content",
+        "impact": "This is purely biographical information noting that Shu'bah narrated from this person, but no actual hadith transmission is provided"
+      }
+    ],
+    "Classical Grade": ["Hasan"],
+    "IISGrade": "Acceptable",
+    "Topics": ["Biographical Entry", "Narrator Credibility - Trustworthy Grade", "Connection to Shu'bah ibn al-Hajjaj"]
+  },
+  {
+    "hadith_id": 92262,
+    "book_id": 82,
+    "book_name_ar": "كتاب رقم 82",
+    "book_name_en": "Unknown Book 82",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "10868",
+    "english_translation": "Muhammad ibn Salim, Abu Sahl al-Abshi",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "Muhammad ibn Salim",
+            "full_name": "Muhammad ibn Salim Abu Sahl al-Abshi",
+            "grade": "Majhul",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "",
+            "reliabilityIssues": ["Majhul status - unknown reliability"],
+            "narrator_id": 0,
+            "alternative_names": "Abu Sahl al-Abshi",
+            "original_id": 0,
+            "kunya": "Abu Sahl",
+            "nisba": "al-Abshi",
+            "nisba_ar": "الأبشي",
+            "death_year": "unknown",
+            "birth_year": "unknown",
+            "reliability_grade": "Majhul",
+            "tabaqat": "Fifth Generation",
+            "location": "unknown",
+            "transmissionTermMeaning": "Subject of biographical entry"
+          }
+        ],
+        "chainIssues": ["Biographical entry header only - just a name and kunya", "No transmission information or hadith content provided"]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Unknown narrator status (Majhul)",
+        "impact": "Muhammad ibn Salim al-Abshi is not well-known, and his reliability cannot be assessed from available sources"
+      },
+      {
+        "issue": "Minimal biographical information",
+        "impact": "Only a name and kunya are provided with no details about his life, reliability, or hadith transmission"
+      },
+      {
+        "issue": "No transmission chain or hadith content",
+        "impact": "This is merely a biographical name entry with no hadith material to analyze"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Disconnections But All Narrators Are Ok",
+    "Topics": ["Biographical Entry Header", "Unknown Narrator"]
+  }
+]
