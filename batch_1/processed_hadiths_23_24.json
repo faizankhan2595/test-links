@@ -1,0 +1,2907 @@
+{
+  "batch_number": 1,
+  "source_files": [
+    23,
+    24
+  ],
+  "total_hadiths": 30,
+  "hadiths": [
+    {
+      "hadith_id": 331,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "331",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Umar ibn al-Khattab (may Allah be pleased with him): Umar said to his helpers: 'Do not take the finest animals of people, nor the full-uddered ones.' Al-Rabi' said: The finest ones are the best choices, and the full-uddered is one with a large udder. Additionally, Abu Ubaydah said: The Prophet ﷺ forbade a man from deliberately selecting the worst of his wealth to give as Zakat. He said: 'The best of you in the sight of Allah is he who brings forth the best of his wealth.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-'Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5913,
+              "alternative_names": "al-Farooq, Amir al-Mu'minin",
+              "original_id": 5121,
+              "kunya": "Abu Hafs",
+              "nisba": "al-'Adawi al-Qurashi",
+              "nisba_ar": "العدوي القرشي",
+              "death_year": "23 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Ambiguous transmission from Jabir ibn Zayd using 'an; however, Jabir ibn Zayd is a reliable narrator and known to have direct contact with Umar"
+          ]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Marfu' hadith attributed to the Prophet through Abu Ubaydah without intermediate narrators mentioned; Abu Ubaydah is Saduq grade"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First part is mawquf (from Umar), second part is marfu' (from Prophet) - two distinct traditions in one hadith entry",
+          "impact": "Requires separate evaluation of each tradition; the marfu' part lacks complete chain information"
+        },
+        {
+          "issue": "Abu Ubaydah (Saduq grade) is the primary narrator for the marfu' portion with no intermediate narrators clearly specified",
+          "impact": "Reduces reliability of the marfu' hadith; there may be missing narrators in the chain"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Instruction regarding Zakat collection and animal selection",
+        "Prohibition of selecting worst wealth for Zakat",
+        "Explanation of animals exempted from Zakat",
+        "The merit of giving the best wealth in charity"
+      ]
+    },
+    {
+      "hadith_id": 332,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "332",
+      "english_translation": "This is a chapter heading: 'Chapter: What is Excused from Zakat'",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Entry is a chapter heading with no actual hadith text or chain of narration",
+          "impact": "No authentication can be provided as there is no hadith content to authenticate"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Chapter heading on Zakat exemptions"
+      ]
+    },
+    {
+      "hadith_id": 333,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "333",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Ibn Abbas from the Prophet ﷺ: 'There is no Zakat in the grazing animals, nor in the donkeys, nor in the slaves, nor in the horses.' Al-Rabi' said: The grazing animals are those that are led by rope and go back and forth for the livelihood of the household. The donkeys are the beasts. The slaves are the servants. The horses are the cavalry. Al-Rabi' also said: Abu Ubaydah said: 'There is no Zakat in any of these unless they are for trade.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Abdullah ibn Abbas, Hibr al-Ummah, al-Bahr",
+              "original_id": 4062,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "68 AH",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Ta'if",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Both Jabir ibn Zayd and Ibn Abbas transmit using 'an (عَنِ), which could indicate indirect transmission",
+            "Abu Ubaydah (Saduq grade) is at the end of the chain, potentially affecting reliability",
+            "Chain lacks explicit indication of direct hearing (سمعت/حدثنا) after Jabir ibn Zayd"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ubaydah is Saduq grade with ambiguous transmission terms from two reliable companions",
+          "impact": "Reduces hadith reliability to acceptable level but with some reservations"
+        },
+        {
+          "issue": "Multiple use of 'an (عَنْ) and 'ani (عَنِ) without explicit direct transmission terms",
+          "impact": "Creates slight ambiguity regarding direct chain connection, though all narrators except Abu Ubaydah are highly reliable"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Zakat exemptions for animals used for personal transport",
+        "Distinction between animals for trade and personal use",
+        "Classification of types of animals and their Zakat status"
+      ]
+    },
+    {
+      "hadith_id": 334,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "334",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Abu Hurayrah: Abu Hurayrah said: The Messenger of Allah ﷺ said: 'There is no Zakat upon a man in his slave nor in his horse.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Azdi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 4396,
+              "alternative_names": "Abu Hurayrah, Abd al-Rahman al-Azdi",
+              "original_id": 3565,
+              "kunya": "Abu Hurayrah",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "58 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Yemen",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd transmits from Abu Hurayrah using 'an (عَنْ), indicating indirect or mediated transmission",
+            "Abu Ubaydah (Saduq grade) receives from Jabir ibn Zayd",
+            "Transmission lacks explicit direct hearing terminology after Jabir ibn Zayd"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Jabir ibn Zayd narrates from Abu Hurayrah using 'an (عَنْ) rather than explicit direct transmission terms",
+          "impact": "While Jabir ibn Zayd is reliable, the ambiguous transmission term slightly reduces chain certainty; however, documented liqa' (meeting) between them mitigates this"
+        },
+        {
+          "issue": "Abu Ubaydah (Saduq grade, not highest level narrator) is the transmitter to us",
+          "impact": "Adds minor weakness to an otherwise reliable chain"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Zakat exemption for slaves and horses",
+        "Personal property distinctions in Zakat obligations",
+        "Items not subject to Zakat enumeration"
+      ]
+    },
+    {
+      "hadith_id": 335,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "335",
+      "english_translation": "This is a chapter heading: 'Chapter: The Threat Against Those Who Withhold Zakat'",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Entry is a chapter heading with no actual hadith text or chain of narration",
+          "impact": "No authentication can be provided as there is no hadith content to authenticate"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Chapter heading on consequences of withholding Zakat"
+      ]
+    },
+    {
+      "hadith_id": 336,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "336",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Ibn Abbas from the Prophet ﷺ: 'The one who withholds Zakat will be killed.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Abdullah ibn Abbas, Hibr al-Ummah, al-Bahr",
+              "original_id": 4062,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "68 AH",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Ta'if",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Both Jabir ibn Zayd and Ibn Abbas transmit using 'an (عَنْ and عَنِ), which could indicate indirect transmission",
+            "Abu Ubaydah (Saduq grade) is the primary narrator in this generation",
+            "Chain lacks explicit direct hearing terminology"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ubaydah (Saduq grade) narrates with ambiguous transmission from two reliable companions",
+          "impact": "Reduces hadith reliability; the use of 'an from both companions without explicit liqa' documentation adds weakness"
+        },
+        {
+          "issue": "Multiple ambiguous transmission terms ('an and 'ani) without direct transmission indicators",
+          "impact": "Creates moderate ambiguity in chain connection; requires careful evaluation against variant readings"
+        },
+        {
+          "issue": "The severity of the claim ('will be killed') requires higher degree of certainty",
+          "impact": "This particular weak point becomes more significant given the serious nature of the statement"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Punishment for withholding Zakat",
+        "Severe warning against Zakat non-payment",
+        "Consequences of disobeying Zakat obligation"
+      ]
+    },
+    {
+      "hadith_id": 337,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "337",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd: It reached us that Abu Bakr al-Siddiq (may Allah be pleased with him) said: 'By Allah, if they prevent me even from a single rope, I will fight them for it.' Al-Rabi' said: Abu Ubaydah said: That is when they prevent it from an Imam who deserves to take it, as for other than him, one is not to be killed for preventing it from him.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "He said / reported that it reached us"
+            },
+            {
+              "name": "Abu Bakr al-Siddiq",
+              "full_name": "Abdullah ibn Uthman ibn Amir al-'Atiq al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 4945,
+              "alternative_names": "Abu Bakr al-Siddiq, al-'Atiq, al-Awwal",
+              "original_id": 4127,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Qurashi al-'Atiq",
+              "nisba_ar": "القرشي العتيق",
+              "death_year": "13 AH",
+              "birth_year": "51 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Use of 'balaghana' (بَلَغَنَا - it reached us) by Jabir ibn Zayd instead of direct transmission terms; this is a weak transmission method indicating the information reached him through unspecified channels"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Critical weakness: 'Balaghana' (it reached us) transmission by Jabir ibn Zayd indicates indirect and uncertain transmission path",
+          "impact": "Significantly weakens the hadith; 'balaghana' does not constitute a clear chain and may include multiple missing narrators. This is generally considered one of the weakest transmission terminologies."
+        },
+        {
+          "issue": "Abu Ubaydah (Saduq grade, not highest level) receives from Jabir through weak transmission",
+          "impact": "Compounds the weakness of the chain; Saduq narrators with weak transmission terms create additional unreliability"
+        },
+        {
+          "issue": "The statement 'I will fight them' in the context of Zakat is a serious claim requiring strong authentication",
+          "impact": "Weak transmission makes this particular strong statement unreliable"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Statement of Abu Bakr regarding Zakat enforcement",
+        "Conditions for fighting over Zakat obligations",
+        "Zakat as the right of the legitimate authority"
+      ]
+    },
+    {
+      "hadith_id": 338,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "338",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Ibn Abbas from the Prophet ﷺ: There is no prayer for one who withholds Zakat. He repeated this three times. And the one who transgresses in it (Zakat) is like the one who withholds it. Al-Rabi' said: The one who transgresses in it is he who gives it to other than its rightful recipients. And from him (the Prophet ﷺ) it is reported: Whoever has much wealth and does not give Zakat from it, on the Day of Resurrection it will come to him in the form of a bald serpent with two [marks like] dates on each side of its mouth, appointed over his punishment until Allah judges between the creatures.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Abdullah ibn Abbas, Hibr al-Ummah, al-Bahr",
+              "original_id": 4062,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "68 AH",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Ta'if",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Multiple ambiguous transmission terms: Both Jabir ibn Zayd and Ibn Abbas use 'an (عَنْ and عَنِ) without explicit direct hearing indicators",
+            "Abu Ubaydah (Saduq grade) is the primary narrator with these ambiguous connections",
+            "The hadith contains multiple connected traditions which may indicate conflation of reports"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ubaydah (Saduq grade) narrates through ambiguous 'an transmissions from two companions",
+          "impact": "Moderate weakening of chain; while companions are reliable, the transmission terminology is not explicit"
+        },
+        {
+          "issue": "The hadith appears to contain multiple conjoined traditions (about not accepting prayer, transgression in Zakat, and the serpent punishment)",
+          "impact": "May represent editorial combination of separate reports; reliability of individual parts requires separate verification"
+        },
+        {
+          "issue": "The vivid description of the serpent punishment (بَلْ يَجِيء يَوْمَ الْقِيَامَةِ فِي صُورَةِ شُجَاعٍ) requires higher chain reliability for acceptance",
+          "impact": "Such specific eschatological details require the most reliable transmission; this chain falls short of that standard"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Refusal of prayer acceptance from those who withhold Zakat",
+        "Difference between withholding and misallocating Zakat",
+        "Punishment in the afterlife for those who do not give Zakat",
+        "Depiction of the Day of Resurrection accountability for wealth"
+      ]
+    },
+    {
+      "hadith_id": 339,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "339",
+      "english_translation": "This is a chapter heading: 'Chapter: On Charity'",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Entry is a chapter heading with no actual hadith text or chain of narration",
+          "impact": "No authentication can be provided as there is no hadith content to authenticate"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Chapter heading on charity"
+      ]
+    },
+    {
+      "hadith_id": 340,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "340",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Ibn Abbas from the Prophet ﷺ: 'Guard yourselves from the Fire even with half of a date, for indeed Zakat extinguishes the Fire.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Abdullah ibn Abbas, Hibr al-Ummah, al-Bahr",
+              "original_id": 4062,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "68 AH",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Ta'if",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Both Jabir ibn Zayd and Ibn Abbas transmit using 'an (عَنْ and عَنِ) without explicit direct hearing terminology",
+            "Abu Ubaydah (Saduq grade) is the sole narrator in the first generation of transmission",
+            "Ambiguous transmission in multiple points of the chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ubaydah (Saduq grade) with ambiguous 'an transmissions from two companions",
+          "impact": "Moderately weakens the hadith; standard 'an connections without documented liqa' create slight ambiguity"
+        },
+        {
+          "issue": "Multiple 'an connections in a marfu' hadith without explicit direct transmission indicators",
+          "impact": "Reduces certainty of chain connection but does not disqualify it given reliability of narrators involved"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Encouragement to give charity even if small",
+        "The protective power of Zakat against Hell-fire",
+        "Concept of charity extinguishing divine punishment"
+      ]
+    },
+    {
+      "hadith_id": 341,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "341",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd: It reached me from the Prophet ﷺ that he said: 'The upper hand is better than the lower hand. The upper hand is the one that gives, and the lower hand is the one that asks.' [Additional reports]: From the path of Ibn Abbas from him (the Prophet ﷺ) it is reported: 'Give Zakat, for indeed Zakat protects against evil deaths and prevents an evil end.' Al-Rabi' said: It reached me from Abu Mas'ud al-Ansari who said: The Messenger of Allah ﷺ said: 'A man's spending on his family is charity.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Critical weakness: Jabir ibn Zayd uses 'balaghani' (بَلَغَنِي - it reached me) indicating indirect transmission without a clear documented chain",
+            "The chain is mursal - no intermediate narrators are explicitly mentioned between Jabir ibn Zayd and the Prophet ﷺ",
+            "This is one of the weakest forms of hadith transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Hadith is mursal (suspended chain): Jabir ibn Zayd reports directly to the Prophet ﷺ using 'balaghani' (reached me) without specifying the intermediate narrator(s)",
+          "impact": "Severely weakens the hadith; mursal hadiths are considered daif (weak) in classical hadith sciences unless supported by other corroborating chains"
+        },
+        {
+          "issue": "The transmission through 'balaghani' is ambiguous and does not establish a clear documented transmission path",
+          "impact": "Makes the hadith unreliable for establishing Islamic principles without additional supporting evidence"
+        },
+        {
+          "issue": "Abu Ubaydah (Saduq grade) is receiving through this mursal chain",
+          "impact": "Further reduces reliability"
+        },
+        {
+          "issue": "The hadith appears to contain multiple separate traditions conjoined together (main hadith, Ibn Abbas report, Abu Mas'ud report)",
+          "impact": "Suggests editorial compilation of multiple sources; reliability of each part must be assessed separately"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Virtue of the giver over the asker",
+        "Dignity and reward of charitable giving",
+        "Charity as protection against misfortune",
+        "Family maintenance as a form of charity",
+        "The merit of generosity in Islamic ethics"
+      ]
+    },
+    {
+      "hadith_id": 342,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "342",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Anas ibn Malik: The Messenger of Allah ﷺ said: 'Fulfill the request of the beggar even with a burnt hoof.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Khazraji",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 720,
+              "alternative_names": "Anas ibn Malik, Abu Hamzah al-Ansari",
+              "original_id": 856,
+              "kunya": "Abu Hamzah",
+              "nisba": "al-Ansari al-Khazraji",
+              "nisba_ar": "الأنصاري الخزرجي",
+              "death_year": "93 AH",
+              "birth_year": "10 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Basra",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd narrates from Anas ibn Malik using 'an (عَنْ) without explicit direct transmission terms",
+            "Abu Ubaydah (Saduq grade) receives from Jabir ibn Zayd",
+            "The chain lacks direct hearing indicators after Jabir ibn Zayd"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Jabir ibn Zayd transmits from Anas ibn Malik using 'an (عَنْ) rather than explicit direct transmission terms",
+          "impact": "Introduces slight ambiguity in chain connection; however, Jabir ibn Zayd is reliable and documented to have met Anas ibn Malik"
+        },
+        {
+          "issue": "Abu Ubaydah (Saduq grade) is the sole narrator in the final generation before us",
+          "impact": "Moderately reduces reliability; Saduq narrators with ambiguous transmission create acceptable but not strong chains"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Obligation to fulfill the beggar's request",
+        "Principle of giving even if the gift is minimal",
+        "Charity to the poor with an encouraging tone",
+        "Concept of not refusing those in need"
+      ]
+    },
+    {
+      "hadith_id": 343,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "343",
+      "english_translation": "Narrated by Abu Ubaydah: It reached me from the Prophet ﷺ that he said: 'Whoever feeds a Muslim a date, Allah will feed him from the fruits of Paradise, and whoever gives him a drink (of water), Allah will give him a drink from the sealed nectar.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": [
+                "mursal",
+                "balaghani_transmission"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "It reached me (ambiguous transmission without specified chain)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Hadith is mursal: Abu Ubaydah (Saduq grade) reports directly to the Prophet ﷺ without intermediate narrators",
+            "Uses 'balaghani' (بَلَغَنِي - it reached me) which is the weakest transmission terminology, indicating ambiguous and unspecified transmission path",
+            "No documented intermediate transmitters between Abu Ubaydah and the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Critical weakness: Mursal hadith with 'balaghani' transmission from Saduq narrator",
+          "impact": "Severely weakens the hadith; mursal reports with uncertain transmission paths are considered weak (daif) in classical hadith methodology"
+        },
+        {
+          "issue": "Abu Ubaydah (Saduq grade, not highest reliability) is the sole transmitter to us",
+          "impact": "Further reduces reliability; no corroborating chain to support this transmission"
+        },
+        {
+          "issue": "The promise of Paradise fruit for a single date requires stronger chain authentication",
+          "impact": "Such significant eschatological claims require the most reliable transmission; this mursal chain does not meet that standard"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Reward of feeding Muslims",
+        "Promise of Paradise for charitable acts",
+        "Merit of feeding with sustenance items",
+        "Concept of heavenly reward for earthly charity"
+      ]
+    },
+    {
+      "hadith_id": 344,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "344",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Abu Hurayrah from the Prophet ﷺ: The poor one is not the one who goes around begging to people, whom they repel with a morsel or two of bread or a date or two dates. They asked: Who then is the poor one, O Messenger of Allah? He said: The one who does not find sufficient means to sustain himself, and people do not notice him to give him charity, and he does not stand up to ask people.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Azdi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4396,
+              "alternative_names": "Abu Hurayrah, Abd al-Rahman al-Azdi",
+              "original_id": 3565,
+              "kunya": "Abu Hurayrah",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "58 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Yemen",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Both Jabir ibn Zayd and Abu Hurayrah transmit using 'an (عَنْ) without explicit direct hearing terminology",
+            "Abu Ubaydah (Saduq grade) is the final transmitter to us",
+            "Ambiguous transmission in two points of the chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ubaydah (Saduq grade) with ambiguous 'an transmissions from Jabir ibn Zayd and Abu Hurayrah",
+          "impact": "Moderately weakens the hadith; while the companions are reliable, the transmission terms are not explicit"
+        },
+        {
+          "issue": "Multiple ambiguous transmission points (عَنْ) in the chain without direct hearing indicators",
+          "impact": "Reduces chain certainty but does not disqualify it; however, multiple weak points compound the issue"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Definition of the poor and needy",
+        "Characteristics of true poverty",
+        "Distinction between visible and hidden poverty",
+        "The self-respecting poor who do not beg"
+      ]
+    },
+    {
+      "hadith_id": 345,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "345",
+      "english_translation": "Narrated by Abu Ubaydah: It reached me from Abu Hurayrah who said that the Messenger of Allah ﷺ said: 'Whoever spends two pairs of something will be called out in Paradise, saying: O slave of Allah, this is good. Whoever is from the people of prayer will be called from the gate of prayer, whoever is from the people of charity will be called from the gate of charity, and whoever is from the people of fasting will be called from the gate of al-Rayyan.' Abu Bakr said: There is no hardship for the one who is called from all these gates. So will someone be called from all these gates, O Messenger of Allah? He said: Yes, and I hope you will be among them. Al-Rabi' said: The meaning of 'pairs' here refers to things like two sandals or two shoes, and whatever comes in the form of pairs like them.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "mursal_via_balaghani"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Azdi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": [
+                "balaghani_transmission"
+              ],
+              "narrator_id": 4396,
+              "alternative_names": "Abu Hurayrah, Abd al-Rahman al-Azdi",
+              "original_id": 3565,
+              "kunya": "Abu Hurayrah",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "58 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Yemen",
+              "transmissionTermMeaning": "It reached me (ambiguous transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Critical weakness: Abu Ubaydah reports from Abu Hurayrah using 'balaghani' (it reached me), which indicates mursal-like weakness",
+            "Even though Abu Hurayrah is a companion, the 'balaghani' terminology creates a transmission gap",
+            "Abu Ubaydah (Saduq grade) is the sole narrator in our generation"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Hadith is mursal-style through 'balaghani' from Abu Ubaydah to Abu Hurayrah",
+          "impact": "Weakens the hadith significantly; 'balaghani' transmission from a companion is still problematic and creates ambiguity"
+        },
+        {
+          "issue": "Abu Ubaydah (Saduq grade) is the only narrator in the generation immediately receiving from the companion",
+          "impact": "Moderately weakens the chain; Saduq narrators need direct transmission to be reliable"
+        },
+        {
+          "issue": "The hadith contains a secondary report with Abu Bakr's question and the Prophet's response, which may be from a different transmission",
+          "impact": "Suggests editorial compilation of multiple traditions; the reliability of each part must be assessed separately"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Reward of those who give pairs of things",
+        "Announcement in Paradise for the righteous",
+        "Different gates of Paradise for different deeds",
+        "The gate of al-Rayyan for those who fast",
+        "Conversation between Abu Bakr and the Prophet ﷺ about Paradise"
+      ]
+    },
+    {
+      "hadith_id": 346,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "346",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Anas ibn Malik: The Messenger of Allah ﷺ said: 'Seven will be shaded by Allah in His shade on a day when there is no shade except His shade' - and the hadith continues until it mentions: 'And a man who gave charity in secret such that his left hand does not know what his right hand is spending.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Khazraji",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 720,
+              "alternative_names": "Anas ibn Malik, Abu Hamzah al-Ansari",
+              "original_id": 856,
+              "kunya": "Abu Hamzah",
+              "nisba": "al-Ansari al-Khazraji",
+              "nisba_ar": "الأنصاري الخزرجي",
+              "death_year": "93 AH",
+              "birth_year": "10 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Basra",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd transmits from Anas ibn Malik using 'an (عَنْ) without explicit direct hearing terminology",
+            "Abu Ubaydah (Saduq grade) receives from Jabir ibn Zayd",
+            "Ambiguous transmission in the middle of the chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ubaydah (Saduq grade) with ambiguous 'an transmission from Jabir ibn Zayd",
+          "impact": "Moderately weakens the hadith; Saduq narrators with ambiguous transmission from reliable companions create acceptable but not strong chains"
+        },
+        {
+          "issue": "The hadith appears incomplete: 'and the hadith continues until' suggests the full text is not presented",
+          "impact": "Makes it difficult to assess the complete reliability of the hadith; we are only seeing a partial version"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "The seven categories protected by Allah's shade on the Day of Judgment",
+        "Reward for secret charity",
+        "Hidden acts of righteousness rewarded by Allah",
+        "The virtue of secret giving",
+        "Promise of divine protection for the righteous"
+      ]
+    },
+    {
+      "hadith_id": 347,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "347",
+      "english_translation": "From this path from him (the Prophet ﷺ) it is reported: 'Lawful wealth brings its owner to Paradise.' Al-Rabi' said: Its meaning is that it goes with its owner. And likewise is its meaning in the hadith of Abu Talha which we have previously mentioned.",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Entry has no clear chain of transmission (isnad). It appears to be commentary or explanation rather than a narrated hadith",
+          "impact": "Cannot be authenticated or graded as a hadith since there is no complete transmission path provided"
+        },
+        {
+          "issue": "References 'this path' without explicit context of which prior chain is being referenced",
+          "impact": "Creates ambiguity about the actual transmission of this report"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Commentary on the benefits of lawful wealth",
+        "Reward for earning and using halal sustenance"
+      ]
+    },
+    {
+      "hadith_id": 348,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "348",
+      "english_translation": "This is a chapter heading: 'Chapter: On the Best Forms of Charity and the Blessing in Food'",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Entry is a chapter heading with no actual hadith text or chain of narration",
+          "impact": "No authentication can be provided as there is no hadith content to authenticate"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Chapter heading on forms of charity and food blessings"
+      ]
+    },
+    {
+      "hadith_id": 349,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "349",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Anas ibn Malik: Abu Talha was the wealthiest of the Ansar in Madinah in terms of palm groves. The one dearest to him among his properties was Biraah, which faced the mosque. The Messenger of Allah ﷺ used to enter it and drink from its water, which was pleasant. Anas said: When this verse was revealed 'You will never attain piety until you spend from what you love' (Surah Al-Imran 3:92), Abu Talha said: Indeed, the dearest of my properties to me is Biraah, and it is charity for Allah. I hope for its reward and its treasure with Allah. So place it, O Messenger of Allah ﷺ, wherever you wish. The Messenger of Allah ﷺ said to him: 'Well done, well done! That is wealth that brings its owner to Paradise. I have heard what you said, and I think you should give it to your relatives.' Abu Talha said: I will do so, O Messenger of Allah. So Abu Talha distributed it among his relatives and cousins.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Khazraji",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 720,
+              "alternative_names": "Anas ibn Malik, Abu Hamzah al-Ansari",
+              "original_id": 856,
+              "kunya": "Abu Hamzah",
+              "nisba": "al-Ansari al-Khazraji",
+              "nisba_ar": "الأنصاري الخزرجي",
+              "death_year": "93 AH",
+              "birth_year": "10 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Basra",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd transmits from Anas ibn Malik using 'an (عَنْ) without explicit direct hearing terminology",
+            "Abu Ubaydah (Saduq grade) is the sole narrator in the final generation",
+            "The hadith is long and detailed, incorporating Quranic exegesis and multiple narrative elements"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ubaydah (Saduq grade) with ambiguous 'an transmission from Jabir ibn Zayd regarding a companion's action",
+          "impact": "Moderately weakens the hadith; while the companions are reliable, the transmission term is ambiguous"
+        },
+        {
+          "issue": "The hadith is a famous historical narrative involving a Quranic revelation and its context (asbab al-nuzul)",
+          "impact": "Such detailed historical narratives benefit from cross-verification with other transmissions; this chain alone provides moderate but not definitive authentication"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Abu Talha's charitable donation of Biraah",
+        "Response to the Quranic verse 'You will never attain piety until you spend from what you love'",
+        "The Prophet ﷺ advising on distribution of charity to relatives",
+        "Circumstance and context of Quranic revelation (Asbab al-Nuzul)",
+        "Model of sacrifice and generosity from a companion"
+      ]
+    },
+    {
+      "hadith_id": 350,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "350",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Abu Hurayrah from the Prophet ﷺ: 'The best charity is the maniha that is productive, it comes back in one vessel and leaves in another.' Al-Rabi' said: The maniha is a she-goat, and the productive one is one with much milk. [Additionally, narrated by Abu Ubaydah from Jabir ibn Zayd from Anas ibn Malik]: Abu Talha said to Um Sulaim: I have heard the voice of the Messenger of Allah ﷺ weak, recognizing hunger in it. Do you have anything? She said: Yes. She brought out barley loaves, then took her veil and wrapped the bread partially in it, hid it under my arms, and covered me partially with it, then sent me to the Messenger of Allah ﷺ. Anas said: So I went and found the Messenger of Allah ﷺ sitting in the mosque with people. I stood, and he said: Did Abu Talha send you? I said: Yes. He said: With food? I said: Yes. The Messenger of Allah ﷺ said to those with him: Get up. Anas said: So we set out until we came to Abu Talha and I informed him. Abu Talha said: O Um Sulaim, the Messenger of Allah ﷺ has come with the people, and we do not have food to feed them. Anas said: So the Messenger of Allah ﷺ entered and said: O Um Sulaim, what do you have? So I brought that bread. The Messenger of Allah ﷺ ordered it to be broken up, and Um Sulaim poured her ghee over it, which made a sauce for it. Then the Messenger of Allah ﷺ said something over the food, then said: Let in ten. They entered, ate until they were full, then left. Then he said: Let in ten. They entered, ate until they were full, likewise, until all the people ate, and they were seventy men.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Azdi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 4396,
+              "alternative_names": "Abu Hurayrah, Abd al-Rahman al-Azdi",
+              "original_id": 3565,
+              "kunya": "Abu Hurayrah",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "58 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Yemen",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd transmits from Abu Hurayrah using 'an (عَنْ) without explicit direct hearing terminology",
+            "Abu Ubaydah (Saduq grade) is the sole narrator in the final generation",
+            "Contains both a short hadith about maniha and a lengthy narrative about Um Sulaim"
+          ]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Khazraji",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 720,
+              "alternative_names": "Anas ibn Malik, Abu Hamzah al-Ansari",
+              "original_id": 856,
+              "kunya": "Abu Hamzah",
+              "nisba": "al-Ansari al-Khazraji",
+              "nisba_ar": "الأنصاري الخزرجي",
+              "death_year": "93 AH",
+              "birth_year": "10 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Basra",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd transmits from Anas ibn Malik using 'an (عَنْ) without explicit direct hearing terminology",
+            "Abu Ubaydah (Saduq grade) is the sole narrator in the final generation",
+            "The Um Sulaim narrative appears to describe a miraculous feeding of seventy men from minimal food"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Entry contains two separate traditions conjoined together: one about maniha charity and one detailed narrative about Um Sulaim feeding seventy men",
+          "impact": "Requires separate assessment; the conjoined transmission suggests editorial compilation of two different reports"
+        },
+        {
+          "issue": "The second chain (Um Sulaim narrative) describes a miraculous feeding which requires careful verification",
+          "impact": "Miraculous elements in hadiths require particularly strong chains; this chain with Saduq narrator and ambiguous transmission is moderate strength"
+        },
+        {
+          "issue": "Abu Ubaydah (Saduq grade) with ambiguous transmissions from reliable companions in both chains",
+          "impact": "Moderately reduces reliability of both traditions within this hadith entry"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "The virtue of the maniha charity (loaning productive animal)",
+        "Description of excellent charity with productive livestock",
+        "Incident of Um Sulaim providing food to the Prophet ﷺ",
+        "Miracle of the multiplication of food through the Prophet's ﷺ blessing",
+        "Hospitality and generosity of the Ansar women",
+        "Compassion of Abu Talha for the Prophet's ﷺ hunger"
+      ]
+    },
+    {
+      "hadith_id": 351,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "351",
+      "english_translation": "This is a chapter heading: 'Chapter: Those for Whom Charity and Asking Are Forbidden'",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Entry is a chapter heading with no actual hadith text or chain of narration",
+          "impact": "No authentication can be provided as there is no hadith content to authenticate"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Chapter heading on eligibility for charity"
+      ]
+    },
+    {
+      "hadith_id": 352,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "352",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Aisha (may Allah be pleased with her): The Messenger of Allah ﷺ said: Charity is not lawful for the wealthy, nor for the strong capable one, nor for one who accumulates wealth. Al-Rabi' said: The strong capable one is he who is able-bodied and has a craft. And the wealth accumulator is one who gathers wealth.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abu Bakr al-Siddiq",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4049,
+              "alternative_names": "Aisha, Umm al-Mu'minin",
+              "original_id": 3209,
+              "kunya": "Umm al-Mu'minin",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشية",
+              "death_year": "58 AH",
+              "birth_year": "9 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Both Jabir ibn Zayd and Aisha transmit using 'an (عَنْ) without explicit direct hearing terminology",
+            "Abu Ubaydah (Saduq grade) is the sole narrator in the final generation",
+            "Multiple ambiguous transmission points in the chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ubaydah (Saduq grade) with ambiguous 'an transmissions from Jabir ibn Zayd and Aisha (both reliable)",
+          "impact": "Moderately weakens the hadith; while both companions are highly reliable, the transmission terms are ambiguous"
+        },
+        {
+          "issue": "Two ambiguous transmission points (عَنْ) in succession without explicit direct hearing indicators",
+          "impact": "Reduces chain certainty; however, reliability of companions mitigates this to some degree"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Categories of people ineligible for Zakat",
+        "The wealthy exempted from receiving charity",
+        "The able-bodied worker ineligible for charity",
+        "Those accumulating wealth ineligible for charitable support"
+      ]
+    },
+    {
+      "hadith_id": 353,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "353",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Abu Sa'id al-Khudri: Some people from the Ansar asked the Messenger of Allah ﷺ, so he gave them. Then they asked him again, and he gave them three times until what he had was exhausted. Then he said: Whatever good comes with me, I will not withhold it from you. Whoever refrains from asking, Allah will grant him independence. Whoever seeks self-sufficiency, Allah will enrich him. Whoever is patient, Allah will grant him patience. And no one has been given a gift better and more comprehensive than patience.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Abu Sa'id al-Khudri",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khudri",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 3260,
+              "alternative_names": "Abu Sa'id al-Khudri, Sa'd ibn Malik",
+              "original_id": 2398,
+              "kunya": "Abu Sa'id",
+              "nisba": "al-Khudri",
+              "nisba_ar": "الخدري",
+              "death_year": "74 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd transmits from Abu Sa'id al-Khudri using 'an (عَنْ) without explicit direct hearing terminology",
+            "Abu Ubaydah (Saduq grade) is the sole narrator in the final generation",
+            "Ambiguous transmission at the critical juncture between Jabir ibn Zayd and Abu Sa'id"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ubaydah (Saduq grade) with ambiguous 'an transmission from Jabir ibn Zayd regarding companion's report",
+          "impact": "Moderately weakens the hadith; while both the companion and Jabir ibn Zayd are reliable, the transmission term is ambiguous"
+        },
+        {
+          "issue": "The hadith contains important ethical teachings about patience and asking, yet relies on a Saduq narrator for its transmission",
+          "impact": "Such significant moral teachings benefit from stronger chains; this is acceptable but not optimal strength"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "The generosity of the Prophet ﷺ in giving",
+        "Dialogue between companions and the Prophet about asking",
+        "The virtue of refraining from asking",
+        "Promise of Allah's independence for those who refrain",
+        "Promise of enrichment for those who seek self-sufficiency",
+        "The supreme virtue and value of patience"
+      ]
+    },
+    {
+      "hadith_id": 354,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "354",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Abu Hurayrah from the Prophet ﷺ: By the One in Whose hand is my soul, it is better for one of you to take a rope, gather wood on his back, than to come to a man whom Allah has given from His bounty and ask him, whether he gives or refuses.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Azdi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 4396,
+              "alternative_names": "Abu Hurayrah, Abd al-Rahman al-Azdi",
+              "original_id": 3565,
+              "kunya": "Abu Hurayrah",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "58 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Yemen",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd transmits from Abu Hurayrah using 'an (عَنْ) without explicit direct hearing terminology",
+            "Abu Ubaydah (Saduq grade) is the sole narrator in the final generation",
+            "Contains an oath formula 'by the One in Whose hand is my soul' emphasizing the Prophet's statement"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ubaydah (Saduq grade) with ambiguous 'an transmission from Jabir ibn Zayd regarding Abu Hurayrah",
+          "impact": "Moderately weakens the hadith; the transmission is reliable but ambiguous"
+        },
+        {
+          "issue": "The hadith contains a strong ethical statement comparing manual labor to begging, with an oath formula emphasizing importance",
+          "impact": "While the statement is important, the chain with Saduq narrator and ambiguous transmission provides acceptable but not the strongest authentication"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Virtue of self-sufficiency through labor",
+        "Comparison between gathering wood and asking others",
+        "Dignity and honor of manual work",
+        "Discouragement of asking from others",
+        "The Prophet's emphasis on independence"
+      ]
+    },
+    {
+      "hadith_id": 355,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "355",
+      "english_translation": "This is a chapter heading: 'Chapter: Comprehensive (Book) on Charity and Food'",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Entry is a chapter heading with no actual hadith text or chain of narration",
+          "impact": "No authentication can be provided as there is no hadith content to authenticate"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Chapter heading on charity and sustenance"
+      ]
+    },
+    {
+      "hadith_id": 356,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "356",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd: It reached me from the Prophet ﷺ that he said: O believing women, let none of you disdain giving to her neighbor, even if it is a burnt sheep's hoof.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "mursal",
+                "balaghani_transmission"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": [
+                "balaghani_transmission"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "It reached me (ambiguous transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Hadith is mursal: Jabir ibn Zayd uses 'balaghani' (بَلَغَنِي - it reached me) indicating indirect transmission without specifying the intermediate narrator(s)",
+            "Abu Ubaydah (Saduq grade) receives through this ambiguous transmission",
+            "No clear documented chain of transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Critical weakness: Mursal hadith with 'balaghani' transmission by Jabir ibn Zayd",
+          "impact": "Severely weakens the hadith; mursal reports with ambiguous 'balaghani' transmission are considered weak (daif) in classical hadith methodology"
+        },
+        {
+          "issue": "Abu Ubaydah (Saduq grade) is the sole narrator in the final generation",
+          "impact": "Further reduces reliability; Saduq narrators with mursal transmissions create weak chains"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Exhortation to women regarding neighborly giving",
+        "The merit of gifts even if small",
+        "Neighborly relations and charity between women",
+        "Prohibition of disdaining gifts to neighbors"
+      ]
+    },
+    {
+      "hadith_id": 357,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "357",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Abu Hurayrah from the Prophet ﷺ: The food of two people suffices for three, and the food of three suffices for four.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Azdi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 4396,
+              "alternative_names": "Abu Hurayrah, Abd al-Rahman al-Azdi",
+              "original_id": 3565,
+              "kunya": "Abu Hurayrah",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "58 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Yemen",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd transmits from Abu Hurayrah using 'an (عَنْ) without explicit direct hearing terminology",
+            "Abu Ubaydah (Saduq grade) is the sole narrator in the final generation",
+            "Ambiguous transmission in the chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ubaydah (Saduq grade) with ambiguous 'an transmission from Jabir ibn Zayd regarding Abu Hurayrah",
+          "impact": "Moderately weakens the hadith; while the companion is highly reliable, the transmission term is ambiguous"
+        },
+        {
+          "issue": "The hadith contains a practical rule about food sufficiency for sharing",
+          "impact": "Such practical rules benefit from stronger chains for implementation guidance"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Principle of food sufficiency and sharing among people",
+        "Blessing and abundance in food",
+        "Economy and frugality in distribution of provisions",
+        "The Prophet's teaching on communal eating"
+      ]
+    },
+    {
+      "hadith_id": 358,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "358",
+      "english_translation": "From this path as well from him (the Prophet ﷺ) it is reported: When people saw the first of the fruit harvest, they would bring it to the Messenger of Allah ﷺ. When he took it, he would invoke blessings upon Madinah. Then he would call the smallest child he saw and give him that fruit.",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Entry has no clear chain of transmission. It references 'from this path' without explicit context of which prior chain is being continued",
+          "impact": "Cannot be authenticated without a clear documented chain; requires reference to a prior hadith's chain for proper evaluation"
+        },
+        {
+          "issue": "No clear narrators explicitly mentioned in the current entry",
+          "impact": "Makes it impossible to assess narrator reliability or transmission methodology"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Description of the Prophet's custom with first fruits",
+        "Blessing invoked upon Madinah",
+        "The Prophet's ﷺ kindness to children",
+        "Distribution of gifts to the young"
+      ]
+    },
+    {
+      "hadith_id": 359,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "359",
+      "english_translation": "Narrated by Abu Ubaydah: It reached me from Ibn Umar, who narrates from the Messenger of Allah ﷺ that he said: When one of you is invited to a wedding feast, let him attend it.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "balaghani_transmission"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": [
+                "balaghani_transmission"
+              ],
+              "narrator_id": 4967,
+              "alternative_names": "Abdullah ibn Umar, Ibn Umar al-'Adawi",
+              "original_id": 4149,
+              "kunya": "Abu Abdirrahman",
+              "nisba": "al-Qurashi al-'Adawi",
+              "nisba_ar": "القرشي العدوي",
+              "death_year": "73 AH",
+              "birth_year": "10 AH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah",
+              "transmissionTermMeaning": "It reached me (ambiguous transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Critical weakness: Abu Ubaydah uses 'balaghani' (بَلَغَنِي - it reached me) from Ibn Umar, indicating ambiguous indirect transmission",
+            "Ibn Umar, though a highly reliable companion, is also reached through 'balaghani', creating double ambiguity",
+            "The transmission becomes mursal-style despite involving a companion"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Critical weakness: Both Abu Ubaydah and the chain use 'balaghani' transmission, creating double ambiguity",
+          "impact": "Significantly weakens the hadith; even though Ibn Umar is highly reliable, the 'balaghani' transmission from a Saduq narrator creates substantial uncertainty in the chain"
+        },
+        {
+          "issue": "The hadith provides a practical ruling about accepting wedding feast invitations",
+          "impact": "Such prescriptive rules require strong chains for reliable guidance; this weak chain makes it less reliable for establishing Islamic rules"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Permissibility and encouragement to attend wedding feasts",
+        "Social obligation to respond to invitations",
+        "Wedding customs and gatherings (Walimahs)"
+      ]
+    },
+    {
+      "hadith_id": 360,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "360",
+      "english_translation": "Narrated by Abu Ubaydah from Jabir ibn Zayd from Abu Hurayrah from the Prophet ﷺ: The worst of foods is the food of the wedding feast, to which the wealthy are invited and the poor are left out.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Muhammad ibn Yusuf al-Hadani, Abu al-'Ala' al-Tammar, Abu al-'Ala'",
+              "original_id": 48826,
+              "kunya": "Abu al-'Ala'",
+              "nisba": "al-Hadani",
+              "nisba_ar": "الحداني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Hadanah region",
+              "transmissionTermMeaning": "He narrated"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn Alim al-'Azdi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2063,
+              "alternative_names": "Jabir al-Ju'fi, Abu al-Sha'tha'",
+              "original_id": 1168,
+              "kunya": "Abu al-Sha'tha'",
+              "nisba": "al-'Azdi al-Ju'fi",
+              "nisba_ar": "العزدي الجعفي",
+              "death_year": "104 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (received transmission)"
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Azdi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 4396,
+              "alternative_names": "Abu Hurayrah, Abd al-Rahman al-Azdi",
+              "original_id": 3565,
+              "kunya": "Abu Hurayrah",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "58 AH",
+              "birth_year": "",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Yemen",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd transmits from Abu Hurayrah using 'an (عَنْ) without explicit direct hearing terminology",
+            "Abu Ubaydah (Saduq grade) is the sole narrator in the final generation",
+            "Ambiguous transmission in the chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ubaydah (Saduq grade) with ambiguous 'an transmission from Jabir ibn Zayd regarding Abu Hurayrah",
+          "impact": "Moderately weakens the hadith; while the companion and Jabir are reliable, the transmission term is ambiguous"
+        },
+        {
+          "issue": "The hadith makes a strong ethical statement criticizing certain wedding feast practices",
+          "impact": "Such criticism of social practices benefits from stronger chains for proper validation; this chain is acceptable but not optimal"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Criticism of exclusive wedding feasts that exclude the poor",
+        "Social justice in Islamic gatherings",
+        "Ethical principles regarding invitations and hospitality",
+        "The Prophet's concern for including the poor in communal gatherings"
+      ]
+    }
+  ]
+}
