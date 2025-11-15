@@ -1,0 +1,3387 @@
+{
+  "batch_number": 21,
+  "source_files": [
+    39,
+    40
+  ],
+  "total_hadiths": 30,
+  "processing_summary": {
+    "total_processed": 30,
+    "chunks": 5,
+    "hadiths_per_chunk": 6
+  },
+  "hadiths": [
+    {
+      "hadith_id": 180571,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1803",
+      "english_translation": "Al-Harith ibn Abi Bakr al-Makhzumi al-Qurashi: A Hijazi narrator who transmitted from his father. Muhammad ibn Ishaq narrated from him. He was a brother to Umar and Abd al-Malik. It was also narrated that Ibn Ishaq said: Jacob ibn Utbah narrated to us from al-Harith ibn Abi Bakr from his father, saying: I was standing watching while Uthman was besieged.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Ishaq",
+              "full_name": "Muhammad ibn Ishaq ibn Yasar al-Asadi al-Madani",
+              "grade": "Saduq",
+              "generation": "Second Generation",
+              "transmissionTerm": "روى عَنْهُ",
+              "reliabilityIssues": [
+                "mudallis"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Ibn Ishaq, Sirat writer",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Asadi",
+              "nisba_ar": "الأسدي",
+              "death_year": "151",
+              "birth_year": "85",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Second Generation",
+              "location": "Madinah",
+              "transmissionTermMeaning": "narrated from him"
+            },
+            {
+              "name": "al-Harith ibn Abi Bakr",
+              "full_name": "al-Harith ibn Abi Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham al-Makhzumi al-Qurashi",
+              "grade": "Majhul",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "al-Harith al-Makhzumi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Makhzumi",
+              "nisba_ar": "المخزومي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "First Generation",
+              "location": "Hijaz",
+              "transmissionTermMeaning": "from"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn Ishaq is known as a mudallis and uses indirect transmission",
+            "Al-Harith ibn Abi Bakr has majhul status with limited documentation"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Muhammad ibn Ishaq is classified as a mudallis (Category 3) using indirect transmission",
+          "impact": "While Ibn Ishaq is generally accepted as saduq, his mudallis classification means there is potential for tadlis in the chain. However, his use of 'an is generally accepted given his overall reliability as a transmitter of Sirah"
+        },
+        {
+          "issue": "Al-Harith ibn Abi Bakr has unclear reliability status",
+          "impact": "Limited biographical information makes assessment difficult, though his transmission through reliable narrators like Ibn Ishaq suggests he was known"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Biographical entry about al-Harith ibn Abi Bakr al-Makhzumi",
+        "Incident of Uthman being besieged by followers",
+        "Witness account to historical event"
+      ]
+    },
+    {
+      "hadith_id": 180572,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1804",
+      "english_translation": "Al-Harith ibn Thawb al-Asadi: He saw Ali. Abbas ibn Dharih narrated from him. He is counted among the Kufians. Al-Harith ibn Thaqaf: He narrated from al-Hasan. Yahya ibn al-Yaman and Muhammad ibn Yusuf narrated from him according to his statement.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Yahya ibn al-Yaman",
+              "full_name": "Yahya ibn al-Yaman ibn Khalid al-Tamimi",
+              "grade": "Saduq",
+              "generation": "Second Generation",
+              "transmissionTerm": "روى عَنْهُ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Yahya al-Tamimi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Tamimi",
+              "nisba_ar": "التميمي",
+              "death_year": "203",
+              "birth_year": "120",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Second Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "narrated from him"
+            },
+            {
+              "name": "al-Harith ibn Thaqaf",
+              "full_name": "al-Harith ibn Thaqaf ibn al-Harith",
+              "grade": "Majhul",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "First Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "al-Hasan al-Basri",
+              "full_name": "al-Hasan ibn Abi al-Hasan Yasar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "al-Hasan al-Basri, Abu Sa'id",
+              "original_id": 0,
+              "kunya": "Abu Sa'id",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "110",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Second Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "from"
+            }
+          ],
+          "chainIssues": [
+            "Al-Harith ibn Thaqaf has unclear status with only secondary documentation"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Harith ibn Thaqaf has majhul status with limited documentation",
+          "impact": "The reliability of this narrator cannot be clearly established. Only known through the statement of Yahya ibn al-Yaman and Muhammad ibn Yusuf"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry about al-Harith ibn Thawb and al-Harith ibn Thaqaf",
+        "Transmission from al-Hasan al-Basri"
+      ]
+    },
+    {
+      "hadith_id": 180573,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1805",
+      "english_translation": "Al-Harith ibn Juhman, Abu Kathir al-Zubaidi: He said this to me about Ali, and Ibn al-Mubarak said: from Mus'ar that al-Harith ibn Juhman saw Ali. His hadith is among the Kufians. Al-Harith ibn Jamilah from Um al-Darda from Abu al-Darda from the Prophet ﷺ said: Indeed from the heaviest deeds on the Day of Resurrection is good character. Yahya ibn Ayyub and Ja'far ibn Sulayman narrated this from Abdullah ibn Abi Husayn from al-Harith. Al-Harith ibn al-Jarud from al-Harith al-Akli from Ibrahim according to his statement. Abu Awanah narrated from him. His hadith is from the people of Iraq.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Ayyub",
+              "full_name": "Yahya ibn Ayyub ibn Qurrah",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Yahya al-Eely",
+              "original_id": 0,
+              "kunya": "Abu Zakariyyah",
+              "nisba": "al-Eely",
+              "nisba_ar": "الإيلي",
+              "death_year": "206",
+              "birth_year": "129",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Abdullah ibn Abi Husayn",
+              "full_name": "Abdullah ibn Abi Husayn al-Masri",
+              "grade": "Majhul al-Hal",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Masri",
+              "nisba_ar": "المصري",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Third Generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "al-Harith ibn Jamilah",
+              "full_name": "al-Harith ibn Jamilah",
+              "grade": "Majhul",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Second Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Um al-Darda",
+              "full_name": "Um al-Darda al-Sughra bint Abu al-Darda",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Umm al-Darda al-Kubra, Hajjah bint Hajjaj",
+              "original_id": 0,
+              "kunya": "Um al-Darda",
+              "nisba": "al-Ansar",
+              "nisba_ar": "الأنصار",
+              "death_year": "81",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Second Generation",
+              "location": "Madinah/Damascus",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Abu al-Darda",
+              "full_name": "Uwaymir ibn Zayd ibn Qays al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu al-Darda al-Ansari",
+              "original_id": 0,
+              "kunya": "Abu al-Darda",
+              "nisba": "al-Ansari",
+              "nisba_ar": "الأنصاري",
+              "death_year": "32",
+              "birth_year": "0 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Damascus",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Abdullah ibn Abi Husayn has majhul al-hal status - only known from Yahya ibn Ayyub",
+            "Al-Harith ibn Jamilah has majhul status - only one person documented to narrate from him"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Abi Husayn has majhul al-hal status",
+          "impact": "This is the only known transmitter from this narrator, which affects the reliability assessment. Multiple people narrate from al-Harith, but Abdullah's reliability cannot be verified"
+        },
+        {
+          "issue": "Al-Harith ibn Jamilah has majhul status",
+          "impact": "This narrator appears to be unknown from multiple sources, making the chain weak at this point"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Good character is the heaviest deed on the Day of Resurrection",
+        "Virtue of good character and moral conduct",
+        "Saying of Abu al-Darda about ethical behavior"
+      ]
+    },
+    {
+      "hadith_id": 180574,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1806",
+      "english_translation": "Al-Harith ibn Haramil from Ali. Rijah ibn Hayawah and Jundub narrated from him, and he heard from Ka'b. Al-Harith ibn Habish al-Asadi: Sa'id ibn al-As sent me to Ali according to his statement. Shaqiq ibn Salamah narrated from him. His hadith is from the Kufians. Al-Harith ibn Abi al-Harith from Ali according to his statement. Simak ibn Harb narrated from him. Among the Kufians. Al-Harith ibn Hasairah al-Audi al-Kufi heard Zayd ibn Wahb. Al-Thawri attributed him as such. Al-Harith ibn al-Hakam al-Damari from Abu Amr ibn Hamas, mursal. Ibn Abi Dhi'b narrated from him. He is counted among the people of Madinah.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Rijah ibn Hayawah",
+              "full_name": "Rijah ibn Hayawah ibn Qurash al-Qadasi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "روى عَنْهُ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Rijah al-Qadasi",
+              "original_id": 0,
+              "kunya": "Abu Yazid",
+              "nisba": "al-Qadasi",
+              "nisba_ar": "القداسي",
+              "death_year": "112",
+              "birth_year": "37",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Third Generation",
+              "location": "Levant",
+              "transmissionTermMeaning": "narrated from him"
+            },
+            {
+              "name": "al-Harith ibn Haramil",
+              "full_name": "al-Harith ibn Haramil",
+              "grade": "Majhul",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "First Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin, Ali al-Murtada",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "40",
+              "birth_year": "23 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Al-Harith ibn Haramil has majhul status"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Harith ibn Haramil has majhul status",
+          "impact": "The reliability of this narrator cannot be clearly established. The chain depends heavily on sparse documentation"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry about multiple al-Harith narrators from Kufa",
+        "Transmission from Ali ibn Abi Talib"
+      ]
+    },
+    {
+      "hadith_id": 180575,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1807",
+      "english_translation": "Al-Harith ibn Khuffaf ibn Umayyah ibn Rahdah al-Ghiffari: Abu al-Rabi' narrated to me, saying: Ismail ibn Ja'far narrated to us, saying: Muhammad ibn Amr narrated to us, from Khalid ibn Abdullah ibn Harmilah, from al-Harith ibn Khuffaf, from his father, saying: The Prophet ﷺ bowed. And Yusuf narrated to me, saying: Fadl ibn Musa narrated to us, saying: Inform us Muhammad ibn Amr from Khalid ibn Abdullah ibn Harmilah from al-Harith ibn Khuffaf from Khuffaf. And Musa ibn Ismail narrated to us from Hammad from Muhammad from Khalid from Khuffaf. His hadith is among the people of the Hijaz.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu al-Rabi",
+              "full_name": "Sulayman ibn Dawood ibn Abd al-Malik al-Qurashi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": [],
+              "narrator_id": 3583,
+              "alternative_names": "Abu al-Rabi al-Qurashi",
+              "original_id": 2731,
+              "kunya": "Abu al-Rabi",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "243",
+              "birth_year": "165",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Ninth Generation",
+              "location": "Madinah",
+              "transmissionTermMeaning": "He narrated to me (direct hearing)"
+            },
+            {
+              "name": "Ismail ibn Ja'far",
+              "full_name": "Ismail ibn Ja'far ibn Aban al-Hudhali",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 1012,
+              "alternative_names": "Ismail al-Hudhali, Abu Abdullah",
+              "original_id": 85,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Hudhali",
+              "nisba_ar": "الهذلي",
+              "death_year": "193",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Muhammad ibn Amr",
+              "full_name": "Muhammad ibn Amr ibn Alqamah al-Qurashi al-Madani",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "ikhtilat"
+              ],
+              "narrator_id": 7225,
+              "alternative_names": "Muhammad al-Qurashi",
+              "original_id": 6466,
+              "kunya": "",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "213",
+              "birth_year": "125",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Seventh Generation",
+              "location": "Madinah",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Khalid ibn Abdullah ibn Harmilah",
+              "full_name": "Khalid ibn Abdullah ibn Harmilah al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2661,
+              "alternative_names": "Khalid al-Thaqafi",
+              "original_id": 1777,
+              "kunya": "",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "180",
+              "birth_year": "95",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Sixth Generation",
+              "location": "Ta'if",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "al-Harith ibn Khuffaf",
+              "full_name": "al-Harith ibn Khuffaf ibn Umayyah ibn Rahdah al-Ghiffari",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1188,
+              "alternative_names": "al-Harith al-Ghiffari",
+              "original_id": 270,
+              "kunya": "",
+              "nisba": "al-Ghiffari",
+              "nisba_ar": "الغفاري",
+              "death_year": "120",
+              "birth_year": "30",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth Generation",
+              "location": "Hijaz",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Khuffaf ibn Umayyah",
+              "full_name": "Khuffaf ibn Umayyah ibn Rahdah al-Ghiffari",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2719,
+              "alternative_names": "Khuffaf al-Ghiffari",
+              "original_id": 1837,
+              "kunya": "",
+              "nisba": "al-Ghiffari",
+              "nisba_ar": "الغفاري",
+              "death_year": "100",
+              "birth_year": "15",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Third Generation",
+              "location": "Hijaz",
+              "transmissionTermMeaning": "from"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn Amr is known to have suffered from ikhtilat (confusion in later life)",
+            "The hadith text only shows the matn as the bowing of the Prophet without context"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Muhammad ibn Amr suffered from ikhtilat affecting his later narrations",
+          "impact": "Muhammad ibn Amr is saduq but became confused in later life. Early narrators from him like Shu'bah and al-Thawri are reliable, but later narrators from him should be scrutinized. Khalid ibn Abdullah narrated from him, and Khalid is reliable and early, so this chain is acceptable despite the ikhtilat concern"
+        },
+        {
+          "issue": "Limited matn information",
+          "impact": "Only the phrase 'The Prophet ﷺ bowed' is provided without fuller context"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Description of the Prophet's ﷺ bowing in prayer",
+        "Prayer method and posture of the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 180576,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1808",
+      "english_translation": "Al-Harith ibn Abi Rabi'ah al-Hijazi: Narrated by Said ibn Jubayr, Mujahid, al-Sha'bi, and al-Zuhri. Qutaybah narrated to us, saying: Jarir narrated to us from Abd al-Aziz ibn Rafi from Ubaydullah ibn al-Qibtiyyah: Al-Harith ibn Abi Rabi'ah and Abdullah ibn Safwan entered upon Um Salamah, and I was with them during the days of Ibn al-Zubair. Amr said to me: Abu Asim narrated to us, saying: Ibn Jurayj narrated to us. I heard Abdullah ibn Ubayd ibn Umayr and al-Walid ibn Ataa ibn Khabbab narrating from al-Harith ibn Abdullah ibn Abi Rabi'ah that he went as a delegation to Abd al-Malik. He said: I heard Aisha from the Prophet ﷺ regarding the construction of the House. And Ibn Jurayj narrated from Abdullah ibn Abi Umayyah who heard al-Harith ibn Abdullah ibn Abi Rabi'ah saying.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Qutaybah ibn Said",
+              "full_name": "Qutaybah ibn Said ibn Jamil al-Thaqafi",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Qutaybah al-Thaqafi",
+              "original_id": 0,
+              "kunya": "Abu Rajaa",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "240",
+              "birth_year": "160",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Ninth Generation",
+              "location": "Basra/Baghdad",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarir ibn Abd al-Hamid",
+              "full_name": "Jarir ibn Abd al-Hamid ibn Qubaysah al-Dabbi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Jarir al-Dabbi",
+              "original_id": 0,
+              "kunya": "Abu Abdillah",
+              "nisba": "al-Dabbi",
+              "nisba_ar": "الضبي",
+              "death_year": "188",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Eighth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Abd al-Aziz ibn Rafi",
+              "full_name": "Abd al-Aziz ibn Rafi ibn Abi Rafi al-Madani",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abd al-Aziz al-Madani",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Madani",
+              "nisba_ar": "المدني",
+              "death_year": "186",
+              "birth_year": "110",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Seventh Generation",
+              "location": "Madinah",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Ubaydullah ibn al-Qibtiyyah",
+              "full_name": "Ubaydullah ibn al-Qibtiyyah al-Madani",
+              "grade": "Saduq Lahu Awham",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "awham"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Madani",
+              "nisba_ar": "المدني",
+              "death_year": "180",
+              "birth_year": "100",
+              "reliability_grade": "Saduq Lahu Awham",
+              "tabaqat": "Sixth Generation",
+              "location": "Madinah",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "al-Harith ibn Abi Rabi'ah",
+              "full_name": "al-Harith ibn Abdullah ibn Abi Rabi'ah al-Makhzumi al-Hijazi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "al-Harith al-Hijazi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Makhzumi",
+              "nisba_ar": "المخزومي",
+              "death_year": "120",
+              "birth_year": "30",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fifth Generation",
+              "location": "Hijaz",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Um Salamah",
+              "full_name": "Hind bint Abi Umayyah ibn al-Mughirah al-Makhzumiyyah",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ramla bint Abi Sufyan, Um Salamah",
+              "original_id": 0,
+              "kunya": "Um Salamah",
+              "nisba": "al-Makhzumiyyah",
+              "nisba_ar": "المخزومية",
+              "death_year": "62",
+              "birth_year": "4 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Ubaydullah ibn al-Qibtiyyah has awham (mistakes) in his narrations",
+            "The transmission involves a mawquf (stopped) hadith from Um Salamah, not a clear marfu chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ubaydullah ibn al-Qibtiyyah is classified as Saduq Lahu Awham (prone to mistakes)",
+          "impact": "While saduq in general, this narrator is known for errors and confusions in specific matters. The chain reliability is compromised at this point"
+        },
+        {
+          "issue": "The hadith appears to be a complex incident with multiple narration paths mixed together",
+          "impact": "The text shows overlap of multiple transmission paths about al-Harith ibn Abi Rabi'ah, making it difficult to establish a single clear chain"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of the delegation visiting Um Salamah during the time of Ibn al-Zubair",
+        "Narration about the construction of the Kaaba",
+        "Historical account of al-Harith ibn Abi Rabi'ah's delegation to Abd al-Malik"
+      ]
+    },
+    {
+      "hadith_id": 180577,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1809",
+      "english_translation": "Al-Harith ibn Suwayd, Abu Aisha al-Taymi al-Kufi, from Ibn Mas'ud. Waqi' attributed him, and Ali gave me his kunya. From Jarir ibn Abi Hayyan. Abdullah ibn Abi Shayba al-Absi said: Muhammad ibn Ubayd narrated to us from al-A'mash from Ibrahim al-Taymi, he said: Indeed if a man from the tribe would come to al-Harith ibn Suwayd and abuse him, he would be silent and enter. Al-Harith ibn Sa'd ibn Abi Dhabab al-Dusi al-Hijazi: Umar sent him as a tax collector. He heard Abu Hurayrah. Yazid ibn Harmuz narrated from him.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Ubayd",
+              "full_name": "Muhammad ibn Ubayd al-Qurashi",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Muhammad al-Qurashi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "180",
+              "birth_year": "100",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "al-A'mash",
+              "full_name": "Sulayman ibn Mihran al-A'mash al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "al-A'mash",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "147",
+              "birth_year": "61",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Fifth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Ibrahim al-Taymi",
+              "full_name": "Ibrahim ibn Yazid al-Taymi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ibrahim al-Taymi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Taymi",
+              "nisba_ar": "التيمي",
+              "death_year": "92",
+              "birth_year": "30",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Fourth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "al-Harith ibn Suwayd",
+              "full_name": "al-Harith ibn Suwayd ibn al-Harith al-Taymi al-Kufi",
+              "grade": "Majhul",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Abu Aisha al-Taymi",
+              "original_id": 0,
+              "kunya": "Abu Aisha",
+              "nisba": "al-Taymi",
+              "nisba_ar": "التيمي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Third Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Al-A'mash is a known mudallis but uses indirect transmission (عَنْ)",
+            "Al-Harith ibn Suwayd has majhul status",
+            "This is a biographical entry, not a complete narration"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-A'mash is classified as a mudallis (Category 2) using indirect transmission",
+          "impact": "While al-A'mash is reliable even with 'an, the mudallis classification means there is potential for concealment in the chain. However, his reliability is generally accepted"
+        },
+        {
+          "issue": "Al-Harith ibn Suwayd has majhul status",
+          "impact": "This narrator's reliability cannot be clearly established from available sources"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry about al-Harith ibn Suwayd al-Taymi",
+        "Incident of tolerance and patience when being insulted",
+        "Character of enduring verbal abuse"
+      ]
+    },
+    {
+      "hadith_id": 180578,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1810",
+      "english_translation": "Al-Harith ibn Shubail ibn Awf al-Bajali: It is said he was the brother of al-Mughirah ibn Shubail and it is said he was the son of Shabl, from Abdullah ibn Shaddad.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Shaddad",
+              "full_name": "Abdullah ibn Shaddad al-Laythi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abdullah al-Laythi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Laythi",
+              "nisba_ar": "الليثي",
+              "death_year": "100",
+              "birth_year": "0 BH",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Arabia",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "al-Harith ibn Shubail",
+              "full_name": "al-Harith ibn Shubail ibn Awf al-Bajali",
+              "grade": "Majhul",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "al-Harith al-Bajali",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Bajali",
+              "nisba_ar": "البجلي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "First Generation",
+              "location": "Bajila",
+              "transmissionTermMeaning": "from"
+            }
+          ],
+          "chainIssues": [
+            "Al-Harith ibn Shubail has majhul status with unclear genealogy",
+            "This is purely biographical information with no actual hadith"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Harith ibn Shubail has majhul status",
+          "impact": "The reliability of this narrator cannot be determined. Even his genealogy is uncertain as mentioned in the text"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry about al-Harith ibn Shubail al-Bajali"
+      ]
+    },
+    {
+      "hadith_id": 180579,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1811",
+      "english_translation": "Musaddad said to me: Yahya narrated to us from Ismail ibn Abi Khalid from al-Harith ibn Shubail from Abu Amr al-Shaybani from Zayd ibn Arqam, he said: We used to speak during the time of the Prophet ﷺ in the prayer until there was revealed: 'and stand before God with obedience.' So he commanded us with silence.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Musaddad ibn Musarhad",
+              "full_name": "Musaddad ibn Musarhad al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ لِي",
+              "reliabilityIssues": [],
+              "narrator_id": 7426,
+              "alternative_names": "Musaddad al-Asadi",
+              "original_id": 6759,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Asadi",
+              "nisba_ar": "الأسدي",
+              "death_year": "228",
+              "birth_year": "145",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Ninth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He said to me"
+            },
+            {
+              "name": "Yahya ibn Saeed al-Qattan",
+              "full_name": "Yahya ibn Saeed ibn Farrokh al-Qattan al-Taymi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 8271,
+              "alternative_names": "Yahya al-Qattan, Abu Saeed",
+              "original_id": 7556,
+              "kunya": "Abu Saeed",
+              "nisba": "al-Qattan",
+              "nisba_ar": "القطان",
+              "death_year": "198",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ismail ibn Abi Khalid",
+              "full_name": "Ismail ibn Ibrahim ibn Abi Khalid al-Aslami",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 989,
+              "alternative_names": "Ismail al-Aslami",
+              "original_id": 227,
+              "kunya": "Abu Ibrahim",
+              "nisba": "al-Aslami",
+              "nisba_ar": "الأسلمي",
+              "death_year": "165",
+              "birth_year": "85",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "al-Harith ibn Shubail",
+              "full_name": "al-Harith ibn Shubail ibn Awf al-Bajali",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1196,
+              "alternative_names": "al-Harith al-Bajali",
+              "original_id": 377,
+              "kunya": "",
+              "nisba": "al-Bajali",
+              "nisba_ar": "البجلي",
+              "death_year": "100",
+              "birth_year": "20",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fifth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Abu Amr al-Shaybani",
+              "full_name": "Shaybah ibn Nirah al-Shaybani al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 3238,
+              "alternative_names": "Abu Amr al-Shaybani, Shaybah",
+              "original_id": 2459,
+              "kunya": "Abu Amr",
+              "nisba": "al-Shaybani",
+              "nisba_ar": "الشيباني",
+              "death_year": "110",
+              "birth_year": "25",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Fourth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Zayd ibn Arqam",
+              "full_name": "Zayd ibn Arqam ibn Abd al-Uzzah al-Ansari al-Khazraji",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 3121,
+              "alternative_names": "Zayd al-Ansari",
+              "original_id": 2364,
+              "kunya": "Abu Arqam",
+              "nisba": "al-Ansari",
+              "nisba_ar": "الأنصاري",
+              "death_year": "68",
+              "birth_year": "0 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "The matn refers to Quran 2:238 about standing for God with obedience"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple ambiguous transmission terms in the chain",
+          "impact": "Although all narrators are generally reliable, the use of 'an in multiple places (Ismail, al-Harith, Abu Amr) introduces some ambiguity about direct transmission, though not significantly problematic given their reliability"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Ruling on speaking during prayer before and after revelation of Quranic verse",
+        "Story of the Companions discussing at Zayd ibn Arqam during prayer time",
+        "Quranic verse 2:238 about standing before God with obedience",
+        "Silence during prayer as ordered by the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 180580,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1812",
+      "english_translation": "Al-Harith ibn Abd al-Rahman ibn Abi Dhabab al-Dusi: He heard Yazid ibn Harmuz and Ataa ibn Yasar.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Yazid ibn Harmuz",
+              "full_name": "Yazid ibn Harmuz al-Lakhmi al-Masri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Yazid al-Lakhmi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Lakhmi",
+              "nisba_ar": "اللخمي",
+              "death_year": "116",
+              "birth_year": "35",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Fourth Generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "He heard"
+            },
+            {
+              "name": "al-Harith ibn Abd al-Rahman",
+              "full_name": "al-Harith ibn Abd al-Rahman ibn Abi Dhabab al-Dusi al-Hijazi",
+              "grade": "Majhul",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "al-Harith al-Dusi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Dusi",
+              "nisba_ar": "الدوسي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Third Generation",
+              "location": "Hijaz",
+              "transmissionTermMeaning": "from"
+            }
+          ],
+          "chainIssues": [
+            "Al-Harith ibn Abd al-Rahman has majhul status"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Harith ibn Abd al-Rahman has majhul status",
+          "impact": "This narrator's reliability cannot be clearly established from available sources"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry about al-Harith ibn Abd al-Rahman al-Dusi"
+      ]
+    },
+    {
+      "hadith_id": 180581,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1813",
+      "english_translation": "Ali said to me: Safwan ibn Isa narrated to us, he said: Inform me al-Harith ibn Abd al-Rahman ibn Abi Dhabab, he said: Inform me Munir ibn Abdullah from his father from Said ibn Abi Dhabab: I came to the Prophet ﷺ and accepted Islam, then Abu Bakr appointed me, then Umar.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ali ibn al-Madini",
+              "full_name": "Ali ibn Abdullah ibn Muhammad ibn Ali al-Madini",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ لِي",
+              "reliabilityIssues": [],
+              "narrator_id": 5792,
+              "alternative_names": "Ali al-Madini",
+              "original_id": 5146,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Madini",
+              "nisba_ar": "المديني",
+              "death_year": "234",
+              "birth_year": "161",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Ninth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He said to me"
+            },
+            {
+              "name": "Safwan ibn Isa",
+              "full_name": "Safwan ibn Isa ibn Sharik al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 3943,
+              "alternative_names": "Safwan al-Thaqafi",
+              "original_id": 3371,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "190",
+              "birth_year": "108",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "al-Harith ibn Abd al-Rahman",
+              "full_name": "al-Harith ibn Abd al-Rahman ibn Abi Dhabab al-Dusi",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": [],
+              "narrator_id": 1199,
+              "alternative_names": "al-Harith al-Dusi",
+              "original_id": 376,
+              "kunya": "",
+              "nisba": "al-Dusi",
+              "nisba_ar": "الدوسي",
+              "death_year": "149",
+              "birth_year": "50",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Hijaz",
+              "transmissionTermMeaning": "Inform me"
+            },
+            {
+              "name": "Munir ibn Abdullah",
+              "full_name": "Munir ibn Abdullah ibn Saeed ibn Abi Dhabab",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": [],
+              "narrator_id": 7688,
+              "alternative_names": "",
+              "original_id": 7024,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "155",
+              "birth_year": "70",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fifth Generation",
+              "location": "Hijaz",
+              "transmissionTermMeaning": "Inform me"
+            },
+            {
+              "name": "Abdullah ibn Saeed ibn Abi Dhabab",
+              "full_name": "Abdullah ibn Saeed ibn Abi Dhabab al-Dusi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 5177,
+              "alternative_names": "",
+              "original_id": 4524,
+              "kunya": "",
+              "nisba": "al-Dusi",
+              "nisba_ar": "الدوسي",
+              "death_year": "130",
+              "birth_year": "30",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth Generation",
+              "location": "Hijaz",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Said ibn Abi Dhabab",
+              "full_name": "Said ibn Abi Dhabab al-Dusi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 3231,
+              "alternative_names": "",
+              "original_id": 2486,
+              "kunya": "",
+              "nisba": "al-Dusi",
+              "nisba_ar": "الدوسي",
+              "death_year": "60",
+              "birth_year": "0 BH",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Hijaz",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple narrators in the chain are Saduq (reliable but not of highest level)",
+          "impact": "While all narrators are saduq or better, the inclusion of multiple saduq narrators (al-Harith, Munir, Abdullah) means the chain is reliable but not of the highest quality"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Said ibn Abi Dhabab coming to the Prophet ﷺ and accepting Islam",
+        "Appointment of Said by Abu Bakr and then Umar",
+        "Historical account of a Companion's conversion and roles in early Islamic government"
+      ]
+    },
+    {
+      "hadith_id": 180582,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1814",
+      "english_translation": "Al-Salt ibn Muhammad said to me: Anas ibn Iyad narrated to us, he said: Al-Harith ibn Abd al-Rahman ibn Abi Dhabab narrated to us from Munir ibn Abdullah from his father from Sa'd, and he was from the people of al-Sarah, similar to it: I spoke to my people about honey, then I came to Umar, so he placed its price in the charitable giving of the Muslims.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "al-Salt ibn Muhammad",
+              "full_name": "al-Salt ibn Muhammad ibn Ahmad al-Tusi al-Hashimi",
+              "grade": "Layyin al-Hadith",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ لِي",
+              "reliabilityIssues": [
+                "layyin al-hadith"
+              ],
+              "narrator_id": 1477,
+              "alternative_names": "al-Salt al-Tusi",
+              "original_id": 704,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Tusi",
+              "nisba_ar": "الطوسي",
+              "death_year": "213",
+              "birth_year": "130",
+              "reliability_grade": "Layyin al-Hadith",
+              "tabaqat": "Ninth Generation",
+              "location": "Tus",
+              "transmissionTermMeaning": "He said to me"
+            },
+            {
+              "name": "Anas ibn Iyad",
+              "full_name": "Anas ibn Iyad al-Qadi al-Qurashi",
+              "grade": "Saduq",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 718,
+              "alternative_names": "Anas al-Qadi",
+              "original_id": 55,
+              "kunya": "Abu Iyad",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "196",
+              "birth_year": "105",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Eighth Generation",
+              "location": "Baghdad",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "al-Harith ibn Abd al-Rahman",
+              "full_name": "al-Harith ibn Abd al-Rahman ibn Abi Dhabab al-Dusi",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 1199,
+              "alternative_names": "al-Harith al-Dusi",
+              "original_id": 376,
+              "kunya": "",
+              "nisba": "al-Dusi",
+              "nisba_ar": "الدوسي",
+              "death_year": "149",
+              "birth_year": "50",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Hijaz",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Munir ibn Abdullah",
+              "full_name": "Munir ibn Abdullah ibn Saeed ibn Abi Dhabab",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 7688,
+              "alternative_names": "",
+              "original_id": 7024,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "155",
+              "birth_year": "70",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fifth Generation",
+              "location": "Hijaz",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Abdullah ibn Saeed ibn Abi Dhabab",
+              "full_name": "Abdullah ibn Saeed ibn Abi Dhabab al-Dusi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 5177,
+              "alternative_names": "",
+              "original_id": 4524,
+              "kunya": "",
+              "nisba": "al-Dusi",
+              "nisba_ar": "الدوسي",
+              "death_year": "130",
+              "birth_year": "30",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth Generation",
+              "location": "Hijaz",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Sa'd ibn Abi Dhabab",
+              "full_name": "Sa'd ibn Abi Dhabab al-Dusi",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 3231,
+              "alternative_names": "",
+              "original_id": 2486,
+              "kunya": "",
+              "nisba": "al-Dusi",
+              "nisba_ar": "الدوسي",
+              "death_year": "120",
+              "birth_year": "40",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Third Generation",
+              "location": "Hijaz",
+              "transmissionTermMeaning": "from"
+            }
+          ],
+          "chainIssues": [
+            "Al-Salt ibn Muhammad is classified as Layyin al-Hadith (weak in hadith)",
+            "This is a mawquf (stopped) hadith at Sa'd, not marfu to the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Salt ibn Muhammad is classified as Layyin al-Hadith",
+          "impact": "This narrator is weak in hadith transmission, which significantly affects the reliability of the hadith. This is the first narrator from whom Ibn Abi Hatim is transmitting"
+        },
+        {
+          "issue": "The hadith is mawquf (stopped) at Sa'd, a Companion, not marfu to the Prophet ﷺ",
+          "impact": "The hadith is a statement of a Companion about his own actions, not a teaching or ruling from the Prophet ﷺ"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of Sa'd ibn Abi Dhabab speaking with his tribe about honey",
+        "Historical account of Umar placing honey price in the charitable treasury",
+        "Decision regarding charitable gifts for the Muslim community"
+      ]
+    },
+    {
+      "hadith_id": 180583,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1815",
+      "english_translation": "Al-Qua'nabi narrated to us, he said: Yazid ibn Zuray' narrated to us from Abd al-Rahman ibn Ishaq from Ibn Abi Salamah from Abu Salamah from Said ibn Abi Dhabab.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "al-Qua'nabi",
+              "full_name": "Abd Allah ibn Ahmad ibn Muhammad al-Qua'nabi",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 5085,
+              "alternative_names": "al-Qua'nabi",
+              "original_id": 4588,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Qua'nabi",
+              "nisba_ar": "القعنبي",
+              "death_year": "223",
+              "birth_year": "145",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Ninth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Yazid ibn Zuray",
+              "full_name": "Yazid ibn Zuray ibn Muhammad al-Thaqafi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 8418,
+              "alternative_names": "Yazid al-Thaqafi",
+              "original_id": 7667,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "182",
+              "birth_year": "98",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Abd al-Rahman ibn Ishaq",
+              "full_name": "Abd al-Rahman ibn Ishaq ibn Ibrahim al-Madani",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4295,
+              "alternative_names": "Abd al-Rahman al-Madani",
+              "original_id": 3882,
+              "kunya": "",
+              "nisba": "al-Madani",
+              "nisba_ar": "المدني",
+              "death_year": "195",
+              "birth_year": "118",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Seventh Generation",
+              "location": "Madinah",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Ibn Abi Salamah",
+              "full_name": "Muhammad ibn Ibrahim ibn Abd al-Rahman ibn Abi Salamah",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Muhammad ibn Abi Salamah",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "125",
+              "birth_year": "45",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fifth Generation",
+              "location": "Madinah",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Abu Salamah",
+              "full_name": "Abd al-Rahman ibn Abi Salamah al-Zahri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abd al-Rahman al-Zahri",
+              "original_id": 0,
+              "kunya": "Abu Salamah",
+              "nisba": "al-Zahri",
+              "nisba_ar": "الزهري",
+              "death_year": "94",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Fourth Generation",
+              "location": "Madinah",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Said ibn Abi Dhabab",
+              "full_name": "Said ibn Abi Dhabab al-Dusi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 3231,
+              "alternative_names": "",
+              "original_id": 2486,
+              "kunya": "",
+              "nisba": "al-Dusi",
+              "nisba_ar": "الدوسي",
+              "death_year": "60",
+              "birth_year": "0 BH",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Hijaz",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Chain contains multiple saduq narrators (Abd al-Rahman, Ibn Abi Salamah)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple narrators with Saduq grade but not of highest reliability",
+          "impact": "While the chain is reliable overall, the presence of multiple Saduq narrators reduces it from the highest class of chains"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Narration from Said ibn Abi Dhabab",
+        "Transmission through multiple middle narrators"
+      ]
+    },
+    {
+      "hadith_id": 180584,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1816",
+      "english_translation": "Amr ibn Ali said to me: Abu Dawud narrated to us, he said: Ibn Abi Dhi'b narrated to us from al-Harith from Abu Amr al-Shaybani from Umayyah from Harith ibn Abdullah ibn Aws.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Amr ibn Ali",
+              "full_name": "Amr ibn Ali ibn Muhammad al-Fallas",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ لِي",
+              "reliabilityIssues": [],
+              "narrator_id": 6171,
+              "alternative_names": "Amr al-Fallas",
+              "original_id": 5482,
+              "kunya": "Abu Hafs",
+              "nisba": "al-Fallas",
+              "nisba_ar": "الفلاس",
+              "death_year": "249",
+              "birth_year": "170",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Ninth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He said to me"
+            },
+            {
+              "name": "Abu Dawud al-Tayalisi",
+              "full_name": "Sulayman ibn Dawud ibn al-Julad al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 3585,
+              "alternative_names": "Abu Dawud al-Tayalisi",
+              "original_id": 2797,
+              "kunya": "Abu Dawud",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "204",
+              "birth_year": "133",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "narrated"
+            },
+            {
+              "name": "Ibn Abi Dhi'b",
+              "full_name": "Muhammad ibn Abdullah ibn Muhammad ibn Zuhayr al-Madani",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 7063,
+              "alternative_names": "Ibn Abi Dhi'b al-Madani",
+              "original_id": 6396,
+              "kunya": "Abu Thawr",
+              "nisba": "al-Madani",
+              "nisba_ar": "المدني",
+              "death_year": "194",
+              "birth_year": "109",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Madinah",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "al-Harith ibn Abdullah",
+              "full_name": "al-Harith ibn Abdullah",
+              "grade": "Majhul",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Fifth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Abu Amr al-Shaybani",
+              "full_name": "Shaybah ibn Nirah al-Shaybani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 3238,
+              "alternative_names": "Abu Amr al-Shaybani",
+              "original_id": 2459,
+              "kunya": "Abu Amr",
+              "nisba": "al-Shaybani",
+              "nisba_ar": "الشيباني",
+              "death_year": "110",
+              "birth_year": "25",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Fourth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Harith ibn Abdullah ibn Aws",
+              "full_name": "Harith ibn Abdullah ibn Aws al-Ansari",
+              "grade": "Saduq",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Ansari",
+              "nisba_ar": "الأنصاري",
+              "death_year": "55",
+              "birth_year": "0 BH",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Companion",
+              "location": "Madinah",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Al-Harith ibn Abdullah has majhul status, breaking the chain reliability"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Harith ibn Abdullah has majhul status",
+          "impact": "Unknown narrator in the middle of the chain significantly weakens the hadith's reliability"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Narration from Harith ibn Abdullah ibn Aws"
+      ]
+    },
+    {
+      "hadith_id": 180585,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1817",
+      "english_translation": "Al-Qasim ibn Ahmad narrated to me, he said: Ibn Abi Fuday narrated to us from al-Harith ibn Amr.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "al-Qasim ibn Ahmad",
+              "full_name": "al-Qasim ibn Ahmad ibn Muhammad al-Qurashi",
+              "grade": "Saduq",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": [],
+              "narrator_id": 1565,
+              "alternative_names": "al-Qasim al-Qurashi",
+              "original_id": 653,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "221",
+              "birth_year": "135",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Ninth Generation",
+              "location": "Baghdad",
+              "transmissionTermMeaning": "He narrated to me"
+            },
+            {
+              "name": "Ibn Abi Fuday",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Fuday al-Madani",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 6822,
+              "alternative_names": "Ibn Abi Fuday al-Madani",
+              "original_id": 6212,
+              "kunya": "",
+              "nisba": "al-Madani",
+              "nisba_ar": "المدني",
+              "death_year": "196",
+              "birth_year": "100",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "Madinah",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "al-Harith ibn Amr",
+              "full_name": "al-Harith ibn Amr al-Hadrami",
+              "grade": "Majhul",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 40905,
+              "alternative_names": "al-Harith al-Hadrami",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Hadrami",
+              "nisba_ar": "الحضرمي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Fifth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Um Isa ibn Abd al-Rahman",
+              "full_name": "Um Isa ibn Abd al-Rahman",
+              "grade": "Majhul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Fourth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Imran ibn Yazid",
+              "full_name": "Imran ibn Yazid",
+              "grade": "Majhul",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Third Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Hasam ibn Mask ibn Zalem",
+              "full_name": "Hasam ibn Mask ibn Zalem ibn Shaytan",
+              "grade": "Majhul",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Second Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "from"
+            }
+          ],
+          "chainIssues": [
+            "Multiple narrators with majhul status throughout the chain",
+            "Chain integrity severely compromised by unknown narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple unknown narrators (majhul) in the chain",
+          "impact": "The chain contains at least 4 narrators with majhul status, making the hadith very weak and unreliable"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry with unclear chain"
+      ]
+    },
+    {
+      "hadith_id": 180586,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1818",
+      "english_translation": "Al-Harith ibn Ghassan al-Mazni. Abdullah ibn Abd al-Wahhab said to me: Al-Harith ibn Ghassan narrated to us.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Abd al-Wahhab",
+              "full_name": "Abdullah ibn Abd al-Wahhab ibn Muhammad al-Wasiti",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ لِي",
+              "reliabilityIssues": [],
+              "narrator_id": 4924,
+              "alternative_names": "Abdullah al-Wasiti",
+              "original_id": 4469,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Wasiti",
+              "nisba_ar": "الواسطي",
+              "death_year": "234",
+              "birth_year": "155",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Ninth Generation",
+              "location": "Wasit",
+              "transmissionTermMeaning": "He said to me"
+            },
+            {
+              "name": "al-Harith ibn Ghassan",
+              "full_name": "al-Harith ibn Ghassan al-Mazni",
+              "grade": "Majhul",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "al-Harith al-Mazni",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Mazni",
+              "nisba_ar": "المزني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Third Generation",
+              "location": "Arabia",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Abd al-Rahman ibn Tariq",
+              "full_name": "Abd al-Rahman ibn Tariq ibn Alqamah",
+              "grade": "Majhul",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Second Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "from"
+            }
+          ],
+          "chainIssues": [
+            "Al-Harith ibn Ghassan has majhul status",
+            "Chain is incomplete and biographical"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Harith ibn Ghassan has majhul status",
+          "impact": "The primary narrator cannot be clearly identified or verified"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry about al-Harith ibn Ghassan al-Mazni"
+      ]
+    },
+    {
+      "hadith_id": 180587,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1819",
+      "english_translation": "Al-Harith ibn Fadil al-Khattami al-Ansari al-Madani: From Sufyan from Abu al-Awja. Muhammad ibn Ishaq and his son Abdullah narrated from him.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Ishaq",
+              "full_name": "Muhammad ibn Ishaq ibn Yasar al-Asadi",
+              "grade": "Saduq",
+              "generation": "Second Generation",
+              "transmissionTerm": "روى عَنْهُ",
+              "reliabilityIssues": [
+                "mudallis"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Ibn Ishaq, Sirat writer",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Asadi",
+              "nisba_ar": "الأسدي",
+              "death_year": "151",
+              "birth_year": "85",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Second Generation",
+              "location": "Madinah",
+              "transmissionTermMeaning": "narrated from him"
+            },
+            {
+              "name": "al-Harith ibn Fadil",
+              "full_name": "al-Harith ibn Fadil al-Khattami al-Ansari al-Madani",
+              "grade": "Majhul",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "al-Harith al-Khattami",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Khattami",
+              "nisba_ar": "الخطامي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "First Generation",
+              "location": "Madinah",
+              "transmissionTermMeaning": "from"
+            }
+          ],
+          "chainIssues": [
+            "Al-Harith ibn Fadil has majhul status",
+            "This is purely biographical information"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Harith ibn Fadil has majhul status",
+          "impact": "The reliability of this narrator cannot be clearly established"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry about al-Harith ibn Fadil al-Khattami al-Ansari"
+      ]
+    },
+    {
+      "hadith_id": 180588,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1820",
+      "english_translation": "Al-Harith ibn Qais al-Ju'fi al-Kufi: From Abdullah ibn Mas'ud. Abu Nu'aym said to us: From Sharik from Muhammad ibn Abdullah al-Muradi from al-Harith.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Abu Nu'aym",
+              "full_name": "Ahmad ibn Abdullah ibn Ahmad al-Asbahani",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ لَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Nu'aym al-Asbahani",
+              "original_id": 0,
+              "kunya": "Abu Nu'aym",
+              "nisba": "al-Asbahani",
+              "nisba_ar": "الأصبهاني",
+              "death_year": "430",
+              "birth_year": "336",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Ninth Generation",
+              "location": "Isfahan",
+              "transmissionTermMeaning": "He said to us"
+            },
+            {
+              "name": "Sharik ibn Abdullah",
+              "full_name": "Sharik ibn Abdullah ibn Muhammad al-Kufi",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Sharik al-Kufi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "177",
+              "birth_year": "90",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Seventh Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Muhammad ibn Abdullah al-Muradi",
+              "full_name": "Muhammad ibn Abdullah al-Muradi al-Kufi",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Muhammad al-Muradi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Muradi",
+              "nisba_ar": "المرادي",
+              "death_year": "150",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "al-Harith ibn Qais",
+              "full_name": "al-Harith ibn Qais al-Ju'fi al-Kufi",
+              "grade": "Majhul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "al-Harith al-Ju'fi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Ju'fi",
+              "nisba_ar": "الجعفي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Fourth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "from"
+            }
+          ],
+          "chainIssues": [
+            "Al-Harith ibn Qais has majhul status"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Harith ibn Qais has majhul status",
+          "impact": "The reliability of this narrator cannot be clearly verified from available sources"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry about al-Harith ibn Qais al-Ju'fi"
+      ]
+    },
+    {
+      "hadith_id": 180589,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1821",
+      "english_translation": "Al-Harith ibn Laqit al-Nakha'i: He witnessed Umar. He witnessed al-Qadisiyyah. He is counted among the Kufians. Abu Nu'aym said to us: From Hanash from his father from Ali in the cave, and some did not raise it.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Abu Nu'aym",
+              "full_name": "Ahmad ibn Abdullah ibn Ahmad al-Asbahani",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ لَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Nu'aym al-Asbahani",
+              "original_id": 0,
+              "kunya": "Abu Nu'aym",
+              "nisba": "al-Asbahani",
+              "nisba_ar": "الأصبهاني",
+              "death_year": "430",
+              "birth_year": "336",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Ninth Generation",
+              "location": "Isfahan",
+              "transmissionTermMeaning": "He said to us"
+            },
+            {
+              "name": "al-Harith ibn Laqit",
+              "full_name": "al-Harith ibn Laqit al-Nakha'i al-Kufi",
+              "grade": "Saduq",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "al-Harith al-Nakha'i",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Nakha'i",
+              "nisba_ar": "النخعي",
+              "death_year": "80",
+              "birth_year": "0 BH",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "from"
+            }
+          ],
+          "chainIssues": [
+            "Biographical entry without complete transmission chain",
+            "Reference to Ali in the cave is ambiguous"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unclear transmission about 'Ali in the cave' incident",
+          "impact": "Some narrators did not raise it (as marfu), indicating disconnection in the chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry about al-Harith ibn Laqit al-Nakha'i",
+        "Witness to the Battle of al-Qadisiyyah",
+        "Companion who witnessed Umar"
+      ]
+    },
+    {
+      "hadith_id": 180590,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1822",
+      "english_translation": "Al-Harith ibn Muaqib.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "al-Harith ibn Muaqib",
+              "full_name": "al-Harith ibn Muaqib",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Purely biographical entry with no context provided"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Harith ibn Muaqib has majhul status",
+          "impact": "The reliability of this narrator cannot be determined from available information"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry about al-Harith ibn Muaqib"
+      ]
+    },
+    {
+      "hadith_id": 180591,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1823",
+      "english_translation": "Ismail said to me or it reached me about him, Abu al-Ghusn Thabit narrated to us from al-Harith ibn Muaqib that the Prophet ﷺ.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ismail",
+              "full_name": "Ismail ibn Ibrahim al-Qadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ لِي",
+              "reliabilityIssues": [],
+              "narrator_id": 1040,
+              "alternative_names": "Ismail al-Qadi",
+              "original_id": 81,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "283",
+              "birth_year": "200",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Ninth Generation",
+              "location": "Baghdad",
+              "transmissionTermMeaning": "He said to me"
+            },
+            {
+              "name": "Abu al-Ghusn Thabit",
+              "full_name": "Thabit ibn Qays al-Ashja'i",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2025,
+              "alternative_names": "Abu al-Ghusn, Thabit al-Ashja'i",
+              "original_id": 850,
+              "kunya": "Abu al-Ghusn",
+              "nisba": "al-Ashja'i",
+              "nisba_ar": "الأشجعي",
+              "death_year": "167",
+              "birth_year": "85",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "al-Harith ibn Muaqib",
+              "full_name": "al-Harith ibn Muaqib",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 14248,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "130",
+              "birth_year": "40",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fifth Generation",
+              "location": "Arabia",
+              "transmissionTermMeaning": "from"
+            }
+          ],
+          "chainIssues": [
+            "Transmission through 'balaghani' (it reached me) indicating potential disconnection",
+            "Incomplete transmission - matn of the hadith is not provided"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'balaghani' (it reached me) indicates potentially indirect transmission",
+          "impact": "This suggests disconnection or indirect hearing without explicit confirmation of direct transmission"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Hadith with incomplete text and ambiguous transmission"
+      ]
+    },
+    {
+      "hadith_id": 180592,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1824",
+      "english_translation": "Yahya ibn Bukayr said to me: Bakr ibn Mudar narrated to us from Ja'far ibn Rabi'ah from Ya'qub ibn al-Ashj from Basr ibn Sa'id from al-Harith regarding the matter.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Bukayr",
+              "full_name": "Yahya ibn Bukayr ibn Muhammad al-Masri",
+              "grade": "Saduq",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ لِي",
+              "reliabilityIssues": [],
+              "narrator_id": 8297,
+              "alternative_names": "Yahya al-Masri",
+              "original_id": 7555,
+              "kunya": "",
+              "nisba": "al-Masri",
+              "nisba_ar": "المصري",
+              "death_year": "231",
+              "birth_year": "150",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Ninth Generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "He said to me"
+            },
+            {
+              "name": "Bakr ibn Mudar",
+              "full_name": "Bakr ibn Mudar al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 1940,
+              "alternative_names": "Bakr al-Basri",
+              "original_id": 741,
+              "kunya": "",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "218",
+              "birth_year": "133",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ja'far ibn Rabi'ah",
+              "full_name": "Ja'far ibn Rabi'ah ibn Umayyah al-Ashja'i",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2148,
+              "alternative_names": "Ja'far al-Ashja'i",
+              "original_id": 973,
+              "kunya": "",
+              "nisba": "al-Ashja'i",
+              "nisba_ar": "الأشجعي",
+              "death_year": "165",
+              "birth_year": "80",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Arabia",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Ya'qub ibn al-Ashj",
+              "full_name": "Ya'qub ibn al-Ashj al-Ghasani",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 8529,
+              "alternative_names": "Ya'qub al-Ghasani",
+              "original_id": 7750,
+              "kunya": "",
+              "nisba": "al-Ghasani",
+              "nisba_ar": "الغساني",
+              "death_year": "164",
+              "birth_year": "80",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Seventh Generation",
+              "location": "Levant",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Basr ibn Sa'id",
+              "full_name": "Basr ibn Sa'id al-Makinni",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1848,
+              "alternative_names": "Basr al-Makinni",
+              "original_id": 748,
+              "kunya": "",
+              "nisba": "al-Makinni",
+              "nisba_ar": "المكني",
+              "death_year": "138",
+              "birth_year": "48",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Sixth Generation",
+              "location": "Madinah",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "al-Harith",
+              "full_name": "al-Harith (identity not fully specified)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Al-Harith is unspecified and has majhul status",
+            "Chain is incomplete - missing context about which al-Harith this refers to"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Harith in the chain is unidentified (majhul)",
+          "impact": "The unknown identity of this narrator significantly weakens the chain"
+        },
+        {
+          "issue": "Multiple Saduq narrators in the chain",
+          "impact": "Ya'qub ibn al-Ashj is Saduq, reducing the strength of the overall chain"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Narration about some matter from al-Harith"
+      ]
+    },
+    {
+      "hadith_id": 180593,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1825",
+      "english_translation": "Al-Harith ibn Nufail: From Aisha. Abu Mujliz and his son Abdullah al-Hashimi narrated from him. Hajjaj narrated to us, he said: Hammad narrated to us, he said: Hammad narrated to us from Ammar ibn Abi Ammar from Abdullah.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Hajjaj",
+              "full_name": "Hajjaj ibn Muhammad al-Wasiti",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Hajjaj al-Wasiti",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Wasiti",
+              "nisba_ar": "الواسطي",
+              "death_year": "206",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "Wasit",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Hammad",
+              "full_name": "Hammad ibn Salamah ibn Dinar al-Azdi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Hammad al-Azdi",
+              "original_id": 0,
+              "kunya": "Abu Salamah",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "167",
+              "birth_year": "88",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ammar ibn Abi Ammar",
+              "full_name": "Ammar ibn Abi Ammar al-Yamami",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ammar al-Yamami",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Yamami",
+              "nisba_ar": "اليمامي",
+              "death_year": "120",
+              "birth_year": "25",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fifth Generation",
+              "location": "Yamama",
+              "transmissionTermMeaning": "from"
+            }
+          ],
+          "chainIssues": [
+            "Transmission about Aisha but chain stops at unspecified Abdullah"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ammar ibn Abi Ammar is Saduq, not of highest reliability",
+          "impact": "The chain contains a saduq narrator, reducing overall strength"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Narration from Aisha via multiple transmitters"
+      ]
+    },
+    {
+      "hadith_id": 180594,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1826",
+      "english_translation": "Al-Harith ibn Wahb: From al-Sunabih from the Prophet ﷺ, mursal. Al-Salt ibn Bahram narrated from him. His hadith is from the Kufians. Al-Harith, the father of Malik: He heard Abu Musa.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "al-Sunabih",
+              "full_name": "al-Sunabih al-Yama ni",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Yamani",
+              "nisba_ar": "اليمني",
+              "death_year": "100",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Fourth Generation",
+              "location": "Yemen",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "al-Harith ibn Wahb",
+              "full_name": "al-Harith ibn Wahb al-Kufi",
+              "grade": "Majhul",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "al-Harith al-Kufi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Third Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Mursal hadith - missing the Companion in the chain",
+            "Al-Harith ibn Wahb has majhul status"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal hadith missing the Companion link",
+          "impact": "The chain is disconnected at the Companion level, which is a clear weakness in mursal hadiths"
+        },
+        {
+          "issue": "Al-Harith ibn Wahb has majhul status",
+          "impact": "The reliability of this narrator cannot be clearly established"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Mursal hadith from al-Sunabih about a matter",
+        "Transmission through al-Harith ibn Wahb"
+      ]
+    },
+    {
+      "hadith_id": 180595,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1827",
+      "english_translation": "Al-Harith ibn Ya'qub al-Masri al-Ansari: Narrated by his son Amr and Ya'qub ibn al-Ashj. Said ibn Tulid said to me: Ibn Wahb narrated to me, he said: Bakr ibn Mudar narrated to me.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Said ibn Tulid",
+              "full_name": "Said ibn Tulid al-Masri",
+              "grade": "Saduq",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ لِي",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Said al-Masri",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Masri",
+              "nisba_ar": "المصري",
+              "death_year": "220",
+              "birth_year": "135",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Ninth Generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "He said to me"
+            },
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abdullah al-Masri",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Masri",
+              "nisba_ar": "المصري",
+              "death_year": "197",
+              "birth_year": "125",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Eighth Generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "He narrated to me"
+            },
+            {
+              "name": "Bakr ibn Mudar",
+              "full_name": "Bakr ibn Mudar al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": [],
+              "narrator_id": 1940,
+              "alternative_names": "Bakr al-Basri",
+              "original_id": 741,
+              "kunya": "",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "218",
+              "birth_year": "133",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to me"
+            }
+          ],
+          "chainIssues": [
+            "Biographical entry with multiple narrators mentioned"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Biographical entry of al-Harith ibn Ya'qub with incomplete chain information",
+          "impact": "This is primarily biographical data rather than a complete hadith transmission"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry about al-Harith ibn Ya'qub al-Masri al-Ansari"
+      ]
+    },
+    {
+      "hadith_id": 180596,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1828",
+      "english_translation": "Al-Hasan ibn Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim Abu Muhammad al-Hashimi: He heard the Prophet ﷺ.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "al-Hasan ibn Ali",
+              "full_name": "al-Hasan ibn Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Grandson of Prophet",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "al-Hasan al-Basri, al-Sibt",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "50",
+              "birth_year": "3 AH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Grandson of Prophet",
+              "location": "Madinah",
+              "transmissionTermMeaning": "He heard"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "This is purely biographical information about al-Hasan ibn Ali",
+            "No specific hadith text or transmission provided"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Biographical entry without specific hadith content",
+          "impact": "This is identification information rather than hadith transmission"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry about al-Hasan ibn Ali, grandson of the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 180597,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1829",
+      "english_translation": "Al-Hasan ibn Usamah ibn Zayd ibn Harithah ibn Sharahil, the freed slave of the Prophet ﷺ: From his father that he knocked on the door of the Prophet ﷺ for some need one night.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Usamah ibn Zayd",
+              "full_name": "Usamah ibn Zayd ibn Harithah ibn Sharahil",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Usamah al-Mawla",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "54",
+              "birth_year": "10 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "al-Hasan ibn Usamah",
+              "full_name": "al-Hasan ibn Usamah ibn Zayd",
+              "grade": "Saduq",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "120",
+              "birth_year": "30 AH",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Second Generation",
+              "location": "Madinah",
+              "transmissionTermMeaning": "from"
+            }
+          ],
+          "chainIssues": [
+            "The hadith is mawquf at Usamah ibn Zayd, not marfu to the Prophet ﷺ",
+            "It is about an incident concerning al-Hasan ibn Usamah's father"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf hadith - disconnected from the Prophet ﷺ",
+          "impact": "The chain stops at Usamah ibn Zayd without explicit attribution to the Prophet ﷺ"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Usamah ibn Zayd knocking on the Prophet's ﷺ door at night for a need",
+        "Interaction between a Companion and the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 180598,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1830",
+      "english_translation": "Al-Hasan ibn Bishr ibn Salamah ibn al-Musayyib, Abu Ali al-Kufi: I think he is from Bajla. He heard Zuhayr and Mu'afa. He died in the year two hundred and twenty-one.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "al-Hasan ibn Bishr",
+              "full_name": "al-Hasan ibn Bishr ibn Salamah ibn al-Musayyib",
+              "grade": "Saduq",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Ali al-Kufi",
+              "original_id": 0,
+              "kunya": "Abu Ali",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "221",
+              "birth_year": "130",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Eighth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He heard"
+            }
+          ],
+          "chainIssues": [
+            "Purely biographical entry with no transmission chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Biographical entry without hadith transmission",
+          "impact": "This is just biographical information about the narrator, not a hadith with transmission"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry about al-Hasan ibn Bishr al-Kufi"
+      ]
+    },
+    {
+      "hadith_id": 180599,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1831",
+      "english_translation": "Al-Hasan ibn Thawban al-Hamadani: From Hashim ibn Abi Ruqayyah and Musa ibn Wardan. Al-Layth ibn Sa'd narrated from him. He is counted among the Egyptians. Al-Hasan ibn Thabit ibn al-Zarqaa, Abu Ali al-Taghlabi al-Akhwal.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "al-Layth ibn Sa'd",
+              "full_name": "al-Layth ibn Sa'd ibn Abdel-Rahman al-Fahmi al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "روى عَنْهُ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "al-Layth al-Masri",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Masri",
+              "nisba_ar": "المصري",
+              "death_year": "175",
+              "birth_year": "94",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Seventh Generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "narrated from him"
+            },
+            {
+              "name": "al-Hasan ibn Thawban",
+              "full_name": "al-Hasan ibn Thawban al-Hamadani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "al-Hasan al-Hamadani",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Hamadani",
+              "nisba_ar": "الهمداني",
+              "death_year": "130",
+              "birth_year": "40",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Hamadan",
+              "transmissionTermMeaning": "from"
+            }
+          ],
+          "chainIssues": [
+            "Biographical entry mentioning multiple narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Biographical entry without specific hadith transmission",
+          "impact": "This is biographical information rather than hadith narration"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry about al-Hasan ibn Thawban al-Hamadani and al-Hasan ibn Thabit al-Taghlabi"
+      ]
+    },
+    {
+      "hadith_id": 180600,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1832",
+      "english_translation": "Al-Hasan ibn Jabir, Abu Abd al-Rahman al-Kindi al-Shami: He heard al-Muqdam ibn Mu'adh Yakrib. Mu'awiyah ibn Salih narrated from him.",
+      "chains": [
+        {
+          "type": "biographical",
+          "narrators": [
+            {
+              "name": "Mu'awiyah ibn Salih",
+              "full_name": "Mu'awiyah ibn Salih ibn Muhammad al-Shami",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "روى عَنْهُ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Mu'awiyah al-Shami",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Shami",
+              "nisba_ar": "الشامي",
+              "death_year": "158",
+              "birth_year": "75",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Seventh Generation",
+              "location": "Levant",
+              "transmissionTermMeaning": "narrated from him"
+            },
+            {
+              "name": "al-Hasan ibn Jabir",
+              "full_name": "al-Hasan ibn Jabir ibn Tufail al-Kindi",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "al-Hasan al-Kindi",
+              "original_id": 0,
+              "kunya": "Abu Abd al-Rahman",
+              "nisba": "al-Kindi",
+              "nisba_ar": "الكندي",
+              "death_year": "120",
+              "birth_year": "30",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Levant",
+              "transmissionTermMeaning": "from"
+            },
+            {
+              "name": "al-Muqdam ibn Mu'adh Yakrib",
+              "full_name": "al-Muqdam ibn Mu'adh ibn al-Muqdam al-Kindi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "al-Muqdam al-Kindi",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "al-Kindi",
+              "nisba_ar": "الكندي",
+              "death_year": "73",
+              "birth_year": "0 BH",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Levant",
+              "transmissionTermMeaning": "He heard"
+            }
+          ],
+          "chainIssues": [
+            "Biographical entry with multi-level narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Biographical entry without complete transmission chain",
+          "impact": "This is biographical information rather than hadith narration with complete matn"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Biographical entry about al-Hasan ibn Jabir al-Kindi al-Shami"
+      ]
+    }
+  ]
+}
