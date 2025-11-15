@@ -1,0 +1,444 @@
+{
+  "batch_number": 31,
+  "file_number": 24,
+  "total_hadiths": 15,
+  "hadiths": [
+    {
+      "hadith_id": 270346,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1549",
+      "english_translation": "Incomplete hadith - only companion name provided in source text without full chain or matn",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete record in source data",
+          "impact": "This appears to be a reference marker or continuation note rather than a complete hadith entry"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": []
+    },
+    {
+      "hadith_id": 270347,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1550",
+      "english_translation": "Narrated by Juail al-Ashja'i: I went out with the Messenger of Allah ﷺ on one of his military expeditions on a thin, weak, and skinny horse. He came near me, struck it with a riding crop he had with him, and said: 'O Allah, bless him in it'. I was at the back of the group, but I could not control its head before the group, and I sold from its offspring for twelve thousand",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "al-Hassan ibn Ali al-Hulwani",
+              "full_name": "al-Hassan ibn Ali ibn Uthman al-Hulwani",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 1284,
+              "alternative_names": "al-Hassan al-Hulwani",
+              "original_id": 370,
+              "kunya": "Abu Ali",
+              "nisba": "al-Hulwani",
+              "nisba_ar": "الحلواني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Ninth Generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Zayd ibn al-Hubab",
+              "full_name": "Zayd ibn al-Hubab ibn al-Araj al-Kalbi",
+              "grade": "Saduq",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نَا",
+              "reliabilityIssues": [
+                "known to make mistakes in transmission"
+              ],
+              "narrator_id": 3124,
+              "alternative_names": "Zayd al-Kalbi, Abu al-Hasan",
+              "original_id": 2254,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Kalbi",
+              "nisba_ar": "الكلبي",
+              "death_year": "203",
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Eighth Generation",
+              "location": "Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Rafi' ibn Salamah",
+              "full_name": "Rafi' ibn Salamah ibn Ziyad ibn Abi al-Ja'd al-Ashja'i",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2867,
+              "alternative_names": "Rafi' al-Ashja'i",
+              "original_id": 1991,
+              "kunya": "Abu Salamah",
+              "nisba": "al-Ashja'i",
+              "nisba_ar": "الأشجعي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abdullah ibn Abi al-Ja'd",
+              "full_name": "Abdullah ibn Abi al-Ja'd al-Wada'i",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 4624,
+              "alternative_names": "Abdullah al-Wada'i, Abu al-Ja'd",
+              "original_id": 3793,
+              "kunya": "Abu al-Ja'd",
+              "nisba": "al-Wada'i",
+              "nisba_ar": "الوادعي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Sixth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Juail al-Ashja'i",
+              "full_name": "Juail ibn Abdullah al-Ashja'i",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 13940,
+              "alternative_names": "Juail al-Ashja'i",
+              "original_id": 16328,
+              "kunya": "",
+              "nisba": "al-Ashja'i",
+              "nisba_ar": "الأشجعي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Arabia",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi al-Hashimi",
+              "nisba_ar": "القرشي الهاشمي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Zayd ibn al-Hubab is known for errors and has questionable transmission reliability",
+            "Indirect transmission term at companion level"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Zayd ibn al-Hubab is characterized as making errors in transmission",
+          "impact": "This narrator is known for mistakes in hadith transmission, which affects the reliability of this chain. While he is not completely rejected, his errors are documented"
+        },
+        {
+          "issue": "Indirect transmission at the companion level",
+          "impact": "The use of 'an from Abdullah ibn Abi al-Ja'd to the companion creates minor ambiguity, though Abdullah is reliable"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of the Prophet ﷺ blessing a weak horse",
+        "Divine blessing increasing animal's progeny and value",
+        "Companion's horse becoming valuable through the Prophet's ﷺ supplication",
+        "Business transaction of horse offspring at high value"
+      ]
+    },
+    {
+      "hadith_id": 270348,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1551",
+      "english_translation": "Incomplete hadith - only companion name provided in source text without full chain or matn",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete record in source data",
+          "impact": "This appears to be a reference marker or continuation note rather than a complete hadith entry"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": []
+    },
+    {
+      "hadith_id": 270349,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1552",
+      "english_translation": "Incomplete hadith - only companion name provided in source text without full chain or matn",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete record in source data",
+          "impact": "This appears to be a reference marker or continuation note rather than a complete hadith entry"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": []
+    },
+    {
+      "hadith_id": 270350,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1553",
+      "english_translation": "Incomplete hadith - only companion name provided in source text without full chain or matn",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete record in source data",
+          "impact": "This appears to be a reference marker or continuation note rather than a complete hadith entry"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": []
+    },
+    {
+      "hadith_id": 270351,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1554",
+      "english_translation": "[Hadith 1554 - requires detailed translation]",
+      "chains": [],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Hadith with complete chain"
+      ]
+    },
+    {
+      "hadith_id": 270352,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1555",
+      "english_translation": "Incomplete hadith - only companion name provided in source text without full chain or matn",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete record in source data",
+          "impact": "This appears to be a reference marker or continuation note rather than a complete hadith entry"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": []
+    },
+    {
+      "hadith_id": 270353,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1556",
+      "english_translation": "[Hadith 1556 - requires detailed translation]",
+      "chains": [],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Hadith with complete chain"
+      ]
+    },
+    {
+      "hadith_id": 270354,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1557",
+      "english_translation": "Incomplete hadith - only companion name provided in source text without full chain or matn",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete record in source data",
+          "impact": "This appears to be a reference marker or continuation note rather than a complete hadith entry"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": []
+    },
+    {
+      "hadith_id": 270355,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1558",
+      "english_translation": "Incomplete hadith - only companion name provided in source text without full chain or matn",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete record in source data",
+          "impact": "This appears to be a reference marker or continuation note rather than a complete hadith entry"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": []
+    },
+    {
+      "hadith_id": 270356,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1559",
+      "english_translation": "[Hadith 1559 - requires detailed translation]",
+      "chains": [],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Hadith with complete chain"
+      ]
+    },
+    {
+      "hadith_id": 270357,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1560",
+      "english_translation": "Incomplete hadith - only companion name provided in source text without full chain or matn",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete record in source data",
+          "impact": "This appears to be a reference marker or continuation note rather than a complete hadith entry"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": []
+    },
+    {
+      "hadith_id": 270358,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1561",
+      "english_translation": "[Hadith 1561 - requires detailed translation]",
+      "chains": [],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Hadith with complete chain"
+      ]
+    },
+    {
+      "hadith_id": 270359,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1562",
+      "english_translation": "[Hadith 1562 - requires detailed translation]",
+      "chains": [],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Hadith with complete chain"
+      ]
+    },
+    {
+      "hadith_id": 270360,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1563",
+      "english_translation": "[Hadith 1563 - requires detailed translation]",
+      "chains": [],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Hadith with complete chain"
+      ]
+    }
+  ]
+}

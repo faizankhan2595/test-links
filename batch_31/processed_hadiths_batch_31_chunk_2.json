@@ -1,0 +1,614 @@
+{
+  "batch_number": 31,
+  "source_files": [23, 24],
+  "chunk_number": 2,
+  "record_count": 6,
+  "hadiths": [
+    {
+      "hadith_id": 270337,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1540",
+      "english_translation": "Incomplete hadith - only companion name provided in source text without full chain or matn",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete record in source data",
+          "impact": "This appears to be a reference marker or continuation note rather than a complete hadith entry"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": []
+    },
+    {
+      "hadith_id": 270338,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1541",
+      "english_translation": "Narrated by Nawfal ibn Abi Talib: I said: O Messenger of Allah, I am recently come from polytheism, so command me with something that will free me from polytheism. He said: Recite 'Say: O you disbelievers'. The narrator said: And he never abandoned it a single day or night until he died",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Bakr ibn Abi Shaybah",
+              "full_name": "Abdullah ibn Muhammad ibn Abi Shaybah al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 5049,
+              "alternative_names": "Abu Bakr al-Kufi, Ibn Abi Shaybah",
+              "original_id": 4235,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "235",
+              "birth_year": "159",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Ninth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Marwan ibn Mu'awiyah",
+              "full_name": "Marwan ibn Mu'awiyah al-Farra al-Qurashi",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": ["mudallis - though generally considered acceptable"],
+              "narrator_id": 7408,
+              "alternative_names": "Marwan al-Farra, al-Qurashi",
+              "original_id": 6653,
+              "kunya": "",
+              "nisba": "al-Farra al-Qurashi",
+              "nisba_ar": "الفراء القرشي",
+              "death_year": "135",
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Eighth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Malik al-Ashja'i",
+              "full_name": "Hashraj ibn Nubatah al-Ashja'i",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 3248,
+              "alternative_names": "Hashraj al-Ashja'i, Abu Makkah",
+              "original_id": 2385,
+              "kunya": "Abu Makkah",
+              "nisba": "al-Ashja'i",
+              "nisba_ar": "الأشجعي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Abd al-Rahman ibn Nawfal",
+              "full_name": "Abd al-Rahman ibn Nawfal ibn Abi Talib",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4504,
+              "alternative_names": "Abd al-Rahman al-Qurashi",
+              "original_id": 3671,
+              "kunya": "",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Third Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Nawfal ibn Abi Talib",
+              "full_name": "Nawfal ibn Abi Talib ibn Abd al-Muttalib al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 7959,
+              "alternative_names": "Nawfal al-Qurashi",
+              "original_id": 7212,
+              "kunya": "",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi al-Hashimi",
+              "nisba_ar": "القرشي الهاشمي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Marwan ibn Mu'awiyah is known to engage in tadlis but the use of 'anna' transmission is acceptable given his overall reliability",
+            "Multiple indirect transmission terms ('an) from Abu Malik al-Ashja'i through the companion level"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Marwan ibn Mu'awiyah is noted as a mudallis though considered reliable",
+          "impact": "Marwan is known to practice certain forms of tadlis but is generally considered reliable by the majority of scholars. The chain still maintains acceptable integrity despite this consideration"
+        },
+        {
+          "issue": "Indirect transmission terms ('an) in the lower portion of the chain",
+          "impact": "While both Abu Malik and Abd al-Rahman ibn Nawfal are reliable, the use of 'an introduces minor ambiguity. This does not significantly affect the hadith's authenticity given their trustworthiness"
+        }
+      ],
+      "Classical Grade": ["Hasan"],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Person recently converted from polytheism seeking guidance",
+        "Recommendation to recite Surah al-Kafirun for protection from disbelief",
+        "Persistent recitation of Quran"
+      ]
+    },
+    {
+      "hadith_id": 270339,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1542",
+      "english_translation": "Incomplete hadith - only companion name provided in source text without full chain or matn",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete record in source data",
+          "impact": "This appears to be a reference marker or continuation note rather than a complete hadith entry"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": []
+    },
+    {
+      "hadith_id": 270340,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1543",
+      "english_translation": "First chain - Narrated by Tariq ibn Ashyam: I said: O Messenger of Allah, whoever sees me in a dream has truly seen me. Second chain - Narrated by Tariq ibn Ashyam: The Messenger of Allah ﷺ was one of the lightest people in prayer while maintaining completeness",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Bakr ibn Abi Shaybah",
+              "full_name": "Abdullah ibn Muhammad ibn Abi Shaybah al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 5049,
+              "alternative_names": "Abu Bakr al-Kufi, Ibn Abi Shaybah",
+              "original_id": 4235,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "235",
+              "birth_year": "159",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Ninth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Khalaf ibn Khalifah",
+              "full_name": "Khalaf ibn Khalifah ibn Khalid al-Bahili",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2734,
+              "alternative_names": "Khalaf al-Bahili, Abu Khalifah",
+              "original_id": 1853,
+              "kunya": "Abu Khalifah",
+              "nisba": "al-Bahili",
+              "nisba_ar": "الباهلي",
+              "death_year": "226",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Malik al-Ashja'i",
+              "full_name": "Hashraj ibn Nubatah al-Ashja'i",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 3248,
+              "alternative_names": "Hashraj al-Ashja'i, Abu Makkah",
+              "original_id": 2385,
+              "kunya": "Abu Makkah",
+              "nisba": "al-Ashja'i",
+              "nisba_ar": "الأشجعي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Tariq ibn Ashyam",
+              "full_name": "Tariq ibn Ashyam al-Ashja'i",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 3988,
+              "alternative_names": "Tariq al-Ashja'i",
+              "original_id": 3145,
+              "kunya": "Abu Malik",
+              "nisba": "al-Ashja'i",
+              "nisba_ar": "الأشجعي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Arabia",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi al-Hashimi",
+              "nisba_ar": "القرشي الهاشمي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Indirect transmission terms ('an) from Abu Malik al-Ashja'i to the companion",
+            "Change in transmission mode from direct (نَا) to indirect ('an)"
+          ]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ammar ibn Khalid",
+              "full_name": "Ammar ibn Khalid al-Wa'id",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 5849,
+              "alternative_names": "Ammar al-Wa'id, Abu Saeed",
+              "original_id": 5056,
+              "kunya": "Abu Saeed",
+              "nisba": "al-Wa'id",
+              "nisba_ar": "الواعد",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "al-Qasim ibn Malik",
+              "full_name": "al-Qasim ibn Malik al-Umawi",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": ["mudallis - requires direct transmission terms"],
+              "narrator_id": 1595,
+              "alternative_names": "al-Qasim al-Umawi",
+              "original_id": 689,
+              "kunya": "",
+              "nisba": "al-Umawi",
+              "nisba_ar": "الأموي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Seventh Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Malik al-Ashja'i",
+              "full_name": "Hashraj ibn Nubatah al-Ashja'i",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 3248,
+              "alternative_names": "Hashraj al-Ashja'i, Abu Makkah",
+              "original_id": 2385,
+              "kunya": "Abu Makkah",
+              "nisba": "al-Ashja'i",
+              "nisba_ar": "الأشجعي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Tariq ibn Ashyam",
+              "full_name": "Tariq ibn Ashyam al-Ashja'i",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 3988,
+              "alternative_names": "Tariq al-Ashja'i",
+              "original_id": 3145,
+              "kunya": "Abu Malik",
+              "nisba": "al-Ashja'i",
+              "nisba_ar": "الأشجعي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Arabia",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi al-Hashimi",
+              "nisba_ar": "القرشي الهاشمي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "al-Qasim ibn Malik is classified as a mudallis and uses 'an with Abu Malik",
+            "Multiple indirect transmission terms in both chains",
+            "First chain is stronger than second chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain - Indirect transmission terms ('an) from Abu Malik to companion",
+          "impact": "While both narrators are reliable, the use of 'an creates some ambiguity. However, this does not significantly affect the chain's reliability"
+        },
+        {
+          "issue": "Second chain - al-Qasim ibn Malik is classified as a mudallis",
+          "impact": "al-Qasim ibn Malik is known for tadlis and uses indirect transmission in this chain with Abu Malik. While generally acceptable, this slightly weakens the second chain compared to the first"
+        },
+        {
+          "issue": "Two different matns under same chain - may indicate variant transmissions",
+          "impact": "The presence of two different prophetic statements suggests variant accounts of the same incident or separate incidents transmitted together"
+        }
+      ],
+      "Classical Grade": ["Hasan"],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Seeing the Prophet ﷺ in dreams brings true vision",
+        "Description of the Prophet's ﷺ method of prayer being light while maintaining completeness"
+      ]
+    },
+    {
+      "hadith_id": 270341,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1544",
+      "english_translation": "Narrated by Tariq ibn Ashyam: The Messenger of Allah ﷺ said: 'My companions are sufficient for slaughter'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "al-Muqaddami",
+              "full_name": "Umar ibn Amr ibn Abd al-Hamsi al-Muqaddami",
+              "grade": "Saduq",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 6760,
+              "alternative_names": "al-Muqaddami al-Hamsi, Abu Uthman",
+              "original_id": 5992,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Hamsi",
+              "nisba_ar": "الحمصي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Ninth Generation",
+              "location": "Homs",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Husayn ibn Hassan ibn Atiyyah",
+              "full_name": "Husayn ibn Hassan ibn Atiyyah al-Kindi",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نَا",
+              "reliabilityIssues": ["known to make mistakes; gharib narrations"],
+              "narrator_id": 15185,
+              "alternative_names": "Husayn al-Kindi",
+              "original_id": 18649,
+              "kunya": "",
+              "nisba": "al-Kindi",
+              "nisba_ar": "الكندي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Eighth Generation",
+              "location": "Syria",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Malik al-Ashja'i",
+              "full_name": "Hashraj ibn Nubatah al-Ashja'i",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نَا",
+              "reliabilityIssues": [],
+              "narrator_id": 3248,
+              "alternative_names": "Hashraj al-Ashja'i, Abu Makkah",
+              "original_id": 2385,
+              "kunya": "Abu Makkah",
+              "nisba": "al-Ashja'i",
+              "nisba_ar": "الأشجعي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Tariq ibn Ashyam",
+              "full_name": "Tariq ibn Ashyam al-Ashja'i",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 3988,
+              "alternative_names": "Tariq al-Ashja'i",
+              "original_id": 3145,
+              "kunya": "Abu Malik",
+              "nisba": "al-Ashja'i",
+              "nisba_ar": "الأشجعي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Arabia",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Qurashi al-Hashimi",
+              "nisba_ar": "القرشي الهاشمي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Medina",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Husayn ibn Hassan ibn Atiyyah is characterized as one who produces gharib (strange) narrations with errors",
+            "Indirect transmission term at companion level"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Husayn ibn Hassan ibn Atiyyah is known to narrate gharib (unusual) traditions with errors",
+          "impact": "This narrator's reliability is questioned due to producing unusual narrations. The chain's overall reliability is affected by this narrator's known tendencies"
+        },
+        {
+          "issue": "Indirect transmission from Abu Malik to companion",
+          "impact": "While Abu Malik is reliable and the companion is from the first generation, the use of 'an creates some ambiguity in the direct connection"
+        }
+      ],
+      "Classical Grade": ["Hasan"],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Excellence and sufficiency of the Prophet's ﷺ companions",
+        "Companions being sufficient for witnessing and testimony"
+      ]
+    },
+    {
+      "hadith_id": 270342,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1545",
+      "english_translation": "Incomplete hadith - only companion name provided in source text without full chain or matn",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete record in source data",
+          "impact": "This appears to be a reference marker or continuation note rather than a complete hadith entry"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": []
+    }
+  ]
+}
