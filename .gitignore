@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary analysis chunks (already combined in processed_hadiths_43_44.json)
+chunk_*_analysis.json
+
+# Temporary files
+file*.json
+temp*.json
+test*.json
+
+# Split hadiths (intermediate processing files)
+split_hadiths/
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
