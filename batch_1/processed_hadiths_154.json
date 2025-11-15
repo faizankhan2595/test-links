@@ -1,0 +1,2587 @@
+{
+  "batch_number": 1,
+  "file_number": 154,
+  "total_hadiths": 15,
+  "hadiths": [
+    {
+      "hadith_id": 2296,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1341",
+      "english_translation": "Narrated by Mujahid: Regarding Surah Al-Ahzab, he said: Tafsir explanation",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shaybani",
+              "original_id": 27739,
+              "kunya": "Qutayy",
+              "nisba": "al-Attar",
+              "nisba_ar": "العطار",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I was informed"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Muhammad al-Juhani",
+              "original_id": 2,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa",
+              "full_name": "Warqa ibn Umar ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Warqa al-Zarkawi",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarkawi",
+              "nisba_ar": "الزرقي",
+              "death_year": "182",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Nujayh",
+              "full_name": "Abdullah ibn Abi Nujayh al-Asbahi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis",
+                "indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Abdullah ibn Abi Nujayh",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Second generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "103",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Second generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators at beginning",
+            "Mudallis narrator with عَنِ",
+            "Mawquf hadith - does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abd al-Rahman is completely unknown (majhul)",
+          "impact": "Critical issue affecting chain reliability"
+        },
+        {
+          "issue": "Second narrator Ibrahim is unknown",
+          "impact": "Further weakens chain integrity"
+        },
+        {
+          "issue": "Ibn Abi Nujayh is a known mudallis using عَنِ",
+          "impact": "Requires verification of direct connection to Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of الأحزاب 48",
+        "Tafsir explanation of Quranic verses",
+        "Islamic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 2297,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1342",
+      "english_translation": "Narrated by Mujahid: Regarding Surah Al-Ahzab, he said: Tafsir explanation",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shaybani",
+              "original_id": 27739,
+              "kunya": "Qutayy",
+              "nisba": "al-Attar",
+              "nisba_ar": "العطار",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I was informed"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Muhammad al-Juhani",
+              "original_id": 2,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa",
+              "full_name": "Warqa ibn Umar ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Warqa al-Zarkawi",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarkawi",
+              "nisba_ar": "الزرقي",
+              "death_year": "182",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Nujayh",
+              "full_name": "Abdullah ibn Abi Nujayh al-Asbahi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis",
+                "indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Abdullah ibn Abi Nujayh",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Second generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "103",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Second generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators at beginning",
+            "Mudallis narrator with عَنِ",
+            "Mawquf hadith - does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abd al-Rahman is completely unknown (majhul)",
+          "impact": "Critical issue affecting chain reliability"
+        },
+        {
+          "issue": "Second narrator Ibrahim is unknown",
+          "impact": "Further weakens chain integrity"
+        },
+        {
+          "issue": "Ibn Abi Nujayh is a known mudallis using عَنِ",
+          "impact": "Requires verification of direct connection to Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of الأحزاب 50",
+        "Tafsir explanation of Quranic verses",
+        "Islamic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 2298,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1343",
+      "english_translation": "Narrated by Mujahid: Regarding Surah Al-Ahzab, he said: Tafsir explanation",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shaybani",
+              "original_id": 27739,
+              "kunya": "Qutayy",
+              "nisba": "al-Attar",
+              "nisba_ar": "العطار",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I was informed"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Muhammad al-Juhani",
+              "original_id": 2,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa",
+              "full_name": "Warqa ibn Umar ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Warqa al-Zarkawi",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarkawi",
+              "nisba_ar": "الزرقي",
+              "death_year": "182",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Nujayh",
+              "full_name": "Abdullah ibn Abi Nujayh al-Asbahi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis",
+                "indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Abdullah ibn Abi Nujayh",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Second generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "103",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Second generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators at beginning",
+            "Mudallis narrator with عَنِ",
+            "Mawquf hadith - does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abd al-Rahman is completely unknown (majhul)",
+          "impact": "Critical issue affecting chain reliability"
+        },
+        {
+          "issue": "Second narrator Ibrahim is unknown",
+          "impact": "Further weakens chain integrity"
+        },
+        {
+          "issue": "Ibn Abi Nujayh is a known mudallis using عَنِ",
+          "impact": "Requires verification of direct connection to Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of الأحزاب 50",
+        "Tafsir explanation of Quranic verses",
+        "Islamic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 2299,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1344",
+      "english_translation": "Narrated by Mujahid: Regarding Surah Al-Ahzab, he said: تْ :",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shaybani",
+              "original_id": 27739,
+              "kunya": "Qutayy",
+              "nisba": "al-Attar",
+              "nisba_ar": "العطار",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I was informed"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Muhammad al-Juhani",
+              "original_id": 2,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa",
+              "full_name": "Warqa ibn Umar ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Warqa al-Zarkawi",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarkawi",
+              "nisba_ar": "الزرقي",
+              "death_year": "182",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Nujayh",
+              "full_name": "Abdullah ibn Abi Nujayh al-Asbahi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis",
+                "indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Abdullah ibn Abi Nujayh",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Second generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "103",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Second generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators at beginning",
+            "Mudallis narrator with عَنِ",
+            "Mawquf hadith - does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abd al-Rahman is completely unknown (majhul)",
+          "impact": "Critical issue affecting chain reliability"
+        },
+        {
+          "issue": "Second narrator Ibrahim is unknown",
+          "impact": "Further weakens chain integrity"
+        },
+        {
+          "issue": "Ibn Abi Nujayh is a known mudallis using عَنِ",
+          "impact": "Requires verification of direct connection to Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of الأحزاب 51",
+        "Tafsir explanation of Quranic verses",
+        "Islamic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 2300,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1345",
+      "english_translation": "Narrated by Mujahid: Regarding Surah Al-Ahzab, he said: Tafsir explanation",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shaybani",
+              "original_id": 27739,
+              "kunya": "Qutayy",
+              "nisba": "al-Attar",
+              "nisba_ar": "العطار",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I was informed"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Muhammad al-Juhani",
+              "original_id": 2,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa",
+              "full_name": "Warqa ibn Umar ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Warqa al-Zarkawi",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarkawi",
+              "nisba_ar": "الزرقي",
+              "death_year": "182",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Nujayh",
+              "full_name": "Abdullah ibn Abi Nujayh al-Asbahi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis",
+                "indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Abdullah ibn Abi Nujayh",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Second generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "103",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Second generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators at beginning",
+            "Mudallis narrator with عَنِ",
+            "Mawquf hadith - does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abd al-Rahman is completely unknown (majhul)",
+          "impact": "Critical issue affecting chain reliability"
+        },
+        {
+          "issue": "Second narrator Ibrahim is unknown",
+          "impact": "Further weakens chain integrity"
+        },
+        {
+          "issue": "Ibn Abi Nujayh is a known mudallis using عَنِ",
+          "impact": "Requires verification of direct connection to Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of الأحزاب 51",
+        "Tafsir explanation of Quranic verses",
+        "Islamic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 2301,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1346",
+      "english_translation": "Narrated by Mujahid: Regarding Surah Al-Ahzab, he said: : يَعْنِي أَنْ تَبَدَّلَ بِالْمُسْلِمَاتِ غَيْرَهُنَّ مِنَ النَّصَارَى وَالْيَهُ",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shaybani",
+              "original_id": 27739,
+              "kunya": "Qutayy",
+              "nisba": "al-Attar",
+              "nisba_ar": "العطار",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I was informed"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Muhammad al-Juhani",
+              "original_id": 2,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa",
+              "full_name": "Warqa ibn Umar ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Warqa al-Zarkawi",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarkawi",
+              "nisba_ar": "الزرقي",
+              "death_year": "182",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Nujayh",
+              "full_name": "Abdullah ibn Abi Nujayh al-Asbahi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis",
+                "indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Abdullah ibn Abi Nujayh",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Second generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "103",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Second generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators at beginning",
+            "Mudallis narrator with عَنِ",
+            "Mawquf hadith - does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abd al-Rahman is completely unknown (majhul)",
+          "impact": "Critical issue affecting chain reliability"
+        },
+        {
+          "issue": "Second narrator Ibrahim is unknown",
+          "impact": "Further weakens chain integrity"
+        },
+        {
+          "issue": "Ibn Abi Nujayh is a known mudallis using عَنِ",
+          "impact": "Requires verification of direct connection to Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of الأحزاب 52",
+        "Tafsir explanation of Quranic verses",
+        "Islamic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 2302,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1347",
+      "english_translation": "Narrated by Mujahid: Regarding Surah Al-Ahzab, he said: Tafsir explanation",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shaybani",
+              "original_id": 27739,
+              "kunya": "Qutayy",
+              "nisba": "al-Attar",
+              "nisba_ar": "العطار",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I was informed"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Muhammad al-Juhani",
+              "original_id": 2,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa",
+              "full_name": "Warqa ibn Umar ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Warqa al-Zarkawi",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarkawi",
+              "nisba_ar": "الزرقي",
+              "death_year": "182",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Nujayh",
+              "full_name": "Abdullah ibn Abi Nujayh al-Asbahi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis",
+                "indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Abdullah ibn Abi Nujayh",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Second generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "103",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Second generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators at beginning",
+            "Mudallis narrator with عَنِ",
+            "Mawquf hadith - does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abd al-Rahman is completely unknown (majhul)",
+          "impact": "Critical issue affecting chain reliability"
+        },
+        {
+          "issue": "Second narrator Ibrahim is unknown",
+          "impact": "Further weakens chain integrity"
+        },
+        {
+          "issue": "Ibn Abi Nujayh is a known mudallis using عَنِ",
+          "impact": "Requires verification of direct connection to Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of الأحزاب 53",
+        "Tafsir explanation of Quranic verses",
+        "Islamic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 2303,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1348",
+      "english_translation": "Narrated by Mujahid: Regarding Surah Al-Ahzab, he said: Tafsir explanation",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shaybani",
+              "original_id": 27739,
+              "kunya": "Qutayy",
+              "nisba": "al-Attar",
+              "nisba_ar": "العطار",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I was informed"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Muhammad al-Juhani",
+              "original_id": 2,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa",
+              "full_name": "Warqa ibn Umar ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Warqa al-Zarkawi",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarkawi",
+              "nisba_ar": "الزرقي",
+              "death_year": "182",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Nujayh",
+              "full_name": "Abdullah ibn Abi Nujayh al-Asbahi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis",
+                "indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Abdullah ibn Abi Nujayh",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Second generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "103",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Second generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators at beginning",
+            "Mudallis narrator with عَنِ",
+            "Mawquf hadith - does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abd al-Rahman is completely unknown (majhul)",
+          "impact": "Critical issue affecting chain reliability"
+        },
+        {
+          "issue": "Second narrator Ibrahim is unknown",
+          "impact": "Further weakens chain integrity"
+        },
+        {
+          "issue": "Ibn Abi Nujayh is a known mudallis using عَنِ",
+          "impact": "Requires verification of direct connection to Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of الأحزاب 53",
+        "Tafsir explanation of Quranic verses",
+        "Islamic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 2304,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1349",
+      "english_translation": "Narrated by Mujahid: Regarding Surah Al-Ahzab, he said: Tafsir explanation",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shaybani",
+              "original_id": 27739,
+              "kunya": "Qutayy",
+              "nisba": "al-Attar",
+              "nisba_ar": "العطار",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I was informed"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Muhammad al-Juhani",
+              "original_id": 2,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa",
+              "full_name": "Warqa ibn Umar ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Warqa al-Zarkawi",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarkawi",
+              "nisba_ar": "الزرقي",
+              "death_year": "182",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Nujayh",
+              "full_name": "Abdullah ibn Abi Nujayh al-Asbahi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis",
+                "indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Abdullah ibn Abi Nujayh",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Second generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "103",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Second generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators at beginning",
+            "Mudallis narrator with عَنِ",
+            "Mawquf hadith - does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abd al-Rahman is completely unknown (majhul)",
+          "impact": "Critical issue affecting chain reliability"
+        },
+        {
+          "issue": "Second narrator Ibrahim is unknown",
+          "impact": "Further weakens chain integrity"
+        },
+        {
+          "issue": "Ibn Abi Nujayh is a known mudallis using عَنِ",
+          "impact": "Requires verification of direct connection to Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of الأحزاب 55",
+        "Tafsir explanation of Quranic verses",
+        "Islamic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 2305,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1350",
+      "english_translation": "Narrated by Mujahid: Regarding Surah Al-Ahzab, he said: : صَلاةُ اللَّهِ عَلَيْهِ ثَنَاؤُهُ عَلَيْهِ عِنْدَ الْمَلائِكَةِ",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shaybani",
+              "original_id": 27739,
+              "kunya": "Qutayy",
+              "nisba": "al-Attar",
+              "nisba_ar": "العطار",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I was informed"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Muhammad al-Juhani",
+              "original_id": 2,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa",
+              "full_name": "Warqa ibn Umar ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Warqa al-Zarkawi",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarkawi",
+              "nisba_ar": "الزرقي",
+              "death_year": "182",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Nujayh",
+              "full_name": "Abdullah ibn Abi Nujayh al-Asbahi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis",
+                "indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Abdullah ibn Abi Nujayh",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Second generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "103",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Second generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators at beginning",
+            "Mudallis narrator with عَنِ",
+            "Mawquf hadith - does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abd al-Rahman is completely unknown (majhul)",
+          "impact": "Critical issue affecting chain reliability"
+        },
+        {
+          "issue": "Second narrator Ibrahim is unknown",
+          "impact": "Further weakens chain integrity"
+        },
+        {
+          "issue": "Ibn Abi Nujayh is a known mudallis using عَنِ",
+          "impact": "Requires verification of direct connection to Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of الأحزاب 56",
+        "Tafsir explanation of Quranic verses",
+        "Islamic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 2306,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1351",
+      "english_translation": "Narrated by Mujahid: Regarding Surah Al-Ahzab, he said: Tafsir explanation",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shaybani",
+              "original_id": 27739,
+              "kunya": "Qutayy",
+              "nisba": "al-Attar",
+              "nisba_ar": "العطار",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I was informed"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Muhammad al-Juhani",
+              "original_id": 2,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa",
+              "full_name": "Warqa ibn Umar ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Warqa al-Zarkawi",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarkawi",
+              "nisba_ar": "الزرقي",
+              "death_year": "182",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Nujayh",
+              "full_name": "Abdullah ibn Abi Nujayh al-Asbahi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis",
+                "indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Abdullah ibn Abi Nujayh",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Second generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "103",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Second generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators at beginning",
+            "Mudallis narrator with عَنِ",
+            "Mawquf hadith - does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abd al-Rahman is completely unknown (majhul)",
+          "impact": "Critical issue affecting chain reliability"
+        },
+        {
+          "issue": "Second narrator Ibrahim is unknown",
+          "impact": "Further weakens chain integrity"
+        },
+        {
+          "issue": "Ibn Abi Nujayh is a known mudallis using عَنِ",
+          "impact": "Requires verification of direct connection to Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of الأحزاب 58",
+        "Tafsir explanation of Quranic verses",
+        "Islamic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 2307,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1352",
+      "english_translation": "Narrated by Mujahid: Regarding Surah Al-Ahzab, he said: Tafsir explanation",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shaybani",
+              "original_id": 27739,
+              "kunya": "Qutayy",
+              "nisba": "al-Attar",
+              "nisba_ar": "العطار",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I was informed"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Muhammad al-Juhani",
+              "original_id": 2,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa",
+              "full_name": "Warqa ibn Umar ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Warqa al-Zarkawi",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarkawi",
+              "nisba_ar": "الزرقي",
+              "death_year": "182",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Nujayh",
+              "full_name": "Abdullah ibn Abi Nujayh al-Asbahi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis",
+                "indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Abdullah ibn Abi Nujayh",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Second generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "103",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Second generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators at beginning",
+            "Mudallis narrator with عَنِ",
+            "Mawquf hadith - does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abd al-Rahman is completely unknown (majhul)",
+          "impact": "Critical issue affecting chain reliability"
+        },
+        {
+          "issue": "Second narrator Ibrahim is unknown",
+          "impact": "Further weakens chain integrity"
+        },
+        {
+          "issue": "Ibn Abi Nujayh is a known mudallis using عَنِ",
+          "impact": "Requires verification of direct connection to Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of الأحزاب 59",
+        "Tafsir explanation of Quranic verses",
+        "Islamic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 2308,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1353",
+      "english_translation": "Narrated by Mujahid: Regarding Surah Al-Ahzab, he said: :",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shaybani",
+              "original_id": 27739,
+              "kunya": "Qutayy",
+              "nisba": "al-Attar",
+              "nisba_ar": "العطار",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I was informed"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Muhammad al-Juhani",
+              "original_id": 2,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa",
+              "full_name": "Warqa ibn Umar ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Warqa al-Zarkawi",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarkawi",
+              "nisba_ar": "الزرقي",
+              "death_year": "182",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Nujayh",
+              "full_name": "Abdullah ibn Abi Nujayh al-Asbahi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis",
+                "indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Abdullah ibn Abi Nujayh",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Second generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "103",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Second generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators at beginning",
+            "Mudallis narrator with عَنِ",
+            "Mawquf hadith - does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abd al-Rahman is completely unknown (majhul)",
+          "impact": "Critical issue affecting chain reliability"
+        },
+        {
+          "issue": "Second narrator Ibrahim is unknown",
+          "impact": "Further weakens chain integrity"
+        },
+        {
+          "issue": "Ibn Abi Nujayh is a known mudallis using عَنِ",
+          "impact": "Requires verification of direct connection to Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of الأحزاب 69",
+        "Tafsir explanation of Quranic verses",
+        "Islamic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 2309,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1354",
+      "english_translation": "Narrated by Mujahid: Regarding Surah Al-Ahzab, he said: : يَعْنِي قَوْلا سِدَادًا * \r\n E282",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shaybani",
+              "original_id": 27739,
+              "kunya": "Qutayy",
+              "nisba": "al-Attar",
+              "nisba_ar": "العطار",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I was informed"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Muhammad al-Juhani",
+              "original_id": 2,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa",
+              "full_name": "Warqa ibn Umar ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Warqa al-Zarkawi",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarkawi",
+              "nisba_ar": "الزرقي",
+              "death_year": "182",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Nujayh",
+              "full_name": "Abdullah ibn Abi Nujayh al-Asbahi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis",
+                "indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Abdullah ibn Abi Nujayh",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Second generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "103",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Second generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators at beginning",
+            "Mudallis narrator with عَنِ",
+            "Mawquf hadith - does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abd al-Rahman is completely unknown (majhul)",
+          "impact": "Critical issue affecting chain reliability"
+        },
+        {
+          "issue": "Second narrator Ibrahim is unknown",
+          "impact": "Further weakens chain integrity"
+        },
+        {
+          "issue": "Ibn Abi Nujayh is a known mudallis using عَنِ",
+          "impact": "Requires verification of direct connection to Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of الأحزاب 70",
+        "Tafsir explanation of Quranic verses",
+        "Islamic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 2310,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1355",
+      "english_translation": "Narrated by Mujahid: Regarding Surah Al-Ahzab, he said: Tafsir explanation",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shaybani",
+              "original_id": 27739,
+              "kunya": "Qutayy",
+              "nisba": "al-Attar",
+              "nisba_ar": "العطار",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I was informed"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim",
+              "grade": "Majhul",
+              "generation": "Late generations",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Unknown narrator"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Muhammad al-Juhani",
+              "original_id": 2,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa",
+              "full_name": "Warqa ibn Umar ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Warqa al-Zarkawi",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarkawi",
+              "nisba_ar": "الزرقي",
+              "death_year": "182",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Nujayh",
+              "full_name": "Abdullah ibn Abi Nujayh al-Asbahi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second generation of collectors",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis",
+                "indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Abdullah ibn Abi Nujayh",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Fourth generation",
+              "location": "Egypt",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Second generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "103",
+              "birth_year": "21",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Second generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators at beginning",
+            "Mudallis narrator with عَنِ",
+            "Mawquf hadith - does not reach the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abd al-Rahman is completely unknown (majhul)",
+          "impact": "Critical issue affecting chain reliability"
+        },
+        {
+          "issue": "Second narrator Ibrahim is unknown",
+          "impact": "Further weakens chain integrity"
+        },
+        {
+          "issue": "Ibn Abi Nujayh is a known mudallis using عَنِ",
+          "impact": "Requires verification of direct connection to Mujahid"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of سبأ 3",
+        "Tafsir explanation of Quranic verses",
+        "Islamic exegesis"
+      ]
+    }
+  ]
+}
