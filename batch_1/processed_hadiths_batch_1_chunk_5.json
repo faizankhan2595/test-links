@@ -1,0 +1,299 @@
+[
+  {
+    "hadith_id": 6715,
+    "book_id": 13,
+    "book_name_ar": "كتاب رقم 13",
+    "book_name_en": "Unknown Hadith Collection (Book 13)",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "1744",
+    "english_translation": "I heard al-Nu'man ibn al-Zubayr al-San'ani narrating...",
+    "chains": [],
+    "potential_issues": [
+      {
+        "issue": "Incomplete hadith data in source",
+        "impact": "Unable to fully analyze transmission chain"
+      }
+    ],
+    "Classical Grade": [
+      "Daif"
+    ],
+    "IISGrade": "Problematic",
+    "Topics": []
+  },
+  {
+    "hadith_id": 6716,
+    "book_id": 13,
+    "book_name_ar": "كتاب رقم 13",
+    "book_name_en": "Unknown Hadith Collection (Book 13)",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "1",
+    "english_translation": "In the name of Allah, the Most Merciful - Editor's notice and introduction",
+    "chains": [],
+    "potential_issues": [
+      {
+        "issue": "Editorial heading/Basmallah, not a hadith",
+        "impact": "No hadith analysis applicable"
+      }
+    ],
+    "Classical Grade": [
+      "Daif"
+    ],
+    "IISGrade": "Problematic",
+    "Topics": []
+  },
+  {
+    "hadith_id": 6717,
+    "book_id": 13,
+    "book_name_ar": "كتاب رقم 13",
+    "book_name_en": "Unknown Hadith Collection (Book 13)",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "2",
+    "english_translation": "Narrated from Qatadah, from al-Hasan: It was mentioned to us that...",
+    "chains": [
+      {
+        "type": "marfu'",
+        "narrators": [
+          {
+            "name": "Qatadah",
+            "full_name": "Qatadah ibn Di'amah al-Sadusi",
+            "grade": "Thiqah Thabt",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "mudallis - category 3"
+            ],
+            "narrator_id": 6458,
+            "alternative_names": "Qatadah al-Basri",
+            "original_id": 5683,
+            "kunya": "Abu al-Khattab",
+            "nisba": "al-Sadusi",
+            "nisba_ar": "السدوسي",
+            "death_year": "118",
+            "birth_year": "61",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "2",
+            "location": "Basra",
+            "transmissionTermMeaning": "From"
+          },
+          {
+            "name": "Al-Hasan al-Basri",
+            "full_name": "Al-Hasan ibn Abi al-Hasan al-Basri",
+            "grade": "Thiqah Thabt",
+            "generation": "Second Generation",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [],
+            "narrator_id": 1239,
+            "alternative_names": "Al-Hasan al-Basri",
+            "original_id": 0,
+            "kunya": "Abu Sa'id",
+            "nisba": "al-Basri",
+            "nisba_ar": "البصري",
+            "death_year": "110",
+            "birth_year": "21",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "2",
+            "location": "Basra",
+            "transmissionTermMeaning": "He said"
+          }
+        ],
+        "chainIssues": [
+          "Qatadah mudallis using عَنْ but thiqah thabt overall"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Qatadah mudallis using عَنْ",
+        "impact": "Noted but acceptable given overall reliability"
+      }
+    ],
+    "Classical Grade": [
+      "Hasan"
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": []
+  },
+  {
+    "hadith_id": 6718,
+    "book_id": 13,
+    "book_name_ar": "كتاب رقم 13",
+    "book_name_en": "Unknown Hadith Collection (Book 13)",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "3",
+    "english_translation": "Narrated from Qatadah who said: It was mentioned to us that the Prophet ﷺ said...",
+    "chains": [
+      {
+        "type": "mursal",
+        "narrators": [
+          {
+            "name": "Qatadah",
+            "full_name": "Qatadah ibn Di'amah al-Sadusi",
+            "grade": "Thiqah Thabt",
+            "generation": "Second Generation",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [
+              "mursal - unspecified source"
+            ],
+            "narrator_id": 6458,
+            "alternative_names": "Qatadah al-Basri",
+            "original_id": 5683,
+            "kunya": "Abu al-Khattab",
+            "nisba": "al-Sadusi",
+            "nisba_ar": "السدوسي",
+            "death_year": "118",
+            "birth_year": "61",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "2",
+            "location": "Basra",
+            "transmissionTermMeaning": "He said"
+          }
+        ],
+        "chainIssues": [
+          "Mursal - vague source ('mentioned to us')"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Mursal hadith with vague chain",
+        "impact": "Missing specification of immediate source"
+      }
+    ],
+    "Classical Grade": [
+      "Daif"
+    ],
+    "IISGrade": "Disconnections But All Narrators Are Ok",
+    "Topics": []
+  },
+  {
+    "hadith_id": 6719,
+    "book_id": 13,
+    "book_name_ar": "كتاب رقم 13",
+    "book_name_en": "Unknown Hadith Collection (Book 13)",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "4",
+    "english_translation": "Narrated from Qatadah who said: It was mentioned to us that Umar ibn al-Khattab said...",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "Qatadah",
+            "full_name": "Qatadah ibn Di'amah al-Sadusi",
+            "grade": "Thiqah Thabt",
+            "generation": "Second Generation",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [],
+            "narrator_id": 6458,
+            "alternative_names": "Qatadah al-Basri",
+            "original_id": 5683,
+            "kunya": "Abu al-Khattab",
+            "nisba": "al-Sadusi",
+            "nisba_ar": "السدوسي",
+            "death_year": "118",
+            "birth_year": "61",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "2",
+            "location": "Basra",
+            "transmissionTermMeaning": "He said"
+          }
+        ],
+        "chainIssues": [
+          "Mawquf - companion's statement"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Mawquf hadith",
+        "impact": "Statement of companion Umar, not Prophet"
+      }
+    ],
+    "Classical Grade": [
+      "Daif"
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": []
+  },
+  {
+    "hadith_id": 6720,
+    "book_id": 13,
+    "book_name_ar": "كتاب رقم 13",
+    "book_name_en": "Unknown Hadith Collection (Book 13)",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "5",
+    "english_translation": "Narrated from a companion of his, from al-Hakam ibn Utaybah...",
+    "chains": [
+      {
+        "type": "marfu'",
+        "narrators": [
+          {
+            "name": "Unidentified companion",
+            "full_name": "Unknown narrator",
+            "grade": "Majhul",
+            "generation": "Unknown",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "unidentified - majhul"
+            ],
+            "narrator_id": 1131,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "Unknown",
+            "location": "",
+            "transmissionTermMeaning": "From"
+          },
+          {
+            "name": "Al-Hakam ibn Utaybah",
+            "full_name": "Al-Hakam ibn Utaybah al-Thaqafi",
+            "grade": "Saduq Yukhtī",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": [
+              "saduq yukhti'"
+            ],
+            "narrator_id": 0,
+            "alternative_names": "Al-Hakam al-Kufi",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "al-Thaqafi",
+            "nisba_ar": "الثقفي",
+            "death_year": "113",
+            "birth_year": "45",
+            "reliability_grade": "Saduq Yukhtī",
+            "tabaqat": "4",
+            "location": "Kufa",
+            "transmissionTermMeaning": "From"
+          }
+        ],
+        "chainIssues": [
+          "Unidentified first narrator (majhul)",
+          "Al-Hakam ibn Utaybah is saduq yukhti'"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Unidentified narrator and saduq yukhti' narrator",
+        "impact": "Significantly weakens chain reliability"
+      }
+    ],
+    "Classical Grade": [
+      "Daif"
+    ],
+    "IISGrade": "Weak But Might Be Acceptable",
+    "Topics": []
+  }
+]
