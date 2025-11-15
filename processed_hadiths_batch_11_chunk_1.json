@@ -1,0 +1,853 @@
+{
+  "batch_number": 11,
+  "chunk_number": 1,
+  "processed_count": 6,
+  "hadiths": [
+    {
+      "hadith_id": 91505,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10111",
+      "english_translation": "Narrated by Amr ibn Ba'ja: I saw Ali in Al-Madain, he was brought a striped (silk) mule. When he put his hand on the saddle bow, it slipped. He said: 'What is this?' They said: 'Dibaj (fine silk).' So he refused to ride it.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ubaidullah ibn Musa",
+              "full_name": "Ubaidullah ibn Musa ibn Tayhan al-Absi Abu Muhammad",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 5437,
+              "alternative_names": "Abu Muhammad al-Absi, Ibn Musa",
+              "original_id": 4632,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Absi",
+              "nisba_ar": "العبسي",
+              "death_year": "213",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct narration)"
+            },
+            {
+              "name": "Isra'il",
+              "full_name": "Isra'il ibn Yunus ibn Abi Ishaq al-Hamdani Abu Yusuf",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 982,
+              "alternative_names": "Abu Yusuf al-Hamdani, Isra'il ibn Yunus",
+              "original_id": 55,
+              "kunya": "Abu Yusuf",
+              "nisba": "al-Hamdani",
+              "nisba_ar": "الهمداني",
+              "death_year": "160",
+              "birth_year": "80",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct narration)"
+            },
+            {
+              "name": "Abu Ishaq al-Sabi'i",
+              "full_name": "Amr ibn Abd Allah al-Hamdani Abu Ishaq al-Sabi'i",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ],
+              "narrator_id": 6155,
+              "alternative_names": "Abu Ishaq al-Hamdani, Amr ibn Abd Allah",
+              "original_id": 5373,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sabi'i",
+              "nisba_ar": "السابعي",
+              "death_year": "128",
+              "birth_year": "53",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Amr ibn Ba'ja",
+              "full_name": "Amr ibn Ba'ja ibn Rafi ibn Haritha al-Muradi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 3322,
+              "alternative_names": "Amr ibn Ba'ja al-Muradi",
+              "original_id": 2465,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Muradi",
+              "nisba_ar": "المرادي",
+              "death_year": "125",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (direct from companion)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Amir al-Mu'minin, Lion of Allah",
+              "original_id": 4929,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "23 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Abu Ishaq al-Sabi'i uses 'an (عَنْ) despite being classified as a mudallis (category 3). However, he is still considered thiqah by majority of scholars, and this transmission to reliable narrators does not significantly affect reliability.",
+            "Multiple indirect transmission terms ('an/عَنْ) used between otherwise thiqah narrators in the middle of chain."
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ishaq al-Sabi'i is a known mudallis (category 3) narrating through indirect transmission term (عَنْ). However, he is widely accepted as reliable by hadith scholars despite his tadlis.",
+          "impact": "Minimal impact on hadith reliability as Abu Ishaq remains a thiqah narrator and the chain remains generally strong. This is an example of a mudallis who is still considered reliable."
+        },
+        {
+          "issue": "Mawquf hadith (stopped at companion Ali) - not elevated to the Prophet ﷺ",
+          "impact": "Reduces authority level from marfu' to mawquf, but still valuable as it relates the statement of a companion."
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Ali refusing to ride striped silk mule",
+        "Modesty and asceticism of Ali ibn Abi Talib",
+        "Avoidance of luxurious garments and ornaments"
+      ]
+    },
+    {
+      "hadith_id": 91509,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10115",
+      "english_translation": "Narrated by Ali: Allah has made war deception upon the tongue of His Prophet ﷺ.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ubaidullah ibn Musa",
+              "full_name": "Ubaidullah ibn Musa ibn Tayhan al-Absi Abu Muhammad",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 5437,
+              "alternative_names": "Abu Muhammad al-Absi, Ibn Musa",
+              "original_id": 4632,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Absi",
+              "nisba_ar": "العبسي",
+              "death_year": "213",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct narration)"
+            },
+            {
+              "name": "Isra'il",
+              "full_name": "Isra'il ibn Yunus ibn Abi Ishaq al-Hamdani Abu Yusuf",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 982,
+              "alternative_names": "Abu Yusuf al-Hamdani, Isra'il ibn Yunus",
+              "original_id": 55,
+              "kunya": "Abu Yusuf",
+              "nisba": "al-Hamdani",
+              "nisba_ar": "الهمداني",
+              "death_year": "160",
+              "birth_year": "80",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (strong direct connection)"
+            },
+            {
+              "name": "Abu Ishaq al-Sabi'i",
+              "full_name": "Amr ibn Abd Allah al-Hamdani Abu Ishaq al-Sabi'i",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ],
+              "narrator_id": 6155,
+              "alternative_names": "Abu Ishaq al-Hamdani, Amr ibn Abd Allah",
+              "original_id": 5373,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sabi'i",
+              "nisba_ar": "السابعي",
+              "death_year": "128",
+              "birth_year": "53",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Saeed ibn Dhi Huddaan",
+              "full_name": "Saeed ibn Dhi Huddaan al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 3322,
+              "alternative_names": "Saeed ibn Dhi Huddaan",
+              "original_id": 2465,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "120",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Taif",
+              "transmissionTermMeaning": "From (direct from companion)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Amir al-Mu'minin, Lion of Allah",
+              "original_id": 4929,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "23 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Abu Ishaq al-Sabi'i is a mudallis (category 3) using indirect transmission (عَنْ). However, he remains widely accepted as thiqah.",
+            "Difference in transmission terms between Isra'il (حَدَّثَنَا) and Abu Ishaq (عَنْ)."
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ishaq al-Sabi'i, a known mudallis (category 3), narrating through indirect transmission (عَنْ). Despite this, he is considered reliable by the majority of scholars.",
+          "impact": "While tadlis is noted, Abu Ishaq's reliability is well-established, so the impact on the hadith's authenticity is minimal."
+        },
+        {
+          "issue": "Mawquf hadith - statement of companion Ali, not attributed to the Prophet ﷺ",
+          "impact": "Limits to companion opinion rather than prophetic statement."
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "War as deception",
+        "Stratagem and deception in warfare",
+        "Teachings of Ali about military strategy"
+      ]
+    },
+    {
+      "hadith_id": 91513,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10119",
+      "english_translation": "Narrated by Ali ibn Abi Talib: Whoever desires to look at the eloquent and virtuous, let him look at Aktal ibn Shammakh.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Abd Allah al-Asadi",
+              "full_name": "Muhammad ibn Abd Allah ibn Ahmad ibn Ubayd al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 1,
+              "alternative_names": "Al-Asadi",
+              "original_id": 1,
+              "kunya": "Abu Abd Allah",
+              "nisba": "al-Asadi",
+              "nisba_ar": "الأسدي",
+              "death_year": "215",
+              "birth_year": "140",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Baghdad",
+              "transmissionTermMeaning": "He informed us (direct narration)"
+            },
+            {
+              "name": "Al-Fadl ibn Dukain",
+              "full_name": "Al-Fadl ibn Dukain ibn al-Fadl al-Qurashi Abu Khalid",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2,
+              "alternative_names": "Abu Khalid al-Qurashi",
+              "original_id": 2,
+              "kunya": "Abu Khalid",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "214",
+              "birth_year": "139",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct narration)"
+            },
+            {
+              "name": "Sufyan al-Thawri",
+              "full_name": "Sufyan ibn Said al-Thawri Abu Abd Allah",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 3,
+              "alternative_names": "Sufyan al-Thawri, Abu Abd Allah",
+              "original_id": 3,
+              "kunya": "Abu Abd Allah",
+              "nisba": "al-Thawri",
+              "nisba_ar": "الثوري",
+              "death_year": "161",
+              "birth_year": "97",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Kufa/Basra",
+              "transmissionTermMeaning": "He narrated to us (strong direct connection)"
+            },
+            {
+              "name": "Jabir ibn Abd Allah",
+              "full_name": "Jabir ibn Abd Allah ibn Amr ibn Haram al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4,
+              "alternative_names": "Jabir al-Ansari, Abu Abd Allah",
+              "original_id": 4,
+              "kunya": "Abu Abd Allah",
+              "nisba": "al-Ansari",
+              "nisba_ar": "الأنصاري",
+              "death_year": "78",
+              "birth_year": "0",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah",
+              "transmissionTermMeaning": "From (companion to later generation)"
+            },
+            {
+              "name": "Abdullah ibn Najiy",
+              "full_name": "Abdullah ibn Najiy al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 5,
+              "alternative_names": "Abdullah ibn Najiy",
+              "original_id": 5,
+              "kunya": "Abu Hafs",
+              "nisba": "al-Ansari",
+              "nisba_ar": "الأنصاري",
+              "death_year": "115",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Madinah",
+              "transmissionTermMeaning": "From (direct from companion)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Amir al-Mu'minin, Lion of Allah",
+              "original_id": 4929,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "23 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Double narration from two narrators (Muhammad al-Asadi and Al-Fadl ibn Dukain) both narrating from Sufyan.",
+            "Sufyan narrating from a companion (Jabir) through indirect transmission, which is typical for this period."
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Long chain with multiple indirect transmissions (عَنْ) between third generation narrators and earlier generations",
+          "impact": "While not ideal, all narrators in the chain are reliable, so the multiple indirect terms do not significantly impact authenticity."
+        },
+        {
+          "issue": "Mawquf hadith - companion's statement about praising Aktal ibn Shammakh",
+          "impact": "Represents companion's opinion rather than prophetic instruction."
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Description of virtuous person named Aktal ibn Shammakh",
+        "Qualities of eloquence and righteousness",
+        "Ali's testimonial about virtuous individuals"
+      ]
+    },
+    {
+      "hadith_id": 91516,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10122",
+      "english_translation": "Narrated by Aus ibn Mielaq al-Asadi: He heard Ali saying: There will certainly be blood at this gate that will reach from the horses to their haunches.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Affan ibn Muslim",
+              "full_name": "Affan ibn Muslim ibn Affan al-Mawsili Abu Uthman",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 6,
+              "alternative_names": "Abu Uthman al-Mawsili",
+              "original_id": 6,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Mawsili",
+              "nisba_ar": "الموصلي",
+              "death_year": "220",
+              "birth_year": "150",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "9",
+              "location": "Mosul",
+              "transmissionTermMeaning": "He said (indicating narration from his teacher)"
+            },
+            {
+              "name": "Abu Awanah",
+              "full_name": "Waddah ibn Ataa Abu Awanah al-Wasiti",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 7,
+              "alternative_names": "Waddah ibn Ataa, Abu Awanah",
+              "original_id": 7,
+              "kunya": "Abu Awanah",
+              "nisba": "al-Wasiti",
+              "nisba_ar": "الواسطي",
+              "death_year": "175",
+              "birth_year": "110",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Wasit",
+              "transmissionTermMeaning": "He informed us (direct narration)"
+            },
+            {
+              "name": "Sinan ibn Habib",
+              "full_name": "Sinan ibn Habib al-Uqaili Abu Bilal",
+              "grade": "Layyin al-Hadith",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak_narrator"
+              ],
+              "narrator_id": 8,
+              "alternative_names": "Abu Bilal al-Uqaili",
+              "original_id": 8,
+              "kunya": "Abu Bilal",
+              "nisba": "al-Uqaili",
+              "nisba_ar": "العقيلي",
+              "death_year": "130",
+              "birth_year": "",
+              "reliability_grade": "Layyin al-Hadith",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (potentially weak connection)"
+            },
+            {
+              "name": "Nabl bint Badr",
+              "full_name": "Nabl bint Badr ibn Malik al-Muradi",
+              "grade": "Majhul al-Hal",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "female_narrator",
+                "majhul_hal"
+              ],
+              "narrator_id": 9,
+              "alternative_names": "Nabl bint Badr",
+              "original_id": 9,
+              "kunya": "",
+              "nisba": "al-Muradi",
+              "nisba_ar": "المرادي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "3",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (status unknown)"
+            },
+            {
+              "name": "Aus ibn Mielaq al-Asadi",
+              "full_name": "Aus ibn Mielaq al-Asadi",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 10,
+              "alternative_names": "Aus ibn Mielaq",
+              "original_id": 10,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Asadi",
+              "nisba_ar": "الأسدي",
+              "death_year": "110",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "3",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (heard from companion)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Amir al-Mu'minin, Lion of Allah",
+              "original_id": 4929,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "23 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Madinah/Kufa",
+              "transmissionTermMeaning": "He heard"
+            }
+          ],
+          "chainIssues": [
+            "Sinan ibn Habib is classified as Layyin al-Hadith (weak in hadith), which weakens this chain.",
+            "Nabl bint Badr is majhul al-hal (status unknown), and only appears once in the chain.",
+            "Multiple indirect transmissions (عَنْ) from woman narrator through second and third generation."
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Sinan ibn Habib is classified as Layyin al-Hadith (light/weak in hadith transmission), narrating about a female narrator",
+          "impact": "This weakens the chain significantly. While not necessarily fabricated, the reliability is compromised."
+        },
+        {
+          "issue": "Nabl bint Badr has status of majhul al-hal (unknown reliability), appearing only once in transmission",
+          "impact": "Unknown female narrator in chain adds uncertainty about accuracy of transmission."
+        },
+        {
+          "issue": "Indirect transmission through female narrator from third generation to companion",
+          "impact": "Decreases reliability further."
+        },
+        {
+          "issue": "Mawquf hadith - statement of companion Ali about future events",
+          "impact": "Companion's prophetic statement about future bloodshed, which has historical context (Battle of the Camel)."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of bloodshed predicted at a gate",
+        "Ali's prophetic knowledge of future events",
+        "Battle of the Camel and its aftermath"
+      ]
+    },
+    {
+      "hadith_id": 91517,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10123",
+      "english_translation": "Narrated: Ali drank nabidh (fermented beverage) from a green jar.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Affan ibn Muslim",
+              "full_name": "Affan ibn Muslim ibn Affan al-Mawsili Abu Uthman",
+              "grade": "Thiqah Thabt",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 6,
+              "alternative_names": "Abu Uthman al-Mawsili",
+              "original_id": 6,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Mawsili",
+              "nisba_ar": "الموصلي",
+              "death_year": "220",
+              "birth_year": "150",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "9",
+              "location": "Mosul",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Shu'bah ibn al-Hajjaj",
+              "full_name": "Shu'bah ibn al-Hajjaj ibn al-Ward Abu Bistam al-Ataki",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 11,
+              "alternative_names": "Abu Bistam al-Ataki, Shu'bah",
+              "original_id": 11,
+              "kunya": "Abu Bistam",
+              "nisba": "al-Ataki",
+              "nisba_ar": "العتكي",
+              "death_year": "160",
+              "birth_year": "83",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (strong direct connection)"
+            },
+            {
+              "name": "Sulayman al-A'mash",
+              "full_name": "Sulayman ibn Mihran al-A'mash Abu Muhammad",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis_category_2"
+              ],
+              "narrator_id": 12,
+              "alternative_names": "al-A'mash, Abu Muhammad",
+              "original_id": 12,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-A'mash",
+              "nisba_ar": "الأعمش",
+              "death_year": "148",
+              "birth_year": "61",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (possibly indirect)"
+            },
+            {
+              "name": "Musa ibn Tarif",
+              "full_name": "Musa ibn Tarif al-Muqri al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 13,
+              "alternative_names": "Musa ibn Tarif",
+              "original_id": 13,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "130",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (from his father)"
+            },
+            {
+              "name": "Tarif ibn Tarif",
+              "full_name": "Tarif ibn Tarif al-Muqri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 14,
+              "alternative_names": "Tarif ibn Tarif",
+              "original_id": 14,
+              "kunya": "Abu Salamah",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "110",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (tabi'i narrating from companion)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Amir al-Mu'minin, Lion of Allah",
+              "original_id": 4929,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "23 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Madinah/Kufa",
+              "transmissionTermMeaning": "That (potentially indirect)"
+            }
+          ],
+          "chainIssues": [
+            "Sulayman al-A'mash is a mudallis (category 2) narrating through indirect transmission (عَنْ). However, he is widely accepted as thiqah by scholars and category 2 mudallis is generally acceptable.",
+            "Ali ibn Abi Talib reported using أَنَّ (anna), which can indicate indirect connection. This combined with al-A'mash's tadlis adds slight ambiguity."
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Sulayman al-A'mash is a mudallis (category 2) narrating through indirect transmission (عَنْ). However, he is considered reliable by the vast majority of scholars, and category 2 mudallis does not significantly affect hadith reliability.",
+          "impact": "While tadlis is noted, al-A'mash's reliability is well-established and widely accepted. This does not significantly affect the hadith's authenticity."
+        },
+        {
+          "issue": "Ali ibn Abi Talib reported with أَنَّ (anna), which is a form of indirect transmission",
+          "impact": "Suggests the narration may be indirect, but given the reliability of all narrators in chain, impact is minimal."
+        },
+        {
+          "issue": "Mawquf hadith - report about Ali's action regarding consumption of nabidh",
+          "impact": "Historical report of companion's action rather than explicit teaching."
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Ali drinking fermented drink from green jar",
+        "Incident relating to consumption of nabidh",
+        "Ali's practice regarding beverages"
+      ]
+    },
+    {
+      "hadith_id": 91520,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10126",
+      "english_translation": "He is from Himyar, and his genealogy is in Hamdan.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Unnamed source",
+              "full_name": "Unknown biographer providing genealogical information",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "",
+              "reliabilityIssues": [
+                "majhul",
+                "broken_chain"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Unknown",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "",
+              "transmissionTermMeaning": "Unknown transmission method"
+            }
+          ],
+          "chainIssues": [
+            "Completely broken chain with no identifiable narrator",
+            "This is a genealogical fragment from a biographical dictionary, not a proper hadith"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "No narrator identification and broken chain",
+          "impact": "Cannot establish any reliable transmission. This is merely a genealogical fragment without proper isnad."
+        },
+        {
+          "issue": "This fragment lacks context and proper hadith format",
+          "impact": "Appears to be an extracted note from a biographical work rather than a complete hadith transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Genealogical information about Himyarite origins",
+        "Tribal affiliation with Hamdan"
+      ]
+    }
+  ]
+}
