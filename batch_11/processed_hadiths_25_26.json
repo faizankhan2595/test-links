@@ -1,0 +1,775 @@
+{
+  "batch_number": 11,
+  "source_files": [
+    25,
+    26
+  ],
+  "total_hadiths_processed": 5,
+  "data_quality_notes": "This batch contains 30 hadiths split across 5 chunks. However, only 5 hadiths (90362, 90365, 90375, 90377, 90382) contain complete isnad chains suitable for full hadith analysis. The remaining 25 entries are primarily biographical information about narrators and companions. Analysis has been provided only for the 5 complete hadiths.",
+  "hadiths": [
+    {
+      "hadith_id": 90362,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book number 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "8968",
+      "english_translation": "Narrated by Numayr: I saw the Messenger of Allah ﷺ placing his right hand upon his right thigh, gesturing with his finger during prayer.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Wakee' ibn al-Jarrah",
+              "full_name": "Wakee' ibn al-Jarrah ibn Malih al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Abu Sufyan, al-Kufi",
+              "original_id": null,
+              "kunya": "Abu Sufyan",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "197",
+              "birth_year": "129",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Issam ibn Qudamah",
+              "full_name": "Issam ibn Qudamah ibn Mazin al-Qahtani",
+              "grade": "Da'if",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak narrator",
+                "confusion in transmission"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Issam al-Qahtani",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "al-Qahtani",
+              "nisba_ar": "القحطاني",
+              "death_year": "190",
+              "birth_year": "",
+              "reliability_grade": "Da'if",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Malik ibn Numayr",
+              "full_name": "Malik ibn Numayr ibn Hakim al-Khuzai",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Malik al-Khuzai",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "al-Khuzai",
+              "nisba_ar": "الخزاعي",
+              "death_year": "145",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Numayr ibn Hakim",
+              "full_name": "Numayr ibn Hakim ibn Qays al-Khuzai",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Abu Malik al-Khuzai, Numayr al-Khuzai",
+              "original_id": null,
+              "kunya": "Abu Malik",
+              "nisba": "al-Khuzai",
+              "nisba_ar": "الخزاعي",
+              "death_year": "120",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Issam ibn Qudamah is a weak narrator (Da'if) which significantly affects hadith reliability",
+            "Both Issam ibn Qudamah and Malik ibn Numayr use 'an (عَنْ) instead of explicit transmission terms",
+            "Multiple indirect transmission terms (عَنْ) in chain from father's narration creates potential for disconnection"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Issam ibn Qudamah is graded as Da'if (weak) by majority of scholars",
+          "impact": "This is a critical reliability issue that makes the entire chain questionable, as weak narrators can fabricate or significantly alter hadith reports"
+        },
+        {
+          "issue": "Multiple use of 'an (عَنْ) transmission term from Malik through his father to the Prophet ﷺ",
+          "impact": "Creates ambiguity in whether there was direct hearing, especially combined with Issam's weakness"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Description of the Prophet's ﷺ hand position and gesture during prayer",
+        "Method of prayer with specific hand placement",
+        "Use of fingers and pointing during prayer"
+      ]
+    },
+    {
+      "hadith_id": 90365,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book number 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "8971",
+      "english_translation": "Narrated by Abu Umayya al-Fazari: I saw the Messenger of Allah ﷺ performing cupping.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "al-Fadl ibn Dukain",
+              "full_name": "al-Fadl ibn Dukain ibn Dinar al-Kindi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Abu Abdullah al-Kindi",
+              "original_id": null,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Kindi",
+              "nisba_ar": "الكندي",
+              "death_year": "195",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Sharik ibn Abd Allah",
+              "full_name": "Sharik ibn Abd Allah ibn Abi Sharik al-Nakhai",
+              "grade": "Saduq Yugrib",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "prone to errors",
+                "mixing of narrations"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Sharik al-Nakhai",
+              "original_id": null,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Nakhai",
+              "nisba_ar": "النخعي",
+              "death_year": "177",
+              "birth_year": "88",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Ja'far al-Farra",
+              "full_name": "Muhammad ibn al-Ala' ibn al-Farra al-Hamdani",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "some weak reports attributed to him"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Muhammad al-Farra, Abu Ja'far al-Hamdani",
+              "original_id": null,
+              "kunya": "Abu Ja'far",
+              "nisba": "al-Hamdani",
+              "nisba_ar": "الهمداني",
+              "death_year": "132",
+              "birth_year": "65",
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Abu Umayya al-Fazari",
+              "full_name": "Abd al-Malik ibn Umayya ibn Ufay al-Fazari",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Abu Umayya, Abd al-Malik al-Fazari",
+              "original_id": null,
+              "kunya": "Abu Umayya",
+              "nisba": "al-Fazari",
+              "nisba_ar": "الفزاري",
+              "death_year": "135",
+              "birth_year": "70",
+              "reliability_grade": "Saduq",
+              "tabaqat": "4",
+              "location": "Basra",
+              "transmissionTermMeaning": "I heard (direct hearing)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Sharik ibn Abd Allah is graded as Saduq Yugrib (prone to errors) and can mix up narrations",
+            "Abu Ja'far al-Farra uses 'an (عَنْ) instead of explicit transmission terms like the narrators before and after him",
+            "Sharik is known to have reliability issues despite being Saduq, affecting the chain's strength"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Sharik ibn Abd Allah is graded as Saduq Yugrib (prone to errors and mistakes in transmission)",
+          "impact": "While Sharik is generally acceptable (Saduq), his weakness in precision (Yugrib) means this hadith should be treated with caution. His reports are not as reliable as those from Thiqah narrators"
+        },
+        {
+          "issue": "Abu Ja'far al-Farra uses 'an (عَنْ) transmission term instead of direct terminology",
+          "impact": "This introduces slight ambiguity about whether Abu Ja'far directly heard from Abu Umayya or received it indirectly. However, given Abu Ja'far's reliability and the direct hearing term (سَمِعْتُ) from Abu Umayya himself, this is mitigated"
+        },
+        {
+          "issue": "Contrast in transmission terms: al-Fadl and Sharik use direct terms, but Abu Ja'far uses 'an",
+          "impact": "Creates inconsistency in transmission method, though the strength of the opening narrators helps offset this concern"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of the Prophet ﷺ performing cupping/bloodletting therapy",
+        "Medical treatment and health practices of the Prophet ﷺ",
+        "Permissibility of cupping therapy in Islamic medicine"
+      ]
+    },
+    {
+      "hadith_id": 90375,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book number 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "8981",
+      "english_translation": "Narrated by Yarim ibn Sa'd: I saw Qays ibn Sa'd on the police force of Friday (al-Khamis), then he came to the Tigris, performed ablution and wiped over his two leather socks, and I was as if looking at the traces of the fingers upon the sock, then he came forward and led the people in prayer.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ya'la ibn Ubaid",
+              "full_name": "Ya'la ibn Ubaid ibn Ufay al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Abu Abdillah al-Thaqafi",
+              "original_id": null,
+              "kunya": "Abu Abdillah",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "194",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "al-Ajlah",
+              "full_name": "al-Ajlah ibn Abd Allah al-Kinani",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "mudallis (tadlis al-tasween) - Category 2"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Abdullah al-Kinani, Abu Wa'il",
+              "original_id": null,
+              "kunya": "Abu Wa'il",
+              "nisba": "al-Kinani",
+              "nisba_ar": "الكيناني",
+              "death_year": "148",
+              "birth_year": "80",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Ishaq",
+              "full_name": "Amr ibn Abd Allah ibn Ubaid al-Hamdani al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis (Category 3) - requires direct transmission terms, uses 'an"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Amr al-Hamdani, al-Sabai",
+              "original_id": null,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Hamdani",
+              "nisba_ar": "الهمداني",
+              "death_year": "150",
+              "birth_year": "70",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Yarim ibn Sa'd",
+              "full_name": "Yarim ibn Sa'd ibn Ubada al-Ansari",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "ambiguous transmission term (qala)",
+                "direct observation only, not from Prophet"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Yarim al-Ansari",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "al-Ansari",
+              "nisba_ar": "الأنصاري",
+              "death_year": "130",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Medina",
+              "transmissionTermMeaning": "He said (could indicate indirect or mere observation)"
+            },
+            {
+              "name": "Qays ibn Sa'd ibn Ubada",
+              "full_name": "Qays ibn Sa'd ibn Ubada ibn Dulaim al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion/Early Generation",
+              "transmissionTerm": "رَأَيْتُ",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Abu Malik al-Ansari, Qays al-Ansari",
+              "original_id": null,
+              "kunya": "Abu Malik",
+              "nisba": "al-Ansari",
+              "nisba_ar": "الأنصاري",
+              "death_year": "60",
+              "birth_year": "-10",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Medina",
+              "transmissionTermMeaning": "I saw (direct observation)"
+            }
+          ],
+          "chainIssues": [
+            "Abu Ishaq is a famous mudallis (Category 3) who uses 'an (عَنْ) instead of direct transmission, creating potential for undocumented intermediaries",
+            "The chain is maqtu' (disconnected/cut off) - it terminates at Qays ibn Sa'd (Companion) and does not reach the Prophet ﷺ",
+            "Yarim ibn Sa'd uses قَالَ (qala) which is an indirect/ambiguous transmission term",
+            "The chain contains multiple ambiguous transmission terms (عَنْ, قَالَ) reducing reliability",
+            "Transmission from al-Ajlah to Abu Ishaq is using direct term, but Abu Ishaq's next transmission uses indirect term, showing inconsistency"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ishaq (Amr ibn Abd Allah al-Hamdani) is classified as a mudallis (Category 3) according to Ibn Hajar's classification",
+          "impact": "This means he would conceal his chains and requires direct transmission terms (حَدَّثَنَا or سَمِعْتُ) to be accepted. His use of 'an (عَنْ) here is problematic and creates uncertainty about whether he directly heard from Yarim ibn Sa'd"
+        },
+        {
+          "issue": "The chain is maqtu' (stopped/disconnected) - it terminates at Qays ibn Sa'd who is a Companion",
+          "impact": "This means the hadith does not reach the Prophet ﷺ, but rather represents a Companion's personal practice or observation. While Qays ibn Sa'd's practice is still valuable as evidence of how Companions performed ablution, it is not a marfu' hadith"
+        },
+        {
+          "issue": "Multiple indirect transmission terms in chain: Abu Ishaq uses 'an (عَنْ) and Yarim uses قَالَ (qala)",
+          "impact": "Combined with Abu Ishaq's tadlis status, these indirect terms significantly weaken the chain's reliability and introduce the possibility of undocumented intermediaries"
+        },
+        {
+          "issue": "Yarim ibn Sa'd is relatively lesser-known, appearing primarily in this transmission",
+          "impact": "His reliability assessment is based on limited evidence, though he is generally considered Saduq. This does not significantly elevate the chain's strength"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Wiping over leather socks during ablution (masih al-khuffain)",
+        "Method of performing ablution",
+        "Incident of Qays ibn Sa'd performing ablution while serving as police commander",
+        "Practice of Companion regarding water purification"
+      ]
+    },
+    {
+      "hadith_id": 90377,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book number 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "8983",
+      "english_translation": "Reported about al-Nu'man ibn Bashir: Mu'awiya appointed al-Nu'man ibn Bashir as governor of Kufa, and by Allah, he was from the most eloquent of those I heard speaking among the people of the world.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Bakr al-Sahmi",
+              "full_name": "Abdullah ibn Bakr ibn Abdullah ibn al-Zubayr al-Sahmi",
+              "grade": "Saduq",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Abu Bakr al-Sahmi",
+              "original_id": null,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Sahmi",
+              "nisba_ar": "الساهمي",
+              "death_year": "193",
+              "birth_year": "130",
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Hatim ibn Abi Saghira",
+              "full_name": "Hatim ibn Muhammad ibn Abd al-Rahman ibn Abi Saghira al-Hasan",
+              "grade": "Saduq Yahim",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "prone to errors and mistakes"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Hatim al-Kufi",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "175",
+              "birth_year": "110",
+              "reliability_grade": "Saduq Yahim",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Simak ibn Harb",
+              "full_name": "Simak ibn Harb ibn al-Ash'ath al-Kufi",
+              "grade": "Saduq Yugrib",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "prone to errors",
+                "narrations sometimes become corrupted",
+                "ikhtilat issues"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Simak al-Kufi, Abu Umayyah",
+              "original_id": null,
+              "kunya": "Abu Umayyah",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "130",
+              "birth_year": "55",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            }
+          ],
+          "chainIssues": [
+            "The chain is mursal/maqtu' - it does not reach back to the Prophet ﷺ or even to a named Companion as source",
+            "The report uses أَنَّ (anna) which indicates the statement is about a fact/event rather than a hadith from the Prophet ﷺ or Companion",
+            "Hatim ibn Abi Saghira is graded as Saduq Yahim (prone to errors and mistakes) which weakens the chain",
+            "Simak ibn Harb is graded as Saduq Yugrib (prone to errors, making narrations stranger) and uses indirect transmission term 'an (عَنْ)",
+            "Multiple weaknesses in narrator reliability (Hatim and Simak both have significant error issues) combined with indirect transmission terms"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain is mursal/maqtu' - disconnected and does not trace back to the Prophet ﷺ",
+          "impact": "This is merely a historical report about al-Nu'man ibn Bashir's appointment as governor, not a hadith from the Prophet ﷺ or Companion. Such historical reports lack the direct authority of prophetic hadith"
+        },
+        {
+          "issue": "Hatim ibn Abi Saghira is graded as Saduq Yahim - prone to errors and mistakes in transmission",
+          "impact": "This narrator's weakness in precision makes his reports less reliable. His errors could significantly affect the transmission of information"
+        },
+        {
+          "issue": "Simak ibn Harb is graded as Saduq Yugrib - prone to errors that make narrations strange/unfamiliar",
+          "impact": "Combined with his use of the indirect 'an transmission term, his reliability is questionable for precise transmission"
+        },
+        {
+          "issue": "The report uses أَنَّ (anna) construction which indicates a factual statement rather than direct citation",
+          "impact": "This further emphasizes that this is a historical account rather than a preserved hadith with complete documentation"
+        },
+        {
+          "issue": "The praise for al-Nu'man's eloquence comes from Simak who has reputation issues with accuracy",
+          "impact": "While the historical fact about his appointment might be accurate, the evaluative comment about his eloquence lacks reliable documentation"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Historical account of al-Nu'man ibn Bashir's appointment as governor of Kufa",
+        "Political appointments during the Umayyad period",
+        "Description of al-Nu'man ibn Bashir's eloquence and speaking abilities",
+        "Incident of political leadership among the early Muslims"
+      ]
+    },
+    {
+      "hadith_id": 90382,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book number 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "8988",
+      "english_translation": "Narrated by Shaiban: I came and entered the mosque, then sat near one of its rooms. The Prophet ﷺ heard me clearing my throat and said: \"Abu Yahya?\" I said: \"Abu Yahya.\" He said: \"Come to breakfast.\" I said: \"I am indeed fasting.\" He said: \"And I intend to fast, indeed our muezzin called Adhan before Fajr broke, and there is something wrong with his eye or something.\"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "al-Fadl ibn Dukain",
+              "full_name": "al-Fadl ibn Dukain ibn Dinar al-Kindi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Abu Abdullah al-Kindi, al-Udari",
+              "original_id": null,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Kindi",
+              "nisba_ar": "الكندي",
+              "death_year": "195",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct transmission)"
+            },
+            {
+              "name": "Hafas ibn Ghiyath",
+              "full_name": "Hafas ibn Ghiyath ibn Tariq al-Kufi",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "some precision issues",
+                "occasional transmission errors"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Abu Muhammad al-Kufi",
+              "original_id": null,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "180",
+              "birth_year": "105",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ash'ath",
+              "full_name": "Ash'ath ibn Suwar al-Kindi",
+              "grade": "Saduq Yugrib",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "prone to errors",
+                "some strange/uncommon narrations",
+                "indirect transmission"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Ash'ath al-Kindi",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "al-Kindi",
+              "nisba_ar": "الكندي",
+              "death_year": "131",
+              "birth_year": "60",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Abu Hubayra Yahya ibn Abad",
+              "full_name": "Yahya ibn Abad ibn Abi Hubayra al-Thaqafi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "less commonly reported from",
+                "indirect transmission"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Abu Hubayra al-Thaqafi, Yahya ibn Abad",
+              "original_id": null,
+              "kunya": "Abu Hubayra",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "120",
+              "birth_year": "50",
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Shaiban",
+              "full_name": "Shaiban ibn Abd Allah ibn Abi Shaiban al-Kinani",
+              "grade": "Saduq",
+              "generation": "Companion/Early Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "transmitted from his grandfather to grandson with potential gap"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Shaiban al-Kinani, Abu Yahya",
+              "original_id": null,
+              "kunya": "Abu Yahya",
+              "nisba": "al-Kinani",
+              "nisba_ar": "الكناني",
+              "death_year": "70",
+              "birth_year": "-10",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Companion",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From grandfather (direct from grandfather)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Ash'ath ibn Suwar is graded as Saduq Yugrib (prone to errors making reports stranger) and uses indirect transmission 'an (عَنْ)",
+            "Abu Hubayra Yahya ibn Abad also uses indirect transmission term 'an (عَنْ) despite Hafas using direct transmission before him",
+            "Multiple indirect transmission terms in sequence (Ash'ath and Abu Hubayra both use عَنْ) create potential for undocumented intermediaries",
+            "Hafas ibn Ghiyath (Saduq) is not the most reliable narrator for precise transmission",
+            "Presence of Saduq narrators (Hafas, Ash'ath, Abu Hubayra) in a chain reduces overall reliability"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ash'ath ibn Suwar is graded as Saduq Yugrib - prone to errors that make narrations strange or uncommon",
+          "impact": "This suggests Ash'ath may have transmitted materials that appear distorted or unusual. His presence combined with the use of 'an transmission weakens the chain"
+        },
+        {
+          "issue": "Hafas ibn Ghiyath is Saduq (acceptable but not the highest reliability) and has some transmission accuracy issues",
+          "impact": "While using direct transmission term (حَدَّثَنَا), Hafas's reliability issues mean the hadith transmitted through him may not be as secure"
+        },
+        {
+          "issue": "Two consecutive narrators use indirect transmission term 'an (عَنْ): Ash'ath and Abu Hubayra, breaking the sequence of direct transmission",
+          "impact": "This creates ambiguity about whether these narrators directly heard from each other, introducing potential for undocumented intermediaries"
+        },
+        {
+          "issue": "The statement about the muezzin having 'something in his eye' or 'evil' is somewhat unclear/unusual phrasing",
+          "impact": "The unusual phrasing may suggest transmission confusion or error, especially given that Ash'ath is known for producing strange narrations"
+        },
+        {
+          "issue": "Abu Hubayra is relatively less-known and only appears in limited transmission paths in hadith collections",
+          "impact": "Limited documentation of his narrations makes it harder to verify the authenticity of his reports"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Conversation between the Prophet ﷺ and a Companion about fasting",
+        "Incident of Prophet ﷺ inviting a fasting person to breakfast",
+        "Discussion about premature Adhan (call to prayer) being given before Fajr",
+        "Excuse for not eating breakfast while fasting",
+        "Medical condition of the muezzin affecting the call to prayer timing"
+      ]
+    }
+  ]
+}
