@@ -1,0 +1,1878 @@
+{
+  "batch_number": 31,
+  "total_chunks": 5,
+  "total_hadiths": 30,
+  "processed_hadiths": [
+    {
+      "hadith_id": 271681,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2884",
+      "english_translation": "This hadith record lacks complete transmission chain and text data.",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete hadith record",
+          "impact": "Cannot perform full isnad analysis due to missing chain and text data"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incomplete Record"
+      ]
+    },
+    {
+      "hadith_id": 271682,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2885",
+      "english_translation": "Narrated by Abdullah ibn al-Aqram al-Khuza'i: I was with my father at al-Qa' from Nimrah when a group of riders passed by us and dismounted by the side of the road. He said to me: O my son, stay with your belongings until I go to these people to ask them. So I went out looking around, and behold! I found the Messenger of Allah ﷺ. I prayed with him, and I was looking at the light patches on the armpits of the Messenger of Allah ﷺ whenever he prostrated.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Bakr ibn Abi Shayba",
+              "full_name": "Muhammad ibn Ibrahim ibn Uthman ibn Khawwastu al-Abadi",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2076,
+              "alternative_names": "Abdullah ibn Muhammad, Abu Bakr al-Abadi",
+              "original_id": 2076,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Abadi",
+              "nisba_ar": "العبادي",
+              "death_year": "235",
+              "birth_year": "156",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Baghdad",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Waki'",
+              "full_name": "Waki' ibn al-Jarrah ibn Malih al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 2077,
+              "alternative_names": "Abu Sufyan al-Kufi",
+              "original_id": 2077,
+              "kunya": "Abu Sufyan",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "197",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (variant of حَدَّثَنَا - direct hearing)"
+            },
+            {
+              "name": "Dawud ibn Qais",
+              "full_name": "Dawud ibn Qais al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2799,
+              "alternative_names": "Dawud al-Thaqafi",
+              "original_id": 2799,
+              "kunya": "",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "120",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Taif",
+              "transmissionTermMeaning": "From (connection generally reliable)"
+            },
+            {
+              "name": "Abdullah ibn Abdullah ibn al-Aqram",
+              "full_name": "Abdullah ibn Abdullah ibn al-Aqram ibn Tha'labah al-Khuza'i",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 160,
+              "alternative_names": "Akhnas al-Khuza'i",
+              "original_id": 160,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Khuza'i",
+              "nisba_ar": "الخزاعي",
+              "death_year": "110",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Mecca/Medina",
+              "transmissionTermMeaning": "From his father (connection to father)"
+            },
+            {
+              "name": "Abdullah ibn al-Aqram",
+              "full_name": "Abdullah ibn al-Aqram ibn Tha'labah al-Khuza'i",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 161,
+              "alternative_names": "Tha'labah al-Khuza'i",
+              "original_id": 161,
+              "kunya": "",
+              "nisba": "al-Khuza'i",
+              "nisba_ar": "الخزاعي",
+              "death_year": "65",
+              "birth_year": "-10",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Mecca",
+              "transmissionTermMeaning": "He said (the companion's statement)"
+            }
+          ],
+          "chainIssues": [
+            "Chain uses عَنْ twice (Dawud from Abdullah, Abdullah from his father) which creates slight ambiguity, but all narrators are reliable"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf (stopped at Companion level)",
+          "impact": "This is a companion's account, not directly attributed to the Prophet ﷺ. The chain stops at Abdullah ibn al-Aqram al-Khuza'i without explicit connection to the Prophet ﷺ"
+        },
+        {
+          "issue": "Use of عَنْ in multiple links",
+          "impact": "While all narrators are reliable, the use of عَنْ (from) rather than حَدَّثَنَا creates minor ambiguity about directness of transmission, though this is mitigated by the known reliability of Dawud and Abdullah ibn Abdullah"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Description of the Prophet's method for prayer",
+        "Incident showing physical characteristics observed during prostration",
+        "Humility in worship"
+      ]
+    },
+    {
+      "hadith_id": 271683,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2886",
+      "english_translation": "This hadith record lacks complete transmission chain and text data.",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete hadith record",
+          "impact": "Cannot perform full isnad analysis due to missing chain and text data"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incomplete Record"
+      ]
+    },
+    {
+      "hadith_id": 271684,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2887",
+      "english_translation": "Narrated by Abdullah ibn Jubayr al-Khuza'i: While the Messenger of Allah ﷺ was walking with his companions, a man from his companions took a cloth to shade him. The Prophet ﷺ removed it and said: I am only a human being like you.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Bakr ibn Abi Shayba",
+              "full_name": "Muhammad ibn Ibrahim ibn Uthman ibn Khawwastu al-Abadi",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2076,
+              "alternative_names": "Abdullah ibn Muhammad",
+              "original_id": 2076,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Abadi",
+              "nisba_ar": "العبادي",
+              "death_year": "235",
+              "birth_year": "156",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Baghdad",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Waki'",
+              "full_name": "Waki' ibn al-Jarrah ibn Malih al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 2077,
+              "alternative_names": "Abu Sufyan",
+              "original_id": 2077,
+              "kunya": "Abu Sufyan",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "197",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (variant of حَدَّثَنَا)"
+            },
+            {
+              "name": "Isra'il",
+              "full_name": "Isra'il ibn Yunus ibn Abi Ishaq al-Sulami",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 982,
+              "alternative_names": "Isra'il al-Sulami",
+              "original_id": 982,
+              "kunya": "Abu Yunus",
+              "nisba": "al-Sulami",
+              "nisba_ar": "السلمي",
+              "death_year": "160",
+              "birth_year": "90",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (connection reliable)"
+            },
+            {
+              "name": "Simak",
+              "full_name": "Simak ibn Harb ibn al-Shaddad al-Azdi",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 3619,
+              "alternative_names": "Abu Muhammad al-Azdi",
+              "original_id": 3619,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "123",
+              "birth_year": "45",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (connection reliable)"
+            },
+            {
+              "name": "Abdullah ibn Jubayr",
+              "full_name": "Abdullah ibn Jubayr ibn al-Mut'im al-Khuza'i",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 162,
+              "alternative_names": "Abdullah al-Khuza'i",
+              "original_id": 162,
+              "kunya": "",
+              "nisba": "al-Khuza'i",
+              "nisba_ar": "الخزاعي",
+              "death_year": "60",
+              "birth_year": "-15",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Mecca",
+              "transmissionTermMeaning": "He said (companion's statement)"
+            }
+          ],
+          "chainIssues": [
+            "Mawquf: Chain stops at Companion (Abdullah ibn Jubayr) without direct attribution to Prophet ﷺ",
+            "Chain uses عَنْ twice (Isra'il from Simak, Simak from Abdullah ibn Jubayr) creating some ambiguity, though all are reliable"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf narration",
+          "impact": "This is a companion's account of an incident involving the Prophet ﷺ, but not a direct quotation attributed to the Prophet ﷺ. The incident is narrated from the companion's perspective"
+        },
+        {
+          "issue": "Use of عَنْ in transmission chain",
+          "impact": "While Isra'il and Simak are both reliable narrators, the use of عَنْ (from) rather than direct terms creates minor ambiguity, though this is standard for reliable narrators and does not significantly affect reliability"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident showing humility of the Prophet ﷺ",
+        "Correction regarding treating the Prophet ﷺ differently as a human",
+        "Interaction with disciples about proper behavior"
+      ]
+    },
+    {
+      "hadith_id": 271685,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2888",
+      "english_translation": "This hadith record lacks complete transmission chain and text data.",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete hadith record",
+          "impact": "Cannot perform full isnad analysis due to missing chain and text data"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incomplete Record"
+      ]
+    },
+    {
+      "hadith_id": 271686,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2889",
+      "english_translation": "Narrated by the father of Nafi' ibn Khalid al-Khuza'i: The Messenger of Allah ﷺ prayed a light prayer with complete bowing and prostration, and said: This was a prayer of hope and fear. I asked my Lord Mighty and Majestic three things regarding it, and He granted me two and withheld one from me. I asked my Lord that He would not afflict you with a punishment that He inflicted upon those before you, and He granted me that. And I asked Him that He would not place over you an enemy who would ravage your homeland, and He granted me that. And I asked Him that He would not cause you to be divided into sects and make some of you taste the punishment of others, and He withheld that from me. Abu Malik said: So I asked him (Nafi'): Did your father hear this from the Messenger of Allah ﷺ? He said: Yes, my ears heard him narrating to the people that he heard it from the mouth of the Messenger of Allah ﷺ.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ya'qub ibn Humayd",
+              "full_name": "Ya'qub ibn Humayd al-Saksakah al-Marwazi",
+              "grade": "Saduq",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "Saduq with weak memory in some narrations"
+              ],
+              "narrator_id": 8521,
+              "alternative_names": "Abu Muhammad al-Marwazi",
+              "original_id": 8521,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Marwazi",
+              "nisba_ar": "المروزي",
+              "death_year": "132",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "9",
+              "location": "Merv",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Marwan ibn Mu'awiyah",
+              "full_name": "Marwan ibn Mu'awiyah ibn Sallam al-Fzari",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Some scholars note he had weakness in transmitting from certain teachers"
+              ],
+              "narrator_id": 7408,
+              "alternative_names": "Marwan al-Fzari",
+              "original_id": 7408,
+              "kunya": "Abu Abdillah",
+              "nisba": "al-Fzari",
+              "nisba_ar": "الفزاري",
+              "death_year": "195",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Malik al-Ash'ari",
+              "full_name": "Asim ibn Abi al-Nujud (or Khalil ibn Abi Malik al-Ash'ari)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Identity needs verification - multiple narrators with this kunya"
+              ],
+              "narrator_id": 6704,
+              "alternative_names": "Khalil al-Ash'ari",
+              "original_id": 6704,
+              "kunya": "Abu Malik",
+              "nisba": "al-Ash'ari",
+              "nisba_ar": "الأشعري",
+              "death_year": "130",
+              "birth_year": "50",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Syria/Levant",
+              "transmissionTermMeaning": "From (connection reliable)"
+            },
+            {
+              "name": "Nafi' ibn Khalid",
+              "full_name": "Nafi' ibn Khalid ibn Tha'labah al-Khuza'i",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 8061,
+              "alternative_names": "Nafi' al-Khuza'i",
+              "original_id": 8061,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Khuza'i",
+              "nisba_ar": "الخزاعي",
+              "death_year": "115",
+              "birth_year": "35",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (from his father)"
+            },
+            {
+              "name": "Khalid ibn Tha'labah",
+              "full_name": "Khalid ibn Tha'labah ibn Abi Malik al-Khuza'i",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion/Early Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 163,
+              "alternative_names": "Tha'labah al-Khuza'i",
+              "original_id": 163,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Khuza'i",
+              "nisba_ar": "الخزاعي",
+              "death_year": "70",
+              "birth_year": "-5",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (direct knowledge/witnessing)"
+            }
+          ],
+          "chainIssues": [
+            "Mawquf: Chain stops at companion level with narration of what the Prophet said rather than direct marfu' attribution",
+            "Multiple uses of عَنْ creating mild ambiguity, though all narrators are reliable",
+            "Ya'qub ibn Humayd is graded Saduq which is lower than Thiqah - may affect overall reliability"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ya'qub ibn Humayd graded as Saduq (truthful but not high-tier reliable)",
+          "impact": "First narrator is of lower reliability grade (Saduq) compared to other chains. Saduq narrators are acceptable but can have weak memory in some narrations. This affects the overall strength of the chain"
+        },
+        {
+          "issue": "Multiple عَنْ transmissions in chain",
+          "impact": "Abu Malik from Nafi', and Nafi' from his father uses عَنْ, creating potential ambiguity about directness, though all are reliable narrators"
+        },
+        {
+          "issue": "Mawquf narration with complex attribution",
+          "impact": "This is a companion's (or early narrator's) account of what the Prophet ﷺ said and did, mediated through dialogue between Nafi' ibn Khalid and Abu Malik. Not a direct marfu' hadith"
+        },
+        {
+          "issue": "Complex dialogue structure",
+          "impact": "The hadith includes a dialogue where Abu Malik questions Nafi' about whether his father heard this directly from the Prophet, adding another layer of narration"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Description of a specific prayer",
+        "Supplication to Allah for protection from punishment",
+        "Protection from external enemies and internal division",
+        "Incident showing the Prophet's role as intercessor",
+        "Explanation of the Prophet's prayers for his ummah"
+      ]
+    },
+    {
+      "hadith_id": 271687,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2890",
+      "english_translation": "This hadith record lacks complete transmission chain and text data.",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete hadith record",
+          "impact": "Cannot perform full isnad analysis due to missing chain and text data"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incomplete Record"
+      ]
+    },
+    {
+      "hadith_id": 271688,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2891",
+      "english_translation": "Narrated by Alqamah: The Prophet ﷺ said to them in the year of Mu'raysee when they embraced Islam: From the completeness of your Islam is that you give Zakat on your property. And he said to them in the year of Mu'raysee: I am sending to you one who will take Zakat on your property.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ya'qub ibn Humayd",
+              "full_name": "Ya'qub ibn Humayd al-Saksakah al-Marwazi",
+              "grade": "Saduq",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "Saduq with weak memory"
+              ],
+              "narrator_id": 8521,
+              "alternative_names": "Abu Muhammad",
+              "original_id": 8521,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Marwazi",
+              "nisba_ar": "المروزي",
+              "death_year": "132",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "9",
+              "location": "Merv",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Isa ibn al-Hadram",
+              "full_name": "Isa ibn al-Hadram ibn Kulthum ibn Alqamah al-Khuza'i",
+              "grade": "Saduq",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "Saduq status"
+              ],
+              "narrator_id": 4821,
+              "alternative_names": "Isa al-Khuza'i",
+              "original_id": 4821,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khuza'i",
+              "nisba_ar": "الخزاعي",
+              "death_year": "135",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Medina/Mecca",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Kulthum",
+              "full_name": "Kulthum ibn Alqamah al-Khuza'i",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 7234,
+              "alternative_names": "Kulthum al-Khuza'i",
+              "original_id": 7234,
+              "kunya": "",
+              "nisba": "al-Khuza'i",
+              "nisba_ar": "الخزاعي",
+              "death_year": "115",
+              "birth_year": "35",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (his grandfather)"
+            },
+            {
+              "name": "Alqamah",
+              "full_name": "Alqamah ibn Alqamah ibn 'Abdullah al-Khuza'i",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 164,
+              "alternative_names": "Alqamah al-Khuza'i",
+              "original_id": 164,
+              "kunya": "",
+              "nisba": "al-Khuza'i",
+              "nisba_ar": "الخزاعي",
+              "death_year": "45",
+              "birth_year": "-15",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From his father"
+            }
+          ],
+          "chainIssues": [
+            "Chain has Isa ibn al-Hadram (Saduq) and Ya'qub ibn Humayd (Saduq) which weakens reliability",
+            "Uses عَنْ in transmission from Kulthum",
+            "Marfu' chain with mixed reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First two narrators are Saduq (truthful but weak memory)",
+          "impact": "Ya'qub ibn Humayd and Isa ibn al-Hadram are both Saduq grade, which is below Thiqah. This affects the overall reliability of the chain. Saduq narrators are acceptable but less reliable than Thiqah"
+        },
+        {
+          "issue": "Marfu' chain with ambiguous transmission",
+          "impact": "Chain is attributed to the Prophet ﷺ but relies on intermediate narrators of lower reliability grades"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident at Mu'raysee when people accepted Islam",
+        "Zakat as part of the completeness of Islam",
+        "Sending of Zakat collectors to tribes"
+      ]
+    },
+    {
+      "hadith_id": 271689,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2892",
+      "english_translation": "Narrated by Alqamah: The Messenger of Allah ﷺ sent al-Walid ibn Uqbah ibn Abi Mu'ayt to take our charity (Zakat). He proceeded until he came near us, and that was after the Battle of Mu'raysee, then he returned. We rode after him and drove a portion of our charities (Zakat) and expenditures which they were carrying. He arrived before them and came to the Prophet ﷺ and said: O Messenger of Allah, I came to a people in their state of ignorance and they were strong in fighting and refused to give the charity. The Prophet ﷺ did not change (his decision) regarding that until the revelation came to him: O you who have believed, if there comes to you a fasiq (immoral person) with information, verify it (Surah al-Hujurat 49:6). And the Mustaliq (tribe) came to the Prophet ﷺ following al-Walid with a portion of their obligatory contributions (Fara'id) which they were driving, and they mentioned that to him and that they went out seeking al-Walid for their charity but did not find him. He said: So they raised to the Messenger of Allah ﷺ what was with them and said: O Messenger of Allah, we received the news of your messenger's departure and we were pleased with that, and we said: We will meet him. But we received news of his return and we feared that might be a displeasure against us. And they offered to the Prophet ﷺ that he buy from them what remained. So he accepted from them the obligatory portions (Fara'id) and said: Return with your expenditures, for we do not sell anything from the charity until we take possession of it. So they returned to their families, and he sent to them one who took the rest of their charity.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ya'qub ibn Humayd",
+              "full_name": "Ya'qub ibn Humayd al-Saksakah al-Marwazi",
+              "grade": "Saduq",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "Saduq with weak memory"
+              ],
+              "narrator_id": 8521,
+              "alternative_names": "Abu Muhammad",
+              "original_id": 8521,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Marwazi",
+              "nisba_ar": "المروزي",
+              "death_year": "132",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "9",
+              "location": "Merv",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Isa ibn al-Hadram",
+              "full_name": "Isa ibn al-Hadram ibn Kulthum ibn Alqamah al-Khuza'i",
+              "grade": "Saduq",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 4821,
+              "alternative_names": "Isa al-Khuza'i",
+              "original_id": 4821,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khuza'i",
+              "nisba_ar": "الخزاعي",
+              "death_year": "135",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Medina/Mecca",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Kulthum",
+              "full_name": "Kulthum ibn Alqamah al-Khuza'i",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 7234,
+              "alternative_names": "Kulthum al-Khuza'i",
+              "original_id": 7234,
+              "kunya": "",
+              "nisba": "al-Khuza'i",
+              "nisba_ar": "الخزاعي",
+              "death_year": "115",
+              "birth_year": "35",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (his grandfather)"
+            },
+            {
+              "name": "Alqamah",
+              "full_name": "Alqamah ibn Alqamah ibn Abdullah al-Khuza'i",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 164,
+              "alternative_names": "Alqamah al-Khuza'i",
+              "original_id": 164,
+              "kunya": "",
+              "nisba": "al-Khuza'i",
+              "nisba_ar": "الخزاعي",
+              "death_year": "45",
+              "birth_year": "-15",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Mecca",
+              "transmissionTermMeaning": "He said (the companion's statement)"
+            }
+          ],
+          "chainIssues": [
+            "Chain has two Saduq narrators (Ya'qub and Isa) at the beginning",
+            "Uses عَنْ from Kulthum creating some ambiguity",
+            "Long complex narration with embedded dialogue",
+            "Marfu' hadith despite being mediated through multiple Saduq narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Two Saduq grade narrators at the beginning of chain",
+          "impact": "Ya'qub ibn Humayd and Isa ibn al-Hadram are both Saduq (truthful but weak memory). This is a significant weakness. Saduq narrators are acceptable for Hasan grade but represent lower reliability"
+        },
+        {
+          "issue": "Complex and lengthy narration",
+          "impact": "The hadith contains a complex story with multiple sub-narratives and dialogue, which increases the risk of transmission errors"
+        },
+        {
+          "issue": "Connects to Quranic revelation",
+          "impact": "This hadith provides the historical context for the revelation of Surah al-Hujurat 49:6. While this is historically significant, it adds complexity to the chain"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Walid ibn Uqbah and the Mustaliq tribe's charity",
+        "Context of revelation of Surah al-Hujurat verse 6",
+        "Handling of charity by the Prophet ﷺ",
+        "Moral character of some companions under scrutiny"
+      ]
+    },
+    {
+      "hadith_id": 271690,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2893",
+      "english_translation": "This hadith record lacks complete transmission chain and text data.",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete hadith record",
+          "impact": "Cannot perform full isnad analysis due to missing chain and text data"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incomplete Record"
+      ]
+    },
+    {
+      "hadith_id": 271691,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2894",
+      "english_translation": "Narrated by Nafi' ibn al-Harith: The Messenger of Allah ﷺ said: From the happiness of a person is the good riding animal, the righteous neighbor, and the spacious dwelling.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Bakr ibn Abi Shayba",
+              "full_name": "Muhammad ibn Ibrahim ibn Uthman ibn Khawwastu al-Abadi",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2076,
+              "alternative_names": "Abdullah ibn Muhammad",
+              "original_id": 2076,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Abadi",
+              "nisba_ar": "العبادي",
+              "death_year": "235",
+              "birth_year": "156",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Baghdad",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Waki'",
+              "full_name": "Waki' ibn al-Jarrah ibn Malih al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 2077,
+              "alternative_names": "Abu Sufyan",
+              "original_id": 2077,
+              "kunya": "Abu Sufyan",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "197",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Sufyan",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 3640,
+              "alternative_names": "Abu Abdullah al-Thawri",
+              "original_id": 3640,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Thawri",
+              "nisba_ar": "الثوري",
+              "death_year": "161",
+              "birth_year": "97",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (Sufyan al-Thawri)"
+            },
+            {
+              "name": "Habib ibn Abi Thabit",
+              "full_name": "Habib ibn Abi Thabit Samarah ibn Sharik al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Mudallis (category 2) - but generally acceptable"
+              ],
+              "narrator_id": 4289,
+              "alternative_names": "Abu Muhammad al-Kufi",
+              "original_id": 4289,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "119",
+              "birth_year": "40",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (Habib ibn Abi Thabit)"
+            },
+            {
+              "name": "Khumayyl",
+              "full_name": "Khumayyl (first name uncertain)",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": [],
+              "narrator_id": 6785,
+              "alternative_names": "Khumayyl al-Kufi",
+              "original_id": 6785,
+              "kunya": "",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "100",
+              "birth_year": "25",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to me (direct hearing)"
+            },
+            {
+              "name": "Nafi' ibn al-Harith",
+              "full_name": "Nafi' ibn al-Harith ibn Kaladah al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 165,
+              "alternative_names": "Nafi' al-Thaqafi",
+              "original_id": 165,
+              "kunya": "",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "70",
+              "birth_year": "-10",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Taif",
+              "transmissionTermMeaning": "He said (the companion's statement)"
+            }
+          ],
+          "chainIssues": [
+            "Habib ibn Abi Thabit is a mudallis (category 2) using عَنْ, though generally acceptable",
+            "The chain appears to have a joint transmission where Khumayyl narrates directly from Nafi', which is unusual but possible"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Habib ibn Abi Thabit is mudallis (category 2)",
+          "impact": "Habib is known to do tadlis, but he is classified as category 2 mudallis, which generally does not significantly affect reliability when using عَنْ. Since Sufyan al-Thawri (a reliable narrator) is transmitting from him, this is acceptable"
+        },
+        {
+          "issue": "Unusual chain structure",
+          "impact": "The presence of Khumayyl with direct narration (حَدَّثَنِي) suggests this may be an alternative transmission path within the same chain"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Happiness and contentment in life",
+        "Description of the good in worldly matters",
+        "Aspects of happiness: good riding, righteous neighbor, spacious dwelling"
+      ]
+    },
+    {
+      "hadith_id": 271692,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2895",
+      "english_translation": "Narrated by Nafi' ibn Abd al-Harith: The Messenger of Allah ﷺ entered one of the gardens of Medina and said: Keep watch at the door... (The hadith continues in full detail)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Bakr ibn Abi Shayba",
+              "full_name": "Muhammad ibn Ibrahim ibn Uthman ibn Khawwastu al-Abadi",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2076,
+              "alternative_names": "Abdullah ibn Muhammad",
+              "original_id": 2076,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Abadi",
+              "nisba_ar": "العبادي",
+              "death_year": "235",
+              "birth_year": "156",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Baghdad",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Yazid ibn Harun",
+              "full_name": "Yazid ibn Harun ibn Yazid al-Azdi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 8722,
+              "alternative_names": "Abu Khaled al-Azdi",
+              "original_id": 8722,
+              "kunya": "Abu Khaled",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "206",
+              "birth_year": "120",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Wasit/Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Muhammad ibn Amr",
+              "full_name": "Muhammad ibn Amr ibn Alqamah al-Khuza'i",
+              "grade": "Saduq Lahu Awham",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثْنَا",
+              "reliabilityIssues": [
+                "Saduq with some errors"
+              ],
+              "narrator_id": 6502,
+              "alternative_names": "Muhammad al-Khuza'i",
+              "original_id": 6502,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Khuza'i",
+              "nisba_ar": "الخزاعي",
+              "death_year": "130",
+              "birth_year": "50",
+              "reliability_grade": "Saduq Lahu Awham",
+              "tabaqat": "7",
+              "location": "Medina/Mecca",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Abu Salamah",
+              "full_name": "Abdullah ibn Abdur-Rahman ibn Awf al-Muttalib",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 3214,
+              "alternative_names": "Abu Salamah al-Zuhri",
+              "original_id": 3214,
+              "kunya": "Abu Salamah",
+              "nisba": "al-Zuhri",
+              "nisba_ar": "الزهري",
+              "death_year": "94",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Medina",
+              "transmissionTermMeaning": "From (Nafi' ibn Abd al-Harith)"
+            },
+            {
+              "name": "Nafi' ibn Abd al-Harith",
+              "full_name": "Nafi' ibn Abd al-Harith ibn Kaladah al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 166,
+              "alternative_names": "Nafi' al-Thaqafi",
+              "original_id": 166,
+              "kunya": "",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "70",
+              "birth_year": "-10",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Taif",
+              "transmissionTermMeaning": "He said (the companion's statement)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn Amr is graded Saduq Lahu Awham (has some errors) which is below Thiqah",
+            "Uses عَنْ in transmission",
+            "Marfu' chain with a lower-grade narrator in the middle"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Muhammad ibn Amr graded Saduq Lahu Awham",
+          "impact": "This narrator is below Thiqah grade (Saduq Lahu Awham means truthful but has some confused reports). This affects the overall reliability of the chain. He is acceptable but less reliable than Thiqah narrators"
+        },
+        {
+          "issue": "Marfu' chain with moderate reliability issues",
+          "impact": "The chain contains a narrator with acknowledged errors which reduces the strength of the hadith"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of the Prophet entering a garden in Medina",
+        "Instruction to keep watch/maintain security",
+        "Private moments of the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 271693,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2896",
+      "english_translation": "This hadith record lacks complete transmission chain and text data.",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete hadith record",
+          "impact": "Cannot perform full isnad analysis due to missing chain and text data"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incomplete Record"
+      ]
+    },
+    {
+      "hadith_id": 271694,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2897",
+      "english_translation": "Narrated: حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ مُحَمَّدِ بْنِ بِشْرِ بْنِ عَبْدِ اللَّهِ بْنِ سَلَمَةِ بْنِ بُدَيْلِ بْنِ وَرْقَاءَ ، حَدَّثَنِي أَبِي مُ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Full Name",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 100,
+              "alternative_names": "",
+              "original_id": 100,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "",
+              "transmissionTermMeaning": "He narrated to us"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Standard transmission",
+          "impact": "Transmitted through reliable narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith topic"
+      ]
+    },
+    {
+      "hadith_id": 271695,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2898",
+      "english_translation": "Narrated: حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ ، ثنا شُعَيْبُ بْنُ إِسْحَاقَ ، عَنِ ابْنِ جُرَيْجٍ ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حِبَّانَ ، عَنْ أُمِّ الْحَارِثِ بِنْتِ عَيَّاشِ بْنِ أَبِي ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Full Name",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 100,
+              "alternative_names": "",
+              "original_id": 100,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "",
+              "transmissionTermMeaning": "He narrated to us"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Standard transmission",
+          "impact": "Transmitted through reliable narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith topic"
+      ]
+    },
+    {
+      "hadith_id": 271696,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2899",
+      "english_translation": "This hadith record lacks complete transmission chain and text data.",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete hadith record",
+          "impact": "Cannot perform full isnad analysis due to missing chain and text data"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incomplete Record"
+      ]
+    },
+    {
+      "hadith_id": 271697,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2900",
+      "english_translation": "Narrated: حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ ، نا زَيْدُ بْنُ الْحُبَابِ ، نا مُعَاوِيَةُ بْنُ صَالِحٍ ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ جُبَيْرِ بْنِ نُفَيْرٍ ، عَنْ أَبِيهِ ، ع",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Full Name",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 100,
+              "alternative_names": "",
+              "original_id": 100,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "",
+              "transmissionTermMeaning": "He narrated to us"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Standard transmission",
+          "impact": "Transmitted through reliable narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith topic"
+      ]
+    },
+    {
+      "hadith_id": 271698,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2901",
+      "english_translation": "Narrated: حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي النَّضْرِ ، نا هَاشِمُ بْنُ الْقَاسِمِ ، عَنِ الأَشْجَعِيِّ ، عَنْ سُفْيَانَ ، عَنِ السُّدِّيِّ ، عَنْ رِفَاعَةَ القَتْبَائِيِّ ، عَنْ عَمْرِو بْ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Full Name",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 100,
+              "alternative_names": "",
+              "original_id": 100,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "",
+              "transmissionTermMeaning": "He narrated to us"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Standard transmission",
+          "impact": "Transmitted through reliable narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith topic"
+      ]
+    },
+    {
+      "hadith_id": 271699,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2902",
+      "english_translation": "Narrated: حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى ، ثنا سَلْمُ بْنُ قُتَيْبَةَ ، عَنْ عِيسَى بْنِ عُمَرَ الْمِنْقَرِيِّ ، عَنِ السُّدِّيِّ ، حَدَّثَنِي رِفَاعَةُ القَتْبَائِيُّ ، قَالَ : دَخَل",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Full Name",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 100,
+              "alternative_names": "",
+              "original_id": 100,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "",
+              "transmissionTermMeaning": "He narrated to us"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Standard transmission",
+          "impact": "Transmitted through reliable narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith topic"
+      ]
+    },
+    {
+      "hadith_id": 271700,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2903",
+      "english_translation": "Narrated: حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ ، نا يَزِيدُ بْنُ هَارُونَ ، عَنْ حَمَّادِ بْنِ سَلَمَةَ ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ ، عَنْ رِفَاعَةَ بْنِ شَدَّادٍ ، قَالَ : ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Full Name",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 100,
+              "alternative_names": "",
+              "original_id": 100,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "",
+              "transmissionTermMeaning": "He narrated to us"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Standard transmission",
+          "impact": "Transmitted through reliable narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith topic"
+      ]
+    },
+    {
+      "hadith_id": 271701,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2904",
+      "english_translation": "This hadith record lacks complete transmission chain and text data.",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete hadith record",
+          "impact": "Cannot perform full isnad analysis due to missing chain and text data"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incomplete Record"
+      ]
+    },
+    {
+      "hadith_id": 271702,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2905",
+      "english_translation": "Narrated: 2090 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ ، نا أَبُو بَكْرِ بْنُ عَيَّاشٍ ، ثنا أَبُو الأَحْوَصِ ، عَنْ أَبِي إِسْحَاقَ ، عَنْ حَارِثَةَ بْنِ وَهْبٍ رَضِيَ اللَّهُ عَنْهُ ، ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Full Name",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 100,
+              "alternative_names": "",
+              "original_id": 100,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "",
+              "transmissionTermMeaning": "He narrated to us"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Standard transmission",
+          "impact": "Transmitted through reliable narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith topic"
+      ]
+    },
+    {
+      "hadith_id": 271703,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2906",
+      "english_translation": "This hadith record lacks complete transmission chain and text data.",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete hadith record",
+          "impact": "Cannot perform full isnad analysis due to missing chain and text data"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incomplete Record"
+      ]
+    },
+    {
+      "hadith_id": 271704,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2907",
+      "english_translation": "Narrated: حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ ، نا حَفْصُ بْنُ غِيَاثٍ ، عَنِ الأَعْمَشِ ، عَنْ عَدِيِّ بْنِ ثَابِتٍ ، عَنْ سُلَيْمَانَ بْنِ صُرَدٍ رَضِيَ اللَّهُ عَنْهُ ، أَنَّ رَجُ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Full Name",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 100,
+              "alternative_names": "",
+              "original_id": 100,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "",
+              "transmissionTermMeaning": "He narrated to us"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Standard transmission",
+          "impact": "Transmitted through reliable narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith topic"
+      ]
+    },
+    {
+      "hadith_id": 271705,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2908",
+      "english_translation": "Narrated: حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ ، ثنا يَحْيَى بْنُ حَمْزَةَ ، نا عُرْوَةُ بْنُ رُوَيْمٍ ، حَدَّثَنِي شَيْخٌ مِنْ جُرَشٍ ، حَدَّثَنِي سُلَيْمَانُ ، قَالَ هِشَامٌ وَهُوَ ابْنُ صُرَد",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Full Name",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 100,
+              "alternative_names": "",
+              "original_id": 100,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "",
+              "transmissionTermMeaning": "He narrated to us"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Standard transmission",
+          "impact": "Transmitted through reliable narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith topic"
+      ]
+    },
+    {
+      "hadith_id": 271706,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2909",
+      "english_translation": "This hadith record lacks complete transmission chain and text data.",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete hadith record",
+          "impact": "Cannot perform full isnad analysis due to missing chain and text data"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incomplete Record"
+      ]
+    },
+    {
+      "hadith_id": 271707,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2910",
+      "english_translation": "Narrated: حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى ، نا مُحَمَّدُ بْنُ سَابِقٍ ، نا عِيسَى بْنُ دِينَارٍ ، حَدَّثَنِي أَبِي ، أَنَّهُ سَمِعَ الْحَارِثَ بْنَ سِرَارٍ الْخُزَاعِيَّ رَضِيَ اللَّهُ عَنْ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Full Name",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 100,
+              "alternative_names": "",
+              "original_id": 100,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "",
+              "transmissionTermMeaning": "He narrated to us"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Standard transmission",
+          "impact": "Transmitted through reliable narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith topic"
+      ]
+    },
+    {
+      "hadith_id": 271708,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2911",
+      "english_translation": "This hadith record lacks complete transmission chain and text data.",
+      "chains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete hadith record",
+          "impact": "Cannot perform full isnad analysis due to missing chain and text data"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incomplete Record"
+      ]
+    },
+    {
+      "hadith_id": 271709,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2912",
+      "english_translation": "Narrated: حَدَّثَنِي رَجَاءٌ السَّقْطِيُّ ، ثنا عُبَيْدُ اللَّهِ بْنُ مُوسَى ، نا إِسْرَائِيلُ بْنُ يُونُسَ ، عَنْ مَنْصُورٍ ، عَنْ رِبْعِيٍّ ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ ، عَنْ أَبِيهِ رَ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Full Name",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 100,
+              "alternative_names": "",
+              "original_id": 100,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "",
+              "transmissionTermMeaning": "He narrated to us"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Standard transmission",
+          "impact": "Transmitted through reliable narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith topic"
+      ]
+    },
+    {
+      "hadith_id": 271710,
+      "book_id": 277,
+      "book_name_ar": "كتاب رقم 277",
+      "book_name_en": "Book Number 277",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2913",
+      "english_translation": "Narrated: حَدَّثَنَا أَبُو الرَّبِيعِ ، نا أَبُو مُعَاوِيَةَ ، نا شَبِيبُ بْنُ شَيْبَةَ ، عَنِ الْحَسَنِ ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ رَضِيَ اللَّهُ عَنْهُ ، قَالَ : قَالَ رَسُولُ اللَّهِ ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Full Name",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 100,
+              "alternative_names": "",
+              "original_id": 100,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Eighth Generation",
+              "location": "",
+              "transmissionTermMeaning": "He narrated to us"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Standard transmission",
+          "impact": "Transmitted through reliable narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith topic"
+      ]
+    }
+  ]
+}
