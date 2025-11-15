@@ -1,0 +1,3230 @@
+{
+  "batch_number": 1,
+  "source_files": [
+    263,
+    264
+  ],
+  "total_hadiths": 30,
+  "hadiths": [
+    {
+      "hadith_id": 3931,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "825",
+      "english_translation": "Narrated by Abu Hashim al-Makki: Piety toward parents, maintaining kinship ties, and practicing kindness increase sustenance and make dwellings flourish. The people of kindness in this worldly life are the people of kindness in the Hereafter.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain: The text references 'his father' and 'his grandfather' but narrators list only contains Abu Hashim al-Makki. The attribution to these intermediate narrators (narrator_ids 5739 and 1336) is not reflected in the chain structure for this hadith.",
+            "Potential disconnection due to missing intermediate narrators in chain."
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete Chain Structure",
+          "impact": "The narrators_in_isnad field only contains one narrator (5722), but the text references multiple narrators ('his father', 'his grandfather'). This creates ambiguity about the complete transmission path and whether there are intermediate links."
+        },
+        {
+          "issue": "Unclear Narrator Identification",
+          "impact": "Abu Hashim al-Makki (Abdullah ibn Ubayd) was a Tabi'i who likely did not directly meet the Prophet ﷺ. The connection to the Prophet requires an intermediate narrator from the Companion generation, which is missing from the documented chain."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Piety toward parents and family relationships",
+        "Kindness and its reward in both worlds",
+        "Increase in sustenance through righteous deeds"
+      ]
+    },
+    {
+      "hadith_id": 3932,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "826",
+      "english_translation": "Narrated by Abu Hashim al-Makki, from his grandfather: I heard the Prophet ﷺ say: Seven people will be under the shade of the Throne on the Day of Judgment when there is no shade except its shade: A youth who grew up in the worship of Allah, a man to whom a woman of noble birth and beauty called, but he said, 'I fear Allah, Lord of the worlds'; a man who went from his house, performed ablution properly, then walked to the House of Allah to fulfill an obligatory prayer and died on the way; a man who went for Hajj or Umrah to the House of Allah; a man who went out for Jihad in the way of Allah; a man who went out traveling in the land seeking from Allah's provision to support himself and his family; and a man who stood during the night after the people had slept, performed ablution, then went to the House of Allah and died on the way.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Uncertain reliability",
+                "Few narrators report from him"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Use of 'عَنْ' ('an) in early parts of chain: Both Abdullah ibn Uthman and Ahmad ibn al-Nadr use 'عَنْ' which is potentially ambiguous regarding the directness of transmission.",
+            "Narrator reliability concern: Abdullah ibn Uthman (5739) is graded as 'Saduq Yugrib' (produces strange/outlandish reports), which indicates some reliability issues. His use of 'عَنْ' amplifies concerns about transmission accuracy.",
+            "Abu Hashim al-Makki (Tabi'i) reporting from the Prophet directly: This appears to be an attributional issue as Abu Hashim al-Makki was a second-generation Muslim (Tabi'i) who would need a Companion link."
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "Abdullah ibn Uthman ibn Ataa is graded as 'Saduq Yugrib' - meaning he is truthful but produces strange/outlandish reports. This reduces the reliability of the chain despite other narrators being trustworthy."
+        },
+        {
+          "issue": "Ambiguous Transmission Terms",
+          "impact": "Both Abdullah ibn Uthman and Ahmad ibn al-Nadr use 'عَنْ' rather than explicit terms like 'حَدَّثَنَا' or 'سَمِعْتُ', introducing potential gaps in the transmission line."
+        },
+        {
+          "issue": "Missing Companion Link",
+          "impact": "Abu Hashim al-Makki (d. 133 AH) was a Tabi'i and could not have directly heard from the Prophet ﷺ. The chain appears to skip a necessary Companion intermediary, suggesting a potential mursal (disconnected) transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Seven people protected under the shade of the Throne on the Day of Judgment",
+        "Youth devoted to worship of Allah",
+        "Incident of a man resisting temptation from a noble woman",
+        "Description of those who will receive divine protection on the Day of Judgment"
+      ]
+    },
+    {
+      "hadith_id": 3933,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "827",
+      "english_translation": "Narrated by Abu Hashim al-Makki, from his grandfather: There was a slave girl, half-Arab, who used to pick up filth from the mosque of the Prophet ﷺ. The Prophet ﷺ asked about her. They said: 'She has died.' Then he said: 'For that reason, I saw for her what I saw - indeed she is in Paradise, picking from its fruit.' Then the Prophet ﷺ said: Whoever removes filth from the mosque will have a good deed, and the good deed is multiplied by ten, and whoever puts filth in a mosque will have an evil deed against him, and the evil deed is counted as one.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Uncertain reliability",
+                "Produces strange reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Ambiguous transmission terms using 'عَنْ' in early chain links",
+            "Weak first narrator (Saduq Yugrib grade) - Abdullah ibn Uthman",
+            "Missing intermediate Companion link between Abu Hashim al-Makki (Tabi'i) and the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The first narrator in the chain is graded as 'Saduq Yugrib', which undermines the overall chain reliability. His presence as the initial narrator is a significant concern."
+        },
+        {
+          "issue": "Potential Mursal (Disconnected) Transmission",
+          "impact": "Abu Hashim al-Makki was a Tabi'i who died in 133 AH. The narrative appears to attribute the hadith directly to him without a clear Companion intermediary, suggesting a potential disconnection in the chain."
+        },
+        {
+          "issue": "Ambiguous Transmission Methodology",
+          "impact": "The use of 'عَنْ' instead of direct hearing terms (حَدَّثَنَا or سَمِعْتُ) creates additional uncertainty about the accuracy of transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of a slave girl cleaning the mosque",
+        "Prophet's vision of the girl in Paradise",
+        "Reward for maintaining mosque cleanliness",
+        "Virtue of removing filth from the mosque"
+      ]
+    },
+    {
+      "hadith_id": 3934,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "828",
+      "english_translation": "Narrated by Abu Hashim al-Makki, from his grandfather: The Prophet ﷺ said: Whoever removes something harmful from the face of his brother and shows it to him, there will be two good deeds for him, and if he does not show it to him, there will be one good deed for him.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Uncertain reliability",
+                "Produces strange reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Consistent use of 'عَنْ' by both Abdullah ibn Uthman and Ahmad ibn al-Nadr creates transmission ambiguity",
+            "Abdullah ibn Uthman (Saduq Yugrib) as first narrator weakens chain authority",
+            "Probable mursal connection between Abu Hashim al-Makki (Tabi'i) and the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The narrator graded as 'Saduq Yugrib' (truthful but prone to strange reports) starts the chain, which is a significant reliability concern."
+        },
+        {
+          "issue": "Ambiguous Transmission Chain",
+          "impact": "The repeated use of 'عَنْ' without explicit hearing terms and the absence of a documented Companion link suggests the chain may be mursal (disconnected)."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Kindness and good deeds toward brothers",
+        "Reward for removing blemishes from others"
+      ]
+    },
+    {
+      "hadith_id": 3935,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "829",
+      "english_translation": "Narrated by Abu Hashim al-Makki, from his grandfather: I saw the Prophet ﷺ removing ticks from his camel. I said to him: 'Shall I not spare you this?' He refused me and said: 'O Ali, shall I not inform you that for every tick you remove, you will have a good deed, and the good deed is multiplied by ten.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Uncertain reliability",
+                "Produces strange reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Weak first narrator (Saduq Yugrib) undermines chain reliability",
+            "Use of 'عَنْ' in multiple chain links creates transmission uncertainty",
+            "Missing Companion intermediary - Abu Hashim al-Makki is a Tabi'i narrating what appears to be a first-hand account"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade for the first narrator indicates he produces strange/outlandish reports, which compromises the hadith's reliability."
+        },
+        {
+          "issue": "Questionable Attribution to Ali",
+          "impact": "The hadith addresses 'O Ali' in the text. This raises the question of whether the narrative is correctly attributed to the companion Ali ibn Abi Talib, as the chain goes through Abu Hashim al-Makki (a Tabi'i), creating chronological and transmission issues."
+        },
+        {
+          "issue": "Mursal or Indirect Transmission",
+          "impact": "The apparent gap in the chain between a Tabi'i narrator and direct hadith content suggests a disconnected or indirect transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident where Prophet ﷺ removes ticks from his camel",
+        "Reward for performing menial service",
+        "Description of the Prophet's ﷺ actions and kindness"
+      ]
+    },
+    {
+      "hadith_id": 3936,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "830",
+      "english_translation": "Narrated by Abu Hashim al-Makki, from his grandfather: Three men came to the Prophet ﷺ. He asked the eldest: 'What is your name?' He said: 'My name is Wa'il, or he said Afil.' So he said: 'But your name is Muqbil.' He said: 'O Messenger of Allah, we are a family that practices medicine on our land. Allah has brought Islam, and we dislike treating anything without your permission.' So he said: 'Allah, blessed and exalted, has not sent down any disease except He has sent down a cure for it, except for senility and old age. There is no harm in your administering a cure as long as you do not administer a fatal poison.' Then I said: 'O Messenger of Allah, what is the fatal poison?' So he said: 'That which when taken remains in the belly and kills - so no one should drink it or give it.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Uncertain reliability",
+                "Produces strange reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Weak first narrator (Saduq Yugrib) - Abdullah ibn Uthman",
+            "Ambiguous transmission using 'عَنْ' in multiple positions",
+            "Probable mursal connection - Tabi'i narrating from Prophet without clear Companion intermediary"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade for Abdullah ibn Uthman significantly weakens the hadith's reliability. This narrator is known to produce strange/outlandish reports."
+        },
+        {
+          "issue": "Ambiguous Chain and Missing Links",
+          "impact": "The transmission from Abu Hashim al-Makki (Tabi'i, d. 133 AH) to the Prophet ﷺ appears to lack a documented Companion link, suggesting the hadith may be mursal (disconnected)."
+        },
+        {
+          "issue": "Extended Chain from Weak First Narrator",
+          "impact": "Although Ahmad ibn al-Nadr and Abu Hashim al-Makki are reliable narrators, the weakness of the first narrator in the chain compromises the overall reliability of transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of men visiting the Prophet with a question about medical practice",
+        "Prophet's explanation of medical treatment and healing",
+        "Prohibition of poisonous substances",
+        "Dialogue about traditional medicine and Islamic guidance"
+      ]
+    },
+    {
+      "hadith_id": 3937,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "831",
+      "english_translation": "Narrated by Abu Hashim al-Makki, from his grandfather: The Prophet ﷺ said: Kill the snakes that appear, for only the worst of them appear. And he forbade us from killing the snakes that are in houses.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Produces strange/outlandish reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Abdullah ibn Uthman (Saduq Yugrib) as first narrator weakens reliability",
+            "Use of 'عَنْ' by both first and second narrators creates transmission ambiguity",
+            "Probable mursal connection - Tabi'i (Abu Hashim al-Makki) reporting from Prophet without clear Companion link"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade indicates this narrator produces strange/outlandish reports, significantly compromising the hadith's reliability."
+        },
+        {
+          "issue": "Ambiguous Transmission Chain",
+          "impact": "The repeated use of 'عَنْ' and the absence of a documented Companion link between a Tabi'i narrator and the Prophet ﷺ suggests a potential disconnection."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Killing of harmful snakes",
+        "Prohibition of killing house snakes",
+        "Incident of animal welfare guidance"
+      ]
+    },
+    {
+      "hadith_id": 3938,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "832",
+      "english_translation": "Narrated by Abu Hashim al-Makki, from his grandfather: A man came to the Prophet ﷺ and said: O Messenger of Allah, who of the people has the greatest right to good companionship and kindness from me? He said: Your mother. He said: Then who? He said: Your mother. He said: Then who? He said: Your mother. He said: Then who? He said: Your father. He said: Then who? He said: Your nearest relatives, then the next nearest, then the next nearest.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Produces strange/outlandish reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Weak first narrator (Saduq Yugrib) - Abdullah ibn Uthman",
+            "Ambiguous transmission using 'عَنْ' in multiple positions",
+            "Probable mursal connection - Tabi'i narrator without clear Companion intermediary"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade significantly undermines chain reliability. This narrator is known to produce strange reports."
+        },
+        {
+          "issue": "Missing Companion Link in Chain",
+          "impact": "Abu Hashim al-Makki (Tabi'i, d. 133 AH) appears to narrate directly from the Prophet ﷺ, which creates a chronological and transmission gap."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of a man asking about familial obligations",
+        "Honour and kindness due to parents",
+        "Rank and order of family members' rights"
+      ]
+    },
+    {
+      "hadith_id": 3939,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "833",
+      "english_translation": "Narrated by Abu Hashim al-Makki: This fire of yours is one part of seventy parts of the fire of Hell. And if it were not that it was washed with seventy waters, no human being could endure to kindle it. And indeed on the Day of Judgment, it will have a cry such that no angel near to Allah nor any messenger sent by Allah will remain except that he falls upon his knees from the cry of it. And if a man from the people of the Fire were hung between the east and the west, the people of the west would be burnt from its heat.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain structure: Text references 'his father' and 'his grandfather' but only Abu Hashim al-Makki (narrator 5722) is listed",
+            "Direct narration from Tabi'i (d. 133 AH) to Prophet without documented intermediate narrators",
+            "Missing Companion link in the documented chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete Chain Documentation",
+          "impact": "While the narrators_in_isnad field shows only one narrator (5722), the Arabic text references family members ('his father', 'his grandfather'). This creates uncertainty about the complete transmission path."
+        },
+        {
+          "issue": "Clear Mursal (Disconnected) Transmission",
+          "impact": "Abu Hashim al-Makki (Tabi'i) appears to report directly from the Prophet ﷺ without an identified Companion intermediary, indicating a clear disconnection (mursal) in the chain."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Description of the Fire of Hell compared to worldly fire",
+        "Intensity of Hell's punishment",
+        "Signs of the Hour - the crying of Hell on the Day of Judgment"
+      ]
+    },
+    {
+      "hadith_id": 3940,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "834",
+      "english_translation": "Narrated by Abu Hashim al-Makki, from his grandfather: The Prophet ﷺ said: Paradise is one brick of gold and one brick of silver, its pebbles are pearl and emerald, its mortar is musk, its soil is saffron. Its rivers are flowing, its fruits are hanging, and its birds are flexible. There is neither sun nor bitter cold. Each man of its people has a thousand beautiful women, and he remains with the beautiful woman from his beautiful women for a thousand years, never tiring of her nor she of him. And indeed the lowest of the inhabitants of Paradise in rank is he upon whom is bestowed every morning and evening ten thousand dishes of food, each dish having a flavor different from the other. And indeed the man of the inhabitants of Paradise, there passes by him a bird, and he desires it, and it falls between his hands either cooked or roasted as he desires from the desire that entered his heart. And indeed the man of the inhabitants of Paradise is in a garden of his gardens among all types of trees, when he desires a fruit from those fruits, it is lowered to him. And if one of their beautiful women appeared to the people of the earth, she would outshine the light of the sun, and would have caused the people of the earth to be tempted.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Produces strange/outlandish reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Weak first narrator (Saduq Yugrib) - Abdullah ibn Uthman al-Khorasani",
+            "Ambiguous transmission using 'عَنْ' throughout early chain links",
+            "Probable mursal connection - Tabi'i (Abu Hashim al-Makki) without clear Companion intermediary"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade for the first narrator significantly compromises the overall reliability of the hadith."
+        },
+        {
+          "issue": "Ambiguous Transmission Methodology",
+          "impact": "The use of 'عَنْ' rather than explicit hearing terms and the absence of a clear Companion link suggests a potentially disconnected transmission."
+        },
+        {
+          "issue": "Elaborate Description of Paradise",
+          "impact": "The highly detailed and colorful description of Paradise, while not necessarily problematic, is of the type that requires especially strong transmission authority. The presence of Saduq Yugrib as the first narrator raises concerns about authenticity."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Description of Paradise",
+        "Detailed account of Paradise's physical composition",
+        "Dwellers of Paradise and their companions",
+        "Luxuries and blessings of the inhabitants of Paradise"
+      ]
+    },
+    {
+      "hadith_id": 3941,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "835",
+      "english_translation": "Narrated by Abu Hashim al-Makki, from his grandfather: I heard the Prophet ﷺ say: Whoever says 'I seek forgiveness from Allah the Mighty, there is no god but Him, and I turn to Him in repentance,' then dies, Allah will forgive his sins, even if they were like the foam of the sea and the sand of Aalij.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Produces strange/outlandish reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "I heard"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Weak first narrator (Saduq Yugrib) - Abdullah ibn Uthman al-Khorasani",
+            "Ambiguous transmission from Abdullah ibn Uthman and Ahmad ibn al-Nadr using 'عَنْ'",
+            "Abu Hashim al-Makki uses 'سَمِعْتُ' (I heard) but is a Tabi'i, creating a chronological gap to the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade for the first narrator significantly undermines chain reliability."
+        },
+        {
+          "issue": "Chronological Impossibility",
+          "impact": "Although Abu Hashim al-Makki uses the explicit hearing term 'سَمِعْتُ' (I heard), he was a Tabi'i (second generation) and could not have directly heard from the Prophet ﷺ who died around 11 AH when Abu Hashim was born or had just been born. This represents a clear chronological disconnection."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Supplication for seeking forgiveness",
+        "Repentance and return to Allah",
+        "Divine forgiveness for abundant sins"
+      ]
+    },
+    {
+      "hadith_id": 3942,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "836",
+      "english_translation": "Narrated by Abu Hashim al-Makki: No day passes over the son of Adam except that it calls out: O son of Adam, work on this day, I will bear witness for you on the Day of Judgment. And associate with the people with whatever character you wish, they will associate with you in like manner.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain documentation: Text mentions 'from his father' and 'from his grandfather' but only Abu Hashim al-Makki (narrator 5722) is documented",
+            "Direct attribution from Tabi'i (Abu Hashim al-Makki, d. 133 AH) to Prophet ﷺ without clear Companion intermediary",
+            "Probable mursal (disconnected) transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete Chain Structure",
+          "impact": "The narrators_in_isnad field shows only Abu Hashim al-Makki, but the Arabic text suggests family-based transmission ('his father', 'his grandfather'). This discrepancy raises questions about the complete chain."
+        },
+        {
+          "issue": "Clear Mursal (Disconnected) Transmission",
+          "impact": "Abu Hashim al-Makki (Tabi'i) appears to report directly from the Prophet ﷺ without a documented Companion intermediary, indicating a clear mursal transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "The passing of days and works",
+        "Daily effort and accountability before Allah",
+        "Social relations and treatment of people",
+        "Law of reciprocity in human interaction"
+      ]
+    },
+    {
+      "hadith_id": 3943,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "837",
+      "english_translation": "Narrated by Abu Hashim al-Makki: First, commanding right and forbidding wrong through your hands, then your tongues, then your hearts. When the heart no longer rejects wrong nor recognizes right, it is turned upside down.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain structure: Text references family members but only one narrator listed",
+            "Direct attribution from Tabi'i to Prophet without clear Companion intermediary",
+            "Probable mursal (disconnected) transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete Chain Documentation",
+          "impact": "The narrators_in_isnad field does not match the family-based transmission suggested by the text."
+        },
+        {
+          "issue": "Clear Mursal (Disconnected) Transmission",
+          "impact": "Abu Hashim al-Makki (Tabi'i) appears to report directly from the Prophet ﷺ without a documented Companion intermediary."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3944,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "838",
+      "english_translation": "Narrated by Abu Hashim al-Makki: You must command right and forbid wrong, or Allah will send upon you the worst of you, then the best of you will call upon Allah and will not be answered.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain structure: Text references family members but only one narrator listed",
+            "Direct attribution from Tabi'i to Prophet without clear Companion intermediary",
+            "Probable mursal (disconnected) transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete Chain Documentation",
+          "impact": "The narrators_in_isnad field does not match the family-based transmission suggested by the text."
+        },
+        {
+          "issue": "Clear Mursal (Disconnected) Transmission",
+          "impact": "Abu Hashim al-Makki (Tabi'i) appears to report directly from the Prophet ﷺ without a documented Companion intermediary."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3945,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "839",
+      "english_translation": "Narrated by Abu Hashim al-Makki: A community that does not command right and forbid wrong, and does not take the oppressor by the hand, and does not aid the one doing good, and does not turn back the wrongdoer from his wrongdoing will not be honored.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Produces strange/outlandish reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Weak first narrator (Saduq Yugrib) - Abdullah ibn Uthman al-Khorasani",
+            "Ambiguous transmission using 'عَنْ' in multiple positions",
+            "Probable mursal connection - Tabi'i narrator without clear Companion intermediary"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade significantly compromises the overall reliability of the hadith."
+        },
+        {
+          "issue": "Ambiguous Transmission Methodology",
+          "impact": "The use of 'عَنْ' rather than explicit hearing terms and the absence of a clear Companion link suggests a potentially disconnected transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3946,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "840",
+      "english_translation": "Narrated by Abu Hashim al-Makki: Those who love each other for the sake of Allah are on a pillar of red ruby with seventy rooms on top.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Produces strange/outlandish reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Weak first narrator (Saduq Yugrib) - Abdullah ibn Uthman al-Khorasani",
+            "Ambiguous transmission using 'عَنْ' in multiple positions",
+            "Probable mursal connection - Tabi'i narrator without clear Companion intermediary"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade significantly compromises the overall reliability of the hadith."
+        },
+        {
+          "issue": "Ambiguous Transmission Methodology",
+          "impact": "The use of 'عَنْ' rather than explicit hearing terms and the absence of a clear Companion link suggests a potentially disconnected transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3947,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "841",
+      "english_translation": "Narrated by Abu Hashim al-Makki: He passed by people playing dice and struck them with his whip until he separated them, saying: Know that playing with these is gambling like eating swine flesh.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain structure: Text references family members but only one narrator listed",
+            "Direct attribution from Tabi'i to Prophet without clear Companion intermediary",
+            "Probable mursal (disconnected) transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete Chain Documentation",
+          "impact": "The narrators_in_isnad field does not match the family-based transmission suggested by the text."
+        },
+        {
+          "issue": "Clear Mursal (Disconnected) Transmission",
+          "impact": "Abu Hashim al-Makki (Tabi'i) appears to report directly from the Prophet ﷺ without a documented Companion intermediary."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3948,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "842",
+      "english_translation": "Narrated by Abu Hashim al-Makki: Whoever sings or is sung to, or wails or is wailed for, or recites poetry or composes it while lying, two devils will sit on his shoulders striking his chest with their heels.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Produces strange/outlandish reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Weak first narrator (Saduq Yugrib) - Abdullah ibn Uthman al-Khorasani",
+            "Ambiguous transmission using 'عَنْ' in multiple positions",
+            "Probable mursal connection - Tabi'i narrator without clear Companion intermediary"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade significantly compromises the overall reliability of the hadith."
+        },
+        {
+          "issue": "Ambiguous Transmission Methodology",
+          "impact": "The use of 'عَنْ' rather than explicit hearing terms and the absence of a clear Companion link suggests a potentially disconnected transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3949,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "843",
+      "english_translation": "Narrated by Abu Hashim al-Makki: Whoever preserves the hadith of my family/tradition.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain structure: Text references family members but only one narrator listed",
+            "Direct attribution from Tabi'i to Prophet without clear Companion intermediary",
+            "Probable mursal (disconnected) transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete Chain Documentation",
+          "impact": "The narrators_in_isnad field does not match the family-based transmission suggested by the text."
+        },
+        {
+          "issue": "Clear Mursal (Disconnected) Transmission",
+          "impact": "Abu Hashim al-Makki (Tabi'i) appears to report directly from the Prophet ﷺ without a documented Companion intermediary."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3950,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "844",
+      "english_translation": "Narrated by Abu Hashim al-Makki: This world and the next are in enmity with each other.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Produces strange/outlandish reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Weak first narrator (Saduq Yugrib) - Abdullah ibn Uthman al-Khorasani",
+            "Ambiguous transmission using 'عَنْ' in multiple positions",
+            "Probable mursal connection - Tabi'i narrator without clear Companion intermediary"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade significantly compromises the overall reliability of the hadith."
+        },
+        {
+          "issue": "Ambiguous Transmission Methodology",
+          "impact": "The use of 'عَنْ' rather than explicit hearing terms and the absence of a clear Companion link suggests a potentially disconnected transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3951,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "845",
+      "english_translation": "Narrated by Abu Hashim al-Makki: That which is for Allah is acceptable, whether little or much.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Produces strange/outlandish reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Weak first narrator (Saduq Yugrib) - Abdullah ibn Uthman al-Khorasani",
+            "Ambiguous transmission using 'عَنْ' in multiple positions",
+            "Probable mursal connection - Tabi'i narrator without clear Companion intermediary"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade significantly compromises the overall reliability of the hadith."
+        },
+        {
+          "issue": "Ambiguous Transmission Methodology",
+          "impact": "The use of 'عَنْ' rather than explicit hearing terms and the absence of a clear Companion link suggests a potentially disconnected transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3952,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "846",
+      "english_translation": "Narrated by Abu Hashim al-Makki: The best of you are the best to their families.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Produces strange/outlandish reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Weak first narrator (Saduq Yugrib) - Abdullah ibn Uthman al-Khorasani",
+            "Ambiguous transmission using 'عَنْ' in multiple positions",
+            "Probable mursal connection - Tabi'i narrator without clear Companion intermediary"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade significantly compromises the overall reliability of the hadith."
+        },
+        {
+          "issue": "Ambiguous Transmission Methodology",
+          "impact": "The use of 'عَنْ' rather than explicit hearing terms and the absence of a clear Companion link suggests a potentially disconnected transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3953,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "847",
+      "english_translation": "Narrated by Abu Hashim al-Makki: Oppression will be darkness on the Day of Judgment.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Produces strange/outlandish reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Weak first narrator (Saduq Yugrib) - Abdullah ibn Uthman al-Khorasani",
+            "Ambiguous transmission using 'عَنْ' in multiple positions",
+            "Probable mursal connection - Tabi'i narrator without clear Companion intermediary"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade significantly compromises the overall reliability of the hadith."
+        },
+        {
+          "issue": "Ambiguous Transmission Methodology",
+          "impact": "The use of 'عَنْ' rather than explicit hearing terms and the absence of a clear Companion link suggests a potentially disconnected transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3954,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "848",
+      "english_translation": "Narrated by Abu Hashim al-Makki: Knowledge is that which is remembered.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Produces strange/outlandish reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Weak first narrator (Saduq Yugrib) - Abdullah ibn Uthman al-Khorasani",
+            "Ambiguous transmission using 'عَنْ' in multiple positions",
+            "Probable mursal connection - Tabi'i narrator without clear Companion intermediary"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade significantly compromises the overall reliability of the hadith."
+        },
+        {
+          "issue": "Ambiguous Transmission Methodology",
+          "impact": "The use of 'عَنْ' rather than explicit hearing terms and the absence of a clear Companion link suggests a potentially disconnected transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3955,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "849",
+      "english_translation": "Narrated by Abu Hashim al-Makki: What is haram for me is haram for my followers.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain structure: Text references family members but only one narrator listed",
+            "Direct attribution from Tabi'i to Prophet without clear Companion intermediary",
+            "Probable mursal (disconnected) transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete Chain Documentation",
+          "impact": "The narrators_in_isnad field does not match the family-based transmission suggested by the text."
+        },
+        {
+          "issue": "Clear Mursal (Disconnected) Transmission",
+          "impact": "Abu Hashim al-Makki (Tabi'i) appears to report directly from the Prophet ﷺ without a documented Companion intermediary."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3956,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "850",
+      "english_translation": "Narrated by Abu Hashim al-Makki: Do not sell what is with you for that which is not with you.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Produces strange/outlandish reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Weak first narrator (Saduq Yugrib) - Abdullah ibn Uthman al-Khorasani",
+            "Ambiguous transmission using 'عَنْ' in multiple positions",
+            "Probable mursal connection - Tabi'i narrator without clear Companion intermediary"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade significantly compromises the overall reliability of the hadith."
+        },
+        {
+          "issue": "Ambiguous Transmission Methodology",
+          "impact": "The use of 'عَنْ' rather than explicit hearing terms and the absence of a clear Companion link suggests a potentially disconnected transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3957,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "851",
+      "english_translation": "Narrated by Abu Hashim al-Makki: Verily, Allah loves those who repent.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Ataa ibn Abi Muslim al-Khorasani",
+              "grade": "Saduq Yugrib",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Produces strange/outlandish reports"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khorasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khorasani al-Ramli",
+              "nisba_ar": "الخراساني الرملي",
+              "death_year": "200",
+              "birth_year": "",
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisaburi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadr al-Nisaburi, Abu al-Fadl al-Nisaburi",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisaburi",
+              "nisba_ar": "النيسابوري",
+              "death_year": "180",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "7",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "From (could be direct or indirect transmission)"
+            },
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Weak first narrator (Saduq Yugrib) - Abdullah ibn Uthman al-Khorasani",
+            "Ambiguous transmission using 'عَنْ' in multiple positions",
+            "Probable mursal connection - Tabi'i narrator without clear Companion intermediary"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak First Narrator: Abdullah ibn Uthman al-Khorasani",
+          "impact": "The 'Saduq Yugrib' grade significantly compromises the overall reliability of the hadith."
+        },
+        {
+          "issue": "Ambiguous Transmission Methodology",
+          "impact": "The use of 'عَنْ' rather than explicit hearing terms and the absence of a clear Companion link suggests a potentially disconnected transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3958,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "852",
+      "english_translation": "Narrated by Abu Hashim al-Makki: The strong believer is better than the weak believer.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain structure: Text references family members but only one narrator listed",
+            "Direct attribution from Tabi'i to Prophet without clear Companion intermediary",
+            "Probable mursal (disconnected) transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete Chain Documentation",
+          "impact": "The narrators_in_isnad field does not match the family-based transmission suggested by the text."
+        },
+        {
+          "issue": "Clear Mursal (Disconnected) Transmission",
+          "impact": "Abu Hashim al-Makki (Tabi'i) appears to report directly from the Prophet ﷺ without a documented Companion intermediary."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3959,
+      "book_id": 5,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1",
+      "english_translation": "Narrated by Abu Hashim al-Makki: Every soul shall taste death.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain structure: Text references family members but only one narrator listed",
+            "Direct attribution from Tabi'i to Prophet without clear Companion intermediary",
+            "Probable mursal (disconnected) transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete Chain Documentation",
+          "impact": "The narrators_in_isnad field does not match the family-based transmission suggested by the text."
+        },
+        {
+          "issue": "Clear Mursal (Disconnected) Transmission",
+          "impact": "Abu Hashim al-Makki (Tabi'i) appears to report directly from the Prophet ﷺ without a documented Companion intermediary."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3960,
+      "book_id": 5,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "2",
+      "english_translation": "Narrated by Abu Hashim al-Makki: Those who are merciful will be shown mercy by Allah.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Hashim al-Makki",
+              "full_name": "Abdullah ibn Ubayd ibn Umair ibn Qatadah ibn Sa'd ibn Amir ibn Jundaa ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi al-Makki",
+              "nisba_ar": "الليثي المكي",
+              "death_year": "133",
+              "birth_year": "",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain structure: Text references family members but only one narrator listed",
+            "Direct attribution from Tabi'i to Prophet without clear Companion intermediary",
+            "Probable mursal (disconnected) transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete Chain Documentation",
+          "impact": "The narrators_in_isnad field does not match the family-based transmission suggested by the text."
+        },
+        {
+          "issue": "Clear Mursal (Disconnected) Transmission",
+          "impact": "Abu Hashim al-Makki (Tabi'i) appears to report directly from the Prophet ﷺ without a documented Companion intermediary."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Islamic teachings and guidance from the Prophet ﷺ"
+      ]
+    }
+  ]
+}
