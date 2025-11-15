@@ -1,0 +1,4847 @@
+{
+  "batch_number": 1,
+  "source_files": [
+    79,
+    80
+  ],
+  "total_processed": 30,
+  "hadiths": [
+    {
+      "hadith_id": 1171,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "216",
+      "english_translation": "Narrated by Ibn Abi Najih from 'Ata' ibn Abi Rabah: He places his hand with their hands, and he eats with them according to his service and according to his work.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "insufficient documentation"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "saduq - midlevel reliability"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi al-Medini",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib - prone to errors",
+                "uses indirect transmission"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "'Ata' ibn Abi Rabah",
+              "full_name": "'Ata' ibn Abi Rabah al-Qurashi al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Abu Muhammad al-Makki",
+              "original_id": null,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "114",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Narrator ID 2 (Adam) appears in text but missing from narrator array",
+            "Muhammad ibn al-Husayn (opener) is weak (Da'if)",
+            "Ibn Abi Najih uses indirect transmission (عَنْ) - saduq yugrib narrator",
+            "This appears to be a mawquf (statement of a tabi'i) not marfu' hadith"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if (weak) narrator",
+          "impact": "The hadith collector's weakness significantly affects the authenticity of the entire chain"
+        },
+        {
+          "issue": "Missing narrator data - Adam (narrator ID 2) referenced in text but not in narrator array",
+          "impact": "Data integrity issue prevents complete chain verification"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Introduces potential disconnection; saduq yugrib is prone to errors"
+        },
+        {
+          "issue": "Mawquf hadith - appears to be statement of a tabi'i, not Prophet's statement",
+          "impact": "This is not a directly attributed hadith (marfu') but a scholarly interpretation"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Behavior of one who joins others in eating",
+        "Fair compensation for labor and service",
+        "Equality in eating and food distribution"
+      ]
+    },
+    {
+      "hadith_id": 1172,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "217",
+      "english_translation": "Narrated from al-Mughirah from Ibrahim: The proper understanding is not to wear fine garments and linen, but the proper understanding is that which satisfies hunger and covers the private parts.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنبأ",
+              "reliabilityIssues": [
+                "majhul",
+                "weak narrator"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He informed us (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "al-Mughirah",
+              "full_name": "al-Mughirah ibn Shihab al-Thaqafi",
+              "grade": "Layyin al-Hadith",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "layyin al-hadith - weak reliability"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Unknown",
+              "original_id": null,
+              "kunya": "Unknown",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Layyin al-Hadith",
+              "tabaqat": "Fifth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (indirect)"
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Yazid al-Nakha'i",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Abu Imran al-Kufi",
+              "original_id": null,
+              "kunya": "Abu Imran",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "96",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "al-Mughirah is layyin al-hadith (weak in hadith)",
+            "This is a mawquf statement, not a marfu' hadith"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn",
+          "impact": "Foundational weakness affecting entire chain"
+        },
+        {
+          "issue": "al-Mughirah is layyin al-hadith (weak in hadith)",
+          "impact": "Introduces significant reliability concerns in the transmission"
+        },
+        {
+          "issue": "Missing narrator data - Adam (ID 2) in text but not in array",
+          "impact": "Data integrity issue"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Definition of honorable livelihood",
+        "Appropriate clothing and provision",
+        "Commentary on proper understanding in Islamic life"
+      ]
+    },
+    {
+      "hadith_id": 1173,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "218",
+      "english_translation": "Narrated from Mujahid concerning His saying: 'And let those fear who, if they left behind them weak offspring, would be afraid for them' - He said: This is concerning the bequest. When someone dies with little, those present say to him: 'Do you have little? Then bequeath to so-and-so and the family of so-and-so.' Allah the Mighty and Majestic says: 'And let those fear, and let them say a word as they would wish to be said to themselves regarding their offspring afterward.' 'And let them say a right word' meaning: justice.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array but referenced in text",
+            "Ibn Abi Najih (saduq yugrib) uses indirect عَنْ",
+            "Mawquf statement, not marfu' hadith"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Compromises chain authenticity from the outset"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Introduces potential for disconnection; saduq yugrib is prone to errors"
+        },
+        {
+          "issue": "Missing narrator data - Adam (ID 2) referenced in text",
+          "impact": "Incomplete data prevents full verification"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic exegesis of surah an-Nisa ayah 9",
+        "Laws of inheritance and bequest in Islam",
+        "Rights of orphans and weak offspring",
+        "Justice in distribution of estate"
+      ]
+    },
+    {
+      "hadith_id": 1174,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "219",
+      "english_translation": "Narrated from Ibn Abbas concerning His saying: 'Allah commands you concerning your children, for the male like the share of the female' - He said: Inheritance was for the child and bequest was for the parents and near relatives. Then Allah the Mighty and Majestic abrogated from that what He wished, so He made for the male child twice the share of the female, and made for the parents two-sixths, and made for the husband one-half or one-quarter, and made for the woman one-quarter or one-eighth.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنبأ",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He informed us (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "'Ata' ibn Abi Rabah",
+              "full_name": "'Ata' ibn Abi Rabah al-Qurashi al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 5625,
+              "alternative_names": "Abu Muhammad al-Makki",
+              "original_id": 4829,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "114",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Hibr al-Ummah, Abu al-Abbas",
+              "original_id": 4062,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Mecca/Taif",
+              "transmissionTermMeaning": "From (direct from companion)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) uses indirect عَنْ",
+            "Mawquf statement from companion Ibn Abbas"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises the entire chain"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        },
+        {
+          "issue": "Missing narrator data - Adam (ID 2) in text",
+          "impact": "Data integrity issue"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic exegesis of surah an-Nisa ayah 11",
+        "Islamic inheritance laws",
+        "Division of estate between male and female heirs",
+        "Rights of spouses in inheritance",
+        "Abrogation (naskh) of previous rules regarding bequest"
+      ]
+    },
+    {
+      "hadith_id": 1175,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "220",
+      "english_translation": "Narrated from Mujahid concerning His saying: 'You do not know which of them is nearer to you in benefit' - He said: Meaning in this worldly life.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنبأ",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He informed us (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) uses indirect عَنْ",
+            "Mawquf interpretation from tabi'i Mujahid"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Significantly compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential disconnection; prone to errors"
+        },
+        {
+          "issue": "Missing narrator data - Adam (ID 2) referenced in text",
+          "impact": "Data integrity issue"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic exegesis of surah an-Nisa ayah 11",
+        "Worldly benefits from family members",
+        "Interpretation of inheritance verses"
+      ]
+    },
+    {
+      "hadith_id": 1176,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "221",
+      "english_translation": "Narrated from Mujahid concerning His saying: 'Without causing harm' - He said: The testator does not cause harm in the inheritance to his family.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنبأ",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He informed us (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) uses indirect عَنْ",
+            "Mawquf statement from tabi'i Mujahid"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises entire chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        },
+        {
+          "issue": "Missing narrator data - Adam (ID 2) in text",
+          "impact": "Data integrity issue prevents full verification"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic exegesis of surah an-Nisa ayah 12",
+        "Islamic law on bequest and inheritance",
+        "Prohibition of harm in distribution of estate",
+        "Rights of heirs in testamentary matters"
+      ]
+    },
+    {
+      "hadith_id": 1177,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "222",
+      "english_translation": "Narrated from Mujahid concerning His saying: 'And those women who commit lewdness among your women' - Meaning: fornication.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنبأ",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He informed us (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) uses indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; prone to errors"
+        },
+        {
+          "issue": "Missing narrator data - Adam (ID 2)",
+          "impact": "Incomplete chain verification"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic exegesis of surah an-Nisa ayah 15",
+        "Definition of lewdness and adultery in Islamic law",
+        "Punishment and rights regarding illicit relations"
+      ]
+    },
+    {
+      "hadith_id": 1178,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "223",
+      "english_translation": "He said: The way (meaning the ordained punishment/prescribed sentence).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنبأ",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He informed us (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) uses indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) with indirect transmission عَنْ",
+          "impact": "Prone to errors and potential disconnection"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic exegesis of surah an-Nisa ayah 15",
+        "Legal terminology in Islamic jurisprudence",
+        "Ordained punishment (hadd) in Islamic law"
+      ]
+    },
+    {
+      "hadith_id": 1179,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "224",
+      "english_translation": "Narrated from Mujahid concerning His saying: 'And those of your women who commit indecency, call to witness' - He said: Four witnesses.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنبأ",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He informed us (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) uses indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) with indirect عَنْ",
+          "impact": "Potential for disconnection"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic exegesis of surah an-Nisa ayah 15",
+        "Requirement of four witnesses for adultery",
+        "Testimony and evidence in Islamic law"
+      ]
+    },
+    {
+      "hadith_id": 1180,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "225",
+      "english_translation": "Whoever disobeys his Lord is ignorant until he desists from disobedience.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنبأ",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He informed us (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) uses indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) with indirect transmission عَنْ",
+          "impact": "Potential for disconnection"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Definition of ignorance in Islamic law",
+        "Disobedience to Allah and its consequences",
+        "Moral responsibility for transgressions"
+      ]
+    },
+    {
+      "hadith_id": 1181,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "226",
+      "english_translation": "When a man died, his son had rights over his widow. So there descended: The believing women do not become unlawful to you.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنبأ",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He informed us (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) uses indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) with indirect transmission عَنْ",
+          "impact": "Prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic exegesis of surah al-Ahzab ayah 49",
+        "Pre-Islamic practices regarding widows",
+        "Abrogation of widow inheritance rights",
+        "Islamic reform of women's marital status"
+      ]
+    },
+    {
+      "hadith_id": 1182,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "227",
+      "english_translation": "Narrated from Mujahid concerning His saying: 'And (forbidden unto you are) married women' - Meaning believing women whose covenants are established.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنبأ",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He informed us (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) uses indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness in chain"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) with indirect transmission عَنْ",
+          "impact": "Potential disconnection; prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic exegesis of surah an-Nisa ayah 24",
+        "Conditions of lawful marriage in Islam",
+        "Rights and status of believing women",
+        "Covenant and contract in Islamic marriage law"
+      ]
+    },
+    {
+      "hadith_id": 1183,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "228",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنبأ",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He informed us (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1184,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "229",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Hibr al-Ummah, Abu al-Abbas",
+              "original_id": 4062,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Mecca/Taif",
+              "transmissionTermMeaning": "From (direct from companion)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1185,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "230",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1186,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "231",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1187,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "232",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1188,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "233",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1189,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "234",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنبأ",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He informed us (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1190,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "235",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1191,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "236",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1192,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "237",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنبأ",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He informed us (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1193,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "238",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1194,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "239",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1195,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "240",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنبأ",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He informed us (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1196,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "241",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1197,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "242",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "نا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Hibr al-Ummah, Abu al-Abbas",
+              "original_id": 4062,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Mecca/Taif",
+              "transmissionTermMeaning": "From (direct from companion)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1198,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "243",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1199,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "244",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Hibr al-Ummah, Abu al-Abbas",
+              "original_id": 4062,
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Mecca/Taif",
+              "transmissionTermMeaning": "From (direct from companion)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 1200,
+      "book_id": 2,
+      "book_name_ar": "كتاب غير معروف",
+      "book_name_en": "Unknown Collection",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "245",
+      "english_translation": "[Quranic Exegesis Material - Mawquf Statement]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibani",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul",
+                "weak"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Abu al-Fath al-Shibani",
+              "original_id": 27739,
+              "kunya": "Abu al-Fath",
+              "nisba": "al-Attari",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "Ninth Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "I (direct report)"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudama ibn Mahan al-Saji",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 11232,
+              "alternative_names": "Abu Ishaq al-Saji",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Saji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "Eighth Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Sulayman (missing from narrator array)",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [
+                "missing from narrator data"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Abu Sulayman al-Basri",
+              "original_id": null,
+              "kunya": "Abu Sulayman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "221",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Seventh Generation",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Warqa' ibn Uthman ibn Abi Sa'id al-Madani",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "ثنا",
+              "reliabilityIssues": [],
+              "narrator_id": 8149,
+              "alternative_names": "Abu Uthman al-Medini",
+              "original_id": 7406,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Zarqi",
+              "nisba_ar": "الزرقي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "Sixth Generation",
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Abdullah ibn Abi Najih al-Makki",
+              "grade": "Saduq Yugrib",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq yugrib"
+              ],
+              "narrator_id": 4653,
+              "alternative_names": "Shafi ibn Mati' al-Asbahi",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Asbahi",
+              "nisba_ar": "الأصبحي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq Yugrib",
+              "tabaqat": "Fifth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (potentially indirect)"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Abu al-Hajjaj al-Makki",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": "104",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Fourth Generation",
+              "location": "Mecca",
+              "transmissionTermMeaning": "From (likely direct)"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn al-Husayn is da'if (weak)",
+            "Adam (ID 2) missing from narrator array",
+            "Ibn Abi Najih (saduq yugrib) may use indirect عَنْ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak collector - Muhammad ibn al-Husayn is da'if",
+          "impact": "Foundational weakness compromises chain authenticity"
+        },
+        {
+          "issue": "Ibn Abi Najih (saduq yugrib) uses indirect transmission عَنْ",
+          "impact": "Potential for disconnection; narrator prone to errors"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Quranic Exegesis (Tafsir)",
+        "Islamic Law and Jurisprudence"
+      ]
+    }
+  ]
+}
