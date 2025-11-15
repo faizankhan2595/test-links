@@ -1,0 +1,2175 @@
+{
+  "batch_number": 1,
+  "source_files": [
+    215,
+    216
+  ],
+  "total_hadiths_processed": 21,
+  "hadiths": [
+    {
+      "hadith_id": 3211,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "105",
+      "english_translation": "Narrated by Ali: The Prophet Muhammad ﷺ came at the beginning of one of his Umrahs, and a man greeted him during prayer, but he did not return the greeting. When he finished praying and turned away, he said: 'Where is the greeter? Indeed I was in prayer, and Gabriel came to me and said: Command your nation not to return greetings while they are in prayer.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Attaa ibn Abi Muslim al-Khurasani",
+              "grade": "Majhul al-Hal",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul",
+                "lack of biographical data"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khurasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khurasani",
+              "nisba_ar": "الخراساني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "7",
+              "location": "Khurasan",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadhr",
+              "full_name": "Ahmad ibn al-Nadhr ibn Abd al-Wahhab al-Nisapuri",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "lack of biographical data",
+                "limited information"
+              ],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadhr al-Nisapuri, Abu al-Fadl al-Nisapuri",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisapuri",
+              "nisba_ar": "النيسابوري",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Nishapur",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "discrepancy between text and narrator data",
+                "text mentions Ali but narrator is Abdullah"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "All narrators use indirect transmission term 'an (عن)",
+            "Significant data inconsistency: text mentions 'from Ali' but narrator list shows Abdullah ibn Ubayd",
+            "Two of three narrators have unknown or limited biographical information"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown or poorly documented narrators",
+          "impact": "Abdullah ibn Uthman (Majhul al-Hal) and Ahmad ibn al-Nadhr (unverified Saduq) are not well-documented in standard hadith sources. Their reliability cannot be definitively established."
+        },
+        {
+          "issue": "Exclusive use of indirect transmission term 'an (عن)",
+          "impact": "All narrators in the chain use 'an (from) rather than stronger transmission terms like haddathana (حدثنا) or sami'tu (سمعت), which introduces ambiguity about the nature of the transmission connection."
+        },
+        {
+          "issue": "Data inconsistency in source document",
+          "impact": "The Arabic text of the hadith mentions 'from Ali (عن علي)' but the structured narrator data lists Abdullah ibn Ubayd as the narrator. This discrepancy raises questions about data accuracy."
+        },
+        {
+          "issue": "Unknown collection and author",
+          "impact": "The hadith is from 'Book Number 4' by an unknown author. Without knowing the source collection, it is difficult to assess the credibility of the transmission methodology."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of a man greeting the Prophet ﷺ during prayer",
+        "Prophet's ﷺ guidance on greeting during prayer",
+        "Gabriel's instruction regarding prayer etiquette",
+        "Prohibition of responding to greetings while in prayer"
+      ]
+    },
+    {
+      "hadith_id": 3212,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "106",
+      "english_translation": "Narrated by Ali: The Prophet ﷺ said: 'None of you should spit in front of his face during prayer, nor to his right, but let him spit to his left or under his left foot.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "incomplete chain in structured data"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Chain appears incomplete in source data - only one narrator between Ali and Prophet ﷺ",
+            "Use of indirect transmission term 'an (عن)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete or broken chain",
+          "impact": "The structured data shows only Abdullah ibn Ubayd as the narrator, with no intermediate narrators between him and the Prophet ﷺ. This appears to be a data extraction issue, as real isnads are typically longer and more detailed."
+        },
+        {
+          "issue": "Indirect transmission term",
+          "impact": "The use of 'an (عن) rather than stronger transmission terms introduces some ambiguity about the directness of transmission."
+        },
+        {
+          "issue": "Unknown source collection",
+          "impact": "The hadith is from an unknown book by an unknown author, making it difficult to assess transmission reliability."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prohibition of spitting in front of one's face during prayer",
+        "Direction of spitting during prayer",
+        "Etiquette of bodily functions during prayer"
+      ]
+    },
+    {
+      "hadith_id": 3213,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "107",
+      "english_translation": "Narrated by Ali: For men, glorification (Tasbih) is appropriate, and for women, clapping (Tasfiq) is appropriate in prayer.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Attaa ibn Abi Muslim al-Khurasani",
+              "grade": "Majhul al-Hal",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul",
+                "lack of biographical data"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khurasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khurasani",
+              "nisba_ar": "الخراساني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "7",
+              "location": "Khurasan",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadhr",
+              "full_name": "Ahmad ibn al-Nadhr ibn Abd al-Wahhab al-Nisapuri",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "lack of biographical data",
+                "limited information"
+              ],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadhr al-Nisapuri, Abu al-Fadl al-Nisapuri",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisapuri",
+              "nisba_ar": "النيسابوري",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Nishapur",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "discrepancy between text and narrator data"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "All narrators use indirect transmission term 'an (عن)",
+            "First narrator (Abdullah ibn Uthman) is of unknown reliability (Majhul al-Hal)",
+            "Identical chain structure to hadith 3211, suggesting possible data reuse or common transmission path"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple narrators with unknown reliability",
+          "impact": "Abdullah ibn Uthman is graded as Majhul al-Hal (unknown reliability), while Ahmad ibn al-Nadhr is only graded as Saduq. The presence of a Majhul al-Hal narrator weakens the chain significantly."
+        },
+        {
+          "issue": "Exclusive use of indirect transmission term 'an (عن)",
+          "impact": "All narrators use the indirect transmission term 'an without employing stronger terms like haddathana (حدثنا), which reduces the strength of the chain."
+        },
+        {
+          "issue": "Unknown source collection",
+          "impact": "Attribution to unknown Book Number 4 with unknown author raises concerns about the reliability of the transmission methodology."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Method of drawing attention during prayer for men (Tasbih)",
+        "Method of drawing attention during prayer for women (Tasfiq/clapping)",
+        "Gender-specific prayer etiquette"
+      ]
+    },
+    {
+      "hadith_id": 3215,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "109",
+      "english_translation": "Narrated by Ali: The two prostrations of forgetfulness after the salutation and before speaking suffice for deficiency and excess.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "incomplete chain in structured data"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Chain appears incomplete - only one narrator between Ali and the Prophet ﷺ",
+            "Use of indirect transmission term 'an (عن)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Broken or incomplete chain",
+          "impact": "The hadith appears to have a broken isnad with significant gap between Abdullah ibn Ubayd and the Prophet ﷺ. Such breaks are traditionally considered to make a hadith mursal (disconnected) or daif (weak)."
+        },
+        {
+          "issue": "Indirect transmission term",
+          "impact": "Use of 'an (عن) without stronger transmission terms introduces ambiguity about the nature of transmission."
+        },
+        {
+          "issue": "Unknown source collection",
+          "impact": "From an unknown and unidentified hadith collection, making credibility assessment difficult."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Prostrations of forgetfulness after completing prayer",
+        "Timing of prostrations of forgetfulness relative to salutation",
+        "Effect of prostrations of forgetfulness on prayer errors"
+      ]
+    },
+    {
+      "hadith_id": 3216,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "110",
+      "english_translation": "Narrated by Ali: The Prophet Muhammad ﷺ led us in the Zuhr prayer with five rakats. Then a man called Dhu al-Shimaalayn stood and said: 'O Messenger of Allah, has something been added to the prayer?' He said: 'What is that?' He said: 'You led us in five rakats.' Then the Prophet ﷺ turned toward the qibla, performed the takbir while sitting, and prostrated two prostrations in which there was recitation and no bowing, and said: 'These are the humiliating ones.' Zayd ibn Ali said regarding a man who forgets to stand and sits instead, or stands when he should sit: 'He owes two prostrations of forgetfulness.' [Further rulings of Zayd ibn Ali regarding various prayer errors and their remedies are detailed...]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Attaa ibn Abi Muslim al-Khurasani",
+              "grade": "Majhul al-Hal",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul",
+                "lack of biographical data"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khurasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khurasani",
+              "nisba_ar": "الخراساني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "7",
+              "location": "Khurasan",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadhr",
+              "full_name": "Ahmad ibn al-Nadhr ibn Abd al-Wahhab al-Nisapuri",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "lack of biographical data"
+              ],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadhr al-Nisapuri, Abu al-Fadl al-Nisapuri",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisapuri",
+              "nisba_ar": "النيسابوري",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Nishapur",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "All narrators use indirect transmission term 'an (عن)",
+            "First narrator (Abdullah ibn Uthman) has unknown reliability (Majhul al-Hal)",
+            "This is the third hadith with identical chain structure (hadiths 3211, 3213, 3216)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator with unknown reliability",
+          "impact": "Abdullah ibn Uthman is graded as Majhul al-Hal, which means his reliability cannot be established. This significantly weakens the chain."
+        },
+        {
+          "issue": "Exclusive use of indirect transmission",
+          "impact": "All narrators employ 'an (عن) without stronger transmission terms like haddathana (حدثنا), introducing ambiguity about transmission connections."
+        },
+        {
+          "issue": "Identical chain structure across multiple hadiths",
+          "impact": "This hadith, along with hadiths 3211 and 3213, shares the exact same chain of narrators (Abdullah ibn Uthman → Ahmad ibn al-Nadhr → Abdullah ibn Ubayd). This unusual repetition raises questions about data consistency or the nature of the collection."
+        },
+        {
+          "issue": "Mixed content: Direct hadith followed by legal rulings",
+          "impact": "The hadith begins with a marfu' report (from the Prophet ﷺ) but continues with rulings attributed to Zayd ibn Ali, mixing prophetic narrations with later scholarly opinions without clear delineation."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of Dhu al-Shimaalayn correcting the Prophet ﷺ about extra rakats in prayer",
+        "Prophet's ﷺ response to the error in prayer count",
+        "Prostrations of forgetfulness and their timing",
+        "Rulings on various prayer mistakes and their corrections",
+        "Standing and sitting positions in prayer",
+        "Recitation during prostrations of forgetfulness"
+      ]
+    },
+    {
+      "hadith_id": 3218,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "112",
+      "english_translation": "Narrated by Ali: I and the Prophet Muhammad ﷺ entered upon Umm Salamah, and there were women on the side of the house praying. The Prophet ﷺ said: 'O Umm Salamah, what prayer are these women praying?' She said: 'O Messenger of Allah, the obligatory prayer.' The Prophet ﷺ said: 'Why do you not lead them in prayer?' She said: 'O Messenger of Allah, is that permissible?' The Prophet ﷺ said: 'Yes, you stand in the middle of them, not in front of you nor behind you, but let them be on your right and on your left.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Attaa ibn Abi Muslim al-Khurasani",
+              "grade": "Majhul al-Hal",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul",
+                "lack of biographical data"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khurasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khurasani",
+              "nisba_ar": "الخراساني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "7",
+              "location": "Khurasan",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadhr",
+              "full_name": "Ahmad ibn al-Nadhr ibn Abd al-Wahhab al-Nisapuri",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "lack of biographical data"
+              ],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadhr al-Nisapuri, Abu al-Fadl al-Nisapuri",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisapuri",
+              "nisba_ar": "النيسابوري",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Nishapur",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "data discrepancy with text"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Identical chain structure to hadiths 3211, 3213, 3216 (fifth repetition of same chain)",
+            "All narrators use indirect transmission term 'an (عن)",
+            "First narrator has unknown reliability (Majhul al-Hal)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Repetitive chain pattern",
+          "impact": "This is the fifth hadith in the collection using the identical narrator chain (Abdullah ibn Uthman → Ahmad ibn al-Nadhr → Abdullah ibn Ubayd). Such repetition raises questions about the authenticity of multiple separate transmissions or whether these are variant narrations of the same base hadith."
+        },
+        {
+          "issue": "Unknown reliability of first narrator",
+          "impact": "Abdullah ibn Uthman (Majhul al-Hal) is the starting point of the chain. His reliability cannot be established from known sources."
+        },
+        {
+          "issue": "Exclusive use of indirect transmission",
+          "impact": "All narrators use 'an (عن) without stronger transmission terms like haddathana (حدثنا), introducing ambiguity about transmission connections."
+        },
+        {
+          "issue": "Unknown collection and author",
+          "impact": "Without knowledge of the source collection's methodology and the author's scholarly standing, assessment of hadith reliability is limited."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of Umm Salamah leading women in prayer",
+        "Permission for women to lead women in prayer",
+        "Positioning of women leading women in congregation",
+        "Prophet's ﷺ guidance on female prayer leadership"
+      ]
+    },
+    {
+      "hadith_id": 3220,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "114",
+      "english_translation": "Narrated by Ali: Umar led the people in the Fajr prayer while he was in a state of ritual impurity. When he finished the prayer, he turned to the people and said: 'O people, indeed Umar led you in prayer while he was ritually impure.' The people said: 'What do you command, O Commander of the Believers?' He said: 'I must repeat, but there is no need for you to repeat.' Then Ali said: 'Nay, rather you and they must repeat. Do you not see that the people follow their Imam? They enter when he enters, they exit when he exits, they bow when he bows, they prostrate when he prostrates. If an error occurs to him, it occurs to those behind him.' So some people followed Ali's view and some followed Umar's view.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Nafi'",
+              "full_name": "Abdullah ibn Nafi' al-Hashimi",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "incomplete chain",
+                "limited biographical information"
+              ],
+              "narrator_id": 5913,
+              "alternative_names": "Abdullah ibn Nafi' al-Hashimi, Abu Ja'far al-Kufi",
+              "original_id": 5121,
+              "kunya": "Abu Ja'far",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Significant gap in chain between Abdullah ibn Nafi' and the Prophet ﷺ",
+            "Only one narrator listed but the text involves Ali and Umar, suggesting missing intermediaries",
+            "Indirect transmission term 'an (عن)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Severely broken chain",
+          "impact": "The structured data shows only Abdullah ibn Nafi' between the event and the source data, but the text describes an incident involving Ali and Umar with dialogue. There are clearly missing narrators in the isnad, making this a mursal (disconnected) hadith."
+        },
+        {
+          "issue": "Potential confusion about hadith type",
+          "impact": "While the text mentions the Prophet ﷺ at the beginning ('Umar led the people in prayer'), the main content is about Ali and Umar's disagreement (a mawquf/stopped hadith about companions), not a marfu' (attributed to Prophet). The classification as marfu' appears incorrect."
+        },
+        {
+          "issue": "Indirect transmission from unknown source",
+          "impact": "Abdullah ibn Nafi' is listed with only limited biographical information, and the broken chain makes authentication difficult."
+        },
+        {
+          "issue": "No explicit connection documented",
+          "impact": "The text shows what appears to be an eyewitness account of Ali and Umar's dispute, but the chain fails to establish how this knowledge was transmitted to Abdullah ibn Nafi'."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Incident of Umar ibn al-Khattab leading in prayer while in ritual impurity",
+        "Dialogue between Ali and Umar about prayer repetition when Imam is ritually impure",
+        "Effect of Imam's ritual impurity on the prayer of followers",
+        "Obligation of prayer repetition after Imam leads in state of impurity"
+      ]
+    },
+    {
+      "hadith_id": 3221,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "115",
+      "english_translation": "Narrated by Ali: 'If the Imam's prayer is corrupted, the prayer of those behind him is corrupted.' I asked Zayd ibn Ali regarding an Imam who makes a mistake in his prayer. He said: 'It is obligatory upon him and upon those behind him to prostrate for the mistake.' I said: 'And if one behind the Imam makes a mistake while the Imam does not make a mistake?' He said: 'There is no mistake upon those behind the Imam.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "incomplete chain"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Chain is incomplete between Abdullah ibn Ubayd and the Prophet ﷺ",
+            "Content is primarily from Zayd ibn Ali (Ali's descendant), not directly from the Prophet ﷺ, making this a mawquf (stopped) hadith on the saying of Ali",
+            "Indirect transmission term 'an (عن)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Broken isnad for marfu' claim",
+          "impact": "While the structure suggests a marfu' (attributed to Prophet ﷺ), the actual content is primarily the saying of Ali and the rulings of Zayd ibn Ali (his descendant). The connection to the Prophet ﷺ is not established through proper chain."
+        },
+        {
+          "issue": "Mixed mawquf and marfu' content",
+          "impact": "The first part 'If the Imam's prayer is corrupted...' appears to be attributed to Ali or as a principle, while the second part is explicitly from Zayd ibn Ali's rulings. These should have been classified as mawquf (stopped at the companion/descendant level)."
+        },
+        {
+          "issue": "No intermediary narrators for Zayd ibn Ali's report",
+          "impact": "The text contains detailed rulings from Zayd ibn Ali, but the chain does not include narrators explaining how this knowledge reached Abdullah ibn Ubayd or the source documenter."
+        },
+        {
+          "issue": "Indirect transmission",
+          "impact": "Use of 'an (عن) without stronger transmission terms introduces ambiguity about the nature of the connection."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Effect of Imam's prayer corruption on followers' prayer",
+        "Prostrations of forgetfulness obligatory on Imam and followers",
+        "Follower's mistake when Imam performs correctly",
+        "Zayd ibn Ali's rulings on prayer mistakes"
+      ]
+    },
+    {
+      "hadith_id": 3223,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "117",
+      "english_translation": "Narrated by Ali: If you catch the Imam while he is bowing and bow with him, count that rakat. And if you catch him while he is prostrating and prostrate with you, do not count that rakat.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "incomplete chain"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Chain appears incomplete - only one narrator between Ali and the Prophet",
+            "Indirect transmission term 'an (عن)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Broken or incomplete chain",
+          "impact": "The structured data shows only Abdullah ibn Ubayd as the narrator from Ali, but there is likely a gap between them. This makes the hadith potentially mursal (disconnected) at the companion level."
+        },
+        {
+          "issue": "Indirect transmission",
+          "impact": "Use of 'an (عن) without stronger transmission terms like haddathana (حدثنا) introduces ambiguity about the transmission connection."
+        },
+        {
+          "issue": "Unclear classification",
+          "impact": "The text appears to be from Ali (a companion), making this a mawquf (stopped) hadith, but it is classified as being from the Prophet ﷺ, which is incorrect."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Counting a rakat caught with Imam during bowing",
+        "Not counting a rakat when catching Imam during prostration",
+        "Determining the validity of rakats in congregational prayer"
+      ]
+    },
+    {
+      "hadith_id": 3224,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "118",
+      "english_translation": "Narrated by Ali: Make what you caught with the Imam the first of your prayer. I asked Zayd ibn Ali about the interpretation of that. He said: If you caught one rakat of the prayer with the Imam while he was in Zuhr, Asr, Maghrib, or Isha, add another rakat to it, then recite the tashahhud and this is the second for you, and recite in it what was missed from you, as it was obligatory on the Imam to recite. I asked Zayd ibn Ali about a man who catches one rakat with the Imam when the Imam has prostrations of forgetfulness to perform. He said: He prostrates with him and does not recite the salutation. When the Imam finishes from the two prostrations of forgetfulness, he stands and makes up what the Imam preceded him in.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "incomplete chain"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Chain is incomplete - only one narrator listed",
+            "Mixed content: begins with Ali's saying but continues with detailed rulings from Zayd ibn Ali"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Broken chain structure",
+          "impact": "The hadith contains the saying of Ali followed by rulings of Zayd ibn Ali. The chain does not account for how Zayd ibn Ali's interpretations were transmitted, creating significant gaps in the isnad."
+        },
+        {
+          "issue": "Mixed marfu'/mawquf content",
+          "impact": "The first part attributes saying to Ali (mawquf), while the second part contains Ali's descendant Zayd ibn Ali's rulings. The hadith should be classified as mawquf, not marfu'."
+        },
+        {
+          "issue": "Indirect transmission",
+          "impact": "Use of 'an (عن) without stronger transmission terms."
+        },
+        {
+          "issue": "Compound hadith",
+          "impact": "The hadith combines multiple scholarly rulings and interpretations rather than being a simple transmission, making it difficult to verify the original source and transmission method."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Method of counting caught rakats in congregational prayer",
+        "Making caught rakat the first of prayer for the late-comer",
+        "Recitation in caught rakat vs. what was missed",
+        "Handling prostrations of forgetfulness when joining late",
+        "Zayd ibn Ali's rulings on congregational prayer scenarios"
+      ]
+    },
+    {
+      "hadith_id": 3226,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "120",
+      "english_translation": "Narrated by Ali: Two men came to him while he was in the mosque. They greeted him, and he said: 'Have you prayed?' They said: 'No.' He said: 'But we have already prayed. Move aside and pray, and let one of you lead the other in prayer, and there is no call to prayer (adhan) for you, nor standing for iqama, nor voluntary prayer until you begin with the obligatory prayer.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "incomplete chain"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain - only Abdullah ibn Ubayd between Ali's account and the documented source",
+            "Indirect transmission term 'an (عن)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Broken chain at companion level",
+          "impact": "The hadith describes a specific incident (two men coming to Ali in the mosque), but the chain does not explain how this account reached Abdullah ibn Ubayd or how it was transmitted to the source documentation."
+        },
+        {
+          "issue": "Eyewitness account transmission unclear",
+          "impact": "The hadith appears to be an eyewitness account of Ali's ruling, but the transmission method is not documented, making it difficult to verify its authenticity."
+        },
+        {
+          "issue": "Indirect transmission",
+          "impact": "Use of 'an (عن) without explicit hearing statements."
+        },
+        {
+          "issue": "Incomplete chain structure",
+          "impact": "No documented intermediaries between Abdullah ibn Ubayd and the original incident or transmission source."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Incident of two men arriving without having prayed",
+        "Ali's instruction for praying obligatory prayer first",
+        "Necessity of obligatory prayer before supererogatory prayer",
+        "Rules for two-person congregation"
+      ]
+    },
+    {
+      "hadith_id": 3227,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "121",
+      "english_translation": "Narrated by Ali: If you have prayed Maghrib and then you are also present with a people and cannot but pray with them, then pray with them. When the Imam finishes, stand before you speak and add one rakat and two prostrations and recite the salutation. Zayd ibn Ali narrated to me: If you have prayed Zuhr in your house or Isha, and then catch it in congregation, pray with them. The first is the obligatory prayer and the other is supererogatory. And if it is Fajr, Asr, or Maghrib, do not join the people.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "incomplete chain"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain - compound hadith mixing Ali's ruling with Zayd ibn Ali's narration",
+            "No transmission narrators documented for Zayd ibn Ali's portion"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Compound mawquf hadith",
+          "impact": "The hadith contains both Ali's ruling (first part) and Zayd ibn Ali's detailed narration (second part introduced by 'Zayd ibn Ali narrated to me'). The transmission of Zayd ibn Ali's content is not properly documented."
+        },
+        {
+          "issue": "Mixed sources without clear delineation",
+          "impact": "The text transitions from Ali's saying to Zayd ibn Ali's narration without indicating how the second part was transmitted or from whom it was received."
+        },
+        {
+          "issue": "Incomplete chain between narrators",
+          "impact": "No narrators are documented between Abdullah ibn Ubayd and the sources (Ali and Zayd ibn Ali), creating significant gaps in transmission documentation."
+        },
+        {
+          "issue": "Indirect transmission with ambiguity",
+          "impact": "Use of 'an (عن) for Ali's portion and 'haddathani' (حدثني) for Zayd ibn Ali's portion, but the chain still lacks proper documentation."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Praying again after already praying at home when joining congregation",
+        "Different rulings for different prayer times",
+        "Maghrib and night prayers - permissibility of praying twice",
+        "Fajr, Asr, Maghrib - prohibition of joining again",
+        "Distinguishing obligatory from supererogatory prayer in repeated prayer"
+      ]
+    },
+    {
+      "hadith_id": 3229,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "123",
+      "english_translation": "Narrated by Ali: He disliked that the Imam perform voluntary prayer in the place where he prays with the people, until he moves away or returns to his house.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "incomplete chain"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain",
+            "Indirect transmission term 'an (عن)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Broken chain",
+          "impact": "Only Abdullah ibn Ubayd is listed between Ali and the source documentation, with no intermediate narrators documented."
+        },
+        {
+          "issue": "Indirect transmission",
+          "impact": "Use of 'an (عن) without stronger transmission terms."
+        },
+        {
+          "issue": "Mawquf hadith classification",
+          "impact": "The hadith is about Ali's dislike of an action (mawquf), but is structured as if attributed to the Prophet ﷺ."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Imam performing voluntary prayer in congregational prayer location",
+        "Etiquette of Imam's voluntary prayer after congregational prayer"
+      ]
+    },
+    {
+      "hadith_id": 3230,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "124",
+      "english_translation": "Narrated by Ali: Regarding a man who doubts in his prayer - whether he has prayed three or four rakats - he should complete based on three, because Allah the Exalted will not punish him for what is added in prayer.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "incomplete chain"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain",
+            "Indirect transmission term 'an (عن)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Broken chain",
+          "impact": "Only one narrator documented between the saying and the source."
+        },
+        {
+          "issue": "Indirect transmission",
+          "impact": "Use of 'an (عن) without direct hearing statements."
+        },
+        {
+          "issue": "Ambiguous sourcing",
+          "impact": "While the text attributes the ruling to Ali, the chain structure suggests attribution to the Prophet ﷺ."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Doubt about number of rakats completed in prayer",
+        "Acting on the lesser count when in doubt",
+        "Divine mercy regarding excess in prayer"
+      ]
+    },
+    {
+      "hadith_id": 3232,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "126",
+      "english_translation": "Narrated by Ali: The prayer of the penitent is eight rakats at the time of noon before the Zuhr prayer.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "incomplete chain"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain",
+            "Indirect transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete chain",
+          "impact": "No documented intermediaries between Abdullah ibn Ubayd and the transmission source."
+        },
+        {
+          "issue": "Indirect transmission",
+          "impact": "Use of 'an (عن) without direct transmission terms."
+        },
+        {
+          "issue": "Classification mismatch",
+          "impact": "The hadith is about Ali's ruling (mawquf) but is structured as marfu' (attributed to Prophet)."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "The penitent's prayer (Salat al-Awwabin)",
+        "Timing of this prayer - at noon before Zuhr",
+        "Number of rakats in the prayer"
+      ]
+    },
+    {
+      "hadith_id": 3233,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "127",
+      "english_translation": "Narrated by Ali: Do not abandon two rakats after Maghrib, whether in journey or at home, because they are the Word of Allah the Mighty and Majestic: 'And after prostration' (Quran 50:40). And do not abandon two rakats after sunrise before the obligatory prayer, in journey or at home, because they are His Word the Mighty and His Remembrance the Majestic: 'And after the stars' (Quran 52:49). I asked Zayd ibn Ali about praying one rakat before sunrise and one rakat after sunrise. He said: 'Repeat them, because they are both after sunrise.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "incomplete chain"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain",
+            "Compound hadith mixing Ali's teaching with Zayd ibn Ali's ruling"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Compound mawquf with mixed sources",
+          "impact": "The hadith combines Ali's ruling with Zayd ibn Ali's interpretation, but the transmission of Zayd's portion is not documented."
+        },
+        {
+          "issue": "Incomplete chain",
+          "impact": "No documented narrators between Abdullah ibn Ubayd and the original sources (Ali and Zayd ibn Ali)."
+        },
+        {
+          "issue": "Indirect transmission",
+          "impact": "Use of 'an (عن) and indirect statements without direct hearing claims."
+        },
+        {
+          "issue": "Tafsir element",
+          "impact": "The hadith includes interpretation of Quranic verses, mixing hadith transmission with Quranic exegesis, which adds another layer of potential weakness."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Two rakats after Maghrib and conditions for their performance",
+        "Two rakats after sunrise before obligatory prayer",
+        "Quranic basis for these voluntary prayers",
+        "Zayd ibn Ali's ruling on mixing rakats from before and after sunrise",
+        "Timing of voluntary prayers relative to sunrise"
+      ]
+    },
+    {
+      "hadith_id": 3234,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "128",
+      "english_translation": "Narrated by Ali: That he did not pray it until the Fajr sunrise, and he used to recite in it: 'Say, O disbelievers' (Surah al-Kafirun) and 'Say, He is Allah, the One' (Surah al-Ikhlas).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "incomplete chain"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain",
+            "Indirect transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete chain",
+          "impact": "Only Abdullah ibn Ubayd documented between Ali's practice and the transmission source."
+        },
+        {
+          "issue": "Indirect transmission",
+          "impact": "Use of 'an (عن) without explicit hearing claims."
+        },
+        {
+          "issue": "Mawquf classification",
+          "impact": "The hadith describes Ali's personal practice (mawquf) but is structured as marfu'."
+        },
+        {
+          "issue": "Unclear antecedent",
+          "impact": "The pronoun 'it' (ها) at the beginning of the matn is ambiguous - unclear what 'it' refers to in the hadith context."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Ali's practice of praying Fajr after sunrise",
+        "Surahs recited in the voluntary prayer",
+        "Method of performing sunrise prayer"
+      ]
+    },
+    {
+      "hadith_id": 3236,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "130",
+      "english_translation": "Narrated by Ali: The Prophet Muhammad ﷺ never prayed the Duhaa prayer except on the day of the Conquest of Makkah, for he prayed it on that day with two rakats. And the Prophet ﷺ said: 'I sought permission from my Lord regarding the opening of Makkah and He permitted me to open it for one hour of the day, then He closed it, and He did not permit it for anyone before me, and He will not permit it for anyone after me. So it is forbidden as long as the heavens and the earth remain.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Attaa ibn Abi Muslim al-Khurasani",
+              "grade": "Majhul al-Hal",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul",
+                "lack of biographical data"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khurasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khurasani",
+              "nisba_ar": "الخراساني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "7",
+              "location": "Khurasan",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadhr",
+              "full_name": "Ahmad ibn al-Nadhr ibn Abd al-Wahhab al-Nisapuri",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "lack of biographical data"
+              ],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadhr al-Nisapuri, Abu al-Fadl al-Nisapuri",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisapuri",
+              "nisba_ar": "النيسابوري",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Nishapur",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "All narrators use indirect transmission term 'an (عن)",
+            "First narrator (Abdullah ibn Uthman) has unknown reliability",
+            "Chain structure identical to several previous hadiths"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator at beginning",
+          "impact": "Abdullah ibn Uthman is graded Majhul al-Hal, making it difficult to establish his reliability and transmission method."
+        },
+        {
+          "issue": "Exclusive use of indirect transmission",
+          "impact": "All narrators use 'an (عن) without direct transmission terms like haddathana (حدثنا)."
+        },
+        {
+          "issue": "Identical chain structure",
+          "impact": "This is the sixth hadith sharing the same narrator chain as previous hadiths (3211, 3213, 3216, 3218), suggesting either multiple independent transmissions of similar content or data redundancy issues."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of the Prophet ﷺ praying Duhaa on the day of Makkah conquest",
+        "Prophet's permission to open Makkah for limited time",
+        "Sacred status of Makkah according to divine permission",
+        "Description of the Duhaa prayer"
+      ]
+    },
+    {
+      "hadith_id": 3238,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "132",
+      "english_translation": "Narrated by Ali: During the reign of Umar, he was asked about the night prayer of a man in his house and his recitation of the Quran - what is its reward? He said: O Abu al-Hasan, were you not a witness when I asked the Messenger of Allah ﷺ? I said: Yes. He said: Then report to me what the Messenger of Allah ﷺ answered me, for you are more preserving of it than I am. I said: The Messenger of Allah ﷺ said: 'The night prayer is a light by which you illuminate your house.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Attaa ibn Abi Muslim al-Khurasani",
+              "grade": "Majhul al-Hal",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abdullah ibn Uthman al-Khurasani, Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khurasani",
+              "nisba_ar": "الخراساني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "7",
+              "location": "Khurasan",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadhr",
+              "full_name": "Ahmad ibn al-Nadhr ibn Abd al-Wahhab al-Nisapuri",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Ahmad ibn al-Nadhr al-Nisapuri, Abu al-Fadl al-Nisapuri",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisapuri",
+              "nisba_ar": "النيسابوري",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Nishapur",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Abdullah ibn Nafi'",
+              "full_name": "Abdullah ibn Nafi' al-Hashimi",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "fourth narrator added to unusual chain"
+              ],
+              "narrator_id": 5913,
+              "alternative_names": "Abdullah ibn Nafi' al-Hashimi, Abu Ja'far al-Kufi",
+              "original_id": 5121,
+              "kunya": "Abu Ja'far",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "First narrator has unknown reliability",
+            "All use indirect transmission term 'an (عن)",
+            "Contains four narrators before reaching the Prophet ﷺ",
+            "Dialogue format suggests mawquf content rather than marfu'"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator at chain beginning",
+          "impact": "Abdullah ibn Uthman (Majhul al-Hal) starts the chain, affecting overall reliability assessment."
+        },
+        {
+          "issue": "Indirect transmission throughout",
+          "impact": "All four narrators use 'an (عن) without direct transmission terms."
+        },
+        {
+          "issue": "Longest chain in collection",
+          "impact": "This hadith has four narrators before the Prophet ﷺ, the longest chain in this dataset. The presence of Abdullah ibn Nafi' (5913) as a fourth narrator is unusual and not explained in the structured data."
+        },
+        {
+          "issue": "Mixed speaker attribution",
+          "impact": "The hadith involves dialogue between Umar and Ali, with Ali reporting what Umar said about asking the Prophet ﷺ. This complexity in attribution creates ambiguity about the actual marfu' content."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of Umar and Ali discussing night prayer and Quranic recitation",
+        "Umar asking the Prophet ﷺ about reward for night prayer",
+        "Ali as witness to Umar's question to the Prophet ﷺ",
+        "Description of night prayer as light for one's house"
+      ]
+    },
+    {
+      "hadith_id": 3239,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "133",
+      "english_translation": "Narrated by Ali: Two rakats in the last third of the night are better than the world and all that is in it.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "incomplete chain"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain - only one narrator between Ali and the source",
+            "Indirect transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Broken chain",
+          "impact": "Only Abdullah ibn Ubayd is documented between Ali's saying and the transmission source."
+        },
+        {
+          "issue": "Indirect transmission",
+          "impact": "Use of 'an (عن) without direct transmission terms."
+        },
+        {
+          "issue": "Classification mismatch",
+          "impact": "The hadith is about Ali's saying (mawquf) but structured as marfu' (attributed to Prophet ﷺ)."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Virtue of praying two rakats in the last third of the night",
+        "Superiority of night prayer over worldly possessions",
+        "Timing of prayer during last third of night"
+      ]
+    },
+    {
+      "hadith_id": 3240,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book Number 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "134",
+      "english_translation": "Narrated by Ali: Whoever prays eight rakats during the night, Allah will open for him eight gates of Paradise from which he may enter whichever he wishes.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubayd",
+              "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Saad ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah al-Laithi",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "incomplete chain"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubayd al-Laithi, Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Laithi",
+              "nisba_ar": "الليثي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (indirect transmission)"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, Messenger of Allah",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain",
+            "Indirect transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete chain structure",
+          "impact": "Only one narrator documented between Ali and the transmission source."
+        },
+        {
+          "issue": "Indirect transmission",
+          "impact": "Use of 'an (عن) without direct transmission terms."
+        },
+        {
+          "issue": "Mawquf classification",
+          "impact": "The hadith is from Ali's saying (mawquf) but structured as marfu'."
+        },
+        {
+          "issue": "Specific numerical reward claim",
+          "impact": "The promise of exactly eight gates of Paradise for eight rakats requires strong authentication, which is not provided by this weak chain."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Eight rakats of night prayer opening eight gates of Paradise",
+        "Reward for night prayer in terms of Paradise access",
+        "Number of rakats with specific reward"
+      ]
+    }
+  ]
+}
