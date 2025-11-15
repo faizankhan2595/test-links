@@ -1,0 +1,3117 @@
+{
+  "batch_number": 11,
+  "source_files": [
+    109,
+    110
+  ],
+  "total_hadiths": 30,
+  "hadiths": [
+    {
+      "hadith_id": 91621,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10227",
+      "english_translation": "Narrated by Said ibn Jubayr: I indeed saw him crowding with me near Ibn Abbas, meaning al-Hajjaj.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "al-Fadl ibn Dukain",
+              "full_name": "al-Fadl ibn Dukain ibn Dhakauan al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2301,
+              "alternative_names": "al-Fadl ibn Dukain, Abu Uthman al-Kufi",
+              "original_id": 2301,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "218",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Muawiyah ibn Ammar al-Duhni",
+              "full_name": "Muawiyah ibn Ammar ibn Khuzaimah al-Duhni",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "saduq_level"
+              ],
+              "narrator_id": 2302,
+              "alternative_names": "Muawiyah ibn Ammar al-Duhni",
+              "original_id": 2302,
+              "kunya": "Abu Ammar",
+              "nisba": "al-Duhni",
+              "nisba_ar": "الدهني",
+              "death_year": "210",
+              "birth_year": "125",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Abd al-Malik ibn Umayr",
+              "full_name": "Abd al-Malik ibn Umayr al-Kufi",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq_level",
+                "uses_an"
+              ],
+              "narrator_id": 2303,
+              "alternative_names": "Abd al-Malik ibn Umayr",
+              "original_id": 2303,
+              "kunya": "Abu Umayr",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "155",
+              "birth_year": "75",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Said ibn Jubayr",
+              "full_name": "Said ibn Jubayr ibn Hisham al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2304,
+              "alternative_names": "Said ibn Jubayr al-Kufi",
+              "original_id": 2304,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "95",
+              "birth_year": "45",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Abd al-Malik ibn Umayr uses عَنْ (indirect term) with a saduq grade",
+            "Said ibn Jubayr uses قَالَ which indicates a mawquf statement rather than a direct hearing",
+            "Muawiyah ibn Ammar is graded as Saduq (acceptable but not among the highest reliability)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple saduq-level narrators in chain",
+          "impact": "Both Muawiyah ibn Ammar and Abd al-Malik ibn Umayr are graded as Saduq, which lowers overall chain strength compared to Thiqah narrators"
+        },
+        {
+          "issue": "Use of عَنْ (indirect transmission term) by Abd al-Malik ibn Umayr",
+          "impact": "While Abd al-Malik is not known as a mudallis, the indirect term introduces slight ambiguity about whether he actually heard from Said ibn Jubayr"
+        },
+        {
+          "issue": "Statement is mawquf (stopped at companion level)",
+          "impact": "This is a statement by Said ibn Jubayr about his observation, not attributed to the Prophet ﷺ, which affects its classification as legal evidence"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of al-Hajjaj's behavior near Ibn Abbas",
+        "Description of Said ibn Jubayr's observations"
+      ]
+    },
+    {
+      "hadith_id": 91622,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10228",
+      "english_translation": "Narrated that I saw Said ibn Jubayr with a white beard.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Wakie ibn al-Jarrah",
+              "full_name": "Wakie ibn al-Jarrah ibn Malik al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2305,
+              "alternative_names": "Wakie ibn al-Jarrah, Abu Sufyan al-Kufi",
+              "original_id": 2305,
+              "kunya": "Abu Sufyan",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "197",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Fitr",
+              "full_name": "Fitr ibn Khalifah al-Kufi",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq_level",
+                "uses_an"
+              ],
+              "narrator_id": 2306,
+              "alternative_names": "Fitr ibn Khalifah",
+              "original_id": 2306,
+              "kunya": "Abu al-Aswad",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "153",
+              "birth_year": "72",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Said ibn Jubayr",
+              "full_name": "Said ibn Jubayr ibn Hisham al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2304,
+              "alternative_names": "Said ibn Jubayr al-Kufi",
+              "original_id": 2304,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "95",
+              "birth_year": "45",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Fitr ibn Khalifah uses عَنْ (indirect term) despite being Saduq grade",
+            "Direct connection to Said ibn Jubayr is reported indirectly through عَنْ",
+            "The chain ends at Said ibn Jubayr, making this a mawquf hadith"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Narrator Fitr ibn Khalifah uses عَنْ with Saduq grade",
+          "impact": "Combined with Saduq reliability grade, the indirect transmission term weakens the chain slightly"
+        },
+        {
+          "issue": "Mawquf statement about physical appearance",
+          "impact": "The hadith is a personal observation/description rather than a legal ruling or prophetic statement"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Description of Said ibn Jubayr's physical appearance",
+        "Said ibn Jubayr's white beard"
+      ]
+    },
+    {
+      "hadith_id": 91623,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10229",
+      "english_translation": "Narrated that I saw Said ibn Jubayr with white head and beard.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Numayr",
+              "full_name": "Abdullah ibn Numayr ibn Harb al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2307,
+              "alternative_names": "Abdullah ibn Numayr, Abu Harb al-Kufi",
+              "original_id": 2307,
+              "kunya": "Abu Harb",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "199",
+              "birth_year": "125",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Fitr",
+              "full_name": "Fitr ibn Khalifah al-Kufi",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq_level",
+                "uses_an"
+              ],
+              "narrator_id": 2306,
+              "alternative_names": "Fitr ibn Khalifah",
+              "original_id": 2306,
+              "kunya": "Abu al-Aswad",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "153",
+              "birth_year": "72",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Said ibn Jubayr",
+              "full_name": "Said ibn Jubayr ibn Hisham al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2304,
+              "alternative_names": "Said ibn Jubayr al-Kufi",
+              "original_id": 2304,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "95",
+              "birth_year": "45",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Fitr ibn Khalifah uses عَنْ with Saduq grade",
+            "Similar to hadith 91622, this appears to be a parallel transmission with different first narrator"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Fitr ibn Khalifah's indirect transmission with Saduq grade",
+          "impact": "Combination of indirect term and below-Thiqah reliability weakens chain strength"
+        },
+        {
+          "issue": "Mawquf descriptive hadith",
+          "impact": "Description of physical appearance, not a legal ruling or command from the Prophet ﷺ"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Description of Said ibn Jubayr's physical appearance",
+        "Said ibn Jubayr's white head and beard"
+      ]
+    },
+    {
+      "hadith_id": 91624,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10230",
+      "english_translation": "Narrated by Ayyub: Said ibn Jubayr had extreme whiteness of beard.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Arim ibn al-Fadl",
+              "full_name": "Arim ibn al-Fadl ibn Ibrahim al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2308,
+              "alternative_names": "Arim, Abu Muhammad al-Kufi",
+              "original_id": 2308,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "223",
+              "birth_year": "145",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Hammad ibn Zayd",
+              "full_name": "Hammad ibn Zayd ibn Dirham al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2309,
+              "alternative_names": "Hammad ibn Zayd, Abu Ismail al-Basri",
+              "original_id": 2309,
+              "kunya": "Abu Ismail",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "179",
+              "birth_year": "105",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ayyub",
+              "full_name": "Ayyub ibn Abu Tamimah al-Sakhtiyani",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 2310,
+              "alternative_names": "Ayyub al-Sakhtiyani, Abu Muhammad al-Basri",
+              "original_id": 2310,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Sakhtiyani",
+              "nisba_ar": "السختياني",
+              "death_year": "131",
+              "birth_year": "70",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "6",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Said ibn Jubayr",
+              "full_name": "Said ibn Jubayr ibn Hisham al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2304,
+              "alternative_names": "Said ibn Jubayr al-Kufi",
+              "original_id": 2304,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "95",
+              "birth_year": "45",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Ayyub uses عَنْ (indirect term) despite being Thiqah Thabt grade",
+            "All narrators are from reliable grades, creating stronger chain than previous hadiths",
+            "Direct transmission terms (حَدَّثَنَا and أَخْبَرَنَا) for upper chain narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ayyub al-Sakhtiyani uses عَنْ despite being Thiqah Thabt",
+          "impact": "While Ayyub is highly reliable, the indirect transmission term introduces minor ambiguity, but his reliability mitigates this concern"
+        },
+        {
+          "issue": "Mawquf hadith about physical characteristics",
+          "impact": "Descriptive statement about Said ibn Jubayr's appearance, not a prophetic ruling"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Description of Said ibn Jubayr's extreme whiteness of beard"
+      ]
+    },
+    {
+      "hadith_id": 91625,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10231",
+      "english_translation": "Narrated by Ayyub: Said ibn Jubayr was asked about dyeing with wasm (indigo plant), so he disliked it, and he said: Allah clothes the servant with light in his face, then extinguishes it with blackness.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Arim ibn al-Fadl",
+              "full_name": "Arim ibn al-Fadl ibn Ibrahim al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2308,
+              "alternative_names": "Arim, Abu Muhammad al-Kufi",
+              "original_id": 2308,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "223",
+              "birth_year": "145",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Malik ibn Ismail",
+              "full_name": "Malik ibn Ismail ibn Abi al-Ash'ath al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2311,
+              "alternative_names": "Malik ibn Ismail, Abu al-Qasim al-Kufi",
+              "original_id": 2311,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "212",
+              "birth_year": "135",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Hammad ibn Zayd",
+              "full_name": "Hammad ibn Zayd ibn Dirham al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2309,
+              "alternative_names": "Hammad ibn Zayd, Abu Ismail al-Basri",
+              "original_id": 2309,
+              "kunya": "Abu Ismail",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "179",
+              "birth_year": "105",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ayyub",
+              "full_name": "Ayyub ibn Abu Tamimah al-Sakhtiyani",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2310,
+              "alternative_names": "Ayyub al-Sakhtiyani, Abu Muhammad al-Basri",
+              "original_id": 2310,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Sakhtiyani",
+              "nisba_ar": "السختياني",
+              "death_year": "131",
+              "birth_year": "70",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "6",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Said ibn Jubayr",
+              "full_name": "Said ibn Jubayr ibn Hisham al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2304,
+              "alternative_names": "Said ibn Jubayr al-Kufi",
+              "original_id": 2304,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "95",
+              "birth_year": "45",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "This hadith has dual transmission: both Arim ibn al-Fadl and Malik ibn Ismail reported it with direct terms (أَخْبَرَنَا)",
+            "All narrators in the chain are Thiqah grade or higher (Thiqah Thabt)",
+            "Consistent use of direct transmission terms (حَدَّثَنَا and أَخْبَرَنَا) throughout the chain except for the final transmitter"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf hadith expressing Said ibn Jubayr's legal opinion",
+          "impact": "This is a statement of a Tabi'i's view on dyeing, not a prophetic ruling, limiting its direct legal applicability"
+        },
+        {
+          "issue": "Strong chain with dual transmission paths",
+          "impact": "The convergence of two narrators (Arim and Malik) through the same Hammad ibn Zayd strengthens reliability"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Said ibn Jubayr's ruling on dyeing with wasm (indigo plant)",
+        "Dislike of darkening the appearance with plant dyes",
+        "Metaphorical explanation about light and darkness in the face"
+      ]
+    },
+    {
+      "hadith_id": 91626,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10232",
+      "english_translation": "Narrated by Abu Shahab Musa ibn Nafi: I saw Said ibn Jubayr praying in his hooded garment without bringing his hands out from it; also I saw Said ibn Jubayr lower his garment during optional prayer, and he had upon him a split garment wrapped around him.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Wakie ibn al-Jarrah",
+              "full_name": "Wakie ibn al-Jarrah ibn Malik al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2305,
+              "alternative_names": "Wakie ibn al-Jarrah, Abu Sufyan al-Kufi",
+              "original_id": 2305,
+              "kunya": "Abu Sufyan",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "197",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Ismail ibn Abd al-Malik",
+              "full_name": "Ismail ibn Abd al-Malik ibn Umayr al-Kufi",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq_level",
+                "uses_an"
+              ],
+              "narrator_id": 2312,
+              "alternative_names": "Ismail ibn Abd al-Malik",
+              "original_id": 2312,
+              "kunya": "Abu al-Harith",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "140",
+              "birth_year": "70",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Abu Shahab Musa ibn Nafi",
+              "full_name": "Musa ibn Nafi al-Judhami",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "saduq_level"
+              ],
+              "narrator_id": 2313,
+              "alternative_names": "Abu Shahab Musa ibn Nafi",
+              "original_id": 2313,
+              "kunya": "Abu Shahab",
+              "nisba": "al-Judhami",
+              "nisba_ar": "الجذامي",
+              "death_year": "129",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Medina/Kufa",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Said ibn Jubayr",
+              "full_name": "Said ibn Jubayr ibn Hisham al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2304,
+              "alternative_names": "Said ibn Jubayr al-Kufi",
+              "original_id": 2304,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "95",
+              "birth_year": "45",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Direct observation"
+            }
+          ],
+          "chainIssues": [
+            "Ismail ibn Abd al-Malik uses عَنْ with Saduq grade",
+            "Abu Shahab Musa ibn Nafi is Saduq grade, introducing ambiguity",
+            "Multiple intermediate narrators between the observer (Abu Shahab) and final collector",
+            "Chain contains multiple saduq-level narrators which reduces overall reliability"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Wakie ibn al-Jarrah",
+              "full_name": "Wakie ibn al-Jarrah ibn Malik al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2305,
+              "alternative_names": "Wakie ibn al-Jarrah, Abu Sufyan al-Kufi",
+              "original_id": 2305,
+              "kunya": "Abu Sufyan",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "197",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "al-Fadl ibn Dukain",
+              "full_name": "al-Fadl ibn Dukain ibn Dhakauan al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2301,
+              "alternative_names": "al-Fadl ibn Dukain, Abu Uthman al-Kufi",
+              "original_id": 2301,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "218",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Abu Shahab Musa ibn Nafi",
+              "full_name": "Musa ibn Nafi al-Judhami",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq_level",
+                "uses_an"
+              ],
+              "narrator_id": 2313,
+              "alternative_names": "Abu Shahab Musa ibn Nafi",
+              "original_id": 2313,
+              "kunya": "Abu Shahab",
+              "nisba": "al-Judhami",
+              "nisba_ar": "الجذامي",
+              "death_year": "129",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Medina/Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Said ibn Jubayr",
+              "full_name": "Said ibn Jubayr ibn Hisham al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2304,
+              "alternative_names": "Said ibn Jubayr al-Kufi",
+              "original_id": 2304,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "95",
+              "birth_year": "45",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Direct observation"
+            }
+          ],
+          "chainIssues": [
+            "Abu Shahab uses عَنْ (indirect term) despite being Saduq grade",
+            "This is an alternative transmission path with both Wakie and al-Fadl ibn Dukain at the top",
+            "Both top collectors use direct terms, but the overall chain still contains Saduq-level narrator"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Wakie ibn al-Jarrah",
+              "full_name": "Wakie ibn al-Jarrah ibn Malik al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2305,
+              "alternative_names": "Wakie ibn al-Jarrah, Abu Sufyan al-Kufi",
+              "original_id": 2305,
+              "kunya": "Abu Sufyan",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "197",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Abu Shahab Musa ibn Nafi",
+              "full_name": "Musa ibn Nafi al-Judhami",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "saduq_level"
+              ],
+              "narrator_id": 2313,
+              "alternative_names": "Abu Shahab Musa ibn Nafi",
+              "original_id": 2313,
+              "kunya": "Abu Shahab",
+              "nisba": "al-Judhami",
+              "nisba_ar": "الجذامي",
+              "death_year": "129",
+              "birth_year": "60",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Medina/Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Said ibn Jubayr",
+              "full_name": "Said ibn Jubayr ibn Hisham al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2304,
+              "alternative_names": "Said ibn Jubayr al-Kufi",
+              "original_id": 2304,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "95",
+              "birth_year": "45",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Direct observation"
+            }
+          ],
+          "chainIssues": [
+            "This is a shorter transmission path with only Wakie and Abu Shahab",
+            "Abu Shahab is Saduq grade, but uses direct transmission term (حَدَّثَنَا)",
+            "Relatively short and direct chain compared to first variant"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple transmission paths with varying narrators",
+          "impact": "The hadith has three different transmission paths, indicating multiple witnesses to Said ibn Jubayr's practices"
+        },
+        {
+          "issue": "Presence of Saduq-level narrators in the chains",
+          "impact": "Abu Shahab Musa ibn Nafi and Ismail ibn Abd al-Malik are Saduq grade, affecting overall reliability"
+        },
+        {
+          "issue": "Mix of indirect terms (عَنْ) and direct terms (حَدَّثَنَا) by same narrator",
+          "impact": "Abu Shahab uses both عَنْ and حَدَّثَنَا in different chains, suggesting possibly inconsistent transmission"
+        },
+        {
+          "issue": "Mawquf hadith describing prayer practices",
+          "impact": "These are descriptions of Said ibn Jubayr's prayer practices, not prophetic instructions, though they may serve as evidence for accepted practice"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Said ibn Jubayr's prayer practices with hooded garment",
+        "Method of covering hands during prayer",
+        "Prayer in optional prayers with wrapped garment",
+        "Clothing worn during prayer"
+      ]
+    },
+    {
+      "hadith_id": 91627,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10233",
+      "english_translation": "Narrated by Ismail ibn Abd al-Malik: I saw on Said ibn Jubayr a white turban. Also narrated: al-Fadl ibn Dukain informed us, Umar ibn Dharr said: I heard my father saying: Indeed Said ibn Jubayr used to enter the sacred state (ihram) in a decorated tayyalsan. Umar said: And my father used to enter the sacred state in a decorated tayyalsan.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Wakie ibn al-Jarrah",
+              "full_name": "Wakie ibn al-Jarrah ibn Malik al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2305,
+              "alternative_names": "Wakie ibn al-Jarrah, Abu Sufyan al-Kufi",
+              "original_id": 2305,
+              "kunya": "Abu Sufyan",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "197",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Ismail ibn Abd al-Malik",
+              "full_name": "Ismail ibn Abd al-Malik ibn Umayr al-Kufi",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq_level",
+                "uses_an"
+              ],
+              "narrator_id": 2312,
+              "alternative_names": "Ismail ibn Abd al-Malik",
+              "original_id": 2312,
+              "kunya": "Abu al-Harith",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "140",
+              "birth_year": "70",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Said ibn Jubayr",
+              "full_name": "Said ibn Jubayr ibn Hisham al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2304,
+              "alternative_names": "Said ibn Jubayr al-Kufi",
+              "original_id": 2304,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "95",
+              "birth_year": "45",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Ismail ibn Abd al-Malik uses عَنْ (indirect term) with Saduq grade",
+            "This is a variant transmission of the white turban hadith"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "al-Fadl ibn Dukain",
+              "full_name": "al-Fadl ibn Dukain ibn Dhakauan al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2301,
+              "alternative_names": "al-Fadl ibn Dukain, Abu Uthman al-Kufi",
+              "original_id": 2301,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "218",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Umar ibn Dharr",
+              "full_name": "Umar ibn Dharr al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2314,
+              "alternative_names": "Umar ibn Dharr",
+              "original_id": 2314,
+              "kunya": "Abu Qilabah",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "155",
+              "birth_year": "75",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Father of Umar (unnamed)",
+              "full_name": "Dharr ibn Abd al-Hamid",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [],
+              "narrator_id": 2315,
+              "alternative_names": "Dharr ibn Abd al-Hamid",
+              "original_id": 2315,
+              "kunya": "Abu Umar",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "130",
+              "birth_year": "55",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "I heard (explicit hearing)"
+            },
+            {
+              "name": "Said ibn Jubayr",
+              "full_name": "Said ibn Jubayr ibn Hisham al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2304,
+              "alternative_names": "Said ibn Jubayr al-Kufi",
+              "original_id": 2304,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "95",
+              "birth_year": "45",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Direct transmission terms throughout (أَخْبَرَنَا and سَمِعْتُ)",
+            "Strong chain with all Thiqah narrators",
+            "This variant chain is about ihram (pilgrimage dress) rather than turban"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain contains Saduq-level narrator with indirect term",
+          "impact": "While Ismail ibn Abd al-Malik is Saduq, his use of عَنْ weakens the first chain slightly"
+        },
+        {
+          "issue": "Second chain has all Thiqah narrators with direct terms",
+          "impact": "The second chain about ihram is stronger and more reliable"
+        },
+        {
+          "issue": "Mawquf hadiths about Said ibn Jubayr's practices",
+          "impact": "These describe the Tabi'i's personal practices, not prophetic rulings"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Description of Said ibn Jubayr's white turban",
+        "Said ibn Jubayr's practice of entering pilgrimage (ihram) in decorated tayyalsan garment"
+      ]
+    },
+    {
+      "hadith_id": 91628,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10234",
+      "english_translation": "Abu Burdah ibn Abu Musa al-Ash'ari",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Abu Burdah",
+              "full_name": "Abu Burdah Amir ibn Abdullah ibn Qais al-Ash'ari",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2316,
+              "alternative_names": "Amir ibn Abdullah ibn Qais, Abu Burdah al-Ash'ari",
+              "original_id": 2316,
+              "kunya": "Abu Burdah",
+              "nisba": "al-Ash'ari",
+              "nisba_ar": "الأشعري",
+              "death_year": "104",
+              "birth_year": "30",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is a biographical entry, not a hadith with transmission chain",
+            "No actual hadith text provided, only a name reference"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete hadith entry - only biographical reference",
+          "impact": "Cannot assess transmission chain or authenticity as this is not a full hadith record"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical reference to Abu Burdah"
+      ]
+    },
+    {
+      "hadith_id": 91629,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10235",
+      "english_translation": "His name is Amer ibn Abdullah ibn Qais",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Abu Burdah (Amer ibn Abdullah ibn Qais)",
+              "full_name": "Amer ibn Abdullah ibn Qais al-Ash'ari",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2316,
+              "alternative_names": "Abu Burdah, Amir ibn Abdullah",
+              "original_id": 2316,
+              "kunya": "Abu Burdah",
+              "nisba": "al-Ash'ari",
+              "nisba_ar": "الأشعري",
+              "death_year": "104",
+              "birth_year": "30",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is a biographical note clarifying the full name of Abu Burdah",
+            "Not a hadith with chain of transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete entry - biographical clarification only",
+          "impact": "This is editorial annotation, not a hadith with transmission chain"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical information about Abu Burdah"
+      ]
+    },
+    {
+      "hadith_id": 91630,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10236",
+      "english_translation": "Narrated by Abu Burdah: My father sent me to Abdullah ibn Salam to learn from him. I came to him, and he asked me: Who are you? I informed him, and he welcomed me. I said: My father sent me to you to ask you and learn from you. He said: O son of my brother, you are in a land of merchants. If you have a debt over someone, and he gifts you a load of straw, do not accept it, for it is riba (usury).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Hamid al-Abdi",
+              "full_name": "Muhammad ibn Hamid ibn Hakim al-Abdi al-Kufi",
+              "grade": "Da'if",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "daif_narrator"
+              ],
+              "narrator_id": 2317,
+              "alternative_names": "Muhammad ibn Hamid al-Abdi",
+              "original_id": 2317,
+              "kunya": "Abu Abdullah",
+              "nisba": "al-Abdi",
+              "nisba_ar": "العبدي",
+              "death_year": "248",
+              "birth_year": "160",
+              "reliability_grade": "Da'if",
+              "tabaqat": "9",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "uses_an"
+              ],
+              "narrator_id": 2318,
+              "alternative_names": "Ma'mar ibn Rashid",
+              "original_id": 2318,
+              "kunya": "Abu Urwah",
+              "nisba": "al-Azdi",
+              "nisba_ar": "الأزدي",
+              "death_year": "154",
+              "birth_year": "96",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Said ibn Abu Burdah",
+              "full_name": "Said ibn Abu Burdah Amir ibn Abdullah ibn Qais",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq_level",
+                "uses_an"
+              ],
+              "narrator_id": 2319,
+              "alternative_names": "Said ibn Abu Burdah",
+              "original_id": 2319,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Ash'ari",
+              "nisba_ar": "الأشعري",
+              "death_year": "114",
+              "birth_year": "50",
+              "reliability_grade": "Saduq",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Abu Burdah",
+              "full_name": "Abu Burdah Amir ibn Abdullah ibn Qais al-Ash'ari",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2316,
+              "alternative_names": "Amir ibn Abdullah ibn Qais, Abu Burdah al-Ash'ari",
+              "original_id": 2316,
+              "kunya": "Abu Burdah",
+              "nisba": "al-Ash'ari",
+              "nisba_ar": "الأشعري",
+              "death_year": "104",
+              "birth_year": "30",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Abdullah ibn Salam",
+              "full_name": "Abdullah ibn Salam ibn al-Harith al-Isra'ili",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2320,
+              "alternative_names": "Abdullah ibn Salam, al-Isra'ili",
+              "original_id": 2320,
+              "kunya": "Abu Yaqub",
+              "nisba": "al-Isra'ili",
+              "nisba_ar": "الإسرائيلي",
+              "death_year": "43",
+              "birth_year": "-10 AH",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Medina",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Muhammad ibn Hamid al-Abdi is graded as Da'if (weak)",
+            "Multiple narrators use عَنْ (indirect terms): Ma'mar and Said ibn Abu Burdah",
+            "Chain has weak link at the beginning, making it problematic",
+            "Said ibn Abu Burdah is Saduq grade with indirect transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Muhammad ibn Hamid al-Abdi is classified as Da'if (weak)",
+          "impact": "This weak narrator at the beginning of the chain significantly compromises the hadith's reliability"
+        },
+        {
+          "issue": "Multiple indirect transmission terms (عَنْ) in the chain",
+          "impact": "Both Ma'mar and Said ibn Abu Burdah use عَنْ, introducing ambiguity about their hearing"
+        },
+        {
+          "issue": "Mawquf hadith - statement of companion Abdullah ibn Salam",
+          "impact": "This is a Companion's legal opinion about riba, not a prophetic ruling"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of Abu Burdah learning from Abdullah ibn Salam",
+        "Abdullah ibn Salam's teaching about riba (usury)",
+        "Prohibition of accepting gifts of fodder as payment for loans"
+      ]
+    },
+    {
+      "hadith_id": 91631,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10237",
+      "english_translation": "Narrated by Abu Burdah: I arrived in Madinah and met Abdullah ibn Salam. He said: Will you not enter a house that the Messenger of Allah ﷺ entered, and pray in a house where the Messenger of Allah ﷺ prayed, and we will feed you dates and sweet drink (sawiq)? He said: And Abdullah ibn Salam said: O son of my brother, you are in a land where riba is prevalent and concealed. Is it not that when one of you gives a loan and then it is repaid, the creditor comes with a load of food and a load of fodder? That is usury.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Arim ibn al-Fadl",
+              "full_name": "Arim ibn al-Fadl ibn Ibrahim al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2308,
+              "alternative_names": "Arim, Abu Muhammad al-Kufi",
+              "original_id": 2308,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "223",
+              "birth_year": "145",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "9",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Hammad ibn Zayd",
+              "full_name": "Hammad ibn Zayd ibn Dirham al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2309,
+              "alternative_names": "Hammad ibn Zayd, Abu Ismail al-Basri",
+              "original_id": 2309,
+              "kunya": "Abu Ismail",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "179",
+              "birth_year": "105",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Layth",
+              "full_name": "Layth ibn Saad al-Misri",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2321,
+              "alternative_names": "Layth ibn Sa'd, al-Misri",
+              "original_id": 2321,
+              "kunya": "Abu al-Harith",
+              "nisba": "al-Misri",
+              "nisba_ar": "المصري",
+              "death_year": "175",
+              "birth_year": "94",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Egypt",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Burdah",
+              "full_name": "Abu Burdah Amir ibn Abdullah ibn Qais al-Ash'ari",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2316,
+              "alternative_names": "Amir ibn Abdullah ibn Qais, Abu Burdah al-Ash'ari",
+              "original_id": 2316,
+              "kunya": "Abu Burdah",
+              "nisba": "al-Ash'ari",
+              "nisba_ar": "الأشعري",
+              "death_year": "104",
+              "birth_year": "30",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abdullah ibn Salam",
+              "full_name": "Abdullah ibn Salam ibn al-Harith al-Isra'ili",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2320,
+              "alternative_names": "Abdullah ibn Salam, al-Isra'ili",
+              "original_id": 2320,
+              "kunya": "Abu Yaqub",
+              "nisba": "al-Isra'ili",
+              "nisba_ar": "الإسرائيلي",
+              "death_year": "43",
+              "birth_year": "-10 AH",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Companion",
+              "location": "Medina",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "All narrators use direct transmission terms (أَخْبَرَنَا and حَدَّثَنَا)",
+            "All narrators are Thiqah grade or higher",
+            "Strong chain with good transmission",
+            "This is a similar incident to hadith 91630 but with a different chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf hadith - statement of Abdullah ibn Salam",
+          "impact": "This is the Companion's legal discussion about riba, not a prophetic ruling"
+        },
+        {
+          "issue": "Strong chain with all reliable narrators",
+          "impact": "Despite being mawquf, the chain quality is good"
+        },
+        {
+          "issue": "Duplicate or similar incident to hadith 91630",
+          "impact": "The two hadiths (91630 and 91631) narrate similar or same incident with different chains"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Abu Burdah arriving in Madinah and meeting Abdullah ibn Salam",
+        "Hospitality offered by Abdullah ibn Salam",
+        "Abdullah ibn Salam's explanation of concealed riba (usury)",
+        "Prohibition of giving extra gifts as payment for loans"
+      ]
+    },
+    {
+      "hadith_id": 91632,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10238",
+      "english_translation": "Narrated that Abu Wa'il and Abu Burdah were in charge of the treasury. It is also said that Abu Burdah assumed the position of judge (qadi) of Kufa after Shurayh. Also narrated: I saw Abu Burdah riding on a she-camel with a Quran hung in front of the she-camel.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yaqub ibn Ishaq al-Hadhrami",
+              "full_name": "Yaqub ibn Ishaq al-Hadhrami",
+              "grade": "Saduq",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "saduq_level"
+              ],
+              "narrator_id": 2322,
+              "alternative_names": "Yaqub ibn Ishaq",
+              "original_id": 2322,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Hadhrami",
+              "nisba_ar": "الحضرمي",
+              "death_year": "220",
+              "birth_year": "140",
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Abu Awanah",
+              "full_name": "Abu Awanah Waddah ibn Abdallah al-Yashkuri",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "saduq_level"
+              ],
+              "narrator_id": 2323,
+              "alternative_names": "Abu Awanah, Waddah ibn Abdullah",
+              "original_id": 2323,
+              "kunya": "Abu Awanah",
+              "nisba": "al-Yashkuri",
+              "nisba_ar": "اليشكري",
+              "death_year": "176",
+              "birth_year": "110",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Muhajir Abu al-Hasan",
+              "full_name": "Muhajir ibn Mismar al-Kufi",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq_level",
+                "uses_an"
+              ],
+              "narrator_id": 2324,
+              "alternative_names": "Muhajir Abu al-Hasan",
+              "original_id": 2324,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "126",
+              "birth_year": "50",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Abu Wa'il and Abu Burdah",
+              "full_name": "Abu Wa'il Shaqiq ibn Salamah and Abu Burdah Amir ibn Abdullah ibn Qais",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2325,
+              "alternative_names": "Abu Wa'il, Shaqiq ibn Salamah, Abu Burdah",
+              "original_id": 2325,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "104",
+              "birth_year": "30",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "It is said/narrated"
+            }
+          ],
+          "chainIssues": [
+            "Multiple Saduq-level narrators: Yaqub ibn Ishaq, Abu Awanah, and Muhajir",
+            "Muhajir uses عَنْ (indirect term) with Saduq grade",
+            "This is a biographical/historical note rather than a hadith with matn"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "al-Fadl ibn Dukain",
+              "full_name": "al-Fadl ibn Dukain ibn Dhakauan al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2301,
+              "alternative_names": "al-Fadl ibn Dukain, Abu Uthman al-Kufi",
+              "original_id": 2301,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "218",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Yazid ibn Murdaniyyah",
+              "full_name": "Yazid ibn Murdaniyyah al-Kufi",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "saduq_level"
+              ],
+              "narrator_id": 2326,
+              "alternative_names": "Yazid ibn Murdaniyyah",
+              "original_id": 2326,
+              "kunya": "",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "140",
+              "birth_year": "70",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Burdah",
+              "full_name": "Abu Burdah Amir ibn Abdullah ibn Qais al-Ash'ari",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2316,
+              "alternative_names": "Amir ibn Abdullah ibn Qais, Abu Burdah al-Ash'ari",
+              "original_id": 2316,
+              "kunya": "Abu Burdah",
+              "nisba": "al-Ash'ari",
+              "nisba_ar": "الأشعري",
+              "death_year": "104",
+              "birth_year": "30",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "This variant chain is shorter and describes Abu Burdah riding with a Quran",
+            "Yazid ibn Murdaniyyah is Saduq grade",
+            "Direct transmission terms used (أَخْبَرَنَا and حَدَّثَنَا)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain contains multiple Saduq-level narrators",
+          "impact": "Yaqub ibn Ishaq, Abu Awanah, and Muhajir are all Saduq grade, reducing overall reliability"
+        },
+        {
+          "issue": "Muhajir uses عَنْ with Saduq grade",
+          "impact": "Indirect transmission term combined with lower reliability grade weakens the chain"
+        },
+        {
+          "issue": "First part is biographical information, not a full hadith",
+          "impact": "The note about treasury duty and judgeship is editorial/biographical rather than a traditional hadith"
+        },
+        {
+          "issue": "Second chain describes only observation of riding with Quran",
+          "impact": "This is a mawquf hadith describing personal practice, not a prophetic instruction"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Abu Burdah's role in management of the treasury",
+        "Abu Burdah's service as judge of Kufa after Shurayh",
+        "Description of Abu Burdah riding with a Quran"
+      ]
+    },
+    {
+      "hadith_id": 91633,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10239",
+      "english_translation": "Narrated by Ghannam ibn Talq: I witnessed Abu Burdah ibn Abi Musa attend the funeral of a freed slave who died, and he put the neighborhood imam ahead of him. Muhammad ibn Sa'd said: Muhammad ibn Umar said: Abu Burdah narrated from his father, and he was a judge of Kufa. Muhammad ibn Umar and others said: Abu Burdah died in Kufa in the year 103 (AH).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Talq ibn Ghannam al-Nakh'ai",
+              "full_name": "Talq ibn Ghannam al-Nakh'ai al-Kufi",
+              "grade": "Saduq",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "saduq_level"
+              ],
+              "narrator_id": 2327,
+              "alternative_names": "Talq ibn Ghannam",
+              "original_id": 2327,
+              "kunya": "Abu Ghannam",
+              "nisba": "al-Nakh'ai",
+              "nisba_ar": "النخعي",
+              "death_year": "195",
+              "birth_year": "120",
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Ghannam ibn Talq al-Nakh'ai",
+              "full_name": "Ghannam ibn Talq ibn Mu'awiyah al-Nakh'ai",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "saduq_level"
+              ],
+              "narrator_id": 2328,
+              "alternative_names": "Ghannam ibn Talq",
+              "original_id": 2328,
+              "kunya": "Abu Talq",
+              "nisba": "al-Nakh'ai",
+              "nisba_ar": "النخعي",
+              "death_year": "160",
+              "birth_year": "85",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu Burdah",
+              "full_name": "Abu Burdah Amir ibn Abdullah ibn Qais al-Ash'ari",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2316,
+              "alternative_names": "Amir ibn Abdullah ibn Qais, Abu Burdah al-Ash'ari",
+              "original_id": 2316,
+              "kunya": "Abu Burdah",
+              "nisba": "al-Ash'ari",
+              "nisba_ar": "الأشعري",
+              "death_year": "104",
+              "birth_year": "30",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Both Talq ibn Ghannam and Ghannam ibn Talq are Saduq grade",
+            "This is a shorter chain with father and son narrating sequentially",
+            "The text includes editorial commentary from later scholars (Muhammad ibn Umar)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains multiple Saduq-level narrators",
+          "impact": "Both top narrators are Saduq grade, reducing overall reliability"
+        },
+        {
+          "issue": "Includes editorial commentary and later scholarly discussion",
+          "impact": "The main hadith is mixed with biographical notes and scholarly opinion"
+        },
+        {
+          "issue": "Mawquf hadith - description of Abu Burdah's funeral practice",
+          "impact": "This describes a Tabi'i's observed practice, not a prophetic ruling"
+        },
+        {
+          "issue": "Contradiction about death year",
+          "impact": "Scholars disagree whether Abu Burdah died in year 103 or 104 AH, as mentioned in the text"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Abu Burdah attending a funeral ceremony",
+        "Funeral practice of preferring the neighborhood imam",
+        "Biographical information about Abu Burdah's service and death"
+      ]
+    },
+    {
+      "hadith_id": 91634,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10240",
+      "english_translation": "Al-Fadl ibn Dukain and Said ibn Jamil reported from Aban ibn Umar ibn Uthman ibn Abi Khalid: Abu Burdah died in the year 104 (AH).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "al-Fadl ibn Dukain",
+              "full_name": "al-Fadl ibn Dukain ibn Dhakauan al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2301,
+              "alternative_names": "al-Fadl ibn Dukain, Abu Uthman al-Kufi",
+              "original_id": 2301,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "218",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Said ibn Jamil",
+              "full_name": "Said ibn Jamil al-Kufi",
+              "grade": "Saduq",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "saduq_level"
+              ],
+              "narrator_id": 2329,
+              "alternative_names": "Said ibn Jamil",
+              "original_id": 2329,
+              "kunya": "",
+              "nisba": "al-Kufi",
+              "nisba_ar": "الكوفي",
+              "death_year": "195",
+              "birth_year": "115",
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Aban ibn Umar ibn Uthman ibn Abi Khalid",
+              "full_name": "Aban ibn Umar ibn Uthman ibn Abi Khalid al-Qurashi",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq_level",
+                "uses_an"
+              ],
+              "narrator_id": 2330,
+              "alternative_names": "Aban ibn Umar ibn Uthman",
+              "original_id": 2330,
+              "kunya": "Abu Abdallah",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "140",
+              "birth_year": "70",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Medina",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            }
+          ],
+          "chainIssues": [
+            "This hadith is a note about death date conflicting with hadith 91633",
+            "Said ibn Jamil is Saduq grade",
+            "Aban ibn Umar is Saduq grade using عَنْ (indirect term)",
+            "This provides alternative information claiming year 104 instead of 103"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Scholars disagreed on Abu Burdah's death year",
+          "impact": "This hadith claims year 104, while previous hadith 91633 claimed year 103, showing scholarly disagreement"
+        },
+        {
+          "issue": "Multiple Saduq-level narrators in chain",
+          "impact": "Both Said ibn Jamil and Aban ibn Umar are Saduq grade"
+        },
+        {
+          "issue": "Aban ibn Umar uses عَنْ (indirect term) with Saduq grade",
+          "impact": "Indirect transmission combined with lower reliability grade weakens the chain"
+        },
+        {
+          "issue": "This is biographical/historical information rather than hadith",
+          "impact": "The entry records a date rather than a complete hadith with matn"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Biographical information about Abu Burdah's death date"
+      ]
+    },
+    {
+      "hadith_id": 91635,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10241",
+      "english_translation": "Musa ibn Abi Musa al-Ash'ari",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Musa ibn Abi Musa al-Ash'ari",
+              "full_name": "Musa ibn Abi Musa Abd al-Allah ibn Qais al-Ash'ari",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2331,
+              "alternative_names": "Musa ibn Abi Musa",
+              "original_id": 2331,
+              "kunya": "Abu Musa",
+              "nisba": "al-Ash'ari",
+              "nisba_ar": "الأشعري",
+              "death_year": "100",
+              "birth_year": "35",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is only a biographical reference with no transmission chain",
+            "No hadith text provided, only a name"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete entry - only biographical name",
+          "impact": "Cannot assess transmission chain as this is not a full hadith record"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical reference to Musa ibn Abi Musa"
+      ]
+    },
+    {
+      "hadith_id": 91636,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10242",
+      "english_translation": "His mother was Um Kulthum daughter of al-Fadl ibn Abbas ibn Abd al-Muttalib, and Musa narrated from his father and others.",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Musa ibn Abi Musa al-Ash'ari",
+              "full_name": "Musa ibn Abi Musa Abd al-Allah ibn Qais al-Ash'ari",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2331,
+              "alternative_names": "Musa ibn Abi Musa",
+              "original_id": 2331,
+              "kunya": "Abu Musa",
+              "nisba": "al-Ash'ari",
+              "nisba_ar": "الأشعري",
+              "death_year": "100",
+              "birth_year": "35",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is biographical information about Musa's mother and family connections",
+            "No transmission chain for any hadith"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Biographical/genealogical information only",
+          "impact": "This is editorial annotation about family lineage, not a hadith with transmission"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical information about Musa ibn Abi Musa's family lineage"
+      ]
+    },
+    {
+      "hadith_id": 91637,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10243",
+      "english_translation": "Abu Bakr ibn Abi Musa al-Ash'ari",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Abu Bakr ibn Abi Musa al-Ash'ari",
+              "full_name": "Abu Bakr ibn Abi Musa Abd al-Allah ibn Qais al-Ash'ari",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2332,
+              "alternative_names": "Abu Bakr ibn Abi Musa",
+              "original_id": 2332,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Ash'ari",
+              "nisba_ar": "الأشعري",
+              "death_year": "105",
+              "birth_year": "40",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is only a biographical name reference",
+            "No hadith text or transmission chain provided"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete biographical entry without hadith content",
+          "impact": "Cannot assess transmission as there is no complete hadith record"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical reference to Abu Bakr ibn Abi Musa"
+      ]
+    },
+    {
+      "hadith_id": 91638,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10244",
+      "english_translation": "This is his name, and he narrated from his father and others. He had few hadiths and was considered weak. He died during the governorship of Khalid ibn Abd al-Allah and was older than Abu Burdah.",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Abu Bakr ibn Abi Musa al-Ash'ari",
+              "full_name": "Abu Bakr ibn Abi Musa Abd al-Allah ibn Qais al-Ash'ari",
+              "grade": "Layyin al-Hadith",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [
+                "few_hadiths",
+                "considered_weak"
+              ],
+              "narrator_id": 2332,
+              "alternative_names": "Abu Bakr ibn Abi Musa",
+              "original_id": 2332,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Ash'ari",
+              "nisba_ar": "الأشعري",
+              "death_year": "105",
+              "birth_year": "40",
+              "reliability_grade": "Layyin al-Hadith",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is biographical evaluation of Abu Bakr ibn Abi Musa",
+            "The text notes he had few hadiths and was considered weak",
+            "No transmission chain for any hadith"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Biographical/scholarly evaluation with weakness indication",
+          "impact": "This is editorial commentary on Abu Bakr's reliability, not a hadith with transmission chain"
+        },
+        {
+          "issue": "Indication of weakness in hadith transmission",
+          "impact": "The entry notes he was considered weak (استضعف) and had few hadiths"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical information about Abu Bakr ibn Abi Musa's reliability and life"
+      ]
+    },
+    {
+      "hadith_id": 91639,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10245",
+      "english_translation": "Urwah ibn al-Mughirah ibn Shu'bah al-Thaqafi",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Urwah ibn al-Mughirah al-Thaqafi",
+              "full_name": "Urwah ibn al-Mughirah ibn Shu'bah ibn al-Harith al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2333,
+              "alternative_names": "Urwah ibn al-Mughirah",
+              "original_id": 2333,
+              "kunya": "Abu Ya'fur",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "110",
+              "birth_year": "40",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is only a biographical name reference",
+            "No transmission chain or hadith text provided"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete entry - only biographical name",
+          "impact": "Cannot assess transmission chain as there is no complete hadith"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical reference to Urwah ibn al-Mughirah"
+      ]
+    },
+    {
+      "hadith_id": 91640,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10246",
+      "english_translation": "He is called Abu Ya'fur, and he narrated from his father.",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Urwah ibn al-Mughirah al-Thaqafi",
+              "full_name": "Urwah ibn al-Mughirah ibn Shu'bah ibn al-Harith al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2333,
+              "alternative_names": "Abu Ya'fur",
+              "original_id": 2333,
+              "kunya": "Abu Ya'fur",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "110",
+              "birth_year": "40",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is biographical information about Urwah's kunya (patronymic)",
+            "Notes that he narrated from his father al-Mughirah"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Biographical note only, not a complete hadith",
+          "impact": "This is editorial annotation about Urwah's name and connections, not a hadith with transmission"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical information about Urwah ibn al-Mughirah's name and family connections"
+      ]
+    },
+    {
+      "hadith_id": 91641,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10247",
+      "english_translation": "Narrated by al-Sha'bi: Urwah ibn al-Mughirah ibn Shu'bah was a governor over Kufa and was the best among the members of his family.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muslim ibn Ibrahim",
+              "full_name": "Muslim ibn Ibrahim al-Basri",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2334,
+              "alternative_names": "Muslim ibn Ibrahim",
+              "original_id": 2334,
+              "kunya": "Abu Isa",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "220",
+              "birth_year": "135",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Salam ibn Miskin",
+              "full_name": "Salam ibn Miskin al-Basri",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "saduq_level"
+              ],
+              "narrator_id": 2335,
+              "alternative_names": "Salam ibn Miskin",
+              "original_id": 2335,
+              "kunya": "Abu Salim",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "170",
+              "birth_year": "100",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abu al-Nadr al-Mazini",
+              "full_name": "Abu al-Nadr Hisham ibn Abd al-Rahman al-Mazini al-Basri",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "saduq_level"
+              ],
+              "narrator_id": 2336,
+              "alternative_names": "Abu al-Nadr al-Mazini, Hisham ibn Abd al-Rahman",
+              "original_id": 2336,
+              "kunya": "Abu al-Nadr",
+              "nisba": "al-Mazini",
+              "nisba_ar": "المازني",
+              "death_year": "143",
+              "birth_year": "70",
+              "reliability_grade": "Saduq",
+              "tabaqat": "6",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "al-Sha'bi",
+              "full_name": "Abd al-Rahman ibn Sharahil al-Sha'bi",
+              "grade": "Thiqah Thabt",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "uses_an"
+              ],
+              "narrator_id": 2337,
+              "alternative_names": "al-Sha'bi, Abd al-Rahman ibn Sharahil",
+              "original_id": 2337,
+              "kunya": "Abu Amr",
+              "nisba": "al-Sha'bi",
+              "nisba_ar": "الشعبي",
+              "death_year": "110",
+              "birth_year": "20",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            }
+          ],
+          "chainIssues": [
+            "Multiple Saduq-level narrators: Salam ibn Miskin and Abu al-Nadr al-Mazini",
+            "al-Sha'bi uses عَنِ (indirect term) despite being Thiqah Thabt",
+            "Chain contains two Saduq narrators in sequence (حَدَّثَنَا)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple Saduq-level narrators in chain",
+          "impact": "Salam ibn Miskin and Abu al-Nadr al-Mazini are both Saduq grade, which reduces reliability"
+        },
+        {
+          "issue": "al-Sha'bi uses عَنِ (indirect term) despite Thiqah Thabt grade",
+          "impact": "While al-Sha'bi is reliable, the indirect transmission introduces minor ambiguity"
+        },
+        {
+          "issue": "Mawquf hadith - statement of al-Sha'bi",
+          "impact": "This is a Tabi'i's statement about Urwah ibn al-Mughirah, not a prophetic ruling"
+        },
+        {
+          "issue": "Anna (أَنَّ) indicating potential indirect connection",
+          "impact": "The use of أَنَّ in the original text suggests possible slight disconnection in the chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Urwah ibn al-Mughirah's service as governor of Kufa",
+        "Urwah ibn al-Mughirah being the best among his family members"
+      ]
+    },
+    {
+      "hadith_id": 91642,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10248",
+      "english_translation": "Al-Aqar ibn al-Mughirah ibn Shu'bah al-Thaqafi",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Al-Aqar ibn al-Mughirah al-Thaqafi",
+              "full_name": "Al-Aqar ibn al-Mughirah ibn Shu'bah ibn al-Harith al-Thaqafi",
+              "grade": "Majhul al-Hal",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [
+                "majhul_al_hal"
+              ],
+              "narrator_id": 2338,
+              "alternative_names": "Al-Aqar ibn al-Mughirah",
+              "original_id": 2338,
+              "kunya": "",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "115",
+              "birth_year": "45",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is only a biographical name reference",
+            "Al-Aqar ibn al-Mughirah has limited biographical information"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete biographical entry with no hadith",
+          "impact": "No transmission chain can be assessed"
+        },
+        {
+          "issue": "Limited information about this person (Majhul al-Hal)",
+          "impact": "Al-Aqar ibn al-Mughirah appears to be of unknown reliability"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical reference to Al-Aqar ibn al-Mughirah"
+      ]
+    },
+    {
+      "hadith_id": 91643,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10249",
+      "english_translation": "And he also narrated from his father.",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Al-Aqar ibn al-Mughirah al-Thaqafi",
+              "full_name": "Al-Aqar ibn al-Mughirah ibn Shu'bah ibn al-Harith al-Thaqafi",
+              "grade": "Majhul al-Hal",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [
+                "majhul_al_hal"
+              ],
+              "narrator_id": 2338,
+              "alternative_names": "Al-Aqar ibn al-Mughirah",
+              "original_id": 2338,
+              "kunya": "",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "115",
+              "birth_year": "45",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is biographical information about Al-Aqar's transmission",
+            "Notes that he narrated from his father al-Mughirah"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Biographical note only, not a complete hadith",
+          "impact": "This is editorial annotation about Al-Aqar's family connections"
+        },
+        {
+          "issue": "Unknown reliability (Majhul al-Hal)",
+          "impact": "Limited information about Al-Aqar ibn al-Mughirah makes reliability assessment difficult"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical information about Al-Aqar ibn al-Mughirah's narration"
+      ]
+    },
+    {
+      "hadith_id": 91644,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10250",
+      "english_translation": "Ya'fur ibn al-Mughirah ibn Shu'bah al-Thaqafi",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Ya'fur ibn al-Mughirah al-Thaqafi",
+              "full_name": "Ya'fur ibn al-Mughirah ibn Shu'bah ibn al-Harith al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2339,
+              "alternative_names": "Ya'fur ibn al-Mughirah",
+              "original_id": 2339,
+              "kunya": "Abu Ya'fur",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "110",
+              "birth_year": "40",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is only a biographical name reference",
+            "No transmission chain or hadith text provided",
+            "Appears to be another name variant for Urwah (both have kunya Abu Ya'fur)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete biographical entry",
+          "impact": "Only a name is provided with no hadith or transmission chain"
+        },
+        {
+          "issue": "Possible duplicate entry",
+          "impact": "Ya'fur with kunya Abu Ya'fur may be identical to Urwah ibn al-Mughirah who was also called Abu Ya'fur"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical reference to Ya'fur ibn al-Mughirah"
+      ]
+    },
+    {
+      "hadith_id": 91645,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10251",
+      "english_translation": "And he also narrated from his father.",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Ya'fur ibn al-Mughirah al-Thaqafi",
+              "full_name": "Ya'fur ibn al-Mughirah ibn Shu'bah ibn al-Harith al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2339,
+              "alternative_names": "Ya'fur ibn al-Mughirah",
+              "original_id": 2339,
+              "kunya": "Abu Ya'fur",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "110",
+              "birth_year": "40",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is biographical information about Ya'fur's transmission",
+            "Notes that he narrated from his father al-Mughirah"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Biographical note only, not a complete hadith",
+          "impact": "This is editorial annotation about family connections"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical information about Ya'fur ibn al-Mughirah's narration"
+      ]
+    },
+    {
+      "hadith_id": 91646,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10252",
+      "english_translation": "Hamzah ibn al-Mughirah ibn Shu'bah al-Thaqafi",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Hamzah ibn al-Mughirah al-Thaqafi",
+              "full_name": "Hamzah ibn al-Mughirah ibn Shu'bah ibn al-Harith al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2340,
+              "alternative_names": "Hamzah ibn al-Mughirah",
+              "original_id": 2340,
+              "kunya": "",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": "108",
+              "birth_year": "38",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is only a biographical name reference",
+            "No transmission chain or hadith text provided"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete biographical entry with no hadith",
+          "impact": "Only a name is provided, no transmission chain"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical reference to Hamzah ibn al-Mughirah"
+      ]
+    },
+    {
+      "hadith_id": 91647,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10253",
+      "english_translation": "He is Ibrahim ibn Yazid ibn al-Aswad ibn Amr ibn Rabi'ah ibn Harithah ibn Sa'd ibn Malik ibn an-Nakha', from Mudhaj. He is called Abu Imran, and he was one-eyed.",
+      "chains": [
+        {
+          "type": "biographical_entry",
+          "narrators": [
+            {
+              "name": "Ibrahim al-Nakha'i",
+              "full_name": "Ibrahim ibn Yazid ibn al-Aswad ibn Amr ibn Rabi'ah ibn Harithah ibn Sa'd ibn Malik ibn an-Nakha'",
+              "grade": "Thiqah Thabt",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 2341,
+              "alternative_names": "Ibrahim al-Nakha'i, Abu Imran",
+              "original_id": 2341,
+              "kunya": "Abu Imran",
+              "nisba": "al-Nakha'i",
+              "nisba_ar": "النخعي",
+              "death_year": "96",
+              "birth_year": "30",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Biographical entry"
+            }
+          ],
+          "chainIssues": [
+            "This is biographical/genealogical information about Ibrahim",
+            "Describes his physical characteristic (being one-eyed) and family lineage"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Biographical/genealogical information only",
+          "impact": "This is editorial annotation about family lineage and physical description"
+        }
+      ],
+      "Classical Grade": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Biographical information about Ibrahim al-Nakha'i's family lineage and appearance"
+      ]
+    },
+    {
+      "hadith_id": 91648,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10254",
+      "english_translation": "Narrated by Muhammad ibn Sireen: I think that Ibrahim whom you mention is a young man who used to sit with us, as I know, near Masrooq, as if he is not with us, yet he is with us.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Hammad ibn Mas'adah",
+              "full_name": "Hammad ibn Mas'adah al-Basri",
+              "grade": "Saduq",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "saduq_level"
+              ],
+              "narrator_id": 2342,
+              "alternative_names": "Hammad ibn Mas'adah",
+              "original_id": 2342,
+              "kunya": "",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "218",
+              "birth_year": "140",
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Ibn Awn",
+              "full_name": "Abdullah ibn Awn al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "uses_an"
+              ],
+              "narrator_id": 2343,
+              "alternative_names": "Ibn Awn, Abdullah ibn Awn",
+              "original_id": 2343,
+              "kunya": "",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "151",
+              "birth_year": "80",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Muhammad ibn Sireen",
+              "full_name": "Muhammad ibn Sireen ibn Damrah al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2344,
+              "alternative_names": "Muhammad ibn Sireen, Abu Bakr al-Basri",
+              "original_id": 2344,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "110",
+              "birth_year": "33",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "5",
+              "location": "Basra",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Hammad ibn Mas'adah is Saduq grade",
+            "Ibn Awn uses عَنِ (indirect term) despite being Thiqah Thabt",
+            "Chain shows Muhammad ibn Sireen's recollection and estimation about Ibrahim"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Hammad ibn Mas'adah is Saduq grade",
+          "impact": "This reduces overall chain reliability as the first link is not Thiqah"
+        },
+        {
+          "issue": "Ibn Awn uses عَنِ (indirect term) despite Thiqah Thabt grade",
+          "impact": "While Ibn Awn is highly reliable, the indirect term introduces minor ambiguity"
+        },
+        {
+          "issue": "Mawquf hadith - statement of Muhammad ibn Sireen",
+          "impact": "This is a Tabi'i's recollection and opinion about Ibrahim, not a hadith with definitive content"
+        },
+        {
+          "issue": "Uncertain identification",
+          "impact": "Muhammad ibn Sireen is stating he thinks this is the same Ibrahim, showing uncertainty"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Muhammad ibn Sireen's recollection of Ibrahim al-Nakha'i",
+        "Description of Ibrahim's character and demeanor among companions"
+      ]
+    },
+    {
+      "hadith_id": 91649,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10255",
+      "english_translation": "Narrated by Ibn Awn: I described Ibrahim to Muhammad ibn Sireen, and he said: Perhaps he is that one-eyed young man who used to sit with us near Alqamah, he is among the people as if he is not among them.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Affan ibn Muslim",
+              "full_name": "Affan ibn Muslim al-Basri",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2345,
+              "alternative_names": "Affan ibn Muslim",
+              "original_id": 2345,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "220",
+              "birth_year": "135",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Sulaym ibn Akhdar",
+              "full_name": "Sulaym ibn Akhdar al-Basri",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "saduq_level"
+              ],
+              "narrator_id": 2346,
+              "alternative_names": "Sulaym ibn Akhdar",
+              "original_id": 2346,
+              "kunya": "",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "168",
+              "birth_year": "100",
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ibn Awn",
+              "full_name": "Abdullah ibn Awn al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2343,
+              "alternative_names": "Ibn Awn, Abdullah ibn Awn",
+              "original_id": 2343,
+              "kunya": "",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "151",
+              "birth_year": "80",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Muhammad ibn Sireen",
+              "full_name": "Muhammad ibn Sireen ibn Damrah al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2344,
+              "alternative_names": "Muhammad ibn Sireen, Abu Bakr al-Basri",
+              "original_id": 2344,
+              "kunya": "Abu Bakr",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "110",
+              "birth_year": "33",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "5",
+              "location": "Basra",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Sulaym ibn Akhdar is Saduq grade",
+            "Direct transmission terms from Affan, Sulaym, and Ibn Awn",
+            "This is an alternative transmission of the previous hadith with different narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Narrator Sulaym ibn Akhdar is Saduq grade",
+          "impact": "This weakens the chain as Sulaym is not Thiqah"
+        },
+        {
+          "issue": "Mawquf hadith - statement of Muhammad ibn Sireen",
+          "impact": "This is a Tabi'i's response and identification of Ibrahim based on description"
+        },
+        {
+          "issue": "Uncertain identification expressed with 'Perhaps' (لَعَلَّهُ)",
+          "impact": "Muhammad ibn Sireen is making a tentative identification based on Ibn Awn's description"
+        },
+        {
+          "issue": "Similar incident to hadith 91648 with different narrators",
+          "impact": "The two hadiths (91648 and 91649) describe similar scenarios about identifying Ibrahim"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of describing Ibrahim al-Nakha'i to Muhammad ibn Sireen",
+        "Identification of the one-eyed young scholar Ibrahim"
+      ]
+    },
+    {
+      "hadith_id": 91650,
+      "book_id": 82,
+      "book_name_ar": "كتاب رقم 82",
+      "book_name_en": "Book No. 82",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "10256",
+      "english_translation": "Narrated by Ibrahim: I never wrote anything.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Hajjaj ibn Muhammad al-A'war",
+              "full_name": "Hajjaj ibn Muhammad ibn al-Hajjaj al-A'war",
+              "grade": "Da'if",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "daif_narrator"
+              ],
+              "narrator_id": 2347,
+              "alternative_names": "Hajjaj al-A'war",
+              "original_id": 2347,
+              "kunya": "Abu Muhammad",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "206",
+              "birth_year": "125",
+              "reliability_grade": "Da'if",
+              "tabaqat": "8",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He informed us (direct hearing)"
+            },
+            {
+              "name": "Amr ibn al-Haytham Abu Qatan",
+              "full_name": "Amr ibn al-Haytham ibn Abd al-Rahman al-A'war Abu Qatan",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "قَالا",
+              "reliabilityIssues": [],
+              "narrator_id": 2348,
+              "alternative_names": "Amr ibn al-Haytham, Abu Qatan",
+              "original_id": 2348,
+              "kunya": "Abu Qatan",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "207",
+              "birth_year": "130",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": "Basra",
+              "transmissionTermMeaning": "Both said (joint narration)"
+            },
+            {
+              "name": "Shu'bah",
+              "full_name": "Shu'bah ibn al-Hajjaj ibn al-Ward al-Ataki",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 2349,
+              "alternative_names": "Shu'bah, Abu Bistam",
+              "original_id": 2349,
+              "kunya": "Abu Bistam",
+              "nisba": "al-Ataki",
+              "nisba_ar": "العتكي",
+              "death_year": "160",
+              "birth_year": "83",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Mansur",
+              "full_name": "Mansur ibn al-Mu'tamir al-Basri",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "uses_an"
+              ],
+              "narrator_id": 2350,
+              "alternative_names": "Mansur ibn al-Mu'tamir",
+              "original_id": 2350,
+              "kunya": "Abu Amr",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": "132",
+              "birth_year": "70",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Basra",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ibrahim al-Nakha'i",
+              "full_name": "Ibrahim ibn Yazid ibn al-Aswad al-Nakha'i",
+              "grade": "Thiqah Thabt",
+              "generation": "Successor Generation (Tabi'i)",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 2341,
+              "alternative_names": "Ibrahim al-Nakha'i, Abu Imran",
+              "original_id": 2341,
+              "kunya": "Abu Imran",
+              "nisba": "al-Nakha'i",
+              "nisba_ar": "النخعي",
+              "death_year": "96",
+              "birth_year": "30",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "5",
+              "location": "Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Hajjaj ibn Muhammad al-A'war is graded as Da'if (weak)",
+            "Mansur uses عَنْ (indirect term) despite being Thiqah",
+            "Chain has a weak link at the beginning with Hajjaj al-A'war",
+            "Dual narration from Hajjaj and Amr ibn al-Haytham sharing the report"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Hajjaj ibn Muhammad al-A'war is classified as Da'if (weak)",
+          "impact": "This weak narrator at the beginning significantly compromises the hadith's reliability"
+        },
+        {
+          "issue": "Mansur uses عَنْ (indirect term) despite being Thiqah",
+          "impact": "While Mansur is reliable, the indirect term introduces slight ambiguity"
+        },
+        {
+          "issue": "Mawquf hadith - statement of Ibrahim al-Nakha'i",
+          "impact": "This is Ibrahim's personal statement about his own practice (not writing)"
+        },
+        {
+          "issue": "Weak first narrator damages overall chain reliability",
+          "impact": "The presence of a Da'if narrator at the beginning makes this hadith problematic"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Ibrahim al-Nakha'i's practice of not writing hadiths",
+        "Incident of Ibrahim's statement about his own methods of knowledge transmission"
+      ]
+    }
+  ]
+}
