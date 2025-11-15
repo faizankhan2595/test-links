@@ -1,0 +1,813 @@
+[
+  {
+    "hadith_id": 2431,
+    "book_id": 2,
+    "book_name_ar": "كتاب رقم 2",
+    "book_name_en": "Book 2",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "1476",
+    "english_translation": "Narrated by Mujahid: The Trumpet (al-Sur) is like the shape of a horn (buq)",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "Muhammad ibn al-Husayn",
+            "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibaani",
+            "grade": "Majhul",
+            "generation": "Later Generations",
+            "transmissionTerm": "أَنْبَأَ",
+            "reliabilityIssues": ["majhul - unknown narrator", "insufficient biographical information"],
+            "narrator_id": 20518,
+            "alternative_names": "Abu al-Fatih al-Shibaani",
+            "original_id": 27739,
+            "kunya": "Abu al-Fatih",
+            "nisba": "al-Attar",
+            "nisba_ar": "العطار",
+            "death_year": null,
+            "birth_year": null,
+            "reliability_grade": "Majhul",
+            "tabaqat": null,
+            "location": null,
+            "transmissionTermMeaning": "He informed us (direct hearing)"
+          },
+          {
+            "name": "Ibrahim ibn Fahd",
+            "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah",
+            "grade": "Majhul al-Hal",
+            "generation": "Later Generations",
+            "transmissionTerm": "نَا",
+            "reliabilityIssues": ["majhul al-hal - reliability undocumented"],
+            "narrator_id": 11232,
+            "alternative_names": "Abu Ishaq al-Saji al-Basri",
+            "original_id": 11691,
+            "kunya": "Abu Ishaq",
+            "nisba": "al-Saji",
+            "nisba_ar": "الساجي",
+            "death_year": null,
+            "birth_year": null,
+            "reliability_grade": "Majhul al-Hal",
+            "tabaqat": null,
+            "location": "Basra",
+            "transmissionTermMeaning": "He narrated to us (direct hearing)"
+          },
+          {
+            "name": "Adam",
+            "full_name": "Adam ibn Abi Iyas al-Bajali",
+            "grade": "Saduq",
+            "generation": "Eighth Generation",
+            "transmissionTerm": "نَا",
+            "reliabilityIssues": [],
+            "narrator_id": 2,
+            "alternative_names": "Abu Muhammad",
+            "original_id": 2,
+            "kunya": "Abu Muhammad",
+            "nisba": "al-Bajali",
+            "nisba_ar": "الباجلي",
+            "death_year": "220",
+            "birth_year": null,
+            "reliability_grade": "Saduq",
+            "tabaqat": "8",
+            "location": "Kufa",
+            "transmissionTermMeaning": "He narrated to us (direct hearing)"
+          },
+          {
+            "name": "Warqa",
+            "full_name": "Warqa ibn Abi Najjah Mus'ab al-Makki",
+            "grade": "Da'if",
+            "generation": "Seventh Generation",
+            "transmissionTerm": "ثَنَا",
+            "reliabilityIssues": ["weak narrator", "mursal transmissions", "unclear isnad"],
+            "narrator_id": 8149,
+            "alternative_names": "Warqa ibn Abi Najjah",
+            "original_id": 7406,
+            "kunya": "Abu Rajab",
+            "nisba": "al-Makki",
+            "nisba_ar": "المكي",
+            "death_year": "155",
+            "birth_year": null,
+            "reliability_grade": "Da'if",
+            "tabaqat": "7",
+            "location": "Mecca",
+            "transmissionTermMeaning": "He narrated to us (direct hearing)"
+          },
+          {
+            "name": "Ibn Abi Najjah",
+            "full_name": "Shafi' ibn Mati' al-Asbahi",
+            "grade": "Da'if",
+            "generation": "Sixth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["weak narrator", "ambiguous transmission term 'an'"],
+            "narrator_id": 4653,
+            "alternative_names": "Shafi' al-Asbahi, Abu Uthman al-Misri",
+            "original_id": 3821,
+            "kunya": "Abu Uthman",
+            "nisba": "al-Asbahi",
+            "nisba_ar": "الأصبحي",
+            "death_year": "120",
+            "birth_year": null,
+            "reliability_grade": "Da'if",
+            "tabaqat": "6",
+            "location": "Egypt/Mecca",
+            "transmissionTermMeaning": "From (potentially indirect)"
+          },
+          {
+            "name": "Mujahid",
+            "full_name": "Mujahid ibn Jabr al-Qurashi al-Makki",
+            "grade": "Thiqah",
+            "generation": "Tabi'i",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["maqtu' - stops at tabi'i, does not reach Prophet"],
+            "narrator_id": 6715,
+            "alternative_names": "Abu al-Hajjaj al-Makki",
+            "original_id": 5946,
+            "kunya": "Abu al-Hajjaj",
+            "nisba": "al-Qurashi",
+            "nisba_ar": "القرشي",
+            "death_year": "104",
+            "birth_year": "21",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "Tabi'i",
+            "location": "Mecca",
+            "transmissionTermMeaning": "From (interpretation/ta'wil of Mujahid)"
+          }
+        ],
+        "chainIssues": [
+          "Chain is maqtu' (cut off at Mujahid, a Tabi'i)",
+          "Multiple weak narrators: Warqa ibn Abi Najjah and Ibn Abi Najjah are both da'if",
+          "Transmission terms shift from direct (ثنا/نا) to indirect (عن) in later part of chain",
+          "First narrators (Muhammad and Ibrahim) have uncertain reliability status",
+          "This is a ta'wil (interpretation) of Mujahid about the meaning of al-Sur, not a hadith from the Prophet"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Weak narrators in chain: Warqa ibn Abi Najjah and Ibn Abi Najjah are both graded as da'if",
+        "impact": "Significantly weakens the chain as both da'if narrators appear consecutively"
+      },
+      {
+        "issue": "Maqtu' chain - stops at Mujahid (Tabi'i), not reaching the Prophet ﷺ",
+        "impact": "This is a statement of interpretation (ta'wil) by Mujahid, not an actual hadith from the Prophet ﷺ"
+      },
+      {
+        "issue": "First transmitter (Muhammad ibn al-Husayn) is majhul (unknown)",
+        "impact": "Beginning of chain has unreliable narrator with insufficient biographical data"
+      },
+      {
+        "issue": "Transmission term shift: Direct terms (ثنا/نا) followed by indirect terms (عن)",
+        "impact": "Ambiguity in the final connections of the chain"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Problematic",
+    "Topics": [
+      "Description of the Trumpet (al-Sur) in the Qur'an",
+      "Interpretation of Qur'anic terminology"
+    ]
+  },
+  {
+    "hadith_id": 2432,
+    "book_id": 2,
+    "book_name_ar": "كتاب رقم 2",
+    "book_name_en": "Book 2",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "1477",
+    "english_translation": "Narrated by Zaid ibn Aslam: Those whom Allah the Mighty and Majestic excluded are twelve: Gabriel, Michael, Israfil, the Angel of Death, and the carriers of the Throne are eight",
+    "chains": [
+      {
+        "type": "mursal",
+        "narrators": [
+          {
+            "name": "Muhammad ibn al-Husayn",
+            "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibaani",
+            "grade": "Majhul",
+            "generation": "Later Generations",
+            "transmissionTerm": "أَنْبَأَ",
+            "reliabilityIssues": ["majhul - unknown narrator"],
+            "narrator_id": 20518,
+            "alternative_names": "Abu al-Fatih al-Shibaani",
+            "original_id": 27739,
+            "kunya": "Abu al-Fatih",
+            "nisba": "al-Attar",
+            "nisba_ar": "العطار",
+            "death_year": null,
+            "birth_year": null,
+            "reliability_grade": "Majhul",
+            "tabaqat": null,
+            "location": null,
+            "transmissionTermMeaning": "He informed us (direct hearing)"
+          },
+          {
+            "name": "Ibrahim ibn Fahd",
+            "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah",
+            "grade": "Majhul al-Hal",
+            "generation": "Later Generations",
+            "transmissionTerm": "نَا",
+            "reliabilityIssues": ["majhul al-hal"],
+            "narrator_id": 11232,
+            "alternative_names": "Abu Ishaq al-Saji",
+            "original_id": 11691,
+            "kunya": "Abu Ishaq",
+            "nisba": "al-Saji",
+            "nisba_ar": "الساجي",
+            "death_year": null,
+            "birth_year": null,
+            "reliability_grade": "Majhul al-Hal",
+            "tabaqat": null,
+            "location": "Basra",
+            "transmissionTermMeaning": "He narrated to us"
+          }
+        ],
+        "chainIssues": [
+          "Chain is mursal - it stops abruptly after only two narrators",
+          "The complete chain from Ibrahim onwards is missing in the data",
+          "First narrator is majhul, second has uncertain reliability",
+          "Incomplete chain makes it impossible to fully assess authenticity"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Incomplete chain - stops after Ibrahim ibn Fahd",
+        "impact": "Chain cannot be properly assessed; missing narrators between Ibrahim and the content source"
+      },
+      {
+        "issue": "First narrator Muhammad ibn al-Husayn is majhul (unknown)",
+        "impact": "Beginning of chain is unreliable"
+      },
+      {
+        "issue": "Classified as mursal - missing portion of the chain",
+        "impact": "Major discontinuity in the isnad"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Disconnections But All Narrators Are Ok",
+    "Topics": [
+      "Description of the angels excluded by Allah",
+      "Names and number of the Archangels",
+      "The carriers of the Throne"
+    ]
+  },
+  {
+    "hadith_id": 2433,
+    "book_id": 2,
+    "book_name_ar": "كتاب رقم 2",
+    "book_name_en": "Book 2",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "1478",
+    "english_translation": "Narrated by Mujahid: \"Peace be upon you, you have been good\" - meaning: you were good through obedience to Allah the Mighty and Majestic",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "Muhammad ibn al-Husayn",
+            "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibaani",
+            "grade": "Majhul",
+            "generation": "Later Generations",
+            "transmissionTerm": "أَنَا",
+            "reliabilityIssues": ["majhul"],
+            "narrator_id": 20518,
+            "alternative_names": "Abu al-Fatih al-Shibaani",
+            "original_id": 27739,
+            "kunya": "Abu al-Fatih",
+            "nisba": "al-Attar",
+            "nisba_ar": "العطار",
+            "death_year": null,
+            "birth_year": null,
+            "reliability_grade": "Majhul",
+            "tabaqat": null,
+            "location": null,
+            "transmissionTermMeaning": "I was informed"
+          },
+          {
+            "name": "Ibrahim ibn Fahd",
+            "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah",
+            "grade": "Majhul al-Hal",
+            "generation": "Later Generations",
+            "transmissionTerm": "نَا",
+            "reliabilityIssues": ["majhul al-hal"],
+            "narrator_id": 11232,
+            "alternative_names": "Abu Ishaq al-Saji",
+            "original_id": 11691,
+            "kunya": "Abu Ishaq",
+            "nisba": "al-Saji",
+            "nisba_ar": "الساجي",
+            "death_year": null,
+            "birth_year": null,
+            "reliability_grade": "Majhul al-Hal",
+            "tabaqat": null,
+            "location": "Basra",
+            "transmissionTermMeaning": "He narrated to us"
+          },
+          {
+            "name": "Adam",
+            "full_name": "Adam ibn Abi Iyas al-Bajali",
+            "grade": "Saduq",
+            "generation": "Eighth Generation",
+            "transmissionTerm": "ثَنَا",
+            "reliabilityIssues": [],
+            "narrator_id": 2,
+            "alternative_names": "Abu Muhammad",
+            "original_id": 2,
+            "kunya": "Abu Muhammad",
+            "nisba": "al-Bajali",
+            "nisba_ar": "الباجلي",
+            "death_year": "220",
+            "birth_year": null,
+            "reliability_grade": "Saduq",
+            "tabaqat": "8",
+            "location": "Kufa",
+            "transmissionTermMeaning": "He narrated to us"
+          },
+          {
+            "name": "Warqa",
+            "full_name": "Warqa ibn Abi Najjah Mus'ab al-Makki",
+            "grade": "Da'if",
+            "generation": "Seventh Generation",
+            "transmissionTerm": "نَا",
+            "reliabilityIssues": ["weak narrator", "mursal transmissions"],
+            "narrator_id": 8149,
+            "alternative_names": "Warqa ibn Abi Najjah",
+            "original_id": 7406,
+            "kunya": "Abu Rajab",
+            "nisba": "al-Makki",
+            "nisba_ar": "المكي",
+            "death_year": "155",
+            "birth_year": null,
+            "reliability_grade": "Da'if",
+            "tabaqat": "7",
+            "location": "Mecca",
+            "transmissionTermMeaning": "He narrated to us"
+          },
+          {
+            "name": "Ibn Abi Najjah",
+            "full_name": "Shafi' ibn Mati' al-Asbahi",
+            "grade": "Da'if",
+            "generation": "Sixth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["weak narrator", "ambiguous 'an' transmission"],
+            "narrator_id": 4653,
+            "alternative_names": "Shafi' al-Asbahi",
+            "original_id": 3821,
+            "kunya": "Abu Uthman",
+            "nisba": "al-Asbahi",
+            "nisba_ar": "الأصبحي",
+            "death_year": "120",
+            "birth_year": null,
+            "reliability_grade": "Da'if",
+            "tabaqat": "6",
+            "location": "Egypt",
+            "transmissionTermMeaning": "From (potentially indirect)"
+          },
+          {
+            "name": "Mujahid",
+            "full_name": "Mujahid ibn Jabr al-Qurashi",
+            "grade": "Thiqah",
+            "generation": "Tabi'i",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["maqtu' - chain stops at Tabi'i"],
+            "narrator_id": 6715,
+            "alternative_names": "Abu al-Hajjaj al-Makki",
+            "original_id": 5946,
+            "kunya": "Abu al-Hajjaj",
+            "nisba": "al-Qurashi",
+            "nisba_ar": "القرشي",
+            "death_year": "104",
+            "birth_year": "21",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "Tabi'i",
+            "location": "Mecca",
+            "transmissionTermMeaning": "From"
+          }
+        ],
+        "chainIssues": [
+          "Chain is maqtu' - stops at Mujahid (Tabi'i), not reaching the Prophet ﷺ",
+          "Weak narrators: Warqa ibn Abi Najjah (da'if) and Ibn Abi Najjah (da'if)",
+          "Transmission term shift from direct (ثنا/نا) to indirect (عن)",
+          "This is a Qur'anic interpretation (ta'wil) by Mujahid, not a hadith from the Prophet",
+          "First narrators have questionable reliability"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Two consecutive da'if narrators: Warqa ibn Abi Najjah and Ibn Abi Najjah",
+        "impact": "Significantly weakens the chain"
+      },
+      {
+        "issue": "Maqtu' chain stopping at Tabi'i level (Mujahid)",
+        "impact": "This is Mujahid's Qur'anic interpretation, not a hadith from the Prophet ﷺ"
+      },
+      {
+        "issue": "Unknown/unreliable first narrators",
+        "impact": "Beginning of chain lacks reliability"
+      },
+      {
+        "issue": "Transmission term variation - direct terms followed by indirect 'an'",
+        "impact": "Ambiguity in chain connections"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Problematic",
+    "Topics": [
+      "Qur'anic interpretation of verse 39:73",
+      "Meaning of obedience in greeting at the gate of Paradise",
+      "Mujahid's exegesis"
+    ]
+  },
+  {
+    "hadith_id": 2434,
+    "book_id": 2,
+    "book_name_ar": "كتاب رقم 2",
+    "book_name_en": "Book 2",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "1479",
+    "english_translation": "This is a chapter heading, not a hadith text. Surah Ha-Mim al-Mu'min - which is also known as Surah Ghafir (Chapter 40)",
+    "chains": [
+      {
+        "type": "heading",
+        "narrators": [
+          {
+            "name": "Chapter Heading",
+            "full_name": "Surah Ha-Mim al-Mu'min (Chapter 40)",
+            "grade": "La Ba'sa Bihi",
+            "generation": "Qur'anic Reference",
+            "transmissionTerm": "",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Surah Ghafir",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": null,
+            "birth_year": null,
+            "reliability_grade": "La Ba'sa Bihi",
+            "tabaqat": "Qur'an",
+            "location": "",
+            "transmissionTermMeaning": ""
+          }
+        ],
+        "chainIssues": [
+          "This entry is not a hadith but a chapter/surah heading or title"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Not a hadith - this is a chapter/surah heading",
+        "impact": "This entry is purely a section marker or title, containing no actual hadith content or chain of transmission"
+      }
+    ],
+    "Classical Grade": ["Hasan"],
+    "IISGrade": "Perfect",
+    "Topics": [
+      "Qur'anic chapter reference"
+    ]
+  },
+  {
+    "hadith_id": 2435,
+    "book_id": 2,
+    "book_name_ar": "كتاب رقم 2",
+    "book_name_en": "Book 2",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "1480",
+    "english_translation": "Narrated by al-Hasan: It reached Umar ibn al-Khattab about a man that he disliked something about. He said: So he wrote to him from Abdullah Umar, Commander of the Believers, to so-and-so: 'As for what follows, Ha-Mim. The revelation of the Book is from Allah, the Mighty and Knowing (40:1-2) - meaning the Knowing of what I do; Forgiver of sins (40:3) - meaning if I seek forgiveness, I will be forgiven; Acceptor of repentance (40:3) - meaning if I repent, He will accept my repentance and forgive me; Severe in punishment (40:3) - meaning if I do not act, He will punish me; Possessor of bounty (40:3) - meaning possessor of favors and blessings upon me; There is no deity except Him, to Him is the return (40:3) - meaning to Him is my return, there is no escaping return to Him. He said: So his repentance became good, and he said: Allah has spoken the truth and Umar has given sincere counsel'",
+    "chains": [
+      {
+        "type": "mursal",
+        "narrators": [
+          {
+            "name": "Muhammad ibn al-Husayn",
+            "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibaani",
+            "grade": "Majhul",
+            "generation": "Later Generations",
+            "transmissionTerm": "أَنْبَأَ",
+            "reliabilityIssues": ["majhul"],
+            "narrator_id": 20518,
+            "alternative_names": "Abu al-Fatih al-Shibaani",
+            "original_id": 27739,
+            "kunya": "Abu al-Fatih",
+            "nisba": "al-Attar",
+            "nisba_ar": "العطار",
+            "death_year": null,
+            "birth_year": null,
+            "reliability_grade": "Majhul",
+            "tabaqat": null,
+            "location": null,
+            "transmissionTermMeaning": "He informed us"
+          },
+          {
+            "name": "Ibrahim ibn Fahd",
+            "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah",
+            "grade": "Majhul al-Hal",
+            "generation": "Later Generations",
+            "transmissionTerm": "نَا",
+            "reliabilityIssues": ["majhul al-hal"],
+            "narrator_id": 11232,
+            "alternative_names": "Abu Ishaq al-Saji",
+            "original_id": 11691,
+            "kunya": "Abu Ishaq",
+            "nisba": "al-Saji",
+            "nisba_ar": "الساجي",
+            "death_year": null,
+            "birth_year": null,
+            "reliability_grade": "Majhul al-Hal",
+            "tabaqat": null,
+            "location": "Basra",
+            "transmissionTermMeaning": "He narrated to us"
+          },
+          {
+            "name": "Adam",
+            "full_name": "Adam ibn Abi Iyas al-Bajali",
+            "grade": "Saduq",
+            "generation": "Eighth Generation",
+            "transmissionTerm": "ثَنَا",
+            "reliabilityIssues": [],
+            "narrator_id": 2,
+            "alternative_names": "Abu Muhammad",
+            "original_id": 2,
+            "kunya": "Abu Muhammad",
+            "nisba": "al-Bajali",
+            "nisba_ar": "الباجلي",
+            "death_year": "220",
+            "birth_year": null,
+            "reliability_grade": "Saduq",
+            "tabaqat": "8",
+            "location": "Kufa",
+            "transmissionTermMeaning": "He narrated to us"
+          },
+          {
+            "name": "al-Rabi' ibn Sabih",
+            "full_name": "al-Rabi' ibn Sabih al-Kufi",
+            "grade": "Saduq",
+            "generation": "Seventh Generation",
+            "transmissionTerm": "ثَنَا",
+            "reliabilityIssues": ["some scholars questioned his reliability"],
+            "narrator_id": 1412,
+            "alternative_names": "al-Rabi' ibn Sabih",
+            "original_id": 501,
+            "kunya": null,
+            "nisba": "al-Kufi",
+            "nisba_ar": "الكوفي",
+            "death_year": "140",
+            "birth_year": null,
+            "reliability_grade": "Saduq",
+            "tabaqat": "7",
+            "location": "Kufa",
+            "transmissionTermMeaning": "He narrated to us"
+          },
+          {
+            "name": "al-Hasan",
+            "full_name": "al-Hasan al-Basri",
+            "grade": "Thiqah",
+            "generation": "Tabi'i",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["uses 'an in transmission", "historical claims about hearing from companions disputed"],
+            "narrator_id": 1239,
+            "alternative_names": "Abu Sa'id al-Basri",
+            "original_id": 322,
+            "kunya": "Abu Sa'id",
+            "nisba": "al-Basri",
+            "nisba_ar": "البصري",
+            "death_year": "110",
+            "birth_year": "21",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "Tabi'i",
+            "location": "Basra",
+            "transmissionTermMeaning": "From"
+          },
+          {
+            "name": "Umar ibn al-Khattab",
+            "full_name": "Umar ibn al-Khattab ibn Nufayl al-Qurashi",
+            "grade": "Thiqah Thabt",
+            "generation": "Companion",
+            "transmissionTerm": "بَلَغَ",
+            "reliabilityIssues": ["mursal - 'it reached' rather than direct transmission"],
+            "narrator_id": 5913,
+            "alternative_names": "al-Faruq, Commander of the Believers",
+            "original_id": 5121,
+            "kunya": "Abu Hafs",
+            "nisba": "al-Qurashi al-'Adawi",
+            "nisba_ar": "القرشي العدوي",
+            "death_year": "23",
+            "birth_year": null,
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "Companion",
+            "location": "Medina",
+            "transmissionTermMeaning": "It reached (mursal connection)"
+          }
+        ],
+        "chainIssues": [
+          "Mursal chain - 'it reached Umar' (بَلَغَ) indicates an indirect/interrupted transmission",
+          "Unknown/unreliable first narrators (Muhammad ibn al-Husayn)",
+          "al-Hasan al-Basri uses 'an (عَنْ) - potentially indirect",
+          "The chain has a significant gap or mursal element in its transmission",
+          "This is a narrative about Umar's action/teaching, not necessarily a direct hadith from the Prophet"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Mursal transmission - 'it reached Umar' (بَلَغَ) indicates incomplete chain",
+        "impact": "The chain has a documented gap, making it mursal"
+      },
+      {
+        "issue": "First narrator Muhammad ibn al-Husayn is majhul (unknown)",
+        "impact": "Beginning of chain is unreliable"
+      },
+      {
+        "issue": "al-Hasan al-Basri uses indirect transmission 'an'",
+        "impact": "Further ambiguity in the chain connection"
+      },
+      {
+        "issue": "This is a mawquf - story about Umar's letter and teaching, not directly from the Prophet",
+        "impact": "The main content is mawquf on Umar ibn al-Khattab, not marfu' to the Prophet"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Disconnections But All Narrators Are Ok",
+    "Topics": [
+      "Incident of Umar ibn al-Khattab sending a letter with Qur'anic verses",
+      "Interpretation of Surah Ghafir verses",
+      "Story of a man's repentance through Umar's teaching",
+      "Use of Qur'an for reformation and counsel"
+    ]
+  },
+  {
+    "hadith_id": 2436,
+    "book_id": 2,
+    "book_name_ar": "كتاب رقم 2",
+    "book_name_en": "Book 2",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "1481",
+    "english_translation": "Narrated by Mujahid: Regarding His statement 'Possessor of bounty' (40:3), he said: Possessor of bounties/blessings",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "Muhammad ibn al-Husayn",
+            "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Ja'far al-Shibaani",
+            "grade": "Majhul",
+            "generation": "Later Generations",
+            "transmissionTerm": "أَنَا",
+            "reliabilityIssues": ["majhul"],
+            "narrator_id": 20518,
+            "alternative_names": "Abu al-Fatih al-Shibaani",
+            "original_id": 27739,
+            "kunya": "Abu al-Fatih",
+            "nisba": "al-Attar",
+            "nisba_ar": "العطار",
+            "death_year": null,
+            "birth_year": null,
+            "reliability_grade": "Majhul",
+            "tabaqat": null,
+            "location": null,
+            "transmissionTermMeaning": "I was informed"
+          },
+          {
+            "name": "Ibrahim ibn Fahd",
+            "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah",
+            "grade": "Majhul al-Hal",
+            "generation": "Later Generations",
+            "transmissionTerm": "نَا",
+            "reliabilityIssues": ["majhul al-hal"],
+            "narrator_id": 11232,
+            "alternative_names": "Abu Ishaq al-Saji",
+            "original_id": 11691,
+            "kunya": "Abu Ishaq",
+            "nisba": "al-Saji",
+            "nisba_ar": "الساجي",
+            "death_year": null,
+            "birth_year": null,
+            "reliability_grade": "Majhul al-Hal",
+            "tabaqat": null,
+            "location": "Basra",
+            "transmissionTermMeaning": "He narrated to us"
+          },
+          {
+            "name": "Adam",
+            "full_name": "Adam ibn Abi Iyas al-Bajali",
+            "grade": "Saduq",
+            "generation": "Eighth Generation",
+            "transmissionTerm": "نَا",
+            "reliabilityIssues": [],
+            "narrator_id": 2,
+            "alternative_names": "Abu Muhammad",
+            "original_id": 2,
+            "kunya": "Abu Muhammad",
+            "nisba": "al-Bajali",
+            "nisba_ar": "الباجلي",
+            "death_year": "220",
+            "birth_year": null,
+            "reliability_grade": "Saduq",
+            "tabaqat": "8",
+            "location": "Kufa",
+            "transmissionTermMeaning": "He narrated to us"
+          },
+          {
+            "name": "Warqa",
+            "full_name": "Warqa ibn Abi Najjah Mus'ab al-Makki",
+            "grade": "Da'if",
+            "generation": "Seventh Generation",
+            "transmissionTerm": "نَا",
+            "reliabilityIssues": ["weak narrator"],
+            "narrator_id": 8149,
+            "alternative_names": "Warqa ibn Abi Najjah",
+            "original_id": 7406,
+            "kunya": "Abu Rajab",
+            "nisba": "al-Makki",
+            "nisba_ar": "المكي",
+            "death_year": "155",
+            "birth_year": null,
+            "reliability_grade": "Da'if",
+            "tabaqat": "7",
+            "location": "Mecca",
+            "transmissionTermMeaning": "He narrated to us"
+          },
+          {
+            "name": "Ibn Abi Najjah",
+            "full_name": "Shafi' ibn Mati' al-Asbahi",
+            "grade": "Da'if",
+            "generation": "Sixth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["weak narrator"],
+            "narrator_id": 4653,
+            "alternative_names": "Shafi' al-Asbahi",
+            "original_id": 3821,
+            "kunya": "Abu Uthman",
+            "nisba": "al-Asbahi",
+            "nisba_ar": "الأصبحي",
+            "death_year": "120",
+            "birth_year": null,
+            "reliability_grade": "Da'if",
+            "tabaqat": "6",
+            "location": "Egypt",
+            "transmissionTermMeaning": "From"
+          },
+          {
+            "name": "Mujahid",
+            "full_name": "Mujahid ibn Jabr al-Qurashi",
+            "grade": "Thiqah",
+            "generation": "Tabi'i",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["maqtu' - stops at Tabi'i"],
+            "narrator_id": 6715,
+            "alternative_names": "Abu al-Hajjaj al-Makki",
+            "original_id": 5946,
+            "kunya": "Abu al-Hajjaj",
+            "nisba": "al-Qurashi",
+            "nisba_ar": "القرشي",
+            "death_year": "104",
+            "birth_year": "21",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "Tabi'i",
+            "location": "Mecca",
+            "transmissionTermMeaning": "From"
+          }
+        ],
+        "chainIssues": [
+          "Chain is maqtu' - stops at Mujahid (Tabi'i level)",
+          "Two consecutive da'if narrators: Warqa and Ibn Abi Najjah",
+          "First narrators have unknown reliability",
+          "Transmission terms vary: direct followed by indirect 'an'",
+          "This is Mujahid's Qur'anic interpretation, not a hadith from the Prophet"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Two consecutive da'if narrators: Warqa ibn Abi Najjah and Ibn Abi Najjah",
+        "impact": "Weakens the chain significantly"
+      },
+      {
+        "issue": "Maqtu' at Tabi'i level - this is Mujahid's tafsir (exegesis)",
+        "impact": "Not a hadith from the Prophet ﷺ, but scholarly interpretation"
+      },
+      {
+        "issue": "Unknown first narrator (Muhammad ibn al-Husayn)",
+        "impact": "Beginning of chain is unreliable"
+      },
+      {
+        "issue": "Transmission term variation between direct and indirect",
+        "impact": "Ambiguity in chain connections"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Problematic",
+    "Topics": [
+      "Qur'anic exegesis of verse 40:3",
+      "Meaning of 'Dhu al-Tawl' (Possessor of bounty/grace)",
+      "Mujahid's interpretation of Qur'anic terms"
+    ]
+  }
+]
