@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Temporary files
+*.json.bak
+file1.json
+file2.json
+analyze_chunk*.py
+
+# Directories
+split_hadiths/
+.tmp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
