@@ -1,0 +1,2436 @@
+{
+  "batch_number": 1,
+  "source_files": [
+    41,
+    42
+  ],
+  "total_hadiths": 30,
+  "hadiths": [
+    {
+      "hadith_id": 601,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "601",
+      "english_translation": "The cutting off of the hand for theft is at a quarter of a dinar and upwards",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal",
+                "limited biographical data"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": 48826,
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal",
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": 1168,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Subarah ibn Mabbadi",
+              "full_name": "Subarah ibn Mabbadi ibn Aswajah ibn Harmalah ibn Subarah ibn Khudaij",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 4049,
+              "alternative_names": "Subarah ibn Mabbadi al-Juhani, Subarah ibn Aswajah, Abu Thurayah, Abu Thaljah, Abu al-Rabi'",
+              "original_id": 3209,
+              "kunya": "Abu Thurayah",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "2-3",
+              "location": "Medina",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Husayn ibn Uqbah",
+              "full_name": "Husayn ibn Uqbah al-Fazari",
+              "grade": "Da'if",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "marfu'",
+              "reliabilityIssues": [
+                "da'if narrator",
+                "no clear biographical record"
+              ],
+              "narrator_id": 3260,
+              "alternative_names": "al-Husayn ibn Uqbah al-Fazari, Husayn ibn Uqbah al-Kufi",
+              "original_id": 2398,
+              "kunya": "",
+              "nisba": "al-Fazari",
+              "nisba_ar": "الفزاري",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Da'if",
+              "tabaqat": "2-3",
+              "location": "Kufa",
+              "transmissionTermMeaning": "The statement is attributed to the Prophet ﷺ"
+            }
+          ],
+          "chainIssues": [
+            "Contains a weak narrator (Husayn ibn Uqbah with da'if grade)",
+            "Multiple ambiguous transmission terms ('an) from narrators of uncertain reliability",
+            "Data corruption: Text mentions 'Aisha' and 'Abu Said' but narrator IDs do not correspond to these individuals",
+            "Incomplete biographical information for first two narrators (Muhammad ibn Yusuf and Jarah ibn al-Dahhak)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak narrator in chain: Husayn ibn Uqbah (da'if)",
+          "impact": "This narrator is graded as weak (da'if), which significantly affects the reliability of this hadith. A single da'if narrator in the chain compromises the overall authenticity."
+        },
+        {
+          "issue": "Ambiguous transmission terms from uncertain narrators",
+          "impact": "Muhammad ibn Yusuf and Jarah ibn al-Dahhak appear to be majhul (unknown), and the use of 'an from them introduces further ambiguity without clear evidence of direct transmission."
+        },
+        {
+          "issue": "Text corruption and narrator ID mismatch",
+          "impact": "The hadith text mentions individuals (Aisha, Abu Said) whose narrator IDs do not match the listed narrators, suggesting data quality issues in the source."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Punishment for theft",
+        "Hand cutting as legal consequence",
+        "Minimum amount for theft penalty"
+      ]
+    },
+    {
+      "hadith_id": 602,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "602",
+      "english_translation": "Narrated by Ibn Abbas: The Prophet ﷺ was asked about a female slave if she commits fornication and is not chaste, so he said: 'If she commits fornication, whip her, then if she commits fornication again, whip her, then if she commits fornication again, whip her, then if she commits fornication again, whip her, then sell her even for a rope'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": 48826,
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal",
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": 1168,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Asim ibn Rajah",
+              "full_name": "Asim ibn Rajah ibn Hiwah al-Kindi al-Falastini",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq narrator",
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 4883,
+              "alternative_names": "Asim ibn Rajah al-Kindi, Asim ibn Rajah al-Falastini",
+              "original_id": 4062,
+              "kunya": "",
+              "nisba": "al-Kindi",
+              "nisba_ar": "الكندي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "2-3",
+              "location": "Palestine",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            }
+          ],
+          "chainIssues": [
+            "Text claims narrator is 'Ibn Abbas' but narrator_id 4883 is actually 'Asim ibn Rajah ibn Hiwah' - significant narrator ID mismatch",
+            "First two narrators (Muhammad ibn Yusuf and Jarah ibn al-Dahhak) are majhul al-hal with no clear biographical records",
+            "Both transmission terms from uncertain narrators use 'an which increases ambiguity"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Text-narrator ID mismatch: Claims 'Ibn Abbas' but narrator ID is Asim ibn Rajah",
+          "impact": "This indicates a serious data quality issue. Ibn Abbas was a famous companion, while Asim ibn Rajah was from later generations. The substitution of names suggests the source data may be corrupted or improperly structured."
+        },
+        {
+          "issue": "Unknown narrators with majhul al-hal grading",
+          "impact": "The first two narrators (Muhammad ibn Yusuf and Jarah ibn al-Dahhak) lack documented biographical information and are classified as majhul al-hal, making their reliability indeterminable."
+        },
+        {
+          "issue": "Ambiguous transmission terms from unreliable narrators",
+          "impact": "The use of 'an from narrators of unknown reliability reduces chain integrity significantly."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Punishment for fornication",
+        "Legal status of enslaved persons",
+        "Punishment for repeated offenses",
+        "Sale of enslaved persons"
+      ]
+    },
+    {
+      "hadith_id": 603,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "603",
+      "english_translation": "Chapter on Lost Property",
+      "chains": [],
+      "potential_issues": [],
+      "Classical Grade": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Chapter heading",
+        "Lost property"
+      ]
+    },
+    {
+      "hadith_id": 604,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "604",
+      "english_translation": "The Prophet ﷺ said: 'None shelters lost property except one who is lost'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": 48826,
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal",
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": 1168,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Asim ibn Rajah",
+              "full_name": "Asim ibn Rajah ibn Hiwah al-Kindi al-Falastini",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "saduq narrator",
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 4883,
+              "alternative_names": "Asim ibn Rajah al-Kindi, Asim ibn Rajah al-Falastini",
+              "original_id": 4062,
+              "kunya": "",
+              "nisba": "al-Kindi",
+              "nisba_ar": "الكندي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "2-3",
+              "location": "Palestine",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            }
+          ],
+          "chainIssues": [
+            "First two narrators (Muhammad ibn Yusuf and Jarah ibn al-Dahhak) are majhul al-hal with unverified biographical data",
+            "Both intermediate transmission terms use 'an (عَنْ) from narrators of questionable reliability",
+            "Third narrator (Asim ibn Rajah) is graded as saduq which is a lower reliability grade"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrators (majhul al-hal) in initial positions of chain",
+          "impact": "Muhammad ibn Yusuf and Jarah ibn al-Dahhak lack documented reliability assessments, making their transmission accuracy uncertain."
+        },
+        {
+          "issue": "Ambiguous transmission terms from majhul narrators",
+          "impact": "The use of 'an from narrators of unknown reliability reduces the chain's integrity without clear evidence of direct contact between narrators."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Lost property",
+        "Safeguarding the property of others",
+        "Moral responsibility toward lost items"
+      ]
+    },
+    {
+      "hadith_id": 605,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "605",
+      "english_translation": "And he said: The lost property of the believer burns in the fire",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Author/Compiler",
+              "full_name": "Author or Compiler of the Collection",
+              "grade": "Majhul",
+              "generation": "Collector",
+              "transmissionTerm": "وَقَالَ",
+              "reliabilityIssues": [
+                "disconnected statement",
+                "no complete chain"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "",
+              "original_id": 0,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Collector",
+              "location": "Unknown",
+              "transmissionTermMeaning": "And he said (disconnected statement)"
+            }
+          ],
+          "chainIssues": [
+            "Statement is maqtu' (cut/disconnected) - no complete chain of transmission",
+            "No narrators provided for this statement",
+            "Only shows 'waqala' (and he said) without attribution to a specific source"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' (cut) hadith - disconnected statement",
+          "impact": "This statement lacks a complete chain of transmission. While maqtu' hadiths can still provide useful information, they cannot be graded as authentic based on chain alone."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Lost property of believers",
+        "Hellfire",
+        "Consequences of mishandling others' property"
+      ]
+    },
+    {
+      "hadith_id": 606,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "606",
+      "english_translation": "And from the path of Ibn Abbas from him (the Prophet ﷺ) peace be upon him: He was asked about lost sheep, so he said: Take it, for it is for you or for your brother or for the wolf. Then it was said to him: What do you say about lost camels? So his face became red and he became angry, and said: What is your concern with them? With them is their hoof protection and their water container, they go to water and eat from trees until their owner finds them. Al-Rabi' said: Their hoof protection means their hooves. And their water container means they are patient about water because their stomachs preserve it for a time",
+      "chains": [
+        {
+          "type": "mu'allaq",
+          "narrators": [
+            {
+              "name": "Asim ibn Rajah",
+              "full_name": "Asim ibn Rajah ibn Hiwah al-Kindi al-Falastini",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "suspended chain - no initial narrators",
+                "incomplete chain",
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 4883,
+              "alternative_names": "Asim ibn Rajah al-Kindi, Asim ibn Rajah al-Falastini",
+              "original_id": 4062,
+              "kunya": "",
+              "nisba": "al-Kindi",
+              "nisba_ar": "الكندي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "2-3",
+              "location": "Palestine",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            }
+          ],
+          "chainIssues": [
+            "Mu'allaq (suspended) hadith - chain is incomplete and begins in the middle",
+            "Only one narrator provided (Asim ibn Rajah) without preceding narrators",
+            "No connection to the collection's primary narrator (Muhammad ibn Yusuf)",
+            "Uses 'an which is ambiguous in terms of direct transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mu'allaq (suspended) chain - missing initial narrators",
+          "impact": "This is a suspended hadith with an incomplete chain. One or more narrators at the beginning are omitted, making it impossible to verify the complete transmission."
+        },
+        {
+          "issue": "Only saduq narrator available in fragment",
+          "impact": "Even the available narrator (Asim ibn Rajah) is graded as saduq, which is a lower reliability grade. The missing narrators make assessment impossible."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Distinction between lost sheep and lost camels",
+        "Treatment of lost animals",
+        "Camel characteristics",
+        "Responsibility regarding lost property",
+        "Dialogue between the Prophet ﷺ and questioner"
+      ]
+    },
+    {
+      "hadith_id": 607,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "607",
+      "english_translation": "Chapter on Found Items (al-Luqtah)",
+      "chains": [],
+      "potential_issues": [],
+      "Classical Grade": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Chapter heading",
+        "Found items"
+      ]
+    },
+    {
+      "hadith_id": 608,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "608",
+      "english_translation": "A bedouin asked the Prophet ﷺ about found property which he picked up, so he said: Announce it for one year, then if whoever claims it comes with a description of its container and its tie, then it is for him, otherwise benefit from it. Al-Rabi' said: The container (al-ifas) is the vessel, and the tie (al-wika) is the rope with which it is bound",
+      "chains": [
+        {
+          "type": "mu'allaq",
+          "narrators": [
+            {
+              "name": "Asim ibn Rajah",
+              "full_name": "Asim ibn Rajah ibn Hiwah al-Kindi al-Falastini",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "suspended chain",
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 4883,
+              "alternative_names": "Asim ibn Rajah al-Kindi, Asim ibn Rajah al-Falastini",
+              "original_id": 4062,
+              "kunya": "",
+              "nisba": "al-Kindi",
+              "nisba_ar": "الكندي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "2-3",
+              "location": "Palestine",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            }
+          ],
+          "chainIssues": [
+            "Mu'allaq (suspended) - only shows Asim ibn Rajah without preceding narrators in chain",
+            "Missing initial narrators from the collection",
+            "Ambiguous transmission using 'an"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Suspended chain (mu'allaq) - incomplete transmission",
+          "impact": "The hadith lacks complete chain documentation. The absence of the opening narrators prevents full verification of the chain of transmission."
+        },
+        {
+          "issue": "Single narrator availability",
+          "impact": "Only Asim ibn Rajah (saduq grade) is available. Even though he is generally reliable, the suspended nature of the chain is a significant weakness."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Found property procedure",
+        "Announcement of lost items",
+        "Claiming found property",
+        "Terms for claiming lost items"
+      ]
+    },
+    {
+      "hadith_id": 609,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "609",
+      "english_translation": "Also from the path of Ibn Abbas: Zayd ibn Thabit picked up a purse containing one hundred dinars, so he came to the Prophet ﷺ, and he said to him: Announce it for one year, so whoever comes to you with a description, give it to him. So he came to him after completion of the year, and said to him: I announced it, O Messenger of Allah for one year, so he said to him: Announce it for another year. So he came to him after the end of the second year and informed him that he had announced it for another year, so he said: It is Allah's wealth, He gives it to whoever He wills. And in Mecca: Found items are not permissible except for one who announces them. In the Book of Hajj",
+      "chains": [
+        {
+          "type": "mu'allaq",
+          "narrators": [
+            {
+              "name": "Asim ibn Rajah",
+              "full_name": "Asim ibn Rajah ibn Hiwah al-Kindi al-Falastini",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "suspended chain",
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 4883,
+              "alternative_names": "Asim ibn Rajah al-Kindi, Asim ibn Rajah al-Falastini",
+              "original_id": 4062,
+              "kunya": "",
+              "nisba": "al-Kindi",
+              "nisba_ar": "الكندي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "2-3",
+              "location": "Palestine",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            }
+          ],
+          "chainIssues": [
+            "Mu'allaq (suspended) - missing opening narrators",
+            "Ambiguous transmission term from single narrator",
+            "Complex hadith with multiple statements about lost property in different contexts"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Suspended chain with missing narrators",
+          "impact": "The full chain of transmission is not provided, making verification impossible. This is a suspended hadith (mu'allaq) which weakens the authenticity claim."
+        },
+        {
+          "issue": "Complex narrative structure",
+          "impact": "The hadith contains multiple exchanges and statements about lost property, including references to rulings specific to Mecca, which suggests it may be a compilation of related but distinct narrations."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Incident of Zayd ibn Thabit finding a purse",
+        "Procedures for lost property announcements",
+        "Ownership of unclaimed found items",
+        "Divine will regarding wealth",
+        "Specific rulings for Mecca regarding found items"
+      ]
+    },
+    {
+      "hadith_id": 610,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "610",
+      "english_translation": "The Prophet ﷺ said: Two dead animals have been made permissible for you and two bloods, so the two dead animals are locusts and fish, and the two bloods are the liver and the spleen",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": 48826,
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal",
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": 1168,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Asim ibn Rajah",
+              "full_name": "Asim ibn Rajah ibn Hiwah al-Kindi al-Falastini",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "marfu'",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Asim ibn Rajah al-Kindi, Asim ibn Rajah al-Falastini",
+              "original_id": 4062,
+              "kunya": "",
+              "nisba": "al-Kindi",
+              "nisba_ar": "الكندي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "2-3",
+              "location": "Palestine",
+              "transmissionTermMeaning": "The statement is attributed to the Prophet ﷺ"
+            }
+          ],
+          "chainIssues": [
+            "First two narrators (Muhammad ibn Yusuf and Jarah ibn al-Dahhak) are majhul al-hal with unverified biographical data",
+            "Ambiguous transmission term ('an) from Jarah ibn al-Dahhak who is of unknown reliability",
+            "Third narrator (Asim ibn Rajah) is only saduq level"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrators at beginning of chain (majhul al-hal)",
+          "impact": "Muhammad ibn Yusuf and Jarah ibn al-Dahhak lack documented biographical information, making their reliability indeterminable."
+        },
+        {
+          "issue": "Ambiguous transmission from unreliable narrator",
+          "impact": "Use of 'an from Jarah ibn al-Dahhak (majhul al-hal) weakens the chain integrity without clear evidence of direct contact."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Permissible dead animals",
+        "Locusts permissibility",
+        "Fish permissibility",
+        "Permissible animal blood",
+        "Liver and spleen in Islamic law"
+      ]
+    },
+    {
+      "hadith_id": 611,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "611",
+      "english_translation": "A slave girl of Ka'b ibn Malik was herding sheep for him, a sheep was afflicted so she slaughtered it with a stone, so the Messenger of Allah ﷺ was asked about that, so he said: There is no harm in it, so eat from it",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": 48826,
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal",
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": 1168,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Husayn ibn Uqbah",
+              "full_name": "Husayn ibn Uqbah al-Fazari",
+              "grade": "Da'if",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "marfu'",
+              "reliabilityIssues": [
+                "da'if narrator"
+              ],
+              "narrator_id": 3260,
+              "alternative_names": "al-Husayn ibn Uqbah al-Fazari, Husayn ibn Uqbah al-Kufi",
+              "original_id": 2398,
+              "kunya": "",
+              "nisba": "al-Fazari",
+              "nisba_ar": "الفزاري",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Da'if",
+              "tabaqat": "2-3",
+              "location": "Kufa",
+              "transmissionTermMeaning": "The statement is attributed to the Prophet ﷺ"
+            }
+          ],
+          "chainIssues": [
+            "Contains a weak narrator (Husayn ibn Uqbah - da'if grade)",
+            "First two narrators are majhul al-hal",
+            "Ambiguous transmission term from unreliable narrator"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak narrator in chain: Husayn ibn Uqbah (da'if)",
+          "impact": "This narrator is graded as weak (da'if), which significantly compromises the hadith's authenticity."
+        },
+        {
+          "issue": "Unknown narrators in chain",
+          "impact": "Muhammad ibn Yusuf and Jarah ibn al-Dahhak lack biographical documentation."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of enslaved person slaughtering animal with stone",
+        "Permissibility of slaughtering without normal tools",
+        "Emergency slaughter methods",
+        "Instruction of Ka'b ibn Malik's slave girl"
+      ]
+    },
+    {
+      "hadith_id": 612,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "612",
+      "english_translation": "Jabir ibn Zaid said: I heard from some of the Companions narrating from the Prophet ﷺ that he prohibited in slaughtering four methods: al-khazl, al-wakhz, al-nakh', and al-tardad. Al-Rabi' said: al-Khazl means inserting the blade under the skin and flesh and slaughtering on the opposite side. al-Wakhz means striking with the point of the blade into the neck of the animal after slaughtering. al-Nakh' means breaking the neck. al-Tardad means slaughtering with a dull blade that moves about in the flesh",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": 48826,
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal",
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": 1168,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Abu Salamah",
+              "full_name": "Abu Salamah al-Humasi/al-Harani",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [
+                "saduq narrator",
+                "mursal transmission - quotes from companions without direct attribution"
+              ],
+              "narrator_id": 1131,
+              "alternative_names": "Abu Salamah al-Humasi, Abu Salamah al-Harani, Abu Salamah",
+              "original_id": 212,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "2-3",
+              "location": "Homs/Haran",
+              "transmissionTermMeaning": "I heard (direct transmission)"
+            }
+          ],
+          "chainIssues": [
+            "Mursal hadith - Abu Salamah quotes from 'some companions' without specific attribution to any companion or the Prophet ﷺ",
+            "First two narrators are majhul al-hal",
+            "Ambiguous transmission from unreliable narrator (Jarah ibn al-Dahhak)"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal hadith - missing link between Abu Salamah and the Prophet ﷺ",
+          "impact": "The hadith is transmitted from Abu Salamah quoting from generic 'companions' without specifying which companions, making the chain mursal (disconnected from the Prophet ﷺ directly)."
+        },
+        {
+          "issue": "Unknown narrators in initial part of chain",
+          "impact": "Muhammad ibn Yusuf and Jarah ibn al-Dahhak are majhul al-hal, and Jarah uses ambiguous transmission term."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Prohibited slaughtering methods",
+        "Method of slaughtering animals",
+        "Technical terminology of al-khazl",
+        "Technical terminology of al-wakhz",
+        "Technical terminology of al-nakh'",
+        "Technical terminology of al-tardad",
+        "Animal welfare in slaughtering"
+      ]
+    },
+    {
+      "hadith_id": 613,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "613",
+      "english_translation": "Narrated by Aisha: People from the people of Medina came in the season of Adha during the time of the Prophet ﷺ, so the Messenger of Allah ﷺ said: Eat and give charity with what remains after three days. She said: When it was after that, it was said to the Messenger of Allah ﷺ: The people benefit from their sacrifices and make abundant fat and take from them water containers. So the Messenger of Allah ﷺ said: What is that? So they said: O Messenger of Allah, you forbade keeping the sacrifices after three days. So he said: I only forbade you because of the group of visitors who came upon you, so eat and give charity and store",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": 48826,
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal",
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": 1168,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Subarah ibn Mabbadi",
+              "full_name": "Subarah ibn Mabbadi ibn Aswajah ibn Harmalah ibn Subarah ibn Khudaij",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 4049,
+              "alternative_names": "Subarah ibn Mabbadi al-Juhani, Abu Thurayah, Abu Thaljah",
+              "original_id": 3209,
+              "kunya": "Abu Thurayah",
+              "nisba": "al-Juhani",
+              "nisba_ar": "الجهني",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "2-3",
+              "location": "Medina",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "First two narrators are majhul al-hal with unverified reliability",
+            "Ambiguous transmission terms from unknown narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrators in chain",
+          "impact": "Muhammad ibn Yusuf and Jarah ibn al-Dahhak lack documented biographical information"
+        },
+        {
+          "issue": "Ambiguous transmission terms",
+          "impact": "Use of 'an from narrators of unknown reliability weakens chain integrity"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Sacrifice of animals on Eid al-Adha",
+        "Eating from sacrificial animals",
+        "Giving charity from sacrifices",
+        "Storage of sacrificial meat",
+        "Gathering of visitors during festival"
+      ]
+    },
+    {
+      "hadith_id": 614,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "614",
+      "english_translation": "The Prophet ﷺ was asked about al-Aqiqah and he said: I do not like disobedience. Then he said: Whoever has been given a child and loves to perform an animal sacrifice for his child, let him do so. Abu Ubaidah said: For a male there are two sheep, and for a female one sheep",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": 48826,
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal",
+                "mursal hadith"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": 1168,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Mursal hadith - missing direct chain to the Prophet ﷺ",
+            "Only two narrators with majhul al-hal grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal transmission",
+          "impact": "Hadith lacks complete chain to the Prophet ﷺ, making it disconnected"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Al-Aqiqah sacrifice for newborns",
+        "Sacrificing animals for children",
+        "Number of animals for males and females"
+      ]
+    },
+    {
+      "hadith_id": 615,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "615",
+      "english_translation": "Chapter on the Prohibition of Selling and Drinking Wine",
+      "chains": [],
+      "potential_issues": [],
+      "Classical Grade": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Chapter heading",
+        "Wine"
+      ]
+    },
+    {
+      "hadith_id": 616,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "616",
+      "english_translation": "A man gifted to the Messenger of Allah ﷺ two containers of wine, so he said to him: Do you not know that Allah has forbidden it? He said: No. Then someone whispered (to the man), so he ﷺ said to him: Why did you whisper to him? He said to him: I ordered him to sell it. So the Messenger of Allah ﷺ said to him: Indeed He who forbade drinking it has forbidden selling it. So he opened the two containers which were the wine vessels until what was in them went away",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": 48826,
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal",
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": 1168,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Asim ibn Rajah",
+              "full_name": "Asim ibn Rajah ibn Hiwah al-Kindi al-Falastini",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "marfu'",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Asim ibn Rajah al-Kindi, Asim ibn Rajah al-Falastini",
+              "original_id": 4062,
+              "kunya": "",
+              "nisba": "al-Kindi",
+              "nisba_ar": "الكندي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "2-3",
+              "location": "Palestine",
+              "transmissionTermMeaning": "Attributed to the Prophet ﷺ"
+            }
+          ],
+          "chainIssues": [
+            "First two narrators are majhul al-hal",
+            "Ambiguous transmission from unknown narrator"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrators in chain",
+          "impact": "Muhammad ibn Yusuf and Jarah ibn al-Dahhak lack documented reliability"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Prohibition of wine",
+        "Selling wine",
+        "Incident of man gifting wine to the Prophet ﷺ",
+        "Islamic ruling on alcohol trade",
+        "Destruction of wine"
+      ]
+    },
+    {
+      "hadith_id": 617,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "617",
+      "english_translation": "The Messenger of Allah ﷺ said: Allah has cursed wine, its seller, its buyer, its presser, its carrier, the one it is carried to, and its drinker. Al-Rabi' relates from Ubadah ibn al-Samit that the Messenger of Allah ﷺ said: The latter part of my community will make wine permissible by calling it by other names",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": 48826,
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal",
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": 1168,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Asim ibn Rajah",
+              "full_name": "Asim ibn Rajah ibn Hiwah al-Kindi al-Falastini",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "marfu'",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "Asim ibn Rajah al-Kindi, Asim ibn Rajah al-Falastini",
+              "original_id": 4062,
+              "kunya": "",
+              "nisba": "al-Kindi",
+              "nisba_ar": "الكندي",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "2-3",
+              "location": "Palestine",
+              "transmissionTermMeaning": "Attributed to the Prophet ﷺ"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators in chain",
+            "Ambiguous transmission terms"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain integrity issues",
+          "impact": "Unknown narrators at beginning of chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Curse of Allah upon wine and related activities",
+        "Curse upon seller of wine",
+        "Curse upon buyer of wine",
+        "Curse upon maker of wine",
+        "Curse upon drinker of wine",
+        "Future generations making wine permissible through naming"
+      ]
+    },
+    {
+      "hadith_id": 618,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "618",
+      "english_translation": "The Messenger of Allah ﷺ said: Whoever drinks wine in this world and then does not repent from it shall be deprived of it in the next world",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": 48826,
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal",
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": 1168,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Husayn ibn Uqbah",
+              "full_name": "Husayn ibn Uqbah al-Fazari",
+              "grade": "Da'if",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "marfu'",
+              "reliabilityIssues": [
+                "da'if narrator"
+              ],
+              "narrator_id": 3260,
+              "alternative_names": "al-Husayn ibn Uqbah al-Fazari, Husayn ibn Uqbah al-Kufi",
+              "original_id": 2398,
+              "kunya": "",
+              "nisba": "al-Fazari",
+              "nisba_ar": "الفزاري",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Da'if",
+              "tabaqat": "2-3",
+              "location": "Kufa",
+              "transmissionTermMeaning": "Attributed to the Prophet ﷺ"
+            }
+          ],
+          "chainIssues": [
+            "Contains weak narrator (Husayn ibn Uqbah - da'if)",
+            "Unknown narrators in chain",
+            "Ambiguous transmission terms"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak narrator in chain",
+          "impact": "Husayn ibn Uqbah (da'if) significantly weakens the chain"
+        },
+        {
+          "issue": "Unknown narrators",
+          "impact": "Muhammad ibn Yusuf and Jarah ibn al-Dahhak lack documented reliability"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Drinking wine in this world",
+        "Deprivation from wine in the next world",
+        "Repentance from consuming alcohol",
+        "Punishment for consuming intoxicants"
+      ]
+    },
+    {
+      "hadith_id": 619,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "619",
+      "english_translation": "Hadith 619",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
+              "original_id": "48826",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
+              "original_id": "1168",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain issues",
+          "impact": "Weak narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Topic_619"
+      ]
+    },
+    {
+      "hadith_id": 620,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "620",
+      "english_translation": "Hadith 620",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
+              "original_id": "48826",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
+              "original_id": "1168",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Subarah",
+              "full_name": "Subarah ibn Mabbadi ibn Aswajah ibn Harmalah ibn Subarah ibn Khudaij",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "ambiguous transmission term"
+              ],
+              "narrator_id": 4049,
+              "alternative_names": "سبرة بن معبد الجهني\tسبرة بن عوسجة\tأبو ثرية ، أبو ثلجة ، أبو الربيع",
+              "original_id": "3209",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Second-Third Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain issues",
+          "impact": "Weak narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Topic_620"
+      ]
+    },
+    {
+      "hadith_id": 621,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "621",
+      "english_translation": "Hadith 621",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
+              "original_id": "48826",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
+              "original_id": "1168",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Husayn",
+              "full_name": "Husayn ibn Uqbah al-Fazari",
+              "grade": "Da'if",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "da'if narrator"
+              ],
+              "narrator_id": 3260,
+              "alternative_names": "الحصين بن عقبة الفزاري\tحصين بن عقبة الكوفي",
+              "original_id": "2398",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Da'if",
+              "tabaqat": "Second-Third Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain issues",
+          "impact": "Weak narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Topic_621"
+      ]
+    },
+    {
+      "hadith_id": 622,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "622",
+      "english_translation": "Hadith 622",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
+              "original_id": "48826",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
+              "original_id": "1168",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Husayn",
+              "full_name": "Husayn ibn Uqbah al-Fazari",
+              "grade": "Da'if",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "da'if narrator"
+              ],
+              "narrator_id": 3260,
+              "alternative_names": "الحصين بن عقبة الفزاري\tحصين بن عقبة الكوفي",
+              "original_id": "2398",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Da'if",
+              "tabaqat": "Second-Third Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain issues",
+          "impact": "Weak narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Topic_622"
+      ]
+    },
+    {
+      "hadith_id": 623,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "623",
+      "english_translation": "Chapter heading",
+      "chains": [],
+      "potential_issues": [],
+      "Classical Grade": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Chapter heading"
+      ]
+    },
+    {
+      "hadith_id": 624,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "624",
+      "english_translation": "Hadith 624",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
+              "original_id": "48826",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
+              "original_id": "1168",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Asim",
+              "full_name": "Asim ibn Rajah ibn Hiwah al-Kindi al-Falastini",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "عاصم بن رجاء الكندي\tعاصم بن رجاء الفلسطيني",
+              "original_id": "4062",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Second-Third Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain issues",
+          "impact": "Weak narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Topic_624"
+      ]
+    },
+    {
+      "hadith_id": 625,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "625",
+      "english_translation": "Hadith 625",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
+              "original_id": "48826",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
+              "original_id": "1168",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Asim",
+              "full_name": "Asim ibn Rajah ibn Hiwah al-Kindi al-Falastini",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "عاصم بن رجاء الكندي\tعاصم بن رجاء الفلسطيني",
+              "original_id": "4062",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Second-Third Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain issues",
+          "impact": "Weak narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Topic_625"
+      ]
+    },
+    {
+      "hadith_id": 626,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "626",
+      "english_translation": "Hadith 626",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
+              "original_id": "48826",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
+              "original_id": "1168",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Asim",
+              "full_name": "Asim ibn Rajah ibn Hiwah al-Kindi al-Falastini",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "عاصم بن رجاء الكندي\tعاصم بن رجاء الفلسطيني",
+              "original_id": "4062",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Second-Third Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain issues",
+          "impact": "Weak narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Topic_626"
+      ]
+    },
+    {
+      "hadith_id": 627,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "627",
+      "english_translation": "Hadith 627",
+      "chains": [
+        {
+          "type": "mu'allaq",
+          "narrators": [
+            {
+              "name": "Asim",
+              "full_name": "Asim ibn Rajah ibn Hiwah al-Kindi al-Falastini",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "عاصم بن رجاء الكندي\tعاصم بن رجاء الفلسطيني",
+              "original_id": "4062",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Second-Third Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Topic_627"
+      ]
+    },
+    {
+      "hadith_id": 628,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "628",
+      "english_translation": "Hadith 628",
+      "chains": [
+        {
+          "type": "mu'allaq",
+          "narrators": [
+            {
+              "name": "Asim",
+              "full_name": "Asim ibn Rajah ibn Hiwah al-Kindi al-Falastini",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "عاصم بن رجاء الكندي\tعاصم بن رجاء الفلسطيني",
+              "original_id": "4062",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Second-Third Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Topic_628"
+      ]
+    },
+    {
+      "hadith_id": 629,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "629",
+      "english_translation": "Hadith 629",
+      "chains": [
+        {
+          "type": "mu'allaq",
+          "narrators": [
+            {
+              "name": "Asim",
+              "full_name": "Asim ibn Rajah ibn Hiwah al-Kindi al-Falastini",
+              "grade": "Saduq",
+              "generation": "Second-Third Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 4883,
+              "alternative_names": "عاصم بن رجاء الكندي\tعاصم بن رجاء الفلسطيني",
+              "original_id": "4062",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Saduq",
+              "tabaqat": "Second-Third Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "potential_issues": [],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Topic_629"
+      ]
+    },
+    {
+      "hadith_id": 630,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "630",
+      "english_translation": "Hadith 630",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad",
+              "full_name": "Muhammad ibn Yusuf ibn Hukam al-Tammar",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 31544,
+              "alternative_names": "محمد بن يوسف الحداني\tأبو العلاء التمار\tأبو العلاء",
+              "original_id": "48826",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah",
+              "full_name": "Jarah ibn al-Dahhak ibn Qais",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "الجراح بن الضحاك الخراساني\tجراح بن الضحاك الكندي",
+              "original_id": "1168",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "Unknown Generation",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "محمد بن إسماعيل بن سمرة",
+              "full_name": "Unknown",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 7570,
+              "alternative_names": "محمد بن إسماعيل الأحمسي\tأبو جعفر الكوفي\tأبو جعفر",
+              "original_id": "6819",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": "",
+              "birth_year": "",
+              "reliability_grade": "Majhul",
+              "tabaqat": "Unknown",
+              "location": "Unknown",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain issues",
+          "impact": "Weak narrators"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Topic_630"
+      ]
+    }
+  ]
+}
