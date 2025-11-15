@@ -1,0 +1,582 @@
+[
+  {
+    "hadith_id": 182281,
+    "book_id": 140,
+    "book_name_ar": "كتاب رقم 140",
+    "book_name_en": "Book 140",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "3513",
+    "english_translation": "Khunays ibn Abd al-Rahman ibn Nu'aym al-Ghifari",
+    "chains": [
+      {
+        "type": "biographical_entry",
+        "narrators": [
+          {
+            "name": "Khunays ibn Abd al-Rahman",
+            "full_name": "Khunays ibn Abd al-Rahman ibn Nu'aym al-Ghifari",
+            "grade": "Majhul",
+            "generation": "Successor",
+            "transmissionTerm": "",
+            "reliabilityIssues": ["majhul"],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "al-Ghifari",
+            "nisba_ar": "الغفاري",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "Successor",
+            "location": "",
+            "transmissionTermMeaning": ""
+          }
+        ],
+        "chainIssues": ["Incomplete biographical entry without chain of transmission"]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Incomplete entry with no transmission chain",
+        "impact": "This appears to be a biographical entry rather than a hadith with a complete transmission chain. The reliability cannot be assessed without proper sanad or matn information."
+      },
+      {
+        "issue": "Narrator Khunays ibn Abd al-Rahman is majhul (unknown)",
+        "impact": "Limited biographical information available about this narrator affects reliability assessment."
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Disconnections But All Narrators Are Ok",
+    "Topics": ["Biographical entry about a Successor"]
+  },
+  {
+    "hadith_id": 182282,
+    "book_id": 140,
+    "book_name_ar": "كتاب رقم 140",
+    "book_name_en": "Book 140",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "3514",
+    "english_translation": "Narrated by Abdullah ibn Salam: He heard the Prophet ﷺ saying: 'What is forbidden between two walls.'",
+    "chains": [
+      {
+        "type": "marfu'",
+        "narrators": [
+          {
+            "name": "Qays ibn Abd al-Malik",
+            "full_name": "Qays ibn Abd al-Malik",
+            "grade": "Majhul",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul"],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "Third Generation",
+            "location": "",
+            "transmissionTermMeaning": "From (potentially indirect transmission)"
+          },
+          {
+            "name": "Abdullah ibn Salam",
+            "full_name": "Abdullah ibn Salam ibn al-Harith al-Isra'ili",
+            "grade": "Thiqah Thabt",
+            "generation": "Companion",
+            "transmissionTerm": "سَمِعَ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Abu al-Harith, Hasib",
+            "original_id": 0,
+            "kunya": "Abu al-Harith",
+            "nisba": "al-Isra'ili",
+            "nisba_ar": "الإسرائيلي",
+            "death_year": "43",
+            "birth_year": "",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "Companion",
+            "location": "Madinah",
+            "transmissionTermMeaning": "He heard"
+          },
+          {
+            "name": "Prophet Muhammad ﷺ",
+            "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+            "grade": "Awthaq al-Nas",
+            "generation": "Prophet",
+            "transmissionTerm": "",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Ahmad, al-Mustafa",
+            "original_id": 0,
+            "kunya": "Abu al-Qasim",
+            "nisba": "al-Hashimi al-Qurashi",
+            "nisba_ar": "الهاشمي القرشي",
+            "death_year": "11",
+            "birth_year": "53 BH",
+            "reliability_grade": "Awthaq al-Nas",
+            "tabaqat": "Prophet",
+            "location": "Makkah/Madinah",
+            "transmissionTermMeaning": ""
+          }
+        ],
+        "chainIssues": ["Qays ibn Abd al-Malik is majhul and uses ambiguous transmission term 'an from Abdullah ibn Salam"]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Qays ibn Abd al-Malik is majhul al-hal (unknown reliability)",
+        "impact": "Only one narrator (Qays) reports from Abdullah ibn Salam, making this a case of majhul al-'ayn potentially, significantly affecting chain reliability."
+      },
+      {
+        "issue": "Use of 'an (عَنْ) from Qays ibn Abd al-Malik",
+        "impact": "The use of ambiguous transmission term 'an without specification of direct hearing creates uncertainty about the actual connection between Qays and Abdullah ibn Salam."
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Weak But Might Be Acceptable",
+    "Topics": ["Prohibition regarding forbidden areas"]
+  },
+  {
+    "hadith_id": 182283,
+    "book_id": 140,
+    "book_name_ar": "كتاب رقم 140",
+    "book_name_en": "Book 140",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "3515",
+    "english_translation": "From Abu Qabeel, he was reported from by Yahya ibn Bakir al-Misri (known as al-Mu'afiri).",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "Yahya ibn Bakir",
+            "full_name": "Yahya ibn Bakir al-Misri al-Mu'afiri",
+            "grade": "Saduq",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "al-Mu'afiri, al-Masri",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "al-Misri",
+            "nisba_ar": "المصري",
+            "death_year": "231",
+            "birth_year": "150",
+            "reliability_grade": "Saduq",
+            "tabaqat": "Second Generation",
+            "location": "Egypt",
+            "transmissionTermMeaning": "From (potentially indirect)"
+          },
+          {
+            "name": "Abu Qabeel",
+            "full_name": "Abu Qabeel (Khaythamah ibn Abd al-Rahman)",
+            "grade": "Majhul",
+            "generation": "Successor",
+            "transmissionTerm": "",
+            "reliabilityIssues": ["majhul"],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "Abu Qabeel",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "Successor",
+            "location": "",
+            "transmissionTermMeaning": ""
+          }
+        ],
+        "chainIssues": ["Chain is maqtu' (severed) - stops at Abu Qabeel who is majhul", "No connection to Prophet ﷺ or Companion provided"]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Abu Qabeel is majhul (unknown)",
+        "impact": "Limited biographical information and only Yahya ibn Bakir reports from him, making this a case of majhul al-'ayn."
+      },
+      {
+        "issue": "Chain is maqtu' (severed)",
+        "impact": "The chain does not extend beyond Abu Qabeel to a Companion or the Prophet ﷺ, indicating a broken chain."
+      },
+      {
+        "issue": "Yahya ibn Bakir uses ambiguous transmission term 'an",
+        "impact": "Creates uncertainty about direct connection between Yahya ibn Bakir and Abu Qabeel."
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Disconnections But All Narrators Are Ok",
+    "Topics": ["Biographical transmission from Abu Qabeel"]
+  },
+  {
+    "hadith_id": 182284,
+    "book_id": 140,
+    "book_name_ar": "كتاب رقم 140",
+    "book_name_en": "Book 140",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "3516",
+    "english_translation": "Khawwat ibn Jubayr al-Ansari al-Madani",
+    "chains": [
+      {
+        "type": "biographical_entry",
+        "narrators": [
+          {
+            "name": "Khawwat ibn Jubayr",
+            "full_name": "Khawwat ibn Jubayr ibn Mut'im al-Ansari al-Madani",
+            "grade": "Thiqah",
+            "generation": "Successor",
+            "transmissionTerm": "",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Khabbat, al-Ansari",
+            "original_id": 0,
+            "kunya": "Abu Abdillah",
+            "nisba": "al-Ansari",
+            "nisba_ar": "الأنصاري",
+            "death_year": "125",
+            "birth_year": "",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "Successor",
+            "location": "Madinah",
+            "transmissionTermMeaning": ""
+          }
+        ],
+        "chainIssues": ["Incomplete biographical entry without chain of transmission"]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Incomplete entry with no transmission chain",
+        "impact": "This appears to be a biographical entry rather than a hadith with a complete transmission chain. The reliability cannot be assessed without proper sanad or matn information."
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Disconnections But All Narrators Are Ok",
+    "Topics": ["Biographical entry about a Successor"]
+  },
+  {
+    "hadith_id": 182285,
+    "book_id": 140,
+    "book_name_ar": "كتاب رقم 140",
+    "book_name_en": "Book 140",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "3517",
+    "english_translation": "He witnessed the Battle of Badr with the Prophet ﷺ. Ibn Uyaynah narrated this. The Prophet ﷺ went out and said: 'O father of Abdullah, what makes you sit?'",
+    "chains": [
+      {
+        "type": "marfu'",
+        "narrators": [
+          {
+            "name": "Sufyan ibn Uyaynah",
+            "full_name": "Sufyan ibn Uyaynah ibn Mikhrama ibn Al-Harith al-Hilali",
+            "grade": "Thabt Hafiz",
+            "generation": "Seventh Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["mudallis"],
+            "narrator_id": 0,
+            "alternative_names": "Abu Muhammad al-Hilali",
+            "original_id": 0,
+            "kunya": "Abu Muhammad",
+            "nisba": "al-Hilali",
+            "nisba_ar": "الهلالي",
+            "death_year": "198",
+            "birth_year": "107",
+            "reliability_grade": "Thabt Hafiz",
+            "tabaqat": "7",
+            "location": "Makkah",
+            "transmissionTermMeaning": "From (potentially indirect)"
+          },
+          {
+            "name": "Mus'ar",
+            "full_name": "Mus'ar ibn Kidam al-Kufi",
+            "grade": "La Ba'sa Bihi",
+            "generation": "Sixth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Abu Ishaq",
+            "original_id": 0,
+            "kunya": "Abu Ishaq",
+            "nisba": "al-Kufi",
+            "nisba_ar": "الكوفي",
+            "death_year": "165",
+            "birth_year": "",
+            "reliability_grade": "La Ba'sa Bihi",
+            "tabaqat": "6",
+            "location": "Kufa",
+            "transmissionTermMeaning": "From"
+          },
+          {
+            "name": "Thabit ibn Ubayd",
+            "full_name": "Thabit ibn Ubayd al-Ansari al-Madani",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "al-Ansari",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "al-Ansari",
+            "nisba_ar": "الأنصاري",
+            "death_year": "120",
+            "birth_year": "",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "2",
+            "location": "Madinah",
+            "transmissionTermMeaning": "From"
+          },
+          {
+            "name": "Ibn Abi Layla",
+            "full_name": "Muhammad ibn Abdullah ibn Abi Layla al-Ansari",
+            "grade": "Saduq",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["inconsistency"],
+            "narrator_id": 0,
+            "alternative_names": "Abu al-Aswad",
+            "original_id": 0,
+            "kunya": "Abu al-Aswad",
+            "nisba": "al-Ansari",
+            "nisba_ar": "الأنصاري",
+            "death_year": "148",
+            "birth_year": "",
+            "reliability_grade": "Saduq",
+            "tabaqat": "2",
+            "location": "Kufa",
+            "transmissionTermMeaning": "From"
+          }
+        ],
+        "chainIssues": ["Sufyan ibn Uyaynah is a known mudallis (category 2) and uses 'an without direct transmission indicators", "Chain relies on 'an from Mus'ar to Thabit to Ibn Abi Layla"]
+      },
+      {
+        "type": "marfu'",
+        "narrators": [
+          {
+            "name": "Yahya ibn Musa",
+            "full_name": "Yahya ibn Musa al-Qurashi",
+            "grade": "Thiqah",
+            "generation": "Eighth Generation",
+            "transmissionTerm": "حَدَّثَنَا",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "Abu Zakariyyah",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "215",
+            "birth_year": "",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "8",
+            "location": "",
+            "transmissionTermMeaning": "He narrated to us (direct hearing)"
+          },
+          {
+            "name": "Wahb",
+            "full_name": "Wahb ibn Jarir ibn Hazm al-Azdi",
+            "grade": "Saduq",
+            "generation": "Seventh Generation",
+            "transmissionTerm": "حَدَّثَنَا",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Abu Jarir",
+            "original_id": 0,
+            "kunya": "Abu Jarir",
+            "nisba": "al-Azdi",
+            "nisba_ar": "الأزدي",
+            "death_year": "206",
+            "birth_year": "130",
+            "reliability_grade": "Saduq",
+            "tabaqat": "7",
+            "location": "Basra",
+            "transmissionTermMeaning": "He narrated to us (direct hearing)"
+          },
+          {
+            "name": "Jarir ibn Hazm",
+            "full_name": "Jarir ibn Hazm al-Azdi",
+            "grade": "Saduq",
+            "generation": "Sixth Generation",
+            "transmissionTerm": "سَمِعْتُ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "al-Azdi",
+            "nisba_ar": "الأزدي",
+            "death_year": "170",
+            "birth_year": "",
+            "reliability_grade": "Saduq",
+            "tabaqat": "6",
+            "location": "Basra",
+            "transmissionTermMeaning": "I heard"
+          },
+          {
+            "name": "Zayd ibn Aslam",
+            "full_name": "Zayd ibn Aslam al-'Adawi al-Madani",
+            "grade": "Saduq",
+            "generation": "Third Generation",
+            "transmissionTerm": "سَمِعْتُ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "al-'Adawi",
+            "original_id": 0,
+            "kunya": "Abu Usamah",
+            "nisba": "al-'Adawi",
+            "nisba_ar": "العدوي",
+            "death_year": "136",
+            "birth_year": "",
+            "reliability_grade": "Saduq",
+            "tabaqat": "3",
+            "location": "Madinah",
+            "transmissionTermMeaning": "I heard"
+          },
+          {
+            "name": "Khawwat ibn Jubayr",
+            "full_name": "Khawwat ibn Jubayr ibn Mut'im al-Ansari",
+            "grade": "Thiqah",
+            "generation": "Successor",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "Abu Abdillah",
+            "nisba": "al-Ansari",
+            "nisba_ar": "الأنصاري",
+            "death_year": "125",
+            "birth_year": "",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "2",
+            "location": "Madinah",
+            "transmissionTermMeaning": "From"
+          },
+          {
+            "name": "Prophet Muhammad ﷺ",
+            "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+            "grade": "Awthaq al-Nas",
+            "generation": "Prophet",
+            "transmissionTerm": "",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Ahmad, al-Mustafa",
+            "original_id": 0,
+            "kunya": "Abu al-Qasim",
+            "nisba": "al-Hashimi al-Qurashi",
+            "nisba_ar": "الهاشمي القرشي",
+            "death_year": "11",
+            "birth_year": "53 BH",
+            "reliability_grade": "Awthaq al-Nas",
+            "tabaqat": "Prophet",
+            "location": "Makkah/Madinah",
+            "transmissionTermMeaning": ""
+          }
+        ],
+        "chainIssues": ["Second chain uses strong direct transmission terms (حَدَّثَنَا and سَمِعْتُ) except for the final عَنْ before Khawwat"]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "First chain: Sufyan ibn Uyaynah is a known mudallis (category 2)",
+        "impact": "While Sufyan ibn Uyaynah is generally reliable (Thiqah Hafiz), he is classified as a mudallis by Ibn Hajar. His use of 'an in this chain requires careful evaluation, though his overall reliability mitigates the concern. This does not significantly affect the hadith grade."
+      },
+      {
+        "issue": "First chain: Heavy reliance on 'an transmission term",
+        "impact": "Multiple narrators use 'an, creating ambiguity about direct connections throughout the chain."
+      },
+      {
+        "issue": "Second chain: More reliable transmission with direct hearing terms",
+        "impact": "The second chain through Yahya ibn Musa, Wahb, and Zayd ibn Aslam uses stronger direct transmission terms (حَدَّثَنَا/سَمِعْتُ), strengthening the overall authenticity of the hadith despite the ambiguity in the first chain."
+      }
+    ],
+    "Classical Grade": ["Hasan"],
+    "IISGrade": "Acceptable",
+    "Topics": ["Incident of the Battle of Badr with the Prophet ﷺ", "Dialogue between Prophet and a companion"]
+  },
+  {
+    "hadith_id": 182286,
+    "book_id": 140,
+    "book_name_ar": "كتاب رقم 140",
+    "book_name_en": "Book 140",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "3518",
+    "english_translation": "From Ka'b, his statement, he was reported from by Juwayriyyah ibn Asma'.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "Juwayriyyah ibn Asma'",
+            "full_name": "Juwayriyyah ibn Asma' ibn Harithah al-Umawi",
+            "grade": "Saduq",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Juwayriyyah al-Umawi",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "al-Umawi",
+            "nisba_ar": "الأموي",
+            "death_year": "159",
+            "birth_year": "",
+            "reliability_grade": "Saduq",
+            "tabaqat": "2",
+            "location": "",
+            "transmissionTermMeaning": "From (potentially indirect)"
+          },
+          {
+            "name": "Ka'b",
+            "full_name": "Ka'b al-Ahbar ibn Marrah al-Himyari",
+            "grade": "Saduq",
+            "generation": "Successor",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Abu Ishaq al-Himyari",
+            "original_id": 0,
+            "kunya": "Abu Ishaq",
+            "nisba": "al-Himyari",
+            "nisba_ar": "الحميري",
+            "death_year": "34 AH",
+            "birth_year": "",
+            "reliability_grade": "Saduq",
+            "tabaqat": "Successor",
+            "location": "Madinah/Syria",
+            "transmissionTermMeaning": "He said"
+          }
+        ],
+        "chainIssues": ["Chain is mawquf (stopped at Successor Ka'b) and does not extend to Prophet ﷺ", "Juwayriyyah ibn Asma' uses ambiguous 'an from Ka'b"]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Chain is mawquf (stopped at Successor)",
+        "impact": "The hadith is attributed to Ka'b al-Ahbar, not to the Prophet ﷺ, indicating a statement of a Successor rather than a prophetic hadith."
+      },
+      {
+        "issue": "Juwayriyyah ibn Asma' uses ambiguous transmission term 'an",
+        "impact": "Creates uncertainty about direct connection between Juwayriyyah and Ka'b."
+      },
+      {
+        "issue": "Ka'b al-Ahbar was a Jew converted to Islam",
+        "impact": "Ka'b's narrations, while generally acceptable, should be evaluated with attention to his background as an Israelite scholar rather than a pure Islamic authority."
+      }
+    ],
+    "Classical Grade": ["Hasan"],
+    "IISGrade": "Acceptable",
+    "Topics": ["Statement of Ka'b al-Ahbar about Islamic jurisprudence"]
+  }
+]
