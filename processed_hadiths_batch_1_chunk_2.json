@@ -1,0 +1,805 @@
+[
+  {
+    "hadith_id": 3787,
+    "book_id": 4,
+    "book_name_ar": "كتاب غير معروف",
+    "book_name_en": "Unknown Book",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "681",
+    "english_translation": "Narrated by Ali: He said: The Messenger of Allah ﷺ said: The mine is exempt from liability, the well is exempt from liability, the escaped animal is exempt from liability, and the man is exempt from liability.",
+    "chains": [
+      {
+        "type": "marfu'",
+        "narrators": [
+          {
+            "name": "Abdullah ibn Uthman",
+            "full_name": "Abdullah ibn Uthman ibn Ata ibn Abi Muslim al-Kharasani",
+            "grade": "Majhul al-Hal",
+            "generation": "Second Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_hal", "weak_documentation"],
+            "narrator_id": 5739,
+            "alternative_names": "Ibn Abi Muslim al-Kharasani, Abu Muhammad al-Ramli",
+            "original_id": "4946",
+            "kunya": "Abu Muhammad",
+            "nisba": "al-Kharasani",
+            "nisba_ar": "الخراساني",
+            "death_year": "unknown",
+            "birth_year": "unknown",
+            "reliability_grade": "Majhul al-Hal",
+            "tabaqat": "Second Century",
+            "location": "Khorasan",
+            "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+          },
+          {
+            "name": "Ahmad ibn al-Nadhr",
+            "full_name": "Ahmad ibn al-Nadhr ibn Abd al-Wahhab",
+            "grade": "Thiqah",
+            "generation": "Second Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 1336,
+            "alternative_names": "Ahmad ibn al-Nadhr al-Nisaburi, Abu al-Fadhl al-Nisaburi",
+            "original_id": "425",
+            "kunya": "Abu al-Fadhl",
+            "nisba": "al-Nisaburi",
+            "nisba_ar": "النيسابوري",
+            "death_year": "unknown",
+            "birth_year": "unknown",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "Second Century",
+            "location": "Nishapur",
+            "transmissionTermMeaning": "From (ambiguous)"
+          },
+          {
+            "name": "Abdullah ibn Ubayd",
+            "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+            "grade": "Majhul al-Hal",
+            "generation": "Second Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_hal", "weak_documentation"],
+            "narrator_id": 5722,
+            "alternative_names": "Abu Hashim al-Makki",
+            "original_id": "4929",
+            "kunya": "Abu Hashim",
+            "nisba": "al-Laithi",
+            "nisba_ar": "الليثي",
+            "death_year": "unknown",
+            "birth_year": "unknown",
+            "reliability_grade": "Majhul al-Hal",
+            "tabaqat": "Second Century",
+            "location": "Makkah",
+            "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+          },
+          {
+            "name": "Ali",
+            "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+            "grade": "Thiqah Thabt",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Ali ibn Abi Talib, Commander of the Faithful",
+            "original_id": 0,
+            "kunya": "Abu al-Hasan",
+            "nisba": "al-Hashimi al-Qurashi",
+            "nisba_ar": "الهاشمي القرشي",
+            "death_year": "40",
+            "birth_year": "23 BH",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "Companion",
+            "location": "Madinah/Kufa",
+            "transmissionTermMeaning": "He said (direct narration)"
+          },
+          {
+            "name": "Prophet Muhammad ﷺ",
+            "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+            "grade": "Awthaq al-Nas",
+            "generation": "Prophet",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+            "original_id": 0,
+            "kunya": "Abu al-Qasim",
+            "nisba": "al-Hashimi al-Qurashi",
+            "nisba_ar": "الهاشمي القرشي",
+            "death_year": "11",
+            "birth_year": "53 BH",
+            "reliability_grade": "Awthaq al-Nas",
+            "tabaqat": "Prophet",
+            "location": "Makkah/Madinah",
+            "transmissionTermMeaning": "He said (direct speech)"
+          }
+        ],
+        "chainIssues": [
+          "Multiple majhul narrators: Abdullah ibn Uthman al-Kharasani and Abdullah ibn Ubayd al-Laithi both have majhul al-hal status",
+          "Multiple uses of 'an (عَنْ) transmission suggesting possible indirect transmission",
+          "Ahmad ibn al-Nadhr is reliable but flanked by two majhul narrators which compromises chain reliability",
+          "No documented evidence of direct meeting or transmission between narrators"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Abdullah ibn Uthman al-Kharasani has majhul al-hal status as first narrator",
+        "impact": "As the primary transmitter, his unknown reliability is a critical weakness in the isnad"
+      },
+      {
+        "issue": "Abdullah ibn Ubayd al-Laithi has majhul al-hal status",
+        "impact": "His inclusion in the chain compounds reliability concerns given his obscure background"
+      },
+      {
+        "issue": "Multiple ambiguous transmission terms (عَنْ)",
+        "impact": "The chain structure suggests potential gaps in the transmission, particularly concerning with majhul narrators"
+      },
+      {
+        "issue": "Hadith concerns exemption from liability",
+        "impact": "This is an important legal ruling that requires strong documentation to establish its authenticity"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Questionable But Might Be Acceptable",
+    "Topics": [
+      "Exemption from liability for mines and mining accidents",
+      "Exemption from liability for well-related deaths and injuries",
+      "Exemption from liability for escaped animals causing harm",
+      "Conditions and limitations of personal liability"
+    ]
+  },
+  {
+    "hadith_id": 3788,
+    "book_id": 4,
+    "book_name_ar": "كتاب غير معروف",
+    "book_name_en": "Unknown Book",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "682",
+    "english_translation": "Narrated by Ali: A man bit the hand of another man, and when the bitten man withdrew his hand from the biter's mouth, the biter's teeth fell out, but Ali imposed no liability upon him. He said: Would you leave your hand in his mouth for him to bite it as a male camel bites?",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "Abdullah ibn Ubayd",
+            "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+            "grade": "Majhul al-Hal",
+            "generation": "Second Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_hal", "weak_documentation"],
+            "narrator_id": 5722,
+            "alternative_names": "Abu Hashim al-Makki",
+            "original_id": "4929",
+            "kunya": "Abu Hashim",
+            "nisba": "al-Laithi",
+            "nisba_ar": "الليثي",
+            "death_year": "unknown",
+            "birth_year": "unknown",
+            "reliability_grade": "Majhul al-Hal",
+            "tabaqat": "Second Century",
+            "location": "Makkah",
+            "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+          },
+          {
+            "name": "His father",
+            "full_name": "Unknown father of Abdullah ibn Ubayd al-Laithi",
+            "grade": "Majhul",
+            "generation": "First Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_ayn", "no_identified_narrator"],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "First Century",
+            "location": "",
+            "transmissionTermMeaning": "From (ambiguous)"
+          },
+          {
+            "name": "His grandfather",
+            "full_name": "Unknown grandfather of Abdullah ibn Ubayd al-Laithi",
+            "grade": "Majhul",
+            "generation": "First Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_ayn", "no_identified_narrator"],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "First Century",
+            "location": "",
+            "transmissionTermMeaning": "From (ambiguous)"
+          },
+          {
+            "name": "Ali",
+            "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+            "grade": "Thiqah Thabt",
+            "generation": "Companion",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Ali ibn Abi Talib, Commander of the Faithful",
+            "original_id": 0,
+            "kunya": "Abu al-Hasan",
+            "nisba": "al-Hashimi al-Qurashi",
+            "nisba_ar": "الهاشمي القرشي",
+            "death_year": "40",
+            "birth_year": "23 BH",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "Companion",
+            "location": "Madinah/Kufa",
+            "transmissionTermMeaning": "From (direct transmission from companion)"
+          }
+        ],
+        "chainIssues": [
+          "Disconnected chain: unknown intermediate narrators (father and grandfather) blocking direct transmission",
+          "Multiple layers of ambiguous 'an (عَنْ) transmission",
+          "Chain integrity severely compromised by unidentified narrators",
+          "Narration represents legal judgment of Ali, not accompanied by explicit statement indicators"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Unknown intermediate narrators in the chain",
+        "impact": "The father and grandfather cannot be identified, creating a critical gap in the chain"
+      },
+      {
+        "issue": "Abdullah ibn Ubayd al-Laithi has majhul al-hal status",
+        "impact": "His unknown reliability as the primary narrator significantly weakens the transmission"
+      },
+      {
+        "issue": "Multiple ambiguous transmission terms (عَنْ)",
+        "impact": "Use of 'an throughout suggests possible indirect transmission paths through unknown intermediaries"
+      },
+      {
+        "issue": "Mawquf (stopped) hadith",
+        "impact": "This is Ali's judgment, not attributed to the Prophet ﷺ"
+      },
+      {
+        "issue": "Incident-based evidence for legal ruling",
+        "impact": "The ruling is based on a specific incident which requires strong documentation"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Disconnections But All Narrators Are Ok",
+    "Topics": [
+      "Incident of a man biting another's hand",
+      "Ali's judgment on liability for self-defense injuries",
+      "Principle of no liability for defensive actions"
+    ]
+  },
+  {
+    "hadith_id": 3789,
+    "book_id": 4,
+    "book_name_ar": "كتاب غير معروف",
+    "book_name_en": "Unknown Book",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "683",
+    "english_translation": "Narrated by Ali: He said: For the tongue of the mute person, and the leg of the lame person, and the sexual member of the castrated person and the impotent person, the judgment is at the discretion of the judge.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "Abdullah ibn Ubayd",
+            "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+            "grade": "Majhul al-Hal",
+            "generation": "Second Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_hal", "weak_documentation"],
+            "narrator_id": 5722,
+            "alternative_names": "Abu Hashim al-Makki",
+            "original_id": "4929",
+            "kunya": "Abu Hashim",
+            "nisba": "al-Laithi",
+            "nisba_ar": "الليثي",
+            "death_year": "unknown",
+            "birth_year": "unknown",
+            "reliability_grade": "Majhul al-Hal",
+            "tabaqat": "Second Century",
+            "location": "Makkah",
+            "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+          },
+          {
+            "name": "His father",
+            "full_name": "Unknown father of Abdullah ibn Ubayd al-Laithi",
+            "grade": "Majhul",
+            "generation": "First Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_ayn", "no_identified_narrator"],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "First Century",
+            "location": "",
+            "transmissionTermMeaning": "From (ambiguous)"
+          },
+          {
+            "name": "His grandfather",
+            "full_name": "Unknown grandfather of Abdullah ibn Ubayd al-Laithi",
+            "grade": "Majhul",
+            "generation": "First Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_ayn", "no_identified_narrator"],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "First Century",
+            "location": "",
+            "transmissionTermMeaning": "From (ambiguous)"
+          },
+          {
+            "name": "Ali",
+            "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+            "grade": "Thiqah Thabt",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Ali ibn Abi Talib, Commander of the Friendly",
+            "original_id": 0,
+            "kunya": "Abu al-Hasan",
+            "nisba": "al-Hashimi al-Qurashi",
+            "nisba_ar": "الهاشمي القرشي",
+            "death_year": "40",
+            "birth_year": "23 BH",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "Companion",
+            "location": "Madinah/Kufa",
+            "transmissionTermMeaning": "He said (direct narration)"
+          }
+        ],
+        "chainIssues": [
+          "Disconnected chain: unknown intermediate narrators (father and grandfather)",
+          "Multiple layers of ambiguous 'an (عَنْ) transmission with unidentified narrators",
+          "Ali's statement accessed through completely unknown intermediates",
+          "Chain integrity compromised at fundamental level"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Unknown intermediate narrators in the chain",
+        "impact": "The father and grandfather of Abdullah ibn Ubayd cannot be identified, creating critical gaps"
+      },
+      {
+        "issue": "Abdullah ibn Ubayd al-Laithi has majhul al-hal status",
+        "impact": "As the primary narrator, his unknown reliability severely weakens the entire chain"
+      },
+      {
+        "issue": "Multiple ambiguous transmission terms (عَنْ)",
+        "impact": "Repeated use of 'an with unidentified intermediate narrators suggests possible indirect transmission"
+      },
+      {
+        "issue": "Mawquf (stopped) hadith",
+        "impact": "This is Ali's legal opinion, not attributed to the Prophet ﷺ"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Disconnections But All Narrators Are Ok",
+    "Topics": [
+      "Ali's ruling on compensation for tongue of the mute person",
+      "Ali's ruling on compensation for leg of the lame person",
+      "Ali's ruling on compensation for sexual members of castrated or impotent persons",
+      "Judicial discretion in determining damages for non-standard injuries"
+    ]
+  },
+  {
+    "hadith_id": 3790,
+    "book_id": 4,
+    "book_name_ar": "كتاب غير معروف",
+    "book_name_en": "Unknown Book",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "684",
+    "english_translation": "Narrated by Ali: He said: For the injury caused by a slave, the master does not pay more than the slave's value, and the compensation for a slave does not reach the level of compensation for a free person.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "Abdullah ibn Ubayd",
+            "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+            "grade": "Majhul al-Hal",
+            "generation": "Second Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_hal", "weak_documentation"],
+            "narrator_id": 5722,
+            "alternative_names": "Abu Hashim al-Makki",
+            "original_id": "4929",
+            "kunya": "Abu Hashim",
+            "nisba": "al-Laithi",
+            "nisba_ar": "الليثي",
+            "death_year": "unknown",
+            "birth_year": "unknown",
+            "reliability_grade": "Majhul al-Hal",
+            "tabaqat": "Second Century",
+            "location": "Makkah",
+            "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+          },
+          {
+            "name": "His father",
+            "full_name": "Unknown father of Abdullah ibn Ubayd al-Laithi",
+            "grade": "Majhul",
+            "generation": "First Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_ayn", "no_identified_narrator"],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "First Century",
+            "location": "",
+            "transmissionTermMeaning": "From (ambiguous)"
+          },
+          {
+            "name": "His grandfather",
+            "full_name": "Unknown grandfather of Abdullah ibn Ubayd al-Laithi",
+            "grade": "Majhul",
+            "generation": "First Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_ayn", "no_identified_narrator"],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "First Century",
+            "location": "",
+            "transmissionTermMeaning": "From (ambiguous)"
+          },
+          {
+            "name": "Ali",
+            "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+            "grade": "Thiqah Thabt",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Ali ibn Abi Talib, Commander of the Faithful",
+            "original_id": 0,
+            "kunya": "Abu al-Hasan",
+            "nisba": "al-Hashimi al-Qurashi",
+            "nisba_ar": "الهاشمي القرشي",
+            "death_year": "40",
+            "birth_year": "23 BH",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "Companion",
+            "location": "Madinah/Kufa",
+            "transmissionTermMeaning": "He said (direct narration)"
+          }
+        ],
+        "chainIssues": [
+          "Disconnected chain with unknown intermediate narrators",
+          "Multiple ambiguous 'an (عَنْ) transmissions through unidentified narrators",
+          "Chain structurally compromised at multiple points",
+          "Transmission through completely unknown father and grandfather"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Unknown intermediate narrators in the chain",
+        "impact": "The father and grandfather cannot be identified, creating critical gaps in the transmission"
+      },
+      {
+        "issue": "Abdullah ibn Ubayd al-Laithi has majhul al-hal status",
+        "impact": "As the primary narrator, his unknown reliability is a critical weakness"
+      },
+      {
+        "issue": "Multiple ambiguous transmission terms (عَنْ)",
+        "impact": "Chain suggests possible indirect transmission through unidentified intermediaries"
+      },
+      {
+        "issue": "Mawquf (stopped) hadith",
+        "impact": "This is Ali's legal opinion, not attributed to the Prophet ﷺ"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Disconnections But All Narrators Are Ok",
+    "Topics": [
+      "Ali's ruling on master's liability for slave's injuries",
+      "Limitation of compensation for slave injuries to slave's market value",
+      "Principle that slave compensation does not equal free person compensation"
+    ]
+  },
+  {
+    "hadith_id": 3791,
+    "book_id": 4,
+    "book_name_ar": "كتاب غير معروف",
+    "book_name_en": "Unknown Book",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "685",
+    "english_translation": "Narrated by Ali: Regarding a mukatab (slave under contract to purchase his freedom) who killed, he said: He pays proportionally according to what he freed himself from the blood compensation of a free person, and according to what he still owes from his contract the blood compensation of a slave.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "Abdullah ibn Ubayd",
+            "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+            "grade": "Majhul al-Hal",
+            "generation": "Second Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_hal", "weak_documentation"],
+            "narrator_id": 5722,
+            "alternative_names": "Abu Hashim al-Makki",
+            "original_id": "4929",
+            "kunya": "Abu Hashim",
+            "nisba": "al-Laithi",
+            "nisba_ar": "الليثي",
+            "death_year": "unknown",
+            "birth_year": "unknown",
+            "reliability_grade": "Majhul al-Hal",
+            "tabaqat": "Second Century",
+            "location": "Makkah",
+            "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+          },
+          {
+            "name": "His father",
+            "full_name": "Unknown father of Abdullah ibn Ubayd al-Laithi",
+            "grade": "Majhul",
+            "generation": "First Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_ayn", "no_identified_narrator"],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "First Century",
+            "location": "",
+            "transmissionTermMeaning": "From (ambiguous)"
+          },
+          {
+            "name": "His grandfather",
+            "full_name": "Unknown grandfather of Abdullah ibn Ubayd al-Laithi",
+            "grade": "Majhul",
+            "generation": "First Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_ayn", "no_identified_narrator"],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "First Century",
+            "location": "",
+            "transmissionTermMeaning": "From (ambiguous)"
+          },
+          {
+            "name": "Ali",
+            "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+            "grade": "Thiqah Thabt",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Ali ibn Abi Talib, Commander of the Faithful",
+            "original_id": 0,
+            "kunya": "Abu al-Hasan",
+            "nisba": "al-Hashimi al-Qurashi",
+            "nisba_ar": "الهاشمي القرشي",
+            "death_year": "40",
+            "birth_year": "23 BH",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "Companion",
+            "location": "Madinah/Kufa",
+            "transmissionTermMeaning": "He said (direct narration)"
+          }
+        ],
+        "chainIssues": [
+          "Disconnected chain with completely unknown intermediate narrators",
+          "Multiple ambiguous 'an (عَنْ) transmissions",
+          "Chain accessed through unidentified father and grandfather",
+          "Structure fundamentally compromised by majhul narrators"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Unknown intermediate narrators in the chain",
+        "impact": "The father and grandfather cannot be identified, creating critical gaps in the transmission"
+      },
+      {
+        "issue": "Abdullah ibn Ubayd al-Laithi has majhul al-hal status",
+        "impact": "As the primary narrator, his unknown reliability severely weakens the entire chain"
+      },
+      {
+        "issue": "Multiple ambiguous transmission terms (عَنْ)",
+        "impact": "Indicates possible indirect transmission through unidentified intermediate narrators"
+      },
+      {
+        "issue": "Mawquf (stopped) hadith",
+        "impact": "This is Ali's legal ruling, not attributed to the Prophet ﷺ"
+      },
+      {
+        "issue": "Complex legal ruling on status-based liability",
+        "impact": "The hadith presents a sophisticated legal principle that requires strong authentication"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Disconnections But All Narrators Are Ok",
+    "Topics": [
+      "Ali's ruling on liability of partially freed slaves",
+      "Proportional blood compensation based on freed status",
+      "Legal status of mukatab in Islamic jurisprudence"
+    ]
+  },
+  {
+    "hadith_id": 3792,
+    "book_id": 4,
+    "book_name_ar": "كتاب غير معروف",
+    "book_name_en": "Unknown Book",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "686",
+    "english_translation": "Narrated by Ali: Regarding a murdered person found in a neighborhood where the killer is unknown, Ali ruled that fifty men from the people of the neighborhood must swear by Allah that they did not kill him and that they do not know his killer, then they must pay the blood compensation.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "Abdullah ibn Ubayd",
+            "full_name": "Abdullah ibn Ubayd ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub ibn Laith ibn Bakr ibn Abd Manat al-Laithi",
+            "grade": "Majhul al-Hal",
+            "generation": "Second Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_hal", "weak_documentation"],
+            "narrator_id": 5722,
+            "alternative_names": "Abu Hashim al-Makki",
+            "original_id": "4929",
+            "kunya": "Abu Hashim",
+            "nisba": "al-Laithi",
+            "nisba_ar": "الليثي",
+            "death_year": "unknown",
+            "birth_year": "unknown",
+            "reliability_grade": "Majhul al-Hal",
+            "tabaqat": "Second Century",
+            "location": "Makkah",
+            "transmissionTermMeaning": "From (ambiguous - could be direct or indirect)"
+          },
+          {
+            "name": "His father",
+            "full_name": "Unknown father of Abdullah ibn Ubayd al-Laithi",
+            "grade": "Majhul",
+            "generation": "First Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_ayn", "no_identified_narrator"],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "First Century",
+            "location": "",
+            "transmissionTermMeaning": "From (ambiguous)"
+          },
+          {
+            "name": "His grandfather",
+            "full_name": "Unknown grandfather of Abdullah ibn Ubayd al-Laithi",
+            "grade": "Majhul",
+            "generation": "First Century",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": ["majhul_ayn", "no_identified_narrator"],
+            "narrator_id": 0,
+            "alternative_names": "",
+            "original_id": 0,
+            "kunya": "",
+            "nisba": "",
+            "nisba_ar": "",
+            "death_year": "",
+            "birth_year": "",
+            "reliability_grade": "Majhul",
+            "tabaqat": "First Century",
+            "location": "",
+            "transmissionTermMeaning": "From (ambiguous)"
+          },
+          {
+            "name": "Ali",
+            "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+            "grade": "Thiqah Thabt",
+            "generation": "Companion",
+            "transmissionTerm": "قَضَى",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Ali ibn Abi Talib, Commander of the Faithful",
+            "original_id": 0,
+            "kunya": "Abu al-Hasan",
+            "nisba": "al-Hashimi al-Qurashi",
+            "nisba_ar": "الهاشمي القرشي",
+            "death_year": "40",
+            "birth_year": "23 BH",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "Companion",
+            "location": "Madinah/Kufa",
+            "transmissionTermMeaning": "He ruled/judged"
+          }
+        ],
+        "chainIssues": [
+          "Disconnected chain with unidentified intermediate narrators",
+          "Multiple ambiguous 'an (عَنْ) transmissions through unknown narrators",
+          "Chain structure fundamentally compromised by majhul narrators",
+          "Transmission of judicial ruling through completely unknown intermediates"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Unknown intermediate narrators in the chain",
+        "impact": "The father and grandfather of Abdullah ibn Ubayd cannot be identified, creating critical gaps"
+      },
+      {
+        "issue": "Abdullah ibn Ubayd al-Laithi has majhul al-hal status",
+        "impact": "As the primary narrator, his unknown reliability is a critical weakness in the chain"
+      },
+      {
+        "issue": "Multiple ambiguous transmission terms (عَنْ)",
+        "impact": "Suggests possible indirect transmission through unidentified intermediate narrators"
+      },
+      {
+        "issue": "Mawquf (stopped) hadith",
+        "impact": "This is Ali's judicial ruling, not attributed to the Prophet ﷺ"
+      },
+      {
+        "issue": "Complex legal procedure requiring strong authentication",
+        "impact": "This ruling on proof and liability in cases of unknown killers requires reliable documentation"
+      }
+    ],
+    "Classical Grade": ["Daif"],
+    "IISGrade": "Disconnections But All Narrators Are Ok",
+    "Topics": [
+      "Incident of a murdered person found in a neighborhood",
+      "Ali's procedure for handling cases of unknown killers",
+      "Collective oaths required from neighborhood residents",
+      "Shared liability for unsolved murders in a neighborhood"
+    ]
+  }
+]
