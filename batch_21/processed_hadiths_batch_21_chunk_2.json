@@ -1,0 +1,194 @@
+{
+  "batch_number": 21,
+  "source_files": [
+    37,
+    38
+  ],
+  "chunk_number": 2,
+  "record_count": 1,
+  "note": "Chunk 2 contains 6 entries, but only hadith 180548 has complete hadith structure with isnad and matn. Other entries are incomplete biographical fragments. Hadith 180548 has been processed with full analysis.",
+  "processed_hadiths": [
+    {
+      "hadith_id": 180548,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1780",
+      "english_translation": "Narrated by Aisha: Ali is the most knowledgeable of the people regarding the Sunnah.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib al-Qurashi (caller/narrator reporting this)",
+              "grade": "Majhul",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ لَنَا",
+              "transmissionTermMeaning": "He said to us (direct informing)",
+              "reliabilityIssues": [
+                "identity uncertain as immediate narrator"
+              ],
+              "narrator_id": 5792,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null
+            },
+            {
+              "name": "Yahya ibn al-Yamani",
+              "full_name": "Yahya ibn al-Yamani (or Yahya ibn Zakariya al-Yamani)",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "transmissionTermMeaning": "He narrated to us (direct narration)",
+              "reliabilityIssues": [],
+              "narrator_id": 8360,
+              "alternative_names": "معلى بن أسد",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": null
+            },
+            {
+              "name": "Sufyan",
+              "full_name": "Sufyan (likely al-Thawri or al-Sulamani)",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially indirect, but from very reliable narrator)",
+              "reliabilityIssues": [],
+              "narrator_id": 3436,
+              "alternative_names": "حوثرة بن الأشرس",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": null
+            },
+            {
+              "name": "Jahdab al-Taymi",
+              "full_name": "Jahdab ibn Ja'ba al-Taymi (or al-Harithi)",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (ambiguous transmission)",
+              "reliabilityIssues": [
+                "weak authentication",
+                "limited reports"
+              ],
+              "narrator_id": 13548,
+              "alternative_names": "حكم بن معبد",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "al-Taymi",
+              "nisba_ar": "التيمي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "6",
+              "location": null
+            },
+            {
+              "name": "Ata' ibn Abi Rabah",
+              "full_name": "Ata' ibn Abi Rabah (freedman of Abdullah ibn Umar)",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "transmissionTermMeaning": "I heard (direct hearing - strongest term)",
+              "reliabilityIssues": [],
+              "narrator_id": 5625,
+              "alternative_names": "عبد الله بن سعد",
+              "original_id": null,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": 114,
+              "birth_year": 27,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Makkah"
+            },
+            {
+              "name": "Aisha bint Abi Bakr",
+              "full_name": "Aisha bint Abu Bakr al-Siddiq (Mother of the Believers)",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "transmissionTermMeaning": "She said (companion statement)",
+              "reliabilityIssues": [],
+              "narrator_id": 4049,
+              "alternative_names": "Mother of the Believers",
+              "original_id": null,
+              "kunya": "Um Abdullah",
+              "nisba": "al-Qurashiyyah",
+              "nisba_ar": "القرشية",
+              "death_year": 58,
+              "birth_year": -8,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah"
+            }
+          ],
+          "chainIssues": [
+            "First narrator (Ali as immediate reporter) has uncertain reliability",
+            "Yahya ibn al-Yamani narrates with explicit hadathana (direct) term",
+            "Sufyan uses 'an from Yahya - ambiguous connection despite Sufyan's reliability",
+            "Jahdab al-Taymi is relatively weak (La Ba'sa Bihi) with 'an transmission",
+            "Ata' uses explicit sami'tu (heard) which strengthens connection from Jahdab",
+            "Transmission to companion Aisha is implied but not explicit",
+            "Multiple reliability gaps in middle of chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator position ambiguous - Ali appears as 'qala lana' (said to us) rather than standard hadith narrator",
+          "impact": "Unclear whether Ali is making the initial report or if there's another layer of transmission not explicitly stated"
+        },
+        {
+          "issue": "Jahdab al-Taymi (La Ba'sa Bihi) narrates with 'an from Sufyan",
+          "impact": "While not explicitly weak (daif), Jahdab's reliability is limited and 'an transmission creates ambiguity"
+        },
+        {
+          "issue": "Multiple chains exist with confusing variants mentioned in editor notes",
+          "impact": "Editor notes indicate uncertainty about relationship between variant chains, suggesting authentication difficulties"
+        },
+        {
+          "issue": "Some alternative chains mentioned as problematic - Ibn Fudail chain involves unknown/weak narrators",
+          "impact": "Presence of weak variant chains suggests core hadith also faces reliability questions"
+        },
+        {
+          "issue": "This is mawquf (statement from companion Aisha) not marfu' (attributed to Prophet)",
+          "impact": "Limits evidential value as it represents Aisha's opinion/knowledge, not necessarily prophetic guidance"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Ali's knowledge and understanding of the Sunnah",
+        "Aisha's assessment of Ali's Islamic scholarship",
+        "Companion evaluation of Ali's jurisprudential expertise"
+      ]
+    }
+  ]
+}

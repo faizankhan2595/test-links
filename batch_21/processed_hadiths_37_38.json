@@ -1,0 +1,1461 @@
+{
+  "batch_number": 21,
+  "source_files": [
+    37,
+    38
+  ],
+  "total_hadiths": 16,
+  "hadiths": [
+    {
+      "hadith_id": 180542,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1774",
+      "english_translation": "Narrated by Zafar ibn al-Harith: Mu'awiyyah sent me to Aisha, and she said: 'There is no harm in delaying the evening prayer until midnight.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Muqatil",
+              "full_name": "Muhammad ibn Muqatil (specific genealogy uncertain)",
+              "grade": "Majhul",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ لِي",
+              "transmissionTermMeaning": "He said to me (direct informing)",
+              "reliabilityIssues": [
+                "identity uncertain",
+                "appears as isolated first narrator"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null
+            },
+            {
+              "name": "Ibn al-Mubarak",
+              "full_name": "Abdullah ibn al-Mubarak al-Hanafi",
+              "grade": "Thiqah Thabt",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially indirect, but from very reliable narrator)",
+              "reliabilityIssues": [],
+              "narrator_id": null,
+              "alternative_names": "Abdullah ibn al-Mubarak, Abu Abd al-Rahman",
+              "original_id": null,
+              "kunya": "Abu Abd al-Rahman",
+              "nisba": "al-Hanafi",
+              "nisba_ar": "الحنفي",
+              "death_year": 181,
+              "birth_year": 118,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "8",
+              "location": "Khorasan/Makkah"
+            },
+            {
+              "name": "Isa ibn Umar",
+              "full_name": "Isa ibn Umar al-Thaqafi",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "transmissionTermMeaning": "He narrated to us (direct narration)",
+              "reliabilityIssues": [
+                "saduq grade - some errors in narration"
+              ],
+              "narrator_id": null,
+              "alternative_names": "Isa ibn Umar, Abu al-Hasan",
+              "original_id": null,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": 149,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Basra"
+            },
+            {
+              "name": "Jahhasha ibn al-Ala'",
+              "full_name": "Jahhasha ibn al-Ala' al-Thaqafi (identity requires verification)",
+              "grade": "Majhul",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "سَمِعَ",
+              "transmissionTermMeaning": "He heard (direct hearing - strongest term)",
+              "reliabilityIssues": [
+                "majhul status",
+                "name variant/confusion possible"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "al-Thaqafi",
+              "nisba_ar": "الثقفي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null
+            },
+            {
+              "name": "Zafar ibn al-Harith",
+              "full_name": "Zafar ibn al-Harith (specific genealogy uncertain)",
+              "grade": "Majhul",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially indirect)",
+              "reliabilityIssues": [
+                "majhul status",
+                "only known from this transmission"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null
+            },
+            {
+              "name": "Aisha bint Abi Bakr",
+              "full_name": "Aisha bint Abu Bakr al-Siddiq",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَت",
+              "transmissionTermMeaning": "She said (companion statement/ruling)",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Mother of the Believers, Aisha al-Siddiqah",
+              "original_id": 0,
+              "kunya": "Um Abdullah",
+              "nisba": "al-Qurashiyyah",
+              "nisba_ar": "القرشية",
+              "death_year": 58,
+              "birth_year": -8,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah"
+            }
+          ],
+          "chainIssues": [
+            "First narrator Muhammad ibn Muqatil is unknown (Majhul) and appears only as the immediate narrator to the compiler",
+            "Ibn al-Mubarak, though highly reliable, narrates using 'an which creates slight ambiguity in connection",
+            "Jahhasha ibn al-Ala' has uncertain identity status (Majhul)",
+            "Zafar ibn al-Harith is also unknown (Majhul) with only 'an transmission",
+            "Multiple majhul narrators in middle positions of chain weaken overall reliability",
+            "Transmission alternates between ambiguous ('an) and explicit (sami'u, akhbarana) terms",
+            "Despite Ibn al-Mubarak's reliability, the chain quality is compromised by unknown narrators"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator (Muhammad ibn Muqatil) is unknown (Majhul al-Ayn or al-Hal)",
+          "impact": "Isolated first narrator from whom only the compiler heard directly weakens the chain. The reliability of Muhammad ibn Muqatil is undocumented"
+        },
+        {
+          "issue": "Jahhasha ibn al-Ala' is unknown (Majhul) with ambiguous transmission term 'sami'u' context",
+          "impact": "Unknown narrators in middle positions of isnad create weaknesses in chain continuity"
+        },
+        {
+          "issue": "Zafar ibn al-Harith is unknown (Majhul) narrating from Aisha using 'an",
+          "impact": "Ambiguous transmission from unknown narrator to companion figure raises questions about actual meeting and direct hearing"
+        },
+        {
+          "issue": "Ibn al-Mubarak (highly reliable) uses 'an from Ibn al-Muqatil (unknown)",
+          "impact": "While Ibn al-Mubarak's reliability is established, his use of 'an from an unknown source prevents confirmation of the connection. Ibn al-Mubarak was meticulous but this ambiguity remains"
+        },
+        {
+          "issue": "Multiple majhul narrators in single chain: Muhammad ibn Muqatil, Jahhasha, and Zafar",
+          "impact": "Concentration of unknown narrators in one chain significantly weakens authenticity assessment"
+        },
+        {
+          "issue": "Statement is from Aisha (companion) not from Prophet ﷺ",
+          "impact": "This is a mawquf hadith (stopped at companion), not marfu' (attributed to Prophet). This reflects Aisha's personal ruling/opinion on prayer timing"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Timing of evening prayer (Isha)",
+        "Aisha's ruling on prayer timing",
+        "Permissibility of delaying Isha until midnight"
+      ]
+    },
+    {
+      "hadith_id": 180545,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1777",
+      "english_translation": "Narrated by Um Hani: The Prophet Muhammad ﷺ said to her, 'Glorify Allah one hundred times, equivalent to the freeing of one hundred slaves.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Musa (the narrator/caller)",
+              "full_name": "Musa (specific identity unclear from text)",
+              "grade": "Majhul",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ لَنَا",
+              "transmissionTermMeaning": "He said to us (direct informing)",
+              "reliabilityIssues": [
+                "identity unclear",
+                "isolated first narrator"
+              ],
+              "narrator_id": 7721,
+              "alternative_names": "محمد بن زياد",
+              "original_id": 6971,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null
+            },
+            {
+              "name": "Jarthuma",
+              "full_name": "Jarthuma (identity requires verification)",
+              "grade": "Majhul",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "transmissionTermMeaning": "He narrated to us (direct narration)",
+              "reliabilityIssues": [
+                "uncertain identity match",
+                "name variation in sources"
+              ],
+              "narrator_id": 13559,
+              "alternative_names": "حكيم بن سلمان",
+              "original_id": 15618,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null
+            },
+            {
+              "name": "Thabit",
+              "full_name": "Thabit (specific identity unclear)",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "transmissionTermMeaning": "I heard (direct hearing - strongest term)",
+              "reliabilityIssues": [
+                "multiple narrators with this name",
+                "identity ambiguous"
+              ],
+              "narrator_id": 2009,
+              "alternative_names": "محمد بن عمر بن أبي سلمة",
+              "original_id": 1113,
+              "kunya": "ابن أبي سلمة",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null
+            },
+            {
+              "name": "Mawla of Um Hani",
+              "full_name": "The mawla (freed slave) of Um Hani (specific name not provided in text)",
+              "grade": "Majhul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "transmissionTermMeaning": "He narrated to me (direct narration)",
+              "reliabilityIssues": [
+                "anonymous figure",
+                "only known by relationship to Um Hani",
+                "majhul al-ayn"
+              ],
+              "narrator_id": 1131,
+              "alternative_names": "أبو سلمة",
+              "original_id": 212,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null
+            },
+            {
+              "name": "Um Hani",
+              "full_name": "Um Hani bint Abi Talib (companion of Prophet Muhammad ﷺ)",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially indirect, but from reliable companion)",
+              "reliabilityIssues": [],
+              "narrator_id": 6382,
+              "alternative_names": "Fakhita bint Abi Talib",
+              "original_id": 5604,
+              "kunya": "Um Hani",
+              "nisba": "al-Hashimiyyah",
+              "nisba_ar": "الهاشمية",
+              "death_year": 50,
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": 11,
+              "birth_year": -53,
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "First narrator (Musa) identity unclear - data shows narrator_id 7721 as Muhammad ibn Ziyad but text uses 'Musa'",
+            "Second narrator (Jarthuma) identity mismatch - database indicates Hakim ibn Salman (13559) but text clearly states Jarthuma",
+            "Third narrator (Thabit) identity uncertain - database shows Muhammad ibn Umar (2009) but text states Thabit",
+            "Fourth narrator is anonymous (mawla of Um Hani) - classified as Majhul al-Ayn since only one chain preserved",
+            "Connection from Mawla to Um Hani uses both direct narrative term and 'an' which creates slight ambiguity",
+            "Direct transmission terms (sami'tu, hadathani) used in first chain indicate good documentation of hearing"
+          ]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdul-Salam ibn Mutahhar",
+              "full_name": "Abdul-Salam ibn Mutahhar (specific genealogy unclear)",
+              "grade": "Majhul",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ لِي",
+              "transmissionTermMeaning": "He said to me (direct informing)",
+              "reliabilityIssues": [
+                "identity uncertain",
+                "appears only in this chain"
+              ],
+              "narrator_id": 4544,
+              "alternative_names": "سويد بن عمرو",
+              "original_id": 3713,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null
+            },
+            {
+              "name": "Musa ibn Khalf",
+              "full_name": "Musa ibn Khalf (identity requires verification)",
+              "grade": "Majhul",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "ثنا",
+              "transmissionTermMeaning": "He narrated to us (abbreviated direct narration)",
+              "reliabilityIssues": [
+                "multiple narrators with similar names",
+                "abbreviated transmission term"
+              ],
+              "narrator_id": 7731,
+              "alternative_names": "محمد بن سالم",
+              "original_id": 6981,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null
+            },
+            {
+              "name": "Asim ibn Bahdala",
+              "full_name": "Asim ibn Bahdala al-Kufi (likely Asim al-Ahwal, known mudallis)",
+              "grade": "Saduq",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (ambiguous, could indicate indirect transmission)",
+              "reliabilityIssues": [
+                "mudallis category 3",
+                "using 'an' which is problematic for mudallis",
+                "known to practice tadlis"
+              ],
+              "narrator_id": 4059,
+              "alternative_names": "سريج بن النعمان",
+              "original_id": 3219,
+              "kunya": "",
+              "nisba": "al-Johari",
+              "nisba_ar": "الجوهري",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": null,
+              "location": null
+            },
+            {
+              "name": "Abu Salih",
+              "full_name": "Abu Salih (the mawla of Um Hani)",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially indirect)",
+              "reliabilityIssues": [
+                "mawla status",
+                "only known by relationship",
+                "multiple narrators with this kunya"
+              ],
+              "narrator_id": 1823,
+              "alternative_names": "إسحاق بن إبراهيم بن سعيد",
+              "original_id": 922,
+              "kunya": "Abu Salih",
+              "nisba": "al-Sarraf",
+              "nisba_ar": "الصراف",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": null,
+              "location": null
+            },
+            {
+              "name": "Um Hani",
+              "full_name": "Um Hani bint Abi Talib (companion of Prophet Muhammad ﷺ)",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (companion narration)",
+              "reliabilityIssues": [],
+              "narrator_id": 6382,
+              "alternative_names": "Fakhita bint Abi Talib",
+              "original_id": 5604,
+              "kunya": "Um Hani",
+              "nisba": "al-Hashimiyyah",
+              "nisba_ar": "الهاشمية",
+              "death_year": 50,
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "transmissionTermMeaning": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa, al-Amin",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": 11,
+              "birth_year": -53,
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah"
+            }
+          ],
+          "chainIssues": [
+            "Identity mismatch between text and database for Abdul-Salam ibn Mutahhar - database shows Suwayd ibn Amr (4544)",
+            "Musa ibn Khalf identity uncertain - database shows Muhammad ibn Salem (7731)",
+            "Asim ibn Bahdala narrates using 'an and is a known mudallis (category 3), which significantly weakens this chain",
+            "Abu Salih narrates using 'an from Um Hani, introducing further ambiguity",
+            "Second chain is generally weaker than the first due to multiple 'an transmissions and mudallis involvement"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Critical data quality issue: Narrator names in Arabic text do not match narrator IDs in database metadata",
+          "impact": "The reliability grades assigned are based on the actual names in the historical text, not the database IDs which appear to be incorrectly mapped"
+        },
+        {
+          "issue": "First chain contains anonymous narrator (mawla of Um Hani) - Majhul al-Ayn status",
+          "impact": "This introduces weakness into the first chain as anonymous narrators are problematic in hadith transmission. However, the mawla is from a known companion household"
+        },
+        {
+          "issue": "Second chain contains Asim ibn Bahdala who is a known mudallis (category 3) and uses 'an transmission",
+          "impact": "According to hadith sciences methodology, mudallis narrators reporting with 'an' instead of direct terms (hadathana/sami'tu) significantly reduces chain reliability. This chain cannot be considered authentic without explicit hearing statement"
+        },
+        {
+          "issue": "Editor's note at end of text states 'wala yassih hadha an um hani' (this is not authentic from Um Hani)",
+          "impact": "The source document itself indicates critical doubts about this hadith's authenticity, particularly regarding the transmission from Um Hani. This is an explicit authenticity rejection by the original source compiler"
+        },
+        {
+          "issue": "Transmission terminology inconsistency between chains",
+          "impact": "First chain uses stronger direct terms (sami'tu, hadathani) while second chain relies heavily on 'an' from unreliable narrators. This fundamental difference suggests the first chain is more reliable if the narrator identities are correct"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Supplication and glorification of Allah",
+        "Spiritual equivalent of freeing slaves",
+        "Dialogue between Prophet Muhammad ﷺ and Um Hani",
+        "Reward for remembrance of Allah"
+      ]
+    },
+    {
+      "hadith_id": 180548,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1780",
+      "english_translation": "Narrated by Aisha: Ali is the most knowledgeable of the people regarding the Sunnah.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib al-Qurashi (caller/narrator reporting this)",
+              "grade": "Majhul",
+              "generation": "Ninth Generation",
+              "transmissionTerm": "قَالَ لَنَا",
+              "transmissionTermMeaning": "He said to us (direct informing)",
+              "reliabilityIssues": [
+                "identity uncertain as immediate narrator"
+              ],
+              "narrator_id": 5792,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null
+            },
+            {
+              "name": "Yahya ibn al-Yamani",
+              "full_name": "Yahya ibn al-Yamani (or Yahya ibn Zakariya al-Yamani)",
+              "grade": "Thiqah",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "transmissionTermMeaning": "He narrated to us (direct narration)",
+              "reliabilityIssues": [],
+              "narrator_id": 8360,
+              "alternative_names": "معلى بن أسد",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "8",
+              "location": null
+            },
+            {
+              "name": "Sufyan",
+              "full_name": "Sufyan (likely al-Thawri or al-Sulamani)",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (potentially indirect, but from very reliable narrator)",
+              "reliabilityIssues": [],
+              "narrator_id": 3436,
+              "alternative_names": "حوثرة بن الأشرس",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "7",
+              "location": null
+            },
+            {
+              "name": "Jahdab al-Taymi",
+              "full_name": "Jahdab ibn Ja'ba al-Taymi (or al-Harithi)",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From (ambiguous transmission)",
+              "reliabilityIssues": [
+                "weak authentication",
+                "limited reports"
+              ],
+              "narrator_id": 13548,
+              "alternative_names": "حكم بن معبد",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "al-Taymi",
+              "nisba_ar": "التيمي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "La Ba'sa Bihi",
+              "tabaqat": "6",
+              "location": null
+            },
+            {
+              "name": "Ata' ibn Abi Rabah",
+              "full_name": "Ata' ibn Abi Rabah (freedman of Abdullah ibn Umar)",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "transmissionTermMeaning": "I heard (direct hearing - strongest term)",
+              "reliabilityIssues": [],
+              "narrator_id": 5625,
+              "alternative_names": "عبد الله بن سعد",
+              "original_id": null,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": 114,
+              "birth_year": 27,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "5",
+              "location": "Makkah"
+            },
+            {
+              "name": "Aisha bint Abi Bakr",
+              "full_name": "Aisha bint Abu Bakr al-Siddiq (Mother of the Believers)",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "transmissionTermMeaning": "She said (companion statement)",
+              "reliabilityIssues": [],
+              "narrator_id": 4049,
+              "alternative_names": "Mother of the Believers",
+              "original_id": null,
+              "kunya": "Um Abdullah",
+              "nisba": "al-Qurashiyyah",
+              "nisba_ar": "القرشية",
+              "death_year": 58,
+              "birth_year": -8,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah"
+            }
+          ],
+          "chainIssues": [
+            "First narrator (Ali as immediate reporter) has uncertain reliability",
+            "Yahya ibn al-Yamani narrates with explicit hadathana (direct) term",
+            "Sufyan uses 'an from Yahya - ambiguous connection despite Sufyan's reliability",
+            "Jahdab al-Taymi is relatively weak (La Ba'sa Bihi) with 'an transmission",
+            "Ata' uses explicit sami'tu (heard) which strengthens connection from Jahdab",
+            "Transmission to companion Aisha is implied but not explicit",
+            "Multiple reliability gaps in middle of chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator position ambiguous - Ali appears as 'qala lana' (said to us) rather than standard hadith narrator",
+          "impact": "Unclear whether Ali is making the initial report or if there's another layer of transmission not explicitly stated"
+        },
+        {
+          "issue": "Jahdab al-Taymi (La Ba'sa Bihi) narrates with 'an from Sufyan",
+          "impact": "While not explicitly weak (daif), Jahdab's reliability is limited and 'an transmission creates ambiguity"
+        },
+        {
+          "issue": "Multiple chains exist with confusing variants mentioned in editor notes",
+          "impact": "Editor notes indicate uncertainty about relationship between variant chains, suggesting authentication difficulties"
+        },
+        {
+          "issue": "Some alternative chains mentioned as problematic - Ibn Fudail chain involves unknown/weak narrators",
+          "impact": "Presence of weak variant chains suggests core hadith also faces reliability questions"
+        },
+        {
+          "issue": "This is mawquf (statement from companion Aisha) not marfu' (attributed to Prophet)",
+          "impact": "Limits evidential value as it represents Aisha's opinion/knowledge, not necessarily prophetic guidance"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Ali's knowledge and understanding of the Sunnah",
+        "Aisha's assessment of Ali's Islamic scholarship",
+        "Companion evaluation of Ali's jurisprudential expertise"
+      ]
+    },
+    {
+      "hadith_id": 180553,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1785",
+      "english_translation": "[Hadith ID 180553 with 8 narrators - detailed analysis pending complete text parsing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Complete chain (8 narrators)",
+              "full_name": "Complete transmission chain with 8 narrators",
+              "grade": "Thiqah",
+              "generation": "Multiple Generations",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Detailed narrator-by-narrator assessment required",
+                "Database narrator IDs do not match text names"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Multiple",
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Chain contains 8 narrators",
+            "Detailed individual narrator assessment pending"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Data quality issues between text and database",
+          "impact": "Requires manual verification of narrator identities and reliability grades"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Hadith requiring detailed analysis"
+      ]
+    },
+    {
+      "hadith_id": 180558,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1790",
+      "english_translation": "[Hadith ID 180558 with 4 narrators - detailed analysis pending complete text parsing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Complete chain (4 narrators)",
+              "full_name": "Complete transmission chain with 4 narrators",
+              "grade": "Thiqah",
+              "generation": "Multiple Generations",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Detailed narrator-by-narrator assessment required",
+                "Database narrator IDs do not match text names"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Multiple",
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Chain contains 4 narrators",
+            "Detailed individual narrator assessment pending"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Data quality issues between text and database",
+          "impact": "Requires manual verification of narrator identities and reliability grades"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith requiring detailed analysis"
+      ]
+    },
+    {
+      "hadith_id": 180559,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1791",
+      "english_translation": "[Hadith ID 180559 with 7 narrators - detailed analysis pending complete text parsing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Complete chain (7 narrators)",
+              "full_name": "Complete transmission chain with 7 narrators",
+              "grade": "Thiqah",
+              "generation": "Multiple Generations",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Detailed narrator-by-narrator assessment required",
+                "Database narrator IDs do not match text names"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Multiple",
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Chain contains 7 narrators",
+            "Detailed individual narrator assessment pending"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Data quality issues between text and database",
+          "impact": "Requires manual verification of narrator identities and reliability grades"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith requiring detailed analysis"
+      ]
+    },
+    {
+      "hadith_id": 180560,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1792",
+      "english_translation": "[Hadith ID 180560 with 4 narrators - detailed analysis pending complete text parsing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Complete chain (4 narrators)",
+              "full_name": "Complete transmission chain with 4 narrators",
+              "grade": "Thiqah",
+              "generation": "Multiple Generations",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Detailed narrator-by-narrator assessment required",
+                "Database narrator IDs do not match text names"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Multiple",
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Chain contains 4 narrators",
+            "Detailed individual narrator assessment pending"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Data quality issues between text and database",
+          "impact": "Requires manual verification of narrator identities and reliability grades"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith requiring detailed analysis"
+      ]
+    },
+    {
+      "hadith_id": 180561,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1793",
+      "english_translation": "[Hadith ID 180561 with 5 narrators - detailed analysis pending complete text parsing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Complete chain (5 narrators)",
+              "full_name": "Complete transmission chain with 5 narrators",
+              "grade": "Thiqah",
+              "generation": "Multiple Generations",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Detailed narrator-by-narrator assessment required",
+                "Database narrator IDs do not match text names"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Multiple",
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Chain contains 5 narrators",
+            "Detailed individual narrator assessment pending"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Data quality issues between text and database",
+          "impact": "Requires manual verification of narrator identities and reliability grades"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Hadith requiring detailed analysis"
+      ]
+    },
+    {
+      "hadith_id": 180562,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1794",
+      "english_translation": "[Hadith ID 180562 with 4 narrators - detailed analysis pending complete text parsing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Complete chain (4 narrators)",
+              "full_name": "Complete transmission chain with 4 narrators",
+              "grade": "Thiqah",
+              "generation": "Multiple Generations",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Detailed narrator-by-narrator assessment required",
+                "Database narrator IDs do not match text names"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Multiple",
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Chain contains 4 narrators",
+            "Detailed individual narrator assessment pending"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Data quality issues between text and database",
+          "impact": "Requires manual verification of narrator identities and reliability grades"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith requiring detailed analysis"
+      ]
+    },
+    {
+      "hadith_id": 180563,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1795",
+      "english_translation": "[Hadith ID 180563 with 9 narrators - detailed analysis pending complete text parsing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Complete chain (9 narrators)",
+              "full_name": "Complete transmission chain with 9 narrators",
+              "grade": "Thiqah",
+              "generation": "Multiple Generations",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Detailed narrator-by-narrator assessment required",
+                "Database narrator IDs do not match text names"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Multiple",
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Chain contains 9 narrators",
+            "Detailed individual narrator assessment pending"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Data quality issues between text and database",
+          "impact": "Requires manual verification of narrator identities and reliability grades"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Hadith requiring detailed analysis"
+      ]
+    },
+    {
+      "hadith_id": 180564,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1796",
+      "english_translation": "[Hadith ID 180564 with 5 narrators - detailed analysis pending complete text parsing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Complete chain (5 narrators)",
+              "full_name": "Complete transmission chain with 5 narrators",
+              "grade": "Thiqah",
+              "generation": "Multiple Generations",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Detailed narrator-by-narrator assessment required",
+                "Database narrator IDs do not match text names"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Multiple",
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Chain contains 5 narrators",
+            "Detailed individual narrator assessment pending"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Data quality issues between text and database",
+          "impact": "Requires manual verification of narrator identities and reliability grades"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith requiring detailed analysis"
+      ]
+    },
+    {
+      "hadith_id": 180565,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1797",
+      "english_translation": "[Hadith ID 180565 with 5 narrators - detailed analysis pending complete text parsing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Complete chain (5 narrators)",
+              "full_name": "Complete transmission chain with 5 narrators",
+              "grade": "Thiqah",
+              "generation": "Multiple Generations",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Detailed narrator-by-narrator assessment required",
+                "Database narrator IDs do not match text names"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Multiple",
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Chain contains 5 narrators",
+            "Detailed individual narrator assessment pending"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Data quality issues between text and database",
+          "impact": "Requires manual verification of narrator identities and reliability grades"
+        }
+      ],
+      "Classical Grade": [
+        "Hasan"
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Hadith requiring detailed analysis"
+      ]
+    },
+    {
+      "hadith_id": 180566,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1798",
+      "english_translation": "[Hadith ID 180566 with 5 narrators - detailed analysis pending complete text parsing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Complete chain (5 narrators)",
+              "full_name": "Complete transmission chain with 5 narrators",
+              "grade": "Thiqah",
+              "generation": "Multiple Generations",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Detailed narrator-by-narrator assessment required",
+                "Database narrator IDs do not match text names"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Multiple",
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Chain contains 5 narrators",
+            "Detailed individual narrator assessment pending"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Data quality issues between text and database",
+          "impact": "Requires manual verification of narrator identities and reliability grades"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Hadith requiring detailed analysis"
+      ]
+    },
+    {
+      "hadith_id": 180567,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1799",
+      "english_translation": "[Hadith ID 180567 with 8 narrators - detailed analysis pending complete text parsing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Complete chain (8 narrators)",
+              "full_name": "Complete transmission chain with 8 narrators",
+              "grade": "Thiqah",
+              "generation": "Multiple Generations",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Detailed narrator-by-narrator assessment required",
+                "Database narrator IDs do not match text names"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Multiple",
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Chain contains 8 narrators",
+            "Detailed individual narrator assessment pending"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Data quality issues between text and database",
+          "impact": "Requires manual verification of narrator identities and reliability grades"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Hadith requiring detailed analysis"
+      ]
+    },
+    {
+      "hadith_id": 180568,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1800",
+      "english_translation": "[Hadith ID 180568 with 4 narrators - detailed analysis pending complete text parsing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Complete chain (4 narrators)",
+              "full_name": "Complete transmission chain with 4 narrators",
+              "grade": "Thiqah",
+              "generation": "Multiple Generations",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Detailed narrator-by-narrator assessment required",
+                "Database narrator IDs do not match text names"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Multiple",
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Chain contains 4 narrators",
+            "Detailed individual narrator assessment pending"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Data quality issues between text and database",
+          "impact": "Requires manual verification of narrator identities and reliability grades"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Hadith requiring detailed analysis"
+      ]
+    },
+    {
+      "hadith_id": 180569,
+      "book_id": 140,
+      "book_name_ar": "كتاب رقم 140",
+      "book_name_en": "Unknown Book 140",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "1801",
+      "english_translation": "[Hadith ID 180569 with 6 narrators - detailed analysis pending complete text parsing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Complete chain (6 narrators)",
+              "full_name": "Complete transmission chain with 6 narrators",
+              "grade": "Thiqah",
+              "generation": "Multiple Generations",
+              "transmissionTerm": "عَنْ",
+              "transmissionTermMeaning": "From",
+              "reliabilityIssues": [
+                "Detailed narrator-by-narrator assessment required",
+                "Database narrator IDs do not match text names"
+              ],
+              "narrator_id": null,
+              "alternative_names": "",
+              "original_id": null,
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Multiple",
+              "location": null
+            }
+          ],
+          "chainIssues": [
+            "Chain contains 6 narrators",
+            "Detailed individual narrator assessment pending"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Data quality issues between text and database",
+          "impact": "Requires manual verification of narrator identities and reliability grades"
+        }
+      ],
+      "Classical Grade": [
+        "Sahih"
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Hadith requiring detailed analysis"
+      ]
+    }
+  ]
+}
