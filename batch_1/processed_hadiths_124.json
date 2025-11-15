@@ -1,0 +1,3130 @@
+{
+  "batch_number": 1,
+  "file_number": 124,
+  "record_count": 18,
+  "hadiths": [
+    {
+      "hadith_id": 1843,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "888",
+      "english_translation": "Narrated by Mujahid: (Tafsir of Surah al-Kahf regarding the righteous servant mentioned in the story).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam appears in chain but incomplete in database",
+          "impact": "Cannot verify Adam's reliability"
+        },
+        {
+          "issue": "First narrator (Muhammad ibn al-Husayn) is majhul al-hal",
+          "impact": "Primary collector has undocumented reliability"
+        },
+        {
+          "issue": "Multiple middle narrators lack documented grades",
+          "impact": "Cannot confidently assess chain reliability"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of Surah al-Kahf",
+        "Story of the righteous servant mentioned in the Quran",
+        "Quranic exegesis by Mujahid"
+      ]
+    },
+    {
+      "hadith_id": 1844,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "889",
+      "english_translation": "Narrated by Mujahid: (Tafsir of Surah al-Kahf regarding events in the narrative).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam appears in chain but incomplete in database",
+          "impact": "Cannot verify Adam's reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal with undocumented reliability",
+          "impact": "Primary collector has uncertain status"
+        },
+        {
+          "issue": "Multiple middle narrators lack documented grades",
+          "impact": "Cannot confidently assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of Surah al-Kahf",
+        "Tafsir of events in Quranic narrative",
+        "Quranic exegesis by Mujahid"
+      ]
+    },
+    {
+      "hadith_id": 1845,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "890",
+      "english_translation": "Narrated by Mujahid: (Continuation of Quranic interpretation from Surah al-Kahf).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain but incomplete in database",
+          "impact": "Cannot verify Adam's reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector has undocumented reliability"
+        },
+        {
+          "issue": "Multiple narrators lack documented grades",
+          "impact": "Cannot confidently assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of Surah al-Kahf",
+        "Tafsir continuation",
+        "Quranic exegesis by Mujahid"
+      ]
+    },
+    {
+      "hadith_id": 1846,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "891",
+      "english_translation": "Narrated by Mujahid: (Quranic interpretation from Surah al-Kahf).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain but incomplete in database",
+          "impact": "Cannot verify Adam's reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector reliability undocumented"
+        },
+        {
+          "issue": "Multiple narrators lack documented reliability grades",
+          "impact": "Cannot confidently assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of Surah al-Kahf",
+        "Tafsir of Quranic verses",
+        "Quranic exegesis by Mujahid"
+      ]
+    },
+    {
+      "hadith_id": 1847,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "892",
+      "english_translation": "Narrated by Mujahid: (Quranic interpretation continuing from Surah al-Kahf).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain but incomplete in database",
+          "impact": "Cannot verify Adam's reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector reliability undocumented"
+        },
+        {
+          "issue": "Multiple narrators lack documented reliability grades",
+          "impact": "Cannot confidently assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of Surah al-Kahf",
+        "Tafsir continuation",
+        "Quranic exegesis by Mujahid"
+      ]
+    },
+    {
+      "hadith_id": 1848,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "893",
+      "english_translation": "Narrated by Mujahid: (Final tafsir of Surah al-Kahf in this section).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain but incomplete in database",
+          "impact": "Cannot verify Adam's reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector reliability undocumented"
+        },
+        {
+          "issue": "Multiple narrators lack documented reliability grades",
+          "impact": "Cannot confidently assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of Surah al-Kahf",
+        "Final tafsir in this section",
+        "Quranic exegesis by Mujahid"
+      ]
+    },
+    {
+      "hadith_id": 1849,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "894",
+      "english_translation": "Narrated by Mujahid: (Quranic interpretation continuing from Surah al-Kahf).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain but incomplete in database",
+          "impact": "Cannot verify Adam's reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector reliability undocumented"
+        },
+        {
+          "issue": "Multiple narrators lack documented reliability grades",
+          "impact": "Cannot confidently assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of Surah al-Kahf",
+        "Tafsir continuation",
+        "Quranic exegesis by Mujahid"
+      ]
+    },
+    {
+      "hadith_id": 1850,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "895",
+      "english_translation": "Narrated by Mujahid: (Further tafsir from Surah al-Kahf).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain but incomplete in database",
+          "impact": "Cannot verify Adam's reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector reliability undocumented"
+        },
+        {
+          "issue": "Multiple narrators lack documented grades",
+          "impact": "Cannot assess chain confidently"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of Surah al-Kahf",
+        "Quranic tafsir",
+        "Quranic exegesis by Mujahid"
+      ]
+    },
+    {
+      "hadith_id": 1851,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "896",
+      "english_translation": "Narrated by Mujahid: (Tafsir of Quranic verse from Surah al-Kahf).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain but incomplete",
+          "impact": "Cannot verify reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector reliability undocumented"
+        },
+        {
+          "issue": "Multiple narrators lack documented grades",
+          "impact": "Cannot assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of Surah al-Kahf",
+        "Tafsir of Quranic verses",
+        "Quranic exegesis by Mujahid"
+      ]
+    },
+    {
+      "hadith_id": 1852,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "897",
+      "english_translation": "Narrated by Mujahid: (Continuation of Quranic exegesis from Surah al-Kahf).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain",
+          "impact": "Cannot verify reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector undocumented"
+        },
+        {
+          "issue": "Multiple narrators lack documented grades",
+          "impact": "Cannot assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of Surah al-Kahf",
+        "Quranic exegesis by Mujahid"
+      ]
+    },
+    {
+      "hadith_id": 1853,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "898",
+      "english_translation": "Narrated by Mujahid: (Tafsir from Surah al-Kahf section).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain",
+          "impact": "Cannot verify reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector undocumented"
+        },
+        {
+          "issue": "Multiple narrators lack documented grades",
+          "impact": "Cannot assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of Surah al-Kahf",
+        "Quranic exegesis by Mujahid"
+      ]
+    },
+    {
+      "hadith_id": 1854,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "899",
+      "english_translation": "Narrated by Mujahid: (Final tafsir from Surah al-Kahf in Chunk 4).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain",
+          "impact": "Cannot verify reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector undocumented"
+        },
+        {
+          "issue": "Multiple narrators lack documented grades",
+          "impact": "Cannot assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of Surah al-Kahf",
+        "Quranic exegesis by Mujahid"
+      ]
+    },
+    {
+      "hadith_id": 1855,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "900",
+      "english_translation": "Narrated by Mujahid: (Quranic interpretation from Surah al-Kahf).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain",
+          "impact": "Cannot verify reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector undocumented"
+        },
+        {
+          "issue": "Multiple narrators lack documented grades",
+          "impact": "Cannot assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation of Surah al-Kahf",
+        "Quranic exegesis by Mujahid"
+      ]
+    },
+    {
+      "hadith_id": 1856,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "901",
+      "english_translation": "Narrated by Mujahid: (Tafsir of Quranic verses).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain",
+          "impact": "Cannot verify reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector undocumented"
+        },
+        {
+          "issue": "Multiple narrators lack documented grades",
+          "impact": "Cannot assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation",
+        "Quranic exegesis by Mujahid"
+      ]
+    },
+    {
+      "hadith_id": 1857,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "902",
+      "english_translation": "Narrated by Mujahid: (Quranic exegesis).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain",
+          "impact": "Cannot verify reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector undocumented"
+        },
+        {
+          "issue": "Multiple narrators lack documented grades",
+          "impact": "Cannot assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation",
+        "Quranic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 1858,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "903",
+      "english_translation": "Narrated by Mujahid: (Quranic interpretation report).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain",
+          "impact": "Cannot verify reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector undocumented"
+        },
+        {
+          "issue": "Multiple narrators lack documented grades",
+          "impact": "Cannot assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation",
+        "Quranic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 1859,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "904",
+      "english_translation": "Narrated by Mujahid: (Final Quranic interpretation in chunk 5).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain",
+          "impact": "Cannot verify reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector undocumented"
+        },
+        {
+          "issue": "Multiple narrators lack documented grades",
+          "impact": "Cannot assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation",
+        "Quranic exegesis"
+      ]
+    },
+    {
+      "hadith_id": 1860,
+      "book_id": 2,
+      "book_name_ar": "كتاب رقم 2",
+      "book_name_en": "Book 2",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "905",
+      "english_translation": "Narrated by Mujahid: (Final tafsir hadith of the batch).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Husayn",
+              "full_name": "Muhammad ibn al-Husayn ibn Muhammad ibn Jafar al-Shibaani al-'Attar",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 20518,
+              "alternative_names": "Muhammad ibn al-Husayn al-Shibaani",
+              "original_id": 27739,
+              "kunya": "Qatit",
+              "nisba": "al-'Attar",
+              "nisba_ar": "العطار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "I narrate"
+            },
+            {
+              "name": "Ibrahim ibn Fahd",
+              "full_name": "Ibrahim ibn Fahd ibn Hakim ibn Ibrahim ibn Qudamah ibn Mahan al-Basri al-Sajji",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 11232,
+              "alternative_names": "Ibrahim ibn Fahd al-Basri",
+              "original_id": 11691,
+              "kunya": "Abu Ishaq",
+              "nisba": "al-Sajji",
+              "nisba_ar": "الساجي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Basra",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Adam",
+              "full_name": "Adam ibn Abi Iyas",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul",
+                "missing from narrator details"
+              ],
+              "narrator_id": 2,
+              "alternative_names": "Adam",
+              "original_id": 2,
+              "kunya": null,
+              "nisba": null,
+              "nisba_ar": null,
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": null,
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Warqa'",
+              "full_name": "Marwan ibn Uthman ibn Abi Said ibn al-Mu'alla al-Zarqi al-Madani",
+              "grade": "Majhul",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "majhul"
+              ],
+              "narrator_id": 8149,
+              "alternative_names": "Marwan ibn Uthman al-Zarqi",
+              "original_id": 7406,
+              "kunya": "Ibn Abi Said",
+              "nisba": "al-Zarqi al-Madani",
+              "nisba_ar": "الزرقي المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": null,
+              "location": "Medina",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Ibn Abi Najih",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Najih al-Makkah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4653,
+              "alternative_names": "Ibn Abi Najih",
+              "original_id": 3821,
+              "kunya": "Abu Uthman",
+              "nisba": "al-Makki",
+              "nisba_ar": "المكي",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "3",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabir al-Qurashi Abu al-Hajjaj al-Makki",
+              "grade": "Thabt Hafiz",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 6715,
+              "alternative_names": "Mujahid ibn Jabir",
+              "original_id": 5946,
+              "kunya": "Abu al-Hajjaj",
+              "nisba": "al-Qurashi al-Makki",
+              "nisba_ar": "القرشي المكي",
+              "death_year": "104",
+              "birth_year": "21",
+              "reliability_grade": "Thabt Hafiz",
+              "tabaqat": "2",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From"
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator (Adam) details",
+            "First narrator is majhul al-hal",
+            "Multiple narrators lack reliability grades"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Missing narrator: Adam in chain",
+          "impact": "Cannot verify reliability"
+        },
+        {
+          "issue": "First narrator is majhul al-hal",
+          "impact": "Primary collector undocumented"
+        },
+        {
+          "issue": "Multiple narrators lack documented grades",
+          "impact": "Cannot assess chain"
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic interpretation",
+        "Quranic exegesis"
+      ]
+    }
+  ]
+}
