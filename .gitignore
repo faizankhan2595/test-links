@@ -1,0 +1,25 @@
+# Temporary download files
+file1.json
+file2.json
+
+# Split hadith chunks directory (intermediate processing files)
+split_hadiths/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary processing files
+/tmp/
+*.tmp
+
+# Node modules
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
