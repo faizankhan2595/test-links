@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Temporary download files
+file1.json
+file2.json
+
+# Temporary processing directories
+split_hadiths/
+/tmp/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
