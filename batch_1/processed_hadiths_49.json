@@ -1,0 +1,1038 @@
+{
+  "batch_number": 1,
+  "file_number": 49,
+  "book_id": 1,
+  "book_name_ar": "كتاب رقم 1",
+  "book_name_en": "Book Number 1",
+  "author_name_ar": "مؤلف غير معروف",
+  "author_name_en": "Unknown Author",
+  "total_hadiths": 8,
+  "hadiths": [
+    {
+      "hadith_id": 721,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "721",
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: Travel is a piece of punishment. It prevents one of you from his food, drink, and sleep. When one of you completes his need from a place, let him hasten to his family.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf ibn Hikam",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Late Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": "48826",
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Hadanah",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak ibn Qays",
+              "full_name": "Jarah ibn al-Dahhak ibn Qays al-Kindi al-Khorasani",
+              "grade": "Majhul",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": "1168",
+              "kunya": "",
+              "nisba": "al-Kindi al-Khorasani",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Sulayman ibn Arqam",
+              "full_name": "Sulayman ibn Arqam al-Ansari",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4396,
+              "alternative_names": "Abu Mu'adh al-Basri, Abu Mu'adh",
+              "original_id": "3565",
+              "kunya": "Abu Mu'adh",
+              "nisba": "al-Basri",
+              "nisba_ar": "البصري",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abu Hurayrah al-Dusi",
+              "original_id": "0",
+              "kunya": "Abu Hurayrah",
+              "nisba": "al-Dusi",
+              "nisba_ar": "الدوسي",
+              "death_year": "58",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": "0",
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Jarah ibn al-Dahhak is of unknown status (majhul al-hal) and transmits using 'an (عَنْ) which indicates potential indirect transmission",
+            "Multiple 'an (عَنْ) transmissions in sequence reduce the overall reliability of the chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Jarah ibn al-Dahhak ibn Qays is majhul al-hal (unknown condition)",
+          "impact": "This narrator's reliability is not established, making it difficult to assess whether the 'an (عَنْ) transmission is a reliable direct transmission or potentially indirect. This significantly weakens the chain."
+        },
+        {
+          "issue": "Multiple consecutive 'an (عَنْ) transmissions without explicit hearing terms",
+          "impact": "While Sulayman ibn Arqam is generally reliable, the lack of explicit hearing terms (حَدَّثَنَا or سَمِعْتُ) introduces ambiguity in the transmission method."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Description of travel as hardship",
+        "Effects of travel on physical comfort and sustenance",
+        "Advice to hasten return to family after completing journey"
+      ]
+    },
+    {
+      "hadith_id": 722,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "722",
+      "english_translation": "Narrated by Ibn Umar: Evil omen is in the house, the woman, and the horse.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf ibn Hikam",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Late Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": "48826",
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Hadanah",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak ibn Qays",
+              "full_name": "Jarah ibn al-Dahhak ibn Qays al-Kindi al-Khorasani",
+              "grade": "Majhul",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": "1168",
+              "kunya": "",
+              "nisba": "al-Kindi al-Khorasani",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Abbad ibn Maysarah",
+              "full_name": "Abbad ibn Maysarah al-Minqari al-Basri",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 4967,
+              "alternative_names": "Abbad ibn Maysarah al-Minqari, Abbad ibn Maysarah al-Basri",
+              "original_id": "4149",
+              "kunya": "",
+              "nisba": "al-Mu'allim, al-Mu'addib",
+              "nisba_ar": "المعلم، المؤدب",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abdullah ibn Umar al-Qurashi",
+              "original_id": "0",
+              "kunya": "Abu Abdur-Rahman",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "74",
+              "birth_year": "10",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Makkah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": "0",
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Hadith introduces with 'ballaghani' (بَلَغَنِي عَنِ) which is an extremely weak form of transmission indicating the report reached the narrator through unspecified means",
+            "The text explicitly uses 'ballaghani' which is considered among the weakest transmission terms"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'ballaghani' (بَلَغَنِي) as the primary transmission term",
+          "impact": "This is one of the weakest transmission terms in hadith science, indicating a report that reached the narrator without a clear chain. This significantly compromises the authenticity of the hadith, as there is no documented direct transmission or hearing from the previous narrator."
+        },
+        {
+          "issue": "Jarah ibn al-Dahhak ibn Qays is majhul al-hal",
+          "impact": "The unknown status of this narrator compounds the weakness created by the use of 'ballaghani'."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Superstition regarding omens in houses",
+        "Superstition regarding omens related to women",
+        "Superstition regarding omens related to horses"
+      ]
+    },
+    {
+      "hadith_id": 723,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "723",
+      "english_translation": "Narrated by Ibn Umar: When one of the Jews greets you, he only says to you 'As-sam be upon you' (death be upon you), and As-sam means death. But say to them 'And upon you'. (Second chain:) The Messenger of Allah ﷺ said: Whoever maintains the ties of kinship has maintained ties with me, and whoever cuts the ties of kinship has cut ties with me.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf ibn Hikam",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Late Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": "48826",
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Hadanah",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak ibn Qays",
+              "full_name": "Jarah ibn al-Dahhak ibn Qays al-Kindi al-Khorasani",
+              "grade": "Majhul",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": "1168",
+              "kunya": "",
+              "nisba": "al-Kindi al-Khorasani",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Abbad ibn Maysarah",
+              "full_name": "Abbad ibn Maysarah al-Minqari al-Basri",
+              "grade": "Saduq",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 4967,
+              "alternative_names": "Abbad ibn Maysarah al-Minqari, Abbad ibn Maysarah al-Basri",
+              "original_id": "4149",
+              "kunya": "",
+              "nisba": "al-Mu'allim, al-Mu'addib",
+              "nisba_ar": "المعلم، المؤدب",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Basra",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abdullah ibn Umar al-Qurashi",
+              "original_id": "0",
+              "kunya": "Abu Abdur-Rahman",
+              "nisba": "al-Qurashi",
+              "nisba_ar": "القرشي",
+              "death_year": "74",
+              "birth_year": "10",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Makkah",
+              "transmissionTermMeaning": "Says"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": "0",
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "The hadith contains two narratives: first from Ibn Umar regarding Jewish greeting, second from Prophet ﷺ regarding kinship bonds",
+            "Use of both direct and indirect transmission terms (عَنْ followed by قَالَ) within the same chain"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Jarah ibn al-Dahhak ibn Qays is majhul al-hal (unknown condition)",
+          "impact": "This narrator's reliability status is not established. Using 'an (عَنْ) with an unknown narrator weakens the chain's reliability."
+        },
+        {
+          "issue": "Mixed transmission methodologies - uses both 'an (عَنْ) and qala (قَالَ)",
+          "impact": "The combination of transmission terms, while not necessarily problematic, indicates less direct formulations in the chain."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of Jewish greeting and its implied meaning",
+        "Proper response when greeted by Jews",
+        "Explanation of the term 'as-sam' meaning death",
+        "Maintaining ties of kinship as connection to Prophet Muhammad ﷺ",
+        "Cutting ties of kinship as cutting ties with Prophet Muhammad ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 724,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "724",
+      "english_translation": "Narrated by Ibn Abbas: The Prophet ﷺ said: None shall enter Paradise through his deeds. It was said: Not even you, O Messenger of Allah? He replied: Not even me, except that Allah covers me with His mercy. The commentary states: It means Allah clothes me with His mercy and envelops me with it just as a sword is sheathed in its scabbard.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf ibn Hikam",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Late Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": "48826",
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Hadanah",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak ibn Qays",
+              "full_name": "Jarah ibn al-Dahhak ibn Qays al-Kindi al-Khorasani",
+              "grade": "Majhul",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": "1168",
+              "kunya": "",
+              "nisba": "al-Kindi al-Khorasani",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Asim ibn Rajaa ibn Hayawah",
+              "full_name": "Asim ibn Rajaa ibn Hayawah al-Kindi al-Filastini",
+              "grade": "Da'if",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "weak narrator"
+              ],
+              "narrator_id": 4883,
+              "alternative_names": "Asim ibn Rajaa al-Kindi, Asim ibn Rajaa al-Filastini",
+              "original_id": "4062",
+              "kunya": "",
+              "nisba": "al-Kindi al-Filastini",
+              "nisba_ar": "الكندي الفلسطيني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "7",
+              "location": "Palestine",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abdullah ibn Abbas, Hibr al-Ummah",
+              "original_id": "0",
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Ta'if",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": "0",
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Chain contains Asim ibn Rajaa ibn Hayawah who is classified as weak (daif)",
+            "Multiple 'an (عَنْ/عَنِ) transmissions without explicit hearing terms",
+            "Jarah ibn al-Dahhak is majhul al-hal, adding to the weakness"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Asim ibn Rajaa ibn Hayawah is classified as da'if (weak)",
+          "impact": "The presence of a weak narrator in the chain significantly compromises the overall reliability of the hadith. This is a substantial weakness that affects authenticity."
+        },
+        {
+          "issue": "Jarah ibn al-Dahhak ibn Qays is majhul al-hal",
+          "impact": "Combined with the weakness of Asim ibn Rajaa, this creates multiple reliability issues in the chain."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Entry to Paradise through deeds alone",
+        "Role of Allah's mercy in salvation",
+        "Reliance on divine mercy over personal actions",
+        "Dialogue between companions and Prophet ﷺ regarding salvation"
+      ]
+    },
+    {
+      "hadith_id": 725,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "725",
+      "english_translation": "Narrated by Abu Ubaydah: The Prophet ﷺ said: Whoever claims to be from the people of Paradise is from the people of Hell.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf ibn Hikam",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Late Eighth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": "48826",
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Hadanah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": "0",
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "The hadith is introduced with 'ballaghani anha rasul Allah' (بَلَغَنِي عَنْ رَسُولِ اللَّهِ) which is an extremely weak transmission term",
+            "Direct connection from Muhammad ibn Yusuf to Prophet ﷺ without intermediate narrators from the Companion generation"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'ballaghani' (بَلَغَنِي) as the transmission term",
+          "impact": "This is one of the weakest transmission methods in hadith science. 'Ballaghani' indicates that the report merely reached the narrator through unspecified means without a clear chain of transmission. This essentially creates a gap in the chain (mursal or munqati' defect)."
+        },
+        {
+          "issue": "Apparent gap between Muhammad ibn Yusuf (8th century) and Prophet ﷺ (7th century)",
+          "impact": "The use of 'ballaghani' indicates there is no documented chain connecting this narrator to the Prophet ﷺ, making this a serious disconnection (munqati')."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Prohibition of claiming certainty of Paradise entry",
+        "Warning against arrogance in matters of faith",
+        "Those claiming certainty of salvation belong among the people of Hell"
+      ]
+    },
+    {
+      "hadith_id": 727,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "727",
+      "english_translation": "Narrated by Ibn Abbas: Whoever lies deliberately upon me, let him take his seat in the Fire. This was said regarding Abdullah ibn Abi Ja'dah who came to Thaqif claiming to have a garment from the Prophet ﷺ, asking permission to choose any house he wished. When they gave him permission, he then asked for permission to choose any of their women. They refused, saying their custom with the Prophet ﷺ forbids adultery. They sent a messenger to the Prophet ﷺ who became very angry and ordered two men to kill and burn him. The man left on a rainy night and was bitten by a snake which killed him, and the messengers burned him. This is why the Prophet ﷺ said: Whoever lies upon me, let him take his seat in the Fire.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf ibn Hikam",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Late Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": "48826",
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Hadanah",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak ibn Qays",
+              "full_name": "Jarah ibn al-Dahhak ibn Qays al-Kindi al-Khorasani",
+              "grade": "Majhul",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": "1168",
+              "kunya": "",
+              "nisba": "al-Kindi al-Khorasani",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Asim ibn Rajaa ibn Hayawah",
+              "full_name": "Asim ibn Rajaa ibn Hayawah al-Kindi al-Filastini",
+              "grade": "Da'if",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "weak narrator"
+              ],
+              "narrator_id": 4883,
+              "alternative_names": "Asim ibn Rajaa al-Kindi, Asim ibn Rajaa al-Filastini",
+              "original_id": "4062",
+              "kunya": "",
+              "nisba": "al-Kindi al-Filastini",
+              "nisba_ar": "الكندي الفلسطيني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "7",
+              "location": "Palestine",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abdullah ibn Abbas, Hibr al-Ummah",
+              "original_id": "0",
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Ta'if",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": "0",
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "The chain contains Asim ibn Rajaa ibn Hayawah who is classified as weak (da'if)",
+            "Jarah ibn al-Dahhak is majhul al-hal, making his reliability uncertain",
+            "Multiple 'an (عَنِ) transmissions without explicit hearing terms"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Asim ibn Rajaa ibn Hayawah is classified as da'if (weak)",
+          "impact": "The presence of a weak narrator in the chain significantly compromises reliability. This is a substantial defect."
+        },
+        {
+          "issue": "Jarah ibn al-Dahhak ibn Qays is majhul al-hal (unknown condition)",
+          "impact": "When combined with the weak narrator Asim ibn Rajaa, this creates multiple reliability issues in the chain."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Severe punishment for lying upon Prophet Muhammad ﷺ",
+        "Incident of Abdullah ibn Abi Ja'dah deceiving Thaqif tribe",
+        "Divine protection against fraudsters claiming to represent the Prophet ﷺ",
+        "Death of a liar through a snake bite as divine punishment"
+      ]
+    },
+    {
+      "hadith_id": 729,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "729",
+      "english_translation": "Narrated by Anas ibn Malik: The Messenger of Allah ﷺ was neither excessively tall nor extremely short, not very white nor dark brown, neither having tightly curled hair nor straight hair. Allah sent him at the age of forty, he remained in Makkah for ten years and in Madinah for ten years, and Allah took him while he was sixty years old. There were not twenty white hairs in his head and beard. (Second part:) Aisha, may Allah be pleased with her, was married to the Prophet ﷺ when she was six years old, and he consummated the marriage when she was nine years old. She was the only virgin he married from among his wives. She died after him having lived for forty-eight years. She died during the time of Mu'awiyah in Ramadan of the year fifty-eight. Abu Hurayrah led the prayer over her and she was buried in al-Baqi.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf ibn Hikam",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Late Eighth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": "48826",
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Hadanah",
+              "transmissionTermMeaning": "He narrated to us"
+            },
+            {
+              "name": "Jarah ibn al-Dahhak ibn Qays",
+              "full_name": "Jarah ibn al-Dahhak ibn Qays al-Kindi al-Khorasani",
+              "grade": "Majhul",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": "1168",
+              "kunya": "",
+              "nisba": "al-Kindi al-Khorasani",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Anas ibn Malik al-Ansari, Abu Hamzah",
+              "original_id": "0",
+              "kunya": "Abu Hamzah",
+              "nisba": "al-Ansari",
+              "nisba_ar": "الأنصاري",
+              "death_year": "93",
+              "birth_year": "10 AH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": "0",
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Jarah ibn al-Dahhak is majhul al-hal, making his reliability uncertain",
+            "Use of 'an (عَنْ) for transmission from an unreliable (majhul) narrator"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Jarah ibn al-Dahhak ibn Qays is majhul al-hal (unknown condition)",
+          "impact": "The unknown reliability status of this narrator, combined with the use of 'an (عَنْ) transmission, weakens the chain's credibility. This is a significant reliability concern."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Physical description of Prophet Muhammad ﷺ",
+        "Prophet ﷺ's appearance - height, skin color, and hair texture",
+        "Timeline of Prophet ﷺ's life - age at prophethood and duration in Makkah and Madinah",
+        "Aisha's marriage to the Prophet ﷺ",
+        "Aisha as the only virgin wife of the Prophet ﷺ",
+        "Aisha's life after the Prophet ﷺ and her death",
+        "Biographical information about Prophet ﷺ's life span and white hairs"
+      ]
+    },
+    {
+      "hadith_id": 730,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "730",
+      "english_translation": "Abu Ubaydah said: Hayyan ibn Umarah said: I heard Abdullah ibn Abbas, may Allah be pleased with him, saying in the Sacred Mosque: Jabir ibn Zayd is the most knowledgeable of people concerning divorce. When Jabir ibn Zayd died, the news reached Anas ibn Malik, and he said: The most knowledgeable person on earth has died, or the best of the people of earth has died. Abu Ubaydah (says:) Anas was ill at that time, and both Anas ibn Malik and Jabir ibn Zayd died in the same week in the year ninety-three of the Hijra.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf ibn Hikam",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Late Eighth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": "48826",
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Hadanah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Hayyan ibn Umarah",
+              "full_name": "Hayyan ibn Umarah",
+              "grade": "Majhul",
+              "generation": "Later Generations",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "majhul",
+                "appears only once"
+              ],
+              "narrator_id": 0,
+              "alternative_names": "Hayyan ibn Umarah",
+              "original_id": "0",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": "Later Generations",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Abdullah ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abdullah ibn Abbas, Hibr al-Ummah",
+              "original_id": "0",
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Ta'if",
+              "transmissionTermMeaning": "I heard"
+            }
+          ],
+          "chainIssues": [
+            "This is mawquf (stopped at companion level), not marfu' to the Prophet ﷺ",
+            "Hayyan ibn Umarah is majhul (unknown) - appears only in this single transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Hayyan ibn Umarah is majhul al-ayn (unknown - appears only once)",
+          "impact": "A single unknown transmitter significantly weakens the chain. Hayyan ibn Umarah is only documented in this isolated transmission."
+        },
+        {
+          "issue": "This is a mawquf (stopped at companion level) statement",
+          "impact": "The statement originates from a companion (Ibn Abbas) rather than directly from the Prophet ﷺ, affecting its categorization and prophetic authority."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Praise for Jabir ibn Zayd's knowledge of divorce law",
+        "Death of Jabir ibn Zayd and his scholarly significance",
+        "Death of Anas ibn Malik in the same week as Jabir ibn Zayd",
+        "Scholarly accomplishments of Abdullah ibn Abbas"
+      ]
+    }
+  ]
+}

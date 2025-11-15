@@ -1,0 +1,419 @@
+{
+  "batch_number": 1,
+  "file_number": 50,
+  "book_id": 1,
+  "book_name_ar": "كتاب رقم 1",
+  "book_name_en": "Book Number 1",
+  "author_name_ar": "مؤلف غير معروف",
+  "author_name_en": "Unknown Author",
+  "total_hadiths": 4,
+  "hadiths": [
+    {
+      "hadith_id": 736,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "736",
+      "english_translation": "Narrated by Ibn Abbas: Prayer is valid behind every righteous and sinful person, and pray over every righteous and sinful person.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Jarah ibn al-Dahhak ibn Qays",
+              "full_name": "Jarah ibn al-Dahhak ibn Qays al-Kindi al-Khorasani",
+              "grade": "Majhul",
+              "generation": "Eighth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [
+                "majhul al-hal"
+              ],
+              "narrator_id": 2063,
+              "alternative_names": "al-Jarah ibn al-Dahhak al-Khorasani, Jarah ibn al-Dahhak al-Kindi",
+              "original_id": "1168",
+              "kunya": "",
+              "nisba": "al-Kindi al-Khorasani",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Majhul",
+              "tabaqat": "8",
+              "location": "Khorasan",
+              "transmissionTermMeaning": "I heard"
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Jabir ibn Zayd al-Azdi, Jabir al-Ju'fi",
+              "original_id": "0",
+              "kunya": "Abu al-Sha'tha",
+              "nisba": "al-Azdi al-Basri",
+              "nisba_ar": "الأزدي البصري",
+              "death_year": "93 AH",
+              "birth_year": null,
+              "reliability_grade": "Thiqah",
+              "tabaqat": "2",
+              "location": "Basra",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Abdullah ibn Abbas, Hibr al-Ummah",
+              "original_id": "0",
+              "kunya": "Abu al-Abbas",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "68",
+              "birth_year": "3 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Makkah/Ta'if",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Asim ibn Rajaa ibn Hayawah",
+              "full_name": "Asim ibn Rajaa ibn Hayawah al-Kindi al-Filastini",
+              "grade": "Da'if",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "weak narrator"
+              ],
+              "narrator_id": 4883,
+              "alternative_names": "Asim ibn Rajaa al-Kindi, Asim ibn Rajaa al-Filastini",
+              "original_id": "4062",
+              "kunya": "",
+              "nisba": "al-Kindi al-Filastini",
+              "nisba_ar": "الكندي الفلسطيني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Da'if",
+              "tabaqat": "7",
+              "location": "Palestine",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": "0",
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Jarah ibn al-Dahhak is majhul al-hal at the beginning of the chain",
+            "Asim ibn Rajaa ibn Hayawah is classified as da'if (weak)",
+            "Multiple 'an (عَنِ) transmissions without explicit hearing terms except for the first narrator",
+            "The chain structure appears to include both sequential narrators and may have missing or incomplete transmission information"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Jarah ibn al-Dahhak ibn Qays is majhul al-hal (unknown condition) at the beginning of the chain",
+          "impact": "Having an unknown narrator at the beginning weakens the overall reliability of the isnad. His reliability status is not established."
+        },
+        {
+          "issue": "Asim ibn Rajaa ibn Hayawah is classified as da'if (weak)",
+          "impact": "The presence of a weak narrator in the chain significantly compromises the hadith's authenticity. This is a substantial defect."
+        },
+        {
+          "issue": "Combination of majhul and da'if narrators in the same chain",
+          "impact": "Having both an unknown narrator (majhul) and a weak narrator (da'if) in the same chain creates compounded reliability issues."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Validity of prayer behind pious and sinful leaders",
+        "Prayer validity regardless of leader's moral character",
+        "Prayer over deceased righteous and sinful individuals",
+        "Islamic ruling on prayer conduct in various circumstances"
+      ]
+    },
+    {
+      "hadith_id": 741,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "741",
+      "english_translation": "Narrated by Umar: Obey the Imam even if he strikes you, deprives you, or wrongs you. The Messenger of Allah ﷺ commanded obedience to the emir (leader) even if he was sinful, and ordered prayer over him when he died. How then should it be with others from the people of the Qibla who affirm Allah, His angels, His books, His messengers, and the Last Day? Whoever says otherwise has disbelieved with disbelief short of polytheism.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Nafi",
+              "full_name": "Abdullah ibn Nafi al-Madani",
+              "grade": "Saduq",
+              "generation": "Later Generations",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5913,
+              "alternative_names": "Abdullah ibn Nafi",
+              "original_id": "0",
+              "kunya": "",
+              "nisba": "al-Madani",
+              "nisba_ar": "المدني",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Madinah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn al-Nassa ibn Kilab",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Umar al-Faruq, Amir al-Mu'minin",
+              "original_id": "0",
+              "kunya": "Abu Hafs",
+              "nisba": "al-Qurashi al-Adawi",
+              "nisba_ar": "القرشي العدوي",
+              "death_year": "23 AH",
+              "birth_year": null,
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "This is a mawquf statement, stopped at a companion (Umar) rather than attributed to the Prophet ﷺ",
+            "The chain is very short, consisting of only two narrators separated by generations",
+            "Abdullah ibn Nafi appears to be the sole transmitter from Umar for this statement"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is mawquf (stopped at companion level), not marfu' to the Prophet ﷺ",
+          "impact": "The statement is attributed to Umar (a companion) rather than directly to the Prophet ﷺ, which affects its authority and classification. It should not be considered a prophetic hadith but rather a companion's statement."
+        },
+        {
+          "issue": "Very short chain with significant gap between narrator and Umar",
+          "impact": "Abdullah ibn Nafi is reported as narrating directly from Umar without intermediaries, but this is unusual and may indicate a potential disconnection or missing narrators."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Obligation to obey the leader even if unjust",
+        "Endurance of leadership tyranny and injustice",
+        "Prayer over deceased leaders regardless of their righteousness",
+        "Obedience to leadership in Islam"
+      ]
+    },
+    {
+      "hadith_id": 748,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "748",
+      "english_translation": "Narrated by Ali ibn Abi Talib: When he sent messengers to Mu'awiyah ibn Abi Sufyan, he said: Pray in your dwellings and make your prayer with them a custom, for Allah accepts only from the pious. Hassan al-Basri and Sa'id ibn Jubayr used to pray Jumu'ah in their houses and then go out to the mosque to pray with the governor of Banu Umayyah, and they would make their prayer with him a custom.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid ibn Umayr",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundab ibn Layth ibn Bakr ibn Abd Manah",
+              "grade": "Saduq",
+              "generation": "Later Generations",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 5722,
+              "alternative_names": "Abdullah ibn Ubaid ibn Umayr",
+              "original_id": "0",
+              "kunya": "",
+              "nisba": "",
+              "nisba_ar": "",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "7",
+              "location": "Unknown",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ali al-Murtada, Amir al-Mu'minin",
+              "original_id": "0",
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "40 AH",
+              "birth_year": "23 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "This is a mawquf statement, stopped at a companion (Ali ibn Abi Talib) rather than attributed to the Prophet ﷺ",
+            "The chain is very short with only one transmitter (Abdullah ibn Ubaid) between the collector and the companion",
+            "The text includes commentary about Hassan al-Basri and Sa'id ibn Jubayr's practices rather than direct narration"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is mawquf (stopped at companion level), not marfu' to the Prophet ﷺ",
+          "impact": "The statement is attributed to Ali ibn Abi Talib (a companion) rather than to the Prophet ﷺ. This reduces its authority as a prophetic tradition."
+        },
+        {
+          "issue": "The hadith contains narrative commentary mixing Ali's statement with later scholars' practices",
+          "impact": "The content blends Ali's statement with historical accounts of Hassan al-Basri and Sa'id ibn Jubayr's actions, making it a compound transmission with mixed sources."
+        },
+        {
+          "issue": "Single transmitter (Abdullah ibn Ubaid) from the companion level",
+          "impact": "Having only one narrator from Ali creates a potential issue of isolation, and the reliability of this single transmitter becomes crucial."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Permissibility of praying Jumu'ah at home",
+        "Making one's prayer a custom",
+        "Accepting deeds from the pious only",
+        "Scholars' practices of dual prayer attendance",
+        "Prayer practices during the Umayyad period"
+      ]
+    },
+    {
+      "hadith_id": 750,
+      "book_id": 1,
+      "book_name_ar": "كتاب رقم 1",
+      "book_name_en": "Book Number 1",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "750",
+      "english_translation": "Narrated by Abu Ubaydah: The Messenger of Allah ﷺ said: Do not let fear of people prevent any of you from speaking the truth when you witness it, and from rejecting falsehood when you are able to do so.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Yusuf ibn Hikam",
+              "full_name": "Muhammad ibn Yusuf ibn Hikam al-Hadani",
+              "grade": "Saduq",
+              "generation": "Late Eighth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 31544,
+              "alternative_names": "Abu al-Ala al-Tammar, Abu al-Ala",
+              "original_id": "48826",
+              "kunya": "Abu al-Ala",
+              "nisba": "al-Tammar",
+              "nisba_ar": "التمار",
+              "death_year": null,
+              "birth_year": null,
+              "reliability_grade": "Saduq",
+              "tabaqat": "8",
+              "location": "Hadanah",
+              "transmissionTermMeaning": "He said"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": "0",
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11 AH",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "The hadith is introduced with 'ballaghani' (بَلَغَنِي عَنْ رَسُولِ اللَّهِ) which is the weakest transmission term",
+            "Direct attribution from Muhammad ibn Yusuf to the Prophet ﷺ without any intermediate narrators or companions",
+            "Missing chain between late 8th century narrator and 7th century Prophet"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'ballaghani' (بَلَغَنِي) - the weakest transmission method",
+          "impact": "Ballaghani indicates the report merely reached the narrator through unspecified means without a clear, documented chain. This is one of the most severe defects in hadith transmission."
+        },
+        {
+          "issue": "Apparent chain disconnection between 8th century narrator and 7th century Prophet ﷺ",
+          "impact": "The use of 'ballaghani' with no intermediate narrators creates a clear gap (munqati') in the chain, making this essentially a mursal hadith."
+        },
+        {
+          "issue": "No companion or generation-bridge narrators in the visible chain",
+          "impact": "The chain jumps from Muhammad ibn Yusuf directly to the Prophet ﷺ, which is chronologically impossible and indicates missing crucial transmission links."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Speaking truth despite social pressure",
+        "Overcoming fear of people in religious matters",
+        "Responsibility to speak against falsehood",
+        "Courage in enjoining right and forbidding wrong",
+        "Islamic ethics regarding truthfulness"
+      ]
+    }
+  ]
+}
