@@ -1,0 +1,611 @@
+[
+  {
+    "hadith_id": 6781,
+    "book_id": 14,
+    "book_name_ar": "كتاب رقم 14",
+    "book_name_en": "Book Number 14",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "66",
+    "english_translation": "Narrated by Ibn Umar: Pilgrimage (Hajj) and the lesser pilgrimage (Umrah) are two obligatory duties.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "Muhammad ibn Abdullah ibn Sallam",
+            "full_name": "Muhammad ibn Abdullah ibn Sallam ibn al-Harith al-Ansari",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "حَدَّثَ",
+            "reliabilityIssues": [],
+            "narrator_id": 7863,
+            "alternative_names": "Muhammad ibn Sallam, Ibn Sallam al-Ansari",
+            "original_id": 7114,
+            "kunya": "Abu Abdullah",
+            "nisba": "al-Ansari",
+            "nisba_ar": "الأنصاري",
+            "death_year": "43",
+            "birth_year": "0",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "2",
+            "location": "Madinah",
+            "transmissionTermMeaning": "He narrated"
+          },
+          {
+            "name": "Nafi'",
+            "full_name": "Nafi' ibn Abdullah ibn Umar al-Qurashi al-Madani",
+            "grade": "Thiqah Thabt",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Nafi', Abu Abdullah",
+            "original_id": 0,
+            "kunya": "Abu Abdullah",
+            "nisba": "al-Qurashi",
+            "nisba_ar": "القرشي",
+            "death_year": "117",
+            "birth_year": "50",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "2",
+            "location": "Madinah",
+            "transmissionTermMeaning": "From"
+          },
+          {
+            "name": "Ibn Umar",
+            "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi",
+            "grade": "Thiqah Thabt",
+            "generation": "Companion",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Abdullah ibn Umar, Abu Abdulrahman",
+            "original_id": 0,
+            "kunya": "Abu Abdulrahman",
+            "nisba": "al-Qurashi",
+            "nisba_ar": "القرشي",
+            "death_year": "73",
+            "birth_year": "-10",
+            "reliability_grade": "Thiqah Thabt",
+            "tabaqat": "Companion",
+            "location": "Madinah",
+            "transmissionTermMeaning": "From"
+          }
+        ],
+        "chainIssues": [
+          "Incomplete chain data: narrators_in_isnad field lists different narrators than those referenced in the hadith text",
+          "Potential disconnection in transmission: the word 'anna' (أنَّ) used before Ibn Umar suggests indirect transmission",
+          "Chain stops at companion Ibn Umar without reaching Prophet ﷺ, making this a mawquf hadith"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Chain structure appears corrupted or incomplete in source data",
+        "impact": "The narrators_in_isnad field lists Muhammad ibn Abdullah ibn Sallam and 'Abbad ibn Maysarah, but the hadith text references different narrators (Nafi' and Ibn Umar). This discrepancy makes it difficult to establish the actual transmission chain with certainty."
+      },
+      {
+        "issue": "Use of indirect transmission term before Ibn Umar",
+        "impact": "The term 'anna' (أنَّ) indicates indirect reporting of Ibn Umar's statement. While this is standard for mawquf hadiths, it affects the strength of direct connection."
+      },
+      {
+        "issue": "Chain does not reach the Prophet ﷺ",
+        "impact": "This is classified as mawquf (standing with a companion), which is weaker than marfu' (elevated to the Prophet ﷺ) in terms of applicability as sunnah."
+      },
+      {
+        "issue": "Formatting codes and OCR artifacts in source data",
+        "impact": "The presence of formatting codes (/26, /27, /93, etc.) and narrator reference numbers (L7863, L4967) suggests potential data corruption or incomplete enrichment process."
+      }
+    ],
+    "Classical Grade": [
+      "Hasan"
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Obligation of Pilgrimage (Hajj)",
+      "Obligation of Lesser Pilgrimage (Umrah)",
+      "Statement of Ibn Umar on Hajj and Umrah"
+    ]
+  },
+  {
+    "hadith_id": 6782,
+    "book_id": 14,
+    "book_name_ar": "كتاب رقم 14",
+    "book_name_en": "Book Number 14",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "67",
+    "english_translation": "Narrated by Ibn Mas'ud: Pilgrimage (Hajj) is an obligation, while the lesser pilgrimage (Umrah) is voluntary.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "Haban ibn Zayd",
+            "full_name": "Haban ibn Zayd ash-Shu'aybi al-Shami",
+            "grade": "La Ba'sa Bihi",
+            "generation": "Third Generation",
+            "transmissionTerm": "حَدَّثَ",
+            "reliabilityIssues": [
+              "Weak narrator but acceptable for hadith"
+            ],
+            "narrator_id": 3102,
+            "alternative_names": "Abu Khaddash ash-Shami, Abu Khaddash",
+            "original_id": 2232,
+            "kunya": "Abu Khaddash",
+            "nisba": "ash-Shami",
+            "nisba_ar": "الشامي",
+            "death_year": "120",
+            "birth_year": "50",
+            "reliability_grade": "La Ba'sa Bihi",
+            "tabaqat": "3",
+            "location": "Syria",
+            "transmissionTermMeaning": "He narrated"
+          },
+          {
+            "name": "al-Nakhawi",
+            "full_name": "Ibrahim ibn Yazid al-Nakha'i ad-Dari al-Kufi",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "al-Nakhawi, Ibrahim an-Nakhawi",
+            "original_id": 0,
+            "kunya": "Abu Imran",
+            "nisba": "an-Nakha'i",
+            "nisba_ar": "النخاعي",
+            "death_year": "96",
+            "birth_year": "40",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "2",
+            "location": "Kufah",
+            "transmissionTermMeaning": "From"
+          },
+          {
+            "name": "Ibn Mas'ud",
+            "full_name": "Abdullah ibn Mas'ud ibn Ghafil al-Hamdani al-Kufi",
+            "grade": "Awthaq al-Nas",
+            "generation": "Companion",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [],
+            "narrator_id": 0,
+            "alternative_names": "Abdullah ibn Mas'ud, Abu Abdulrahman",
+            "original_id": 0,
+            "kunya": "Abu Abdulrahman",
+            "nisba": "al-Hamdani",
+            "nisba_ar": "الهمداني",
+            "death_year": "32",
+            "birth_year": "-20",
+            "reliability_grade": "Awthaq al-Nas",
+            "tabaqat": "Companion",
+            "location": "Kufah",
+            "transmissionTermMeaning": "From"
+          }
+        ],
+        "chainIssues": [
+          "Mismatch between narrators_in_isnad (Haban ibn Zayd and Abdul-Rahman ibn Sulaym) and narrators in hadith text (Haban ibn Zayd, al-Nakhawi, Ibn Mas'ud)",
+          "Haban ibn Zayd is not a strong narrator (rated La Ba'sa Bihi), which affects chain strength"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Weak first narrator in the chain",
+        "impact": "Haban ibn Zayd is rated as 'La Ba'sa Bihi' (there is no harm in him), which is below 'Thiqah'. This weakens the overall isnad strength. While not critically weak, it makes the chain lean towards hasan rather than sahih."
+      },
+      {
+        "issue": "Chain structure discrepancy in source data",
+        "impact": "The narrators_in_isnad lists different narrators than those mentioned in the hadith text, suggesting data corruption or incomplete enrichment."
+      },
+      {
+        "issue": "Chain ends with companion Ibn Mas'ud",
+        "impact": "This is a mawquf (standing with a companion) hadith, which is weaker than marfu' in terms of applicability for fiqh rulings."
+      },
+      {
+        "issue": "Ambiguous Quranic reference included",
+        "impact": "The hadith mentions Q. 2:196 regarding the muhsar (one prevented from completing pilgrimage), which provides context but may indicate this is a partial hadith."
+      }
+    ],
+    "Classical Grade": [
+      "Hasan"
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Obligation of Pilgrimage (Hajj)",
+      "Voluntary Status of Lesser Pilgrimage (Umrah)",
+      "Statement of Ibn Mas'ud on Hajj and Umrah",
+      "Quranic verse on the prevented pilgrim"
+    ]
+  },
+  {
+    "hadith_id": 6783,
+    "book_id": 14,
+    "book_name_ar": "كتاب رقم 14",
+    "book_name_en": "Book Number 14",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "68",
+    "english_translation": "Narrated by Qatadah: This is a man who was afflicted with fear from an enemy, or from a barrier that prevented him from pilgrimage. Upon him is to send a sacrificial animal. When the sacrificial animal reaches its destination (al-mahall), he becomes released (from ihram). If he completes pilgrimage from that point, he has fulfilled what was upon him. If he returned and did not complete the pilgrimage from that point, then upon him is Hajj, Umrah, and a sacrificial animal.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "Uqbah ibn Makram",
+            "full_name": "Uqbah ibn Makram ibn Aflah ibn Jarad al-Ummi",
+            "grade": "Saduq",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Lower reliability narrator",
+              "Saduq grade indicates some errors in transmission"
+            ],
+            "narrator_id": 6458,
+            "alternative_names": "Uqbah ibn Makram al-Ummi, Abu Abdulmalik",
+            "original_id": 5683,
+            "kunya": "Abu Abdulmalik",
+            "nisba": "al-Ummi",
+            "nisba_ar": "العمي",
+            "death_year": "120",
+            "birth_year": "60",
+            "reliability_grade": "Saduq",
+            "tabaqat": "3",
+            "location": "Basra",
+            "transmissionTermMeaning": "From"
+          },
+          {
+            "name": "Qatadah",
+            "full_name": "Qatadah ibn Da'amah as-Sadusi al-Basri",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [
+              "Known mudallis (Category 3)",
+              "Uses indirect transmission terms"
+            ],
+            "narrator_id": 0,
+            "alternative_names": "Qatadah, Abu al-Khattab",
+            "original_id": 0,
+            "kunya": "Abu al-Khattab",
+            "nisba": "as-Sadusi",
+            "nisba_ar": "السدوسي",
+            "death_year": "117",
+            "birth_year": "61",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "2",
+            "location": "Basra",
+            "transmissionTermMeaning": "He said"
+          }
+        ],
+        "chainIssues": [
+          "Uqbah ibn Makram is rated Saduq, not Thiqah, which weakens the chain",
+          "Qatadah is a known mudallis (Category 3 tadlis) who used indirect transmission terms",
+          "The transmission from Uqbah to Qatadah uses 'an (عَنْ), which combined with Qatadah's tadlis status, raises concerns about direct transmission",
+          "Incomplete chain: only two narrators listed, missing transmission from Qatadah to earlier narrators"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "First narrator (Uqbah ibn Makram) has Saduq grade, not Thiqah",
+        "impact": "Saduq narrators are considered truthful but may have errors in transmission. This is below the highest standard of reliability and weakens the chain strength. The chain cannot be classified as sahih with such a narrator."
+      },
+      {
+        "issue": "Qatadah is a known Category 3 mudallis",
+        "impact": "Qatadah ibn Da'amah is classified as a mudallis who engaged in tadlis (concealing weakness of narration). While he is also rated Thiqah, the use of indirect transmission term before his report requires careful evaluation. Category 3 tadlis requires direct transmission terms to be acceptable."
+      },
+      {
+        "issue": "Use of 'an (عَنْ) before Qatadah, who is a known mudallis",
+        "impact": "When a known mudallis uses indirect transmission terms, the reliability of the transmission is questionable. This could indicate dropped narrators in the chain."
+      },
+      {
+        "issue": "Incomplete chain structure in source data",
+        "impact": "Only two narrators are provided in narrators_in_isnad, which appears to be an incomplete chain. The statement is attributed to Qatadah but the full chain of transmission is unclear."
+      },
+      {
+        "issue": "Complex legal ruling on muhsar (prevented pilgrim)",
+        "impact": "The hadith contains detailed legal opinions about pilgrimage procedures, which are typically more likely to be affected by later juridical development than simple factual hadiths."
+      }
+    ],
+    "Classical Grade": [
+      "Hasan"
+    ],
+    "IISGrade": "Questionable But Might Be Acceptable",
+    "Topics": [
+      "Ruling on the pilgrim prevented by enemy or barrier",
+      "Sending a sacrificial animal when prevented from pilgrimage",
+      "Release from ihram (consecration) upon animal reaching destination",
+      "Obligation of Hajj and Umrah for the prevented pilgrim"
+    ]
+  },
+  {
+    "hadith_id": 6784,
+    "book_id": 14,
+    "book_name_ar": "كتاب رقم 14",
+    "book_name_en": "Book Number 14",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "69",
+    "english_translation": "Narrated by Qatadah: And this is the tamattu' (combining Hajj and Umrah) which the people did not dispute about and did not doubt.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "Uqbah ibn Makram",
+            "full_name": "Uqbah ibn Makram ibn Aflah ibn Jarad al-Ummi",
+            "grade": "Saduq",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Lower reliability narrator",
+              "Saduq grade indicates possible errors"
+            ],
+            "narrator_id": 6458,
+            "alternative_names": "Uqbah ibn Makram al-Ummi, Abu Abdulmalik",
+            "original_id": 5683,
+            "kunya": "Abu Abdulmalik",
+            "nisba": "al-Ummi",
+            "nisba_ar": "العمي",
+            "death_year": "120",
+            "birth_year": "60",
+            "reliability_grade": "Saduq",
+            "tabaqat": "3",
+            "location": "Basra",
+            "transmissionTermMeaning": "From"
+          },
+          {
+            "name": "Qatadah",
+            "full_name": "Qatadah ibn Da'amah as-Sadusi al-Basri",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [
+              "Known Category 3 mudallis"
+            ],
+            "narrator_id": 0,
+            "alternative_names": "Qatadah, Abu al-Khattab",
+            "original_id": 0,
+            "kunya": "Abu al-Khattab",
+            "nisba": "as-Sadusi",
+            "nisba_ar": "السدوسي",
+            "death_year": "117",
+            "birth_year": "61",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "2",
+            "location": "Basra",
+            "transmissionTermMeaning": "He said"
+          }
+        ],
+        "chainIssues": [
+          "Same chain issues as hadith 6783: Uqbah ibn Makram (Saduq) narrating from Qatadah (known mudallis)",
+          "Qatadah using indirect transmission term combined with his mudallis status"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Weak first narrator (Saduq grade)",
+        "impact": "Uqbah ibn Makram's Saduq rating means the chain cannot be classified as sahih. There may be errors or confusion in transmission."
+      },
+      {
+        "issue": "Known mudallis with indirect transmission term",
+        "impact": "Qatadah is a Category 3 mudallis who often concealed the names of his sources. The use of 'an or other indirect terms with him requires careful evaluation and may indicate dropped narrators."
+      },
+      {
+        "issue": "Short, incomplete chain in source data",
+        "impact": "Only two narrators provided in narrators_in_isnad. The full chain of transmission cannot be verified from the source data."
+      },
+      {
+        "issue": "Fragmented hadith about tamattu'",
+        "impact": "This appears to be part of a longer discussion about tamattu' (combining Hajj and Umrah) based on context from adjacent hadiths. It may be extracted out of its original context."
+      }
+    ],
+    "Classical Grade": [
+      "Hasan"
+    ],
+    "IISGrade": "Questionable But Might Be Acceptable",
+    "Topics": [
+      "Permissibility of Tamattu' (combining Hajj and Umrah)",
+      "Statement of Qatadah on absence of dispute regarding Tamattu'",
+      "Legal consensus on Tamattu' practice"
+    ]
+  },
+  {
+    "hadith_id": 6785,
+    "book_id": 14,
+    "book_name_ar": "كتاب رقم 14",
+    "book_name_en": "Book Number 14",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "70",
+    "english_translation": "Narrated by Qatadah: Upon him is a penalty (expiation) from fasting, or charity, or a ritual sacrifice.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "Uqbah ibn Makram",
+            "full_name": "Uqbah ibn Makram ibn Aflah ibn Jarad al-Ummi",
+            "grade": "Saduq",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Saduq grade - not highest reliability"
+            ],
+            "narrator_id": 6458,
+            "alternative_names": "Uqbah ibn Makram al-Ummi, Abu Abdulmalik",
+            "original_id": 5683,
+            "kunya": "Abu Abdulmalik",
+            "nisba": "al-Ummi",
+            "nisba_ar": "العمي",
+            "death_year": "120",
+            "birth_year": "60",
+            "reliability_grade": "Saduq",
+            "tabaqat": "3",
+            "location": "Basra",
+            "transmissionTermMeaning": "From"
+          },
+          {
+            "name": "Qatadah",
+            "full_name": "Qatadah ibn Da'amah as-Sadusi al-Basri",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [
+              "Known Category 3 mudallis with indirect transmission"
+            ],
+            "narrator_id": 0,
+            "alternative_names": "Qatadah, Abu al-Khattab",
+            "original_id": 0,
+            "kunya": "Abu al-Khattab",
+            "nisba": "as-Sadusi",
+            "nisba_ar": "السدوسي",
+            "death_year": "117",
+            "birth_year": "61",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "2",
+            "location": "Basra",
+            "transmissionTermMeaning": "He said"
+          }
+        ],
+        "chainIssues": [
+          "Identical chain issues to hadiths 6783 and 6784",
+          "Uqbah ibn Makram (Saduq) from Qatadah (known mudallis)",
+          "Pattern of weak first narrator with mudallis second narrator"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "Weak first narrator in chain",
+        "impact": "Uqbah ibn Makram has Saduq grade, which is below Thiqah standard. This consistently weakens all hadiths in this chain."
+      },
+      {
+        "issue": "Known mudallis (Category 3) with indirect transmission",
+        "impact": "Qatadah is known to practice tadlis. Combined with Saduq narrator above him, this makes the chain problematic for establishing sahih-level authenticity."
+      },
+      {
+        "issue": "Incomplete chain in source data",
+        "impact": "Only two narrators listed. Full chain of transmission cannot be verified."
+      },
+      {
+        "issue": "Fragmented ruling on expiation",
+        "impact": "This brief statement about expiation appears to be part of a larger discussion on penalties for pilgrimage violations. Context may be missing."
+      }
+    ],
+    "Classical Grade": [
+      "Hasan"
+    ],
+    "IISGrade": "Questionable But Might Be Acceptable",
+    "Topics": [
+      "Expiation for breaking pillars of Umrah",
+      "Options for expiation: fasting, charity, or ritual sacrifice",
+      "Statement of Qatadah on penalties"
+    ]
+  },
+  {
+    "hadith_id": 6786,
+    "book_id": 14,
+    "book_name_ar": "كتاب رقم 14",
+    "book_name_en": "Book Number 14",
+    "author_name_ar": "مؤلف غير معروف",
+    "author_name_en": "Unknown Author",
+    "hadith_number": "71",
+    "english_translation": "Narrated by Qatadah: He used to say: He should send a sacrificial animal. When the sacrificial animal reaches its destination, he becomes released (from ihram). If he completes (the pilgrimage) from that point, he has fulfilled what was upon him. If he returns and performs Hajj as tamattu', (combining it with a previous Umrah). He said: And this is the tamattu' which the people do not dispute about. (Regarding the inquiry about) the muhrim (one in ihram) needing a shirt, perfume, and shaving of the head.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "Uqbah ibn Makram",
+            "full_name": "Uqbah ibn Makram ibn Aflah ibn Jarad al-Ummi",
+            "grade": "Saduq",
+            "generation": "Third Generation",
+            "transmissionTerm": "كَانَ",
+            "reliabilityIssues": [
+              "Saduq grade"
+            ],
+            "narrator_id": 6458,
+            "alternative_names": "Uqbah ibn Makram al-Ummi, Abu Abdulmalik",
+            "original_id": 5683,
+            "kunya": "Abu Abdulmalik",
+            "nisba": "al-Ummi",
+            "nisba_ar": "العمي",
+            "death_year": "120",
+            "birth_year": "60",
+            "reliability_grade": "Saduq",
+            "tabaqat": "3",
+            "location": "Basra",
+            "transmissionTermMeaning": "He used to"
+          },
+          {
+            "name": "Qatadah",
+            "full_name": "Qatadah ibn Da'amah as-Sadusi al-Basri",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "يَقُولُ",
+            "reliabilityIssues": [
+              "Known Category 3 mudallis"
+            ],
+            "narrator_id": 0,
+            "alternative_names": "Qatadah, Abu al-Khattab",
+            "original_id": 0,
+            "kunya": "Abu al-Khattab",
+            "nisba": "as-Sadusi",
+            "nisba_ar": "السدوسي",
+            "death_year": "117",
+            "birth_year": "61",
+            "reliability_grade": "Thiqah",
+            "tabaqat": "2",
+            "location": "Basra",
+            "transmissionTermMeaning": "He says (habitually)"
+          }
+        ],
+        "chainIssues": [
+          "Same weak chain: Uqbah ibn Makram (Saduq) narrating from Qatadah (mudallis)",
+          "Transmission term 'kana yaqul' (he used to say) indicates habitual speech rather than attributed hadith",
+          "Qatadah's mudallis status with indirect transmission term"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "First narrator is Saduq, not Thiqah",
+        "impact": "Uqbah ibn Makram's lower reliability grade (Saduq) means the chain cannot achieve sahih-level authentication. This is a consistent pattern across hadiths 6783-6786."
+      },
+      {
+        "issue": "Known mudallis (Category 3) with indirect transmission",
+        "impact": "Qatadah ibn Da'amah is a classified mudallis who may have omitted narrators. His statements reported indirectly raise concerns about missing links in the chain."
+      },
+      {
+        "issue": "Habitual statement rather than direct attribution",
+        "impact": "The transmission term 'kana yaqul' (he used to say) suggests this is Qatadah's habitual opinion rather than a directly transmitted hadith. This weakens its authenticity as a source."
+      },
+      {
+        "issue": "Complex legal opinions in a mawquf statement",
+        "impact": "The hadith contains multiple complex legal rulings and conditions, which are more prone to being influenced by later juridical development."
+      },
+      {
+        "issue": "Incomplete chain in source data",
+        "impact": "Only two narrators provided; full transmission chain cannot be verified."
+      },
+      {
+        "issue": "Combination of multiple topics in one narration",
+        "impact": "The hadith jumps between different scenarios (muhsar, tamattu', muhrim), suggesting it may be a compilation of related discussions rather than a unified transmission."
+      }
+    ],
+    "Classical Grade": [
+      "Hasan"
+    ],
+    "IISGrade": "Weak But Might Be Acceptable",
+    "Topics": [
+      "Ruling on pilgrim prevented by obstacle",
+      "Sending sacrificial animal and release from ihram",
+      "Practice of Tamattu' (combining pilgrimages)",
+      "Permissible requirements for one in ihram (shirt, perfume, head shaving)"
+    ]
+  }
+]
