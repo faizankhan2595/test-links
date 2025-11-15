@@ -1,0 +1,2430 @@
+{
+  "batch_number": 1,
+  "source_files": [
+    255,
+    256
+  ],
+  "total_hadiths": 23,
+  "hadiths": [
+    {
+      "hadith_id": 3812,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "706",
+      "english_translation": "Narrated by Ali: The Prophet ﷺ entered Mecca on the day of the conquest, and upon his head was a black turban.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Attaa ibn Abi Muslim al-Khurasani",
+              "grade": "Da'if",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "Da'if narrator",
+                "Known for unreliability"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khurasani",
+              "nisba_ar": "الخراساني",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Da'if",
+              "tabaqat": "7",
+              "location": "Khurasan",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisapuri",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Abu al-Fadl al-Nisapuri",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisapuri",
+              "nisba_ar": "النيسابوري",
+              "death_year": "230",
+              "birth_year": "155",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Limited transmission reports"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Abdullah ibn Uthman is classified as Da'if",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only one narrator above him, indicating Majhul al-Ayn characteristics",
+            "Transmission term 'an (عَنْ) from Abdullah ibn Ubaid to Ali introduces potential disconnection ambiguity"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abdullah ibn Uthman al-Khurasani is classified as Da'if by hadith scholars",
+          "impact": "This significantly weakens the chain as the opening narrator lacks reliability credentials. A Da'if narrator at the start of a chain generally makes the entire hadith weak unless corroborated by stronger chains."
+        },
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with limited transmission reports",
+          "impact": "His reliability is unknown to scholars, which introduces ambiguity into the chain. His position in the middle of the isnad weakens the overall transmission."
+        },
+        {
+          "issue": "Use of 'an (عَنْ) from Abdullah ibn Ubaid to the Companion Ali",
+          "impact": "While Abdullah ibn Ubaid appears to have been a taabi', the use of 'an suggests potential indirectness, though given the time periods this may be acceptable if he directly heard from Ali."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Description of Prophet Muhammad ﷺ appearance on day of conquest of Mecca",
+        "Prophet's ﷺ turban (imamah) description",
+        "Conquest of Mecca (Fath Makkah) incident"
+      ]
+    },
+    {
+      "hadith_id": 3814,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "708",
+      "english_translation": "Narrated by Ali: The Prophet ﷺ used to give away portions (anfal) in the quarter and the fifth and the third, and Ali said: The anfal is only before the division, and there is no anfal after the division. I asked Zayd ibn Ali about the fifth, and he said: It is for us when we are in need of it, but when we become rich, we have no right to it.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Attaa ibn Abi Muslim al-Khurasani",
+              "grade": "Da'if",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "Da'if narrator",
+                "Known for unreliability"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khurasani",
+              "nisba_ar": "الخراساني",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Da'if",
+              "tabaqat": "7",
+              "location": "Khurasan",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisapuri",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Abu al-Fadl al-Nisapuri",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisapuri",
+              "nisba_ar": "النيسابوري",
+              "death_year": "230",
+              "birth_year": "155",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Limited transmission reports"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Abdullah ibn Uthman is classified as Da'if by hadith scholars",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with limited transmission authority",
+            "Use of 'an (عَنْ) from Abdullah ibn Ubaid to Ali suggests potential indirectness"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abdullah ibn Uthman al-Khurasani is Da'if",
+          "impact": "The opening narrator lacks reliability, which significantly weakens the chain. Da'if narrators at the beginning of a chain generally compromise the authenticity unless there are corroborating chains."
+        },
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi (Abu Hashim al-Makki) is Majhul al-Hal",
+          "impact": "His reliability is unknown to the majority of hadith scholars. This introduces ambiguity about his trustworthiness and precision in transmission."
+        },
+        {
+          "issue": "Hadith contains a mixed report with Ali's own statement about the fifth",
+          "impact": "The latter part of the hadith attributes a statement to Ali about Zayd ibn Ali rather than being a direct marfu' statement from the Prophet ﷺ, indicating mawquf elements within the hadith."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Distribution of spoils of war (anfal and khumus)",
+        "Categories of war booty distribution by Prophet ﷺ",
+        "Conditions for the fifth (khumus) distribution",
+        "Ali's discussion on timing of war booty distribution"
+      ]
+    },
+    {
+      "hadith_id": 3815,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "709",
+      "english_translation": "Narrated by Ali: The Prophet ﷺ used to give the apostate three chances to repent, and if he repented, otherwise he would kill him, and would distribute his inheritance among his Muslim heirs.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Limited transmission reports",
+                "Only one narrator above him mentioned"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission above him",
+            "Chain is incomplete - missing the narrator(s) between Abdullah ibn Ubaid and the book collector",
+            "Use of 'an (عَنْ) from Abdullah ibn Ubaid to Ali suggests potential indirectness"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal",
+          "impact": "His reliability and precision in transmission are unknown to scholars. This is the only narrator explicitly mentioned, which means the chain is incomplete and makes verification of direct transmission difficult."
+        },
+        {
+          "issue": "Incomplete chain - missing links from Abdullah ibn Ubaid to the book collector",
+          "impact": "The chain does not include all narrators from the collection to the companion Ali. This represents a potential disconnection (mursal or similar issues)."
+        },
+        {
+          "issue": "Transmission term 'an (عَنْ) from Majhul al-Hal narrator",
+          "impact": "When an unknown narrator uses an ambiguous transmission term, it introduces significant uncertainty about the nature of the transmission (direct vs. indirect)."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Treatment of the apostate (murtadd) according to Islamic law",
+        "Repentance period for apostate from Islam",
+        "Distribution of apostate's inheritance among Muslim heirs",
+        "Punishment of apostasy according to Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 3816,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "710",
+      "english_translation": "Narrated by Ali: When one of the two parents becomes Muslim and the children are small, the children become Muslim by the Islam of whoever became Muslim from the two parents. If the children grow up and both refuse Islam, they are killed. And if the children are already grown and mature, they do not become Muslim by the Islam of the two parents.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Limited transmission reports",
+                "Only one narrator above him mentioned"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission link",
+            "Chain is incomplete - missing narrators between Abdullah ibn Ubaid and the book collector",
+            "Use of 'an (عَنْ) from Majhul al-Hal narrator introduces ambiguity"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission chain",
+          "impact": "His reliability is unknown to scholars, and the single chain of narration indicates weak authentication of his trustworthiness (majhul al-ayn characteristics)."
+        },
+        {
+          "issue": "Incomplete chain structure",
+          "impact": "The provided chain does not include all narrators from the collection author to the companion Ali, suggesting potential mursal or disconnected transmission."
+        },
+        {
+          "issue": "Transmission term 'an (عَنْ) from unknown narrator to companion",
+          "impact": "When a Majhul al-Hal narrator uses 'an with a companion, it creates uncertainty about whether the transmission was direct or indirect, and about whether the narrator actually met or heard from the companion."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Status of children when one parent becomes Muslim",
+        "Rules of Islam for young children of mixed-faith parents",
+        "Requirements for Islam when children reach maturity",
+        "Legal status of children in different age groups regarding faith"
+      ]
+    },
+    {
+      "hadith_id": 3817,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "711",
+      "english_translation": "Narrated by Ali: The Messenger of Allah ﷺ said: If my Ummah did not commit treachery (ghul), no enemy would ever be able to overcome them.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Attaa ibn Abi Muslim al-Khurasani",
+              "grade": "Da'if",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "Da'if narrator",
+                "Known for unreliability"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khurasani",
+              "nisba_ar": "الخراساني",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Da'if",
+              "tabaqat": "7",
+              "location": "Khurasan",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisapuri",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Abu al-Fadl al-Nisapuri",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisapuri",
+              "nisba_ar": "النيسابوري",
+              "death_year": "230",
+              "birth_year": "155",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Limited transmission reports"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Abdullah ibn Uthman is classified as Da'if by hadith scholars",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with weak transmission credentials",
+            "Transmission term 'an (عَنْ) from Abdullah ibn Ubaid to Ali introduces ambiguity about directness of transmission"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abdullah ibn Uthman al-Khurasani is Da'if",
+          "impact": "The opening narrator in this chain is classified as weak by hadith scholars, which significantly undermines the entire chain's reliability. A Da'if narrator at the beginning of an isnad generally makes the hadith weak."
+        },
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal",
+          "impact": "His reliability is unknown to the majority of scholars, creating a significant gap in the chain's credibility."
+        },
+        {
+          "issue": "Hadith contains mixed material - starts with marfu' then includes Ali's interpretation and discussion with Zayd ibn Ali",
+          "impact": "The latter portion (discussion with Zayd ibn Ali) is mawquf rather than marfu', suggesting the source text may conflate different types of reports."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Warning against betrayal and treachery in the Ummah",
+        "Consequence of betrayal and its effect on enemy power",
+        "Strength and weakness of the Muslim Ummah based on conduct",
+        "Conditions for military victory in Islamic law"
+      ]
+    },
+    {
+      "hadith_id": 3819,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "713",
+      "english_translation": "Narrated by Ali: The people of the Qibla are not to be enslaved, and no siege weapons (manjaniq) are to be set up against them, they are not to be prevented from obtaining supplies, food, or drink. If they have a military force (fi'ah), the wounded among them are to be finished off and the fleeing ones are to be pursued. If they do not have a military force, the wounded are not to be finished off and the fleeing ones are not to be pursued. Nothing from their wealth is permissible except what is in their military camp.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Limited transmission reports",
+                "Single narrator indicating potential Majhul al-Ayn status"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (stopped at the Companion), not marfu' to Prophet ﷺ",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission chain",
+            "Complete isnad from collector to Abdullah ibn Ubaid is missing",
+            "Use of 'an (عَنْ) from unknown narrator to companion creates ambiguity"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single reported transmission",
+          "impact": "This indicates he may be majhul al-ayn (completely unknown). Only one link exists to him, making verification of his reliability impossible. The chain is extremely weak at this point."
+        },
+        {
+          "issue": "Report is mawquf (stopped at Companion), not marfu' (attributed to Prophet ﷺ)",
+          "impact": "This is Ali's own statement about the rules of fighting, not a hadith from the Prophet ﷺ. The mawquf status affects the type of evidence this provides but does not automatically make it weak if Ali's ijtihad is valued in Islamic jurisprudence."
+        },
+        {
+          "issue": "Incomplete chain - missing narrators between the collector and Abdullah ibn Ubaid",
+          "impact": "The provided chain does not include all transmitters from the book's original collector to Abdullah ibn Ubaid, suggesting a discontinuity (potentially mursal in form)."
+        },
+        {
+          "issue": "Transmission term 'an (عَنْ) from Majhul al-Hal narrator to Companion",
+          "impact": "This ambiguous term with an unknown narrator creates further uncertainty about the nature and directness of the transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Rules of fighting against rebellious Muslims (baghi)",
+        "Treatment of Muslims in battle according to Islamic law",
+        "Prohibition of enslavement of Muslims",
+        "Use of siege weapons in internal conflicts",
+        "Supply lines and provisions in civil warfare",
+        "Distribution of spoils in internal Islamic conflicts",
+        "Pursuit and finishing wounded in different battle scenarios"
+      ]
+    },
+    {
+      "hadith_id": 3820,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "714",
+      "english_translation": "Narrated by Ali: He did not interfere with what was in the houses of the people of Basra except what belonged to the Muslims' treasury (kharaj bayt mal al-muslimin).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Single transmission chain indicating Majhul al-Ayn characteristics"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (stopped at Companion Ali), not marfu' to Prophet ﷺ",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal",
+            "Only single transmission to Abdullah ibn Ubaid suggesting Majhul al-Ayn status",
+            "Missing narrators between book collector and Abdullah ibn Ubaid"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission chain",
+          "impact": "The sole presence of one link to this narrator indicates he may be unknown even by the name of one (majhul al-ayn). This severely weakens the transmission chain's credibility."
+        },
+        {
+          "issue": "Report is mawquf (attributed to Ali, not to Prophet ﷺ)",
+          "impact": "This is a statement from the Companion Ali about historical events during his rule, not a hadith from the Prophet ﷺ. While such reports can be valuable for understanding Sahabi jurisprudence, they carry different evidentiary weight."
+        },
+        {
+          "issue": "Incomplete chain from book collector to Abdullah ibn Ubaid",
+          "impact": "The omission of narrators between the collection author and Abdullah ibn Ubaid suggests a discontinuity in the transmission."
+        },
+        {
+          "issue": "Transmission term 'an (عَنْ) from Majhul al-Hal to Companion",
+          "impact": "Ambiguous transmission term from an unknown narrator creates uncertainty about direct hearing."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Ali's conduct during the Battle of Basra",
+        "Treatment of civilian property in internal Islamic conflicts",
+        "Distinction between private and public treasury in war",
+        "Respect for non-combatants' property in civil warfare"
+      ]
+    },
+    {
+      "hadith_id": 3821,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "715",
+      "english_translation": "Narrated by Ali: He apportioned the fifth (khums) from what was contained in the camp of the people of Nahrawan and the people of Basra, and he did not claim anything else from their possessions.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Single transmission indicating Majhul al-Ayn characteristics"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (stopped at Companion Ali), not marfu'",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission",
+            "Incomplete chain missing narrators between book collector and Abdullah ibn Ubaid",
+            "Use of 'an (عَنْ) from unknown narrator creates transmission ambiguity"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission chain",
+          "impact": "Having only one narrator reporting from this person suggests he may be majhul al-ayn (completely unknown to hadith scholars). This is a critical weakness in the isnad."
+        },
+        {
+          "issue": "Report is mawquf (stopped at Companion Ali), not marfu' to the Prophet ﷺ",
+          "impact": "This is Ali's own statement about his conduct during internal conflict, not a prophetic hadith. Such reports reflect Sahabi jurisprudence and ijtihad."
+        },
+        {
+          "issue": "Incomplete chain from collection author to Abdullah ibn Ubaid",
+          "impact": "Missing intermediate narrators between the source and Abdullah ibn Ubaid indicate potential transmission discontinuity."
+        },
+        {
+          "issue": "Transmission term 'an (عَنْ) from Majhul al-Hal narrator to Companion",
+          "impact": "The use of this ambiguous term from an unreliable narrator creates significant uncertainty about the nature of transmission and whether direct hearing occurred."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Distribution of booty in civil conflicts",
+        "Fifth apportionment (khumus) in internal Islamic warfare",
+        "Ali's military campaigns at Nahrawan and Basra",
+        "Rules of spoils distribution in internal conflicts"
+      ]
+    },
+    {
+      "hadith_id": 3823,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "717",
+      "english_translation": "Narrated by Zayd ibn Ali: When the Imam is in a small number of troops, it is not obligatory upon him to fight the rebellious people. But if his companions number three hundred and some, equal to the people of Badr, then it is obligatory upon him and upon them to fight, and they are not excused from fighting. Indeed, from all deeds there is nothing better than their jihad.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Zayd ibn Ali",
+              "full_name": "Zayd ibn Ali ibn Abi Talib al-Hashimi",
+              "grade": "Thiqah",
+              "generation": "Second Generation/Taabi'",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Zayd al-Shahid",
+              "original_id": 0,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "121 or 122",
+              "birth_year": "39 AH",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "Second Generation",
+              "location": "Kufa/Khurasan",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (stopped at Zayd ibn Ali, not attributed to Prophet ﷺ)",
+            "No complete chain of narrators provided to Zayd ibn Ali",
+            "This is Zayd's juristic opinion, not a hadith from the Prophet ﷺ"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Report is mawquf (Zayd ibn Ali's statement, not marfu' to Prophet ﷺ)",
+          "impact": "This represents the juristic opinion of Zayd ibn Ali, not a statement from the Prophet ﷺ. While Zayd was knowledgeable and reliable, this carries less evidential weight than a hadith directly attributed to the Prophet ﷺ."
+        },
+        {
+          "issue": "No complete isnad chain provided to Zayd ibn Ali",
+          "impact": "The hadith collection does not include the narrators who transmitted this statement to the current collection. This represents a mursal-like disconnection in the transmission."
+        },
+        {
+          "issue": "Zayd ibn Ali was known for being a zahiri (literal) jurisprudent with particular views",
+          "impact": "His juristic opinions, while valuable, represent a specific school of thought and may not be universally accepted by all Islamic jurisprudents."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Conditions for fighting rebellious Muslims (baghi)",
+        "Minimum force requirement for fighting internal rebellion",
+        "Zayd ibn Ali's jurisprudential view on civil warfare",
+        "Comparison with the Battle of Badr in terms of troop numbers",
+        "Excellence of jihad in Islamic law"
+      ]
+    },
+    {
+      "hadith_id": 3825,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "719",
+      "english_translation": "Narrated by Ali: Whoever dies without having an imam dies a death of the period of ignorance (jahiliyyah), if the imam is just, pious, and God-fearing.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Single transmission indicating Majhul al-Ayn status"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (Ali's statement, not marfu' to Prophet ﷺ)",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission",
+            "Missing narrators from collection to Abdullah ibn Ubaid",
+            "Use of 'an (عَنْ) from unknown narrator to companion creates ambiguity"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission link",
+          "impact": "The single chain to this narrator strongly suggests he is majhul al-ayn (completely unknown to scholars). This severely compromises the reliability of the transmission."
+        },
+        {
+          "issue": "Report is mawquf (Ali's own statement, not from Prophet ﷺ)",
+          "impact": "This is Ali's juristic view about the obligation of following an imam, not a direct teaching from the Prophet ﷺ. While valuable for understanding Sahabi jurisprudence, it carries less evidentiary weight."
+        },
+        {
+          "issue": "Incomplete chain from collection author to Abdullah ibn Ubaid",
+          "impact": "The omission of intermediate narrators suggests a potential mursal-like disconnection in the transmission."
+        },
+        {
+          "issue": "Transmission term 'an (عَنْ) from Majhul al-Hal narrator to Companion",
+          "impact": "This ambiguous transmission term from an unknown narrator to a companion creates significant uncertainty about the directness of transmission and whether the narrator actually met the companion."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Obligation to have an imam",
+        "Death without an imam as death in ignorance (jahiliyyah)",
+        "Conditions for imam's legitimacy (justice, piety, God-consciousness)",
+        "Islamic political theory according to Ali ibn Abi Talib"
+      ]
+    },
+    {
+      "hadith_id": 3826,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "720",
+      "english_translation": "Narrated by Ali: It is the right of the imam to rule by what Allah has revealed and to act justly among the subjects. When he does this, it is the right of them to listen and obey, and to answer when called. And any imam who does not rule by what Allah has revealed, there is no obedience for him.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Single transmission link"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (Ali's statement, not marfu')",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission",
+            "Incomplete chain from book author to Abdullah ibn Ubaid",
+            "Ambiguous transmission term 'an from unknown narrator"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission chain",
+          "impact": "The single link to this narrator indicates he may be majhul al-ayn (completely unknown). This critically weakens the transmission chain."
+        },
+        {
+          "issue": "Report is mawquf (Ali's juristic statement, not from Prophet ﷺ)",
+          "impact": "This is Ali's exposition of principles regarding the imam's duties and subjects' obligations, not a hadith directly attributed to the Prophet ﷺ. While intellectually valuable, it represents a Companion's understanding rather than prophetic tradition."
+        },
+        {
+          "issue": "Incomplete transmission from collection to Abdullah ibn Ubaid",
+          "impact": "Missing intermediate narrators suggest a discontinuity in the chain (mursal-like structure)."
+        },
+        {
+          "issue": "Transmission term 'an (عَنْ) from Majhul al-Hal to Companion creates ambiguity",
+          "impact": "Uncertainty about whether the transmission was direct or indirect, and whether the narrator actually heard from or met Ali."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Imam's duties according to Islamic law",
+        "Obligation to rule by divine revelation",
+        "Justice in governance",
+        "Rights of subjects to obedience of legitimate imam",
+        "Conditions that void the obligation of obedience to imam",
+        "Political theory according to Ali ibn Abi Talib"
+      ]
+    },
+    {
+      "hadith_id": 3827,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "721",
+      "english_translation": "Narrated by Ali: The Messenger of Allah ﷺ said: Any governor who isolates himself from the needs of the people, Allah will isolate Himself from him on the Day of Resurrection.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Uthman",
+              "full_name": "Abdullah ibn Uthman ibn Attaa ibn Abi Muslim al-Khurasani",
+              "grade": "Da'if",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "Da'if narrator",
+                "Known for unreliability"
+              ],
+              "narrator_id": 5739,
+              "alternative_names": "Abu Muhammad al-Ramli",
+              "original_id": 4946,
+              "kunya": "Abu Muhammad",
+              "nisba": "al-Khurasani",
+              "nisba_ar": "الخراساني",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Da'if",
+              "tabaqat": "7",
+              "location": "Khurasan",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Ahmad ibn al-Nadr",
+              "full_name": "Ahmad ibn al-Nadr ibn Abd al-Wahhab al-Nisapuri",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [],
+              "narrator_id": 1336,
+              "alternative_names": "Abu al-Fadl al-Nisapuri",
+              "original_id": 425,
+              "kunya": "Abu al-Fadl",
+              "nisba": "al-Nisapuri",
+              "nisba_ar": "النيسابوري",
+              "death_year": "230",
+              "birth_year": "155",
+              "reliability_grade": "Thiqah",
+              "tabaqat": "6",
+              "location": "Nisapur",
+              "transmissionTermMeaning": "He narrated to us (direct hearing)"
+            },
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Limited transmission reports"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "From"
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Awthaq al-Nas",
+              "generation": "Prophet",
+              "transmissionTerm": "",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Ahmad, al-Mustafa",
+              "original_id": 0,
+              "kunya": "Abu al-Qasim",
+              "nisba": "al-Hashimi al-Qurashi",
+              "nisba_ar": "الهاشمي القرشي",
+              "death_year": "11",
+              "birth_year": "53 BH",
+              "reliability_grade": "Awthaq al-Nas",
+              "tabaqat": "Prophet",
+              "location": "Makkah/Madinah",
+              "transmissionTermMeaning": ""
+            }
+          ],
+          "chainIssues": [
+            "Abdullah ibn Uthman is classified as Da'if - opening narrator is weak",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with limited transmission",
+            "Transmission term 'an (عَنْ) from Abdullah ibn Ubaid to Ali introduces ambiguity"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narrator Abdullah ibn Uthman al-Khurasani is Da'if",
+          "impact": "The opening narrator in the chain is classified as weak by hadith scholars. This significantly undermines the reliability of the entire hadith. A Da'if narrator at the beginning generally makes the hadith weak."
+        },
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with limited transmission",
+          "impact": "His reliability is unknown to most scholars, creating a gap in the chain's credibility and introducing ambiguity about the transmission."
+        },
+        {
+          "issue": "Transmission term 'an (عَنْ) from Abdullah ibn Ubaid to Ali",
+          "impact": "While Abdullah ibn Ubaid appears to be from the Taabi' generation, using 'an suggests potential indirectness in the transmission, though given the time periods this may have been acceptable if he directly heard from Ali."
+        },
+        {
+          "issue": "Pattern of weak narration seen in multiple hadiths from this source",
+          "impact": "The same opening narrator (Abdullah ibn Uthman) appears in multiple hadiths in this collection, all marked as Da'if, suggesting systematic reliability issues in this transmission line."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Imam's accessibility to the people",
+        "Warning against governors isolating from public concerns",
+        "Divine punishment for negligent governors",
+        "Accountability of rulers on the Day of Judgment",
+        "Islamic principles of good governance"
+      ]
+    },
+    {
+      "hadith_id": 3829,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "723",
+      "english_translation": "Narrated by Ali: When highway robbers cut off the road, display weapons, but do not take money and do not kill a Muslim, then they are captured, they are imprisoned until they die - this is their banishment from the land. If they take money but do not kill, their hands and feet are cut off alternately. If they kill and take money, their hands and feet are cut off alternately and they are crucified until they die. If they repent before being captured, they must pay the money and the legal retaliation is applied to them, but they are not subjected to the prescribed punishment.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Single transmission indicating Majhul al-Ayn"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (Ali's juridical opinion, not marfu')",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission",
+            "Incomplete chain from collection to Abdullah ibn Ubaid",
+            "Use of 'an (عَنْ) from unknown narrator creates ambiguity"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission",
+          "impact": "The single link to this narrator suggests he may be majhul al-ayn (completely unknown). This severely compromises the chain's reliability."
+        },
+        {
+          "issue": "Report is mawquf (Ali's legal ruling, not from Prophet ﷺ)",
+          "impact": "This represents Ali's juristic interpretation of the legal punishment for highway robbery, not a direct hadith from the Prophet ﷺ. While Ali was a respected jurist, mawquf reports carry less evidentiary weight than marfu' hadiths."
+        },
+        {
+          "issue": "Incomplete chain from book collector to Abdullah ibn Ubaid",
+          "impact": "Missing intermediate narrators suggest a mursal-like discontinuity in the transmission."
+        },
+        {
+          "issue": "Complex legal ruling with detailed categorization suggests juristic interpretation",
+          "impact": "The detailed categorization of punishments based on specific actions (taking money, killing, repenting) reflects Ali's sophisticated legal reasoning rather than a simple hadith transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Punishment for highway robbery (hirabah)",
+        "Categories of punishment based on offense severity",
+        "Imprisonment as punishment for attempted highway robbery",
+        "Crucifixion for highway robbers who commit murder",
+        "Repentance before capture and its legal consequences",
+        "Islamic criminal law according to Ali ibn Abi Talib"
+      ]
+    },
+    {
+      "hadith_id": 3831,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "725",
+      "english_translation": "Narrated by Ali: The son is the nearest of the agnates (asaba), then the son of the son even if he descends. Then the father, then the grandfather even if he ascends. Then the brother from both parents, then the brother from the father. Then the son of the brother from both parents, then the son of the brother from the father. Then the uncle from both parents, then the uncle from the father. Then the son of the uncle from both parents, then the son of the uncle from the father. That is twelve men.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Single transmission"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (Ali's legal exposition, not marfu')",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission",
+            "Missing narrators from collection to Abdullah ibn Ubaid",
+            "Ambiguous transmission term 'an from unknown narrator"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission",
+          "impact": "The single link to this narrator indicates he may be majhul al-ayn (completely unknown to scholars). This critically weakens transmission credibility."
+        },
+        {
+          "issue": "Report is mawquf (Ali's jurisprudential exposition, not marfu')",
+          "impact": "This is Ali's detailed explanation of the order of inheritance in the agnate line (asaba), representing his juristic interpretation rather than a hadith from the Prophet ﷺ."
+        },
+        {
+          "issue": "Incomplete chain from book collector to Abdullah ibn Ubaid",
+          "impact": "Missing intermediate narrators suggest a mursal-like discontinuity."
+        },
+        {
+          "issue": "Detailed systematic exposition suggests compiled juristic rules",
+          "impact": "The ordered enumeration of twelve categories of agnates reflects Ali's systematic legal methodology in inheritance jurisprudence."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Order of agnate succession in Islamic inheritance",
+        "Priority of male descendants in agnate hierarchy",
+        "Ascending agnates (father, grandfather) in inheritance",
+        "Collateral males (brothers, uncles) in succession",
+        "Descendants of brothers in agnate line",
+        "Ali ibn Abi Talib's exposition of inheritance law"
+      ]
+    },
+    {
+      "hadith_id": 3832,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "726",
+      "english_translation": "Narrated by Ali: One daughter receives one-half, two daughters or more receive two-thirds. Granddaughters (daughters of the son) with one daughter of the deceased receive one-sixth as completion of two-thirds. Granddaughters have nothing with the direct heir daughter except if there is a brother with them who can make them agnates. One sister from both parents receives one-half, two sisters or more receive two-thirds. Sisters from the father along with sisters from both parents are positioned like granddaughters with direct heir daughters.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Single transmission"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (Ali's exposition, not marfu')",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission",
+            "Incomplete chain to Abdullah ibn Ubaid",
+            "Ambiguous transmission term 'an"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission",
+          "impact": "Single link to this narrator suggests he may be completely unknown (majhul al-ayn). This severely impacts transmission credibility."
+        },
+        {
+          "issue": "Report is mawquf (Ali's juristic exposition on women's inheritance)",
+          "impact": "This is Ali's detailed exposition of fixed portions and agnate provisions for female heirs, not a marfu' hadith from the Prophet ﷺ."
+        },
+        {
+          "issue": "Incomplete chain from collection to Abdullah ibn Ubaid",
+          "impact": "Missing narrators indicate mursal-like disconnection."
+        },
+        {
+          "issue": "Highly technical legal exposition suggests compiled jurisprudence",
+          "impact": "The detailed explanation of interactions between different categories of female heirs reflects Ali's sophisticated legal analysis."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Inheritance portions for daughters",
+        "Fixed portions (fara'id) for daughters in Islamic law",
+        "Granddaughters' inheritance when daughters exist",
+        "Sisters' inheritance portions in Islamic succession",
+        "Interaction between sisters from different parents",
+        "Ali ibn Abi Talib's jurisprudence on women's inheritance"
+      ]
+    },
+    {
+      "hadith_id": 3833,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "727",
+      "english_translation": "Narrated by Ali: Sisters with daughters are agnates (they inherit in the agnate portion when acting as agnates with daughters).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Single transmission"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (Ali's brief legal statement)",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission",
+            "Incomplete chain",
+            "Ambiguous transmission term 'an"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission",
+          "impact": "Single link suggests possible majhul al-ayn status, critically weakening transmission."
+        },
+        {
+          "issue": "Report is mawquf (Ali's juristic statement, not marfu')",
+          "impact": "This is Ali's brief legal pronouncement on the agnate status of sisters when daughters exist, not a hadith from the Prophet ﷺ."
+        },
+        {
+          "issue": "Incomplete chain to Abdullah ibn Ubaid",
+          "impact": "Missing narrators indicate potential mursal-like disconnection."
+        },
+        {
+          "issue": "Very brief statement may represent Ali's juristic maxim",
+          "impact": "The terseness of this report suggests it may be a recorded legal principle rather than a full hadith transmission."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Sisters' status as agnates with daughters",
+        "Transformation of fixed heirs into agnates",
+        "Sisters' inheritance when inheriting as agnates",
+        "Ali ibn Abi Talib's inheritance jurisprudence"
+      ]
+    },
+    {
+      "hadith_id": 3834,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "728",
+      "english_translation": "Narrated by Ali regarding a spouse and two parents: The spouse receives one-half, the mother receives one-third of what remains, and what remains after that is for the father.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Single transmission"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (Ali's ruling, not marfu')",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission",
+            "Incomplete chain to Abdullah ibn Ubaid",
+            "Ambiguous transmission term 'an"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission",
+          "impact": "Single link suggests possible majhul al-ayn status, severely compromising transmission credibility."
+        },
+        {
+          "issue": "Report is mawquf (Ali's specific legal ruling, not marfu')",
+          "impact": "This is Ali's juristic ruling for a specific inheritance scenario, not a hadith from the Prophet ﷺ. While valuable for understanding Sahabi jurisprudence, it carries less evidentiary weight."
+        },
+        {
+          "issue": "Incomplete chain from collection to Abdullah ibn Ubaid",
+          "impact": "Missing narrators indicate mursal-like disconnection in transmission."
+        },
+        {
+          "issue": "Specific hypothetical scenario suggests juristic problem-solving",
+          "impact": "The format 'in the case of [scenario]' suggests Ali's application of legal principles to specific factual situations."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Inheritance division with spouse and both parents",
+        "Spouse's portion in Islamic succession",
+        "Parents' shares when spouse is present",
+        "Mother's portion as fraction of remainder",
+        "Father's portion as agnate after fixed shares",
+        "Ali ibn Abi Talib's inheritance rulings"
+      ]
+    },
+    {
+      "hadith_id": 3835,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "729",
+      "english_translation": "Narrated by Ali regarding a woman (wife) and both parents: The woman receives one-quarter, the mother receives one-third of what remains, and what remains is for the father.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Single transmission"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (Ali's ruling, not marfu')",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission",
+            "Incomplete chain from collection to Abdullah ibn Ubaid",
+            "Ambiguous transmission term 'an from unknown narrator"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission",
+          "impact": "The single link to this narrator suggests he may be majhul al-ayn (completely unknown). This severely weakens transmission credibility."
+        },
+        {
+          "issue": "Report is mawquf (Ali's specific ruling, not marfu')",
+          "impact": "This is Ali's juristic ruling for a specific inheritance scenario, not a hadith from the Prophet ﷺ. While valuable for Sahabi jurisprudence, it carries less evidentiary weight."
+        },
+        {
+          "issue": "Incomplete chain from collection author to Abdullah ibn Ubaid",
+          "impact": "Missing narrators indicate mursal-like disconnection in transmission."
+        },
+        {
+          "issue": "Pattern of identical chain structure with Abdullah ibn Ubaid across multiple inheritance rulings",
+          "impact": "The consistency of this single transmission line for numerous inheritance rulings suggests these may be compiled materials rather than individual hadith transmissions."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Wife's inheritance with both parents",
+        "Distribution of inheritance between widow and parents",
+        "Mother's portion as fraction of remainder",
+        "Father's portion as agnate after fixed shares"
+      ]
+    },
+    {
+      "hadith_id": 3836,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "730",
+      "english_translation": "Narrated by Ali: A brother from the mother (half-brother from the mother) does not inherit with a child or a parent.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Single transmission"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (Ali's legal statement)",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission",
+            "Incomplete chain",
+            "Ambiguous transmission term 'an"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission",
+          "impact": "Single link suggests possible majhul al-ayn status, critically weakening transmission."
+        },
+        {
+          "issue": "Report is mawquf (Ali's brief legal ruling, not marfu')",
+          "impact": "This is Ali's statement about the inheritance blocking rules for half-brothers from the mother, not a hadith from the Prophet ﷺ."
+        },
+        {
+          "issue": "Incomplete chain from collection to Abdullah ibn Ubaid",
+          "impact": "Missing narrators indicate mursal-like disconnection."
+        },
+        {
+          "issue": "Very brief technical statement suggests compiled juristic rule",
+          "impact": "The concise formulation suggests this is a summarized legal principle from Ali's jurisprudence."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Inheritance blocking rules for half-siblings from mother",
+        "Half-brother from mother's exclusion from inheritance",
+        "Descendants' effect on half-sibling inheritance",
+        "Ascendants' effect on half-sibling inheritance"
+      ]
+    },
+    {
+      "hadith_id": 3837,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "731",
+      "english_translation": "Narrated by Ali: He did not practice inheritance sharing (tashrik), he practiced taxing the fixed portions (ta'il al-fara'id), he blocked the mother with two brothers, he did not block her with two sisters, he did not block her with one brother and one sister, and he did not block with sisters except if there is a brother with them.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Single transmission"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (Ali's juristic exposition)",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission",
+            "Incomplete chain",
+            "Ambiguous transmission term 'an"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission",
+          "impact": "Single link suggests possible majhul al-ayn status, critically weakening transmission."
+        },
+        {
+          "issue": "Report is mawquf (Ali's exposition of his inheritance methodology, not marfu')",
+          "impact": "This is a summary of Ali's jurisprudential approach and principles, not a hadith from the Prophet ﷺ. The content describes Ali's method of applying inheritance law."
+        },
+        {
+          "issue": "Incomplete chain from collection author to Abdullah ibn Ubaid",
+          "impact": "Missing narrators indicate mursal-like disconnection."
+        },
+        {
+          "issue": "Summary of juristic methodology rather than single ruling",
+          "impact": "The report summarizes Ali's overall approach to inheritance (rejecting sharing, practicing taxing of fixed portions, and specific blocking rules), suggesting this is a compiled methodology statement."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Ali's rejection of inheritance sharing (tashrik)",
+        "Ali's practice of taxing fixed portions (ta'il)",
+        "Mother blocking (hajb) by brothers",
+        "Mother not blocked by sisters alone",
+        "Sisters as agnates only with brother",
+        "Ali ibn Abi Talib's inheritance methodology"
+      ]
+    },
+    {
+      "hadith_id": 3838,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "732",
+      "english_translation": "Narrated by Ali: He did not increase the mother's portion beyond one-sixth when there is a child.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Single transmission"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (Ali's interpretation of mother's portion)",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission",
+            "Incomplete chain",
+            "Ambiguous transmission term 'an"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission",
+          "impact": "Single link suggests possible majhul al-ayn status, severely compromising transmission."
+        },
+        {
+          "issue": "Report is mawquf (Ali's juristic principle, not marfu')",
+          "impact": "This is Ali's specific interpretation of the mother's maximum portion when children exist, not a hadith from the Prophet ﷺ. This represents Ali's jurisprudential position."
+        },
+        {
+          "issue": "Incomplete chain from collection to Abdullah ibn Ubaid",
+          "impact": "Missing narrators indicate mursal-like disconnection."
+        },
+        {
+          "issue": "Specific juristic principle suggests interpretation from legal methodology",
+          "impact": "This statement reflects Ali's application of inheritance principles to determine the mother's maximum entitlement."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Mother's maximum portion in Islamic inheritance",
+        "Mother's portion limited to one-sixth with children",
+        "Ali's interpretation of mother's fixed share",
+        "Inheritance hierarchy with mother and children"
+      ]
+    },
+    {
+      "hadith_id": 3839,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "733",
+      "english_translation": "Narrated by Ali regarding a cousin when one of them is a brother from the mother: The brother from the mother receives one-sixth, and what remains between them is split equally (in halves).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Single transmission"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (Ali's ruling on specific scenario)",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission",
+            "Incomplete chain",
+            "Ambiguous transmission term 'an"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission",
+          "impact": "Single link suggests possible majhul al-ayn status, critically weakening transmission."
+        },
+        {
+          "issue": "Report is mawquf (Ali's ruling for specific scenario, not marfu')",
+          "impact": "This is Ali's juristic ruling for the particular case of a cousin and a half-brother from the mother, not a hadith from the Prophet ﷺ."
+        },
+        {
+          "issue": "Incomplete chain from collection author to Abdullah ibn Ubaid",
+          "impact": "Missing narrators indicate mursal-like disconnection."
+        },
+        {
+          "issue": "Specific hypothetical case suggests problem-based jurisprudence",
+          "impact": "The format 'in the case of [scenario]' indicates Ali's application of general principles to a specific factual situation."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Inheritance when cousin and half-brother from mother coexist",
+        "Half-brother from mother's fixed portion (sixth)",
+        "Remaining distribution between cousin and half-brother",
+        "Ali's solution to complex inheritance scenarios"
+      ]
+    },
+    {
+      "hadith_id": 3840,
+      "book_id": 4,
+      "book_name_ar": "كتاب رقم 4",
+      "book_name_en": "Book No. 4",
+      "author_name_ar": "مؤلف غير معروف",
+      "author_name_en": "Unknown Author",
+      "hadith_number": "734",
+      "english_translation": "Narrated by Ali: He practiced taxing the fixed portions. Ibn al-Kawwa asked him while he was delivering a sermon on the minbar regarding two daughters, both parents, and a wife: Her eighth became a ninth.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abdullah ibn Ubaid al-Lythi",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr ibn Qatadah ibn Sa'd ibn Amir ibn Jundub al-Lythi",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul al-Hal",
+                "Single transmission"
+              ],
+              "narrator_id": 5722,
+              "alternative_names": "Abu Hashim al-Makki",
+              "original_id": 4929,
+              "kunya": "Abu Hashim",
+              "nisba": "al-Lythi",
+              "nisba_ar": "الليثي",
+              "death_year": "Unknown",
+              "birth_year": "Unknown",
+              "reliability_grade": "Majhul al-Hal",
+              "tabaqat": "4",
+              "location": "Makkah",
+              "transmissionTermMeaning": "From (could be direct or indirect)"
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim",
+              "grade": "Thiqah Thabt",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [],
+              "narrator_id": 0,
+              "alternative_names": "Amir al-Mu'minin",
+              "original_id": 0,
+              "kunya": "Abu al-Hasan",
+              "nisba": "al-Hashimi",
+              "nisba_ar": "الهاشمي",
+              "death_year": "40",
+              "birth_year": "22 BH",
+              "reliability_grade": "Thiqah Thabt",
+              "tabaqat": "Companion",
+              "location": "Madinah/Kufa",
+              "transmissionTermMeaning": "He said"
+            }
+          ],
+          "chainIssues": [
+            "Report is mawquf (Ali's ruling with specific event)",
+            "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with single transmission",
+            "Incomplete chain",
+            "Ambiguous transmission term 'an"
+          ]
+        }
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Ubaid al-Lythi is Majhul al-Hal with only single transmission",
+          "impact": "Single link suggests possible majhul al-ayn status, critically weakening transmission."
+        },
+        {
+          "issue": "Report is mawquf (Ali's ruling with incident detail, not marfu')",
+          "impact": "This is an anecdote about Ali's jurisprudential practice (taxing fixed portions) with a specific case he ruled upon, not a hadith from the Prophet ﷺ."
+        },
+        {
+          "issue": "Incomplete chain from collection author to Abdullah ibn Ubaid",
+          "impact": "Missing narrators indicate mursal-like disconnection."
+        },
+        {
+          "issue": "Narrative with named questioner (Ibn al-Kawwa) and specific context (sermon/minbar)",
+          "impact": "The narrative details (minbar setting, questioner name, wife's portion changing from eighth to ninth) suggest this is a recorded anecdote of Ali's jurisprudential practice in action."
+        }
+      ],
+      "Classical Grade": [
+        "Daif"
+      ],
+      "IISGrade": "Disconnections But All Narrators Are Ok",
+      "Topics": [
+        "Ali's method of taxing the fixed portions (ta'il al-fara'id)",
+        "Inheritance scenario with two daughters, both parents, and wife",
+        "Wife's portion changing due to taxing fixed portions",
+        "Incident of Ibn al-Kawwa questioning Ali on minbar",
+        "Practical application of Ali's inheritance jurisprudence"
+      ]
+    }
+  ]
+}
